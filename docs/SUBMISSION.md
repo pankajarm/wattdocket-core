@@ -94,7 +94,7 @@ the card says "not available" instead of filling the blank.
 - 198 permit documents listed, 185 readable; 68 records with quoted
   conditions.
 - 234 reported annual observations across 73 reporting entities.
-- 481 Python tests pass (1 skipped) and 77 web tests, including the invariants
+- 650 Python tests pass (1 skipped) and 95 web tests, including the invariants
   that keep the model away from arithmetic.
 
 ## What we learned
