@@ -1,0 +1,42 @@
+{
+ "as_of": "2026-10-29T02:39:27Z",
+ "calc_version": "wattdocket@0.1.0",
+ "receipts": [
+  {
+   "publisher": "US EPA",
+   "dataset": "eGRID 2023 rev2",
+   "url": "https://www.epa.gov/system/files/documents/2025-06/egrid2023_data_rev2.xlsx",
+   "sha256": "895cd81dd8662406189ad8adf5a2578dcb362cdb5cff7cca81b10ee6bd2447c6"
+  }
+ ],
+ "subregion": "SRMW",
+ "subregion_name": "SERC Midwest",
+ "grid_rate_lb_per_mwh": 1248.582,
+ "intensity_state": "PROVISIONAL",
+ "factor_set_id": "us-avg-2023.1",
+ "estimate": {
+  "annual_mwh": 142350.0,
+  "annual_tonnes_co2e": 80619.5,
+  "p10_tonnes": 55813.5,
+  "p90_tonnes": 99224.0,
+  "band_ratio": 1.778,
+  "badge": "ESTIMATED",
+  "capacity_basis": "UNKNOWN",
+  "drivers": [
+   "capacity_basis_unknown",
+   "utilization_prior"
+  ],
+  "assumptions": {
+   "capacity_mw": 25.0,
+   "capacity_basis": "UNKNOWN",
+   "utilization": 0.65,
+   "utilization_source": "utilization_from_prior",
+   "pue": 1.0,
+   "pue_source": "pue_unknown_basis",
+   "hours": 8760,
+   "grid_rate_lb_per_mwh": 1248.582,
+   "factor_set_id": "us-avg-2023.1",
+   "mass_unit": "metric_tonne"
+  }
+ }
+}

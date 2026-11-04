@@ -1,0 +1,915 @@
+Title: 74107_DC_Permit.pdf
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25823/638628737610070000
+
+Published Time: Wed, 25 Sep 2024 14:09:21 GMT
+
+Number of Pages: 26
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 FAX (804) 698-4178 www.deq.virginia.gov
+> Matthew J. Strickler David K. Paylor Secretary of Natural and Historic Resources Director (804) 698-4000 Thomas A. Faha Regional Director
+
+July 26, 2021 
+
+Mr. Robert J. Rosenberger 
+
+Executive Vice President Operations 
+
+Mr. Christopher Sweet 
+
+EH&S Director 
+
+Cloud HQ 
+
+21955 Loudoun County Parkway 
+
+Ashburn, Virginia 20147 
+
+Location: Prince William County 
+
+Registration No.: 74107 
+
+Dear Messrs. Rosenberger and Sweet: 
+
+Attached is an administrative amendment to your new source review permit dated August 24, 2020 to construct and operate a data center in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. Permit changes are reflected in the equipment list on page 3 and throughout the permit for the ownership name change. This amended permit document supersedes your permit document dated August 24, 2020. 
+
+The Department of Environmental Quality (DEQ) deemed the application complete on June 22, 2021 and has determined that the application meets the requirements of 9 VAC 5-80-1270 A for an administrative amendment to a new source review permit. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Abteen Ventures LLC, Bourzou Ventures LLC, and Manuchehr Ventures LLC of the responsibility to comply with all other local, state, and federal permit regulations. Messrs. Robert J. Rosenberger and Christopher Sweet July 26, 2021 Page 2 
+
+TAF/JAW/KD/74107mNSR(2021-07-26) Attachment: Permit 
+
+The proposed emergency diesel engine gen-sets may be subject to the requirements of 40 CFR Part 60, New Source Performance Standards (NSPS) Subpart IIII – Standards of Performance for Stationary Compression Ignition Internal Combustion Engines and 40 CFR Part 63, National Emission Standards for Hazardous Air Pollutants (MACT) Subpart ZZZZ – National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator, you are also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at  www.ecfr.gov , Title 40, Part 60 and 63. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+David K. Paylor, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Katie DeVoss at (703) 583-3861 or via e-mail at katie.devoss@deq.virginia.gov. 
+
+Sincerely, 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 FAX (804) 698-4178 www.deq.virginia.gov
+> Matthew J. Strickler David K. Paylor Secretary of Natural and Historic Resources Director (804) 698-4000 Thomas A. Faha Regional Director
+
+Permit consists of 22 pages (w/o the attachment). Permit Conditions 1 to 36. Attachment: Source Testing Report Format 
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This amended permit document supersedes your permit document dated August 24, 2020. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Abteen Ventures LLC (MCC1) 
+
+Bourzou Ventures LLC (MCC2) 
+
+Manuchehr Ventures LLC (MCC6) 
+
+1212 New York Avenue NW, Suite 1000 
+
+Washington, DC 20005 
+
+Registration No.: 74107 
+
+is authorized to construct and operate 
+
+emergency diesel engine generator sets (gen-sets) 
+
+located at 
+
+MCC1 – 10880 Airman Avenue 
+
+MCC2 – 10100 Harry J. Parrish Boulevard 
+
+MCC6 – 10901 Airman Avenue 
+
+Manassas, VA 20110 
+
+in accordance with the Conditions of this permit. 
+
+Approved on August 24, 2020. 
+
+Amended on: July 26, 2021. 
+
+for 
+
+Thomas A. Faha 
+
+Regional Director Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 2 
+
+INTRODUCTION 
+
+This permit approval is based on and combines permit terms and conditions in accordance with 9 VAC 5-80-1255 from the following permit approvals and the respective permit applications:         
+
+> Permit Program:
+> Approv al/Amendment Date
+> Application
+> Signature Date
+> Application Additional Information
+> Received Date
+> Minor NSR: December 8, 2016 June 22, 2016 August 2, 2016
+> Minor NSR Significant Amendment: June 14, 2017 April 28, 2017 May 3, 2017
+> Minor NSR Permit: May 3, 2019 December 17, 2018
+> December 26, 2018
+> January 4, 2019
+> January 7, 2019
+> January 29, 2019
+> February 27, 2019
+> March 5, 2019
+> March 20, 2019
+> April 25, 2019
+> Minor NSR Permit: August 24, 2020 April 12, 2020
+> May 27, 2020
+> June 3, 2020
+> June 24, 2020
+> Minor NSR Administrative Amendment: July 26, 2021 June 21, 2021 June 22, 2021
+
+Any changes in the permit application specifications or any existing facilities, which alter the impact of the facility on air quality, may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-20 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. 
+
+When identical conditions on approval for an emission unit or units are combined, the effective date listed in this permit does not alter the prior effective dates for any such conditions as issued in a previous permit approval. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 3 
+
+Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 
+
+Equipment List – Equipment at this facility subject to permit requirements of 9 VAC 5-80-1100 et. seq. consists of: 
+
+Equ ipment to be Constructed at MCC6 :
+
+Reference 
+
+No.  Equipment  Description 
+
+Rated 
+
+Capacity 
+
+(Standby) 
+
+Delegated 
+
+Federal 
+
+Requirements 
+
+Original Permit 
+
+Date 
+
+66 through 101 
+
+Caterpillar model C175-16 diesel engine driven emergency gen-sets (36 units) 
+
+3,000 ekW 
+
+4,423 bhp 
+
+(each unit) 
+
+None  August 24, 2020 
+
+102 and 103  Caterpillar model 3512C diesel engine driven emergency gen-sets (2 units) 
+
+1,750 ekW 
+
+2,584 bhp 
+
+(each unit) 
+
+None 
+
+August 24, 2020, amended July 26, 2021 
+
+Equipment previously permitted at MCC1: 
+
+Reference 
+
+No.  Equipment Description 
+
+Rated 
+
+Capacity 
+
+(Standby) 
+
+Delegated 
+
+Federal 
+
+Requirements 
+
+Original Permit 
+
+Date 
+
+1S 
+
+Cummins model QSK50-DQGAF emergency diesel engine gen-set 
+
+(1 unit) 
+
+1,500 ekW 
+
+2,220 bhp  None 
+
+December 8, 2016, amended June 14, 2017 
+
+2 through 29 
+
+Cummins model QSK78-DQLF emergency diesel engine gen-sets 
+
+(28 units) 
+
+2,750 ekW 
+
+4,060 bhp 
+
+(each unit) 
+
+None 
+
+December 8, 2016, amended June 14, 2017 
+
+Equipment  previously permitted at  MCC2: 
+
+Reference 
+
+No.  Equipment Description 
+
+Rated 
+
+Capacity 
+
+(Standby) 
+
+Delegated 
+
+Federal 
+
+Requirements 
+
+Original Permit 
+
+Date 
+
+30 through 65 
+
+Caterpillar model C175-16 emergency diesel engine gen-sets 
+
+(36 units) 
+
+3,000 ekW 
+
+4,423 bhp 
+
+(each unit) 
+
+None  May 3, 2019 
+
+The specifications included in the tables above are for informational purposes only and do not form enforceable terms or conditions of the permit. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 4 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from each emergency diesel engine gen-set shall be controlled by the following: 
+
+a. Electronic fuel injection, turbocharged engines, and aftercoolers shall control nitrogen oxides (NO X) emissions from the emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 103). The permittee shall maintain documentation that demonstrates the control devices have been installed on each emergency diesel engine gen-set. 
+
+b. Carbon monoxide (CO) emissions, particulate matter (PM 10 /PM 2.5 ) emissions, volatile organic compounds (VOC) emissions, nitrogen oxides (NO X) emissions, and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 103) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the emergency diesel engine gen-sets. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+2. Monitoring –
+
+a. Fuel Flow: Each emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103) shall be equipped with a device to continuously measure and record individual fuel consumption (in gallons) for each engine gen-set. 
+
+b. Engine Operating Hours: Each emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103) shall be equipped with a non-resettable hour meter which measures the duration of time that each engine gen-set is operated. 
+
+Each monitoring device (as required in a. and b. above) shall be observed by the permittee with a frequency of not less than once each day the emergency diesel engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the DEQ’s Northern Regional Office (NRO). 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the engine gen-sets are operating. 
+
+(9 VAC 5-80-1180 D) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 5 
+
+OPERATING/EMISSION LIMITATIONS 
+
+3. Operation of the Engine Gen-Sets – The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103) and control device according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and does not increase air emissions. 
+
+(9 VAC 5-80-1180) 
+
+4. Operating Limitations (Ozone Season) – No emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103) shall be operated for scheduled maintenance, readiness testing or operational training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30. The permittee may petition the DEQ’s NRO Air Compliance Manager for exceptions to this requirement, with approvals made on a case-by-case basis. 
+
+(9 VAC 5-80-1180) 
+
+5. Operating Limitations (Ozone Season) Integration Operational Period – During the integration operational period of each diesel engine-gen-set (Ref. Nos. 66 through 103), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality index (AQI) for ozone as published on the AirNow website (https://airnow.gov ) for Northern Virginia for that day is less than or equal to 100. In the event that AirNow-EnviroFlash ( www.enviroflash.info ) issues an Air Alert for Northern Virginia for a day which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9 VAC 5-80-1180) 
+
+6. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. 1S, 2 through 103) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 6 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For unscheduled maintenance, testing, and operational training. 
+
+d. For scheduled maintenance and readiness testing. 
+
+e. For the integration operational period which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. 
+
+Total emissions for any annual period, calculated as the sum of all emissions from operations under the scenarios above, shall not exceed the limits stated in Conditions 14, 16, and 18 as applicable. 
+
+(9 VAC 5-80-1180) 
+
+7. Operating Hours – Each individual emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103) shall not operate more than 20 hours per year for scheduled maintenance and readiness testing, and more than 500 hours per year for all purposes (as provided in Condition 6) combined. 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9 VAC 5-80-1180) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 7 
+
+8. Fuel Specification – The approved fuel for the emergency diesel engine gen-sets (Ref. 1S, 2 through 103) is diesel fuel. The diesel fuel shall meet the American Society for Testing and Materials (ASTM) D975 specification for Grade No. 1-D S15 or Grade No. 2-D S15 and have a maximum sulfur content of 15 ppm, per shipment. A change in the fuel may require a permit to modify and operate. (9 VAC 5-80-1180) 
+
+9. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; and 
+
+d. A statement that the diesel fuel: 
+
+i. complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or 
+
+ii. has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee must obtain approval from the Air Compliance Manager of the DEQ’s NRO, if other documentation will be used to certify the diesel fuel type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ may be used to determine compliance with the fuel specifications stipulated in Condition 8. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. 
+
+(9 VAC 5-80-1180) 
+
+10. Diesel Fuel Throughput Limit at MCC1 – The Cummins model QSK50-DQGAF (Ref. No. 1S) emergency diesel engine gen-set and the twenty-eight (28) Cummins model QSK78-DQLF (Ref. Nos. 2 through 29) emergency diesel engine gen-sets combined shall consume no more than 180,638 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9 VAC 5-80-1180) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 8 
+
+11. Diesel Fuel Throughput Limit at MCC2 – The thirty-six (36) Caterpillar model C175-16 (Ref. Nos. 30 through 65) emergency diesel engine gen-sets combined shall consume no more than 248,385 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9 VAC 5-80-1180) 
+
+12. Diesel Fuel Throughput Limit at MCC6 – The thirty-six (36) Caterpillar model C175-16 (Ref. Nos. 66 through 101) and two (2) Caterpillar model 3512C (Ref. Nos. 102 and 103) emergency diesel engine gen-sets combined shall consume no more than 262,490 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9 VAC 5-80-1180) 
+
+EMISSION LIMITS 
+
+13. Emission Limits (Hourly) at MCC1 – Emissions from the operation of the emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 29) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Cummins  model 
+
+QSK50 -DQGAF 
+
+(Ref. No. 1S )
+
+Cummins  model  QSK78 -DQLF 
+
+(each unit) 
+
+(Ref. Nos. 2 through 29 )          
+
+> Nitrogen Oxides (as NO 2)29.37 lbs/hr 53.70.lbs/hr
+> Carbon Monoxide (CO) 9.58 lbs/hr 7.70 lbs/hr
+> Volatile Organic Compounds (VOC) 0.87 lbs/hr 2.18 lbs/hr
+> Particulate Matter (PM 10 )0.48 lbs/hr 0.90 lbs/hr
+> Particulate Matter (PM 2.5 )0.48 lbs/hr 0.90 lbs/hr
+
+Compliance with these pollutant emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 9 
+
+14. Emission Limits (Annual) at MCC1 – Emissions from the combined operation of the 29 Cummins emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 29) shall not exceed the limits specified below: 
+
+Pollutant 
+
+All Operations  of 29 
+
+emergency diesel engine 
+
+gen -sets  at MCC1 
+
+(Ref. Nos.  1S, 2 through 29 )
+
+Scheduled  Maintenance  Checks/ 
+
+Readiness Testing 1 of 29 
+
+emergency diesel engine gen -sets 
+
+(Ref. Nos.  1S, 2 through 29)           
+
+> Nitrogen Oxides (as NO 2)26.02 tpy 8.77 tpy
+> Carbon Monoxide (CO) 9.49 tpy 2.76 tpy
+> Volatile Organic Compounds (VOC) 2.21 tpy 0.27 tpy
+> Particulate Matter (PM 10 )0.47 tpy 0.15 tpy
+> Particulate Matter (PM 2.5 )0.47 tpy 0.15 tpy
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions 1, 2, 8 and 10. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+15. Emission Limits (Hourly) at MCC2 – Emissions from the operation of the emergency engine gen-sets (Ref. Nos. 30 through 65) shall not exceed the limits specified below: 
+
+Pollutant  Caterpillar  model  C175 -16 
+
+(each unit)  (Ref. Nos. 30 through 65)      
+
+> Nitrogen Oxides (as NO 2)58.51 lb/hr
+> Carbon Monoxide (CO) 7.61 lb/hr
+> Volatile Organic Compounds (VOC) 0.85 lb/hr
+> Particulate Matter (PM 10 )0.59 lb/hr
+> Particulate Matter (PM 2.5 )0.59 lb/hr
+
+Compliance with these pollutant emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260)  
+
+> 1This limit does not include initial (one-time) commissioning, unplanned maintenance, manufacturer recall updates and repairs. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 10
+
+16. Emission Limits (Annual) at MCC2 – Emissions from the operation of the emergency engine gen-sets (Ref. Nos. 30 through 65) shall not exceed the limits specified below: 
+
+Pollutant 
+
+All Operations  of 36 emergency 
+
+diesel engine  gen -sets  at MCC2 
+
+(Ref. Nos. 30 through 65) 
+
+Scheduled  Maintenance 
+
+Checks/Readiness Testing 2 of 
+
+36 e mergency diesel engine 
+
+gen -sets 
+
+(Ref. Nos. 30 through 65)           
+
+> Nitrogen Oxides (as NO 2)35.68 tpy 21.07 tpy
+> Carbon Monoxide (CO) 11.15 tpy 2.74 tpy
+> Volatile Organic Compounds (VOC) 2.11 tpy 0.31 tpy
+> Particulate Matter (PM 10 )0.94 tpy 0.14 tpy
+> Particulate Matter (PM 2.5 )0.94 tpy 0.14 tpy
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions 1, 2, 8 and 11. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+17. Emission Limits (Hourly) at MCC6 – Emissions from the operation of the emergency engine gen-sets (Ref. Nos. 66 through 103) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar model  C175 -16 
+
+(each unit) 
+
+(Ref. Nos. 66 through 101 )
+
+Caterpillar model 3512C 
+
+(each unit) 
+
+(Ref. Nos. 102 and 103)           
+
+> Nitrogen Oxides (as NO 2)58.51 lb/hr 34.18 lb/hr
+> Carbon Monoxide (CO) 7.61 lb/hr 5.88 lb/hr
+> Volatile Organic Compounds (VOC) 0.85 lb/hr 0.89 lb/hr
+> Particulate Matter (PM 10 )0.59 lb/hr 0.55 lb/hr
+> Particulate Matter (PM 2.5 )0.59 lb/hr 0.55 lb/hr
+
+Compliance with these pollutant emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260)  
+
+> 2This limit does not include initial (one-time) commissioning, unplanned maintenance, manufacturer recall updates and repairs. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 11
+
+18. Emission Limits (Annual) at MCC6 – Emissions from the operation of the emergency engine gen-sets (Ref. Nos. 66 through 103) shall not exceed the limits specified below: 
+
+Pollutant 
+
+All Operations  of 38 emergency 
+
+diesel engine gen -sets at MCC6 
+
+(Ref. Nos. 66 through 103) 
+
+Scheduled  Maintenance 
+
+Checks/Readiness Testing 3
+
+of 36 emergency diesel 
+
+engine gen -sets at MCC6 
+
+(Ref. Nos. 66 through 103 )          
+
+> Nitrogen Oxides (as NO 2)37.08 tpy 21.75 tpy
+> Carbon Monoxide (CO) 15.86 tpy 2.86 tpy
+> Volatile Organic Compounds (VOC) 3.40 tpy 0.33 tpy
+> Particulate Matter (PM 10 )1.20 tpy 0.15 tpy
+> Particulate Matter (PM 2.5 )1.20 tpy 0.15 tpy
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions 1, 2, 8 and 12. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+19. Visible Emission Limit – Visible emissions from each emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103) shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup and shutdown. 
+
+During startup and shutdown, visible emissions from each engine gen-set (Ref. Nos. 1S, 2 through 103) shall not exceed 10% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). (9 VAC 5-80-1180, 9 VAC 5-50-260 and 9 VAC 5-170-160) 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+20. Stack Tests – Initial performance tests shall be conducted on two (2) of the permitted Caterpillar model C175-16 emergency diesel engine gen-sets (Ref. Nos. 30 through 65) for nitrogen oxides (as NO 2) using EPA Reference Method 7 or 7E and carbon monoxide (CO) using EPA Reference Method 10 or 10A to determine compliance with the respective emission limits contained in Condition 15.  
+
+> 3This limit does not include initial (one-time) commissioning, unplanned maintenance, manufacturer recall updates and repairs. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 12
+
+a. Emissions testing for each selected emergency engine gen-set shall consist of three one-hour test runs under load. The average of the three runs shall be reported as the short-term emission rate for that emergency engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency engine gen-sets to demonstrate compliance with the NO X and CO emission limits specified in Condition 15. Testing shall be conducted on the two Caterpillar model C175-16 emergency engine gen-sets operating at ≥90 percent of their rated capacity (3,000 kWe), unless multiple load band testing is approved by the DEQ; 
+
+c. Recorded emergency engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; and 
+
+ii. Fuel consumption and fuel sulfur content of the fuel oil. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. In no case shall this period exceed 30 days. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9 VAC 5-50-30; 
+
+e. The details of the tests are to be arranged with the Air Compliance Manager of the DEQ’s NRO. The permittee shall submit the test protocol to the Air Compliance Manager of the DEQ’s NRO at least thirty days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Air Compliance Manager of the DEQ’s NRO in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two copies, one paper copy and one on removable electronic media, of the test results shall be submitted to the Air Compliance Manager of the DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9 VAC 5-50-30, 9 VAC 5-80-1200, and 9 VAC 5-50-410) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 13 
+
+21. Stack Tests – Initial performance tests shall be conducted on one (1) of the permitted Caterpillar model C175-16 emergency diesel engine gen-sets (Ref. Nos. 30 through 65) for filterable particulate matter, using EPA Reference Method 5 or 5A, and condensable particulate matter, using EPA Reference Method 202. 
+
+a. Testing shall be conducted on the Caterpillar model C175-16 emergency engine gen-set operating at 25 percent (plus or minus 5 percent) of its rated capacity, unless multiple load band testing is approved by the DEQ; 
+
+b. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. If this deadline falls within the ozone season (May 1 through September 30) the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9 VAC 5-50-30 and 9 VAC 5-60-30, and the test methods and procedures contained in each applicable section or subpart listed in 9 VAC 5-50-410 and 9 VAC 5-60-70; 
+
+c. The details of the tests are to be arranged with the Air Compliance Manager of the DEQ’s NRO. The permittee shall submit the test protocol to the Air Compliance Manager of the DEQ’s NRO at least thirty days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+d. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Air Compliance Manager of the DEQ’s NRO in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+e. Two copies, one paper copy and one on removable electronic media, of the test results shall be submitted to the Air Compliance Manager of the DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+For lab testing only (not field testing): Samples taken as required by this permit shall be analyzed in accordance with 1 VAC 30-46, Accreditation for Commercial Environmental Laboratories. 
+
+(9 VAC 5-50-30, 9 VAC 5-80-1200, and 9 VAC 5-50-410) 
+
+22. Stack Tests – Initial performance tests shall be conducted on two (2) of the permitted Caterpillar model C175-16 emergency diesel engine gen-sets (Ref. Nos. 66 through 101) for nitrogen oxides (as NO 2) using EPA Reference Method 7 or 7E and carbon monoxide (CO) using EPA Reference Method 10 or 10A to determine compliance with the respective emission limits contained in Condition 17. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 14 
+
+a. Emissions testing for each selected emergency engine gen-set shall consist of three one-hour test runs under load. The average of the three runs shall be reported as the short-term emission rate for that emergency engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency engine gen-sets to demonstrate compliance with the NO X and CO emission limits specified in Condition 17. Testing shall be conducted on the two Caterpillar model C175-16 emergency engine gen-sets operating at ≥90 percent of their rated capacity (3,000 ekW), unless multiple load band testing is approved by the DEQ; 
+
+c. Recorded emergency engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; and 
+
+ii. Fuel consumption and fuel sulfur content of the fuel oil. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. In no case shall this period exceed 30 days. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9 VAC 5-50-30; 
+
+e. The details of the tests are to be arranged with the Air Compliance Manager of the DEQ’s NRO. The permittee shall submit the test protocol to the Air Compliance Manager of the DEQ’s NRO at least thirty days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Air Compliance Manager of the DEQ’s NRO in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two copies, one paper copy and one on removable electronic media, of the test results shall be submitted to the Air Compliance Manager of the DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9 VAC 5-50-30, 9 VAC 5-80-1200, and 9 VAC 5-50-410) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 15 
+
+23. Visible Emissions Evaluation – Concurrent with the initial performance tests, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the selected emergency diesel engine gen-sets selected for the stack tests of Conditions 20, 21, and 22. The details of the tests shall be arranged with the Air Compliance Manager of the DEQ’s NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Air Compliance Manager of the DEQ’s NRO shall be notified in writing, within seven days, and visible emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be conducted under the same conditions (as possible) as the initial performance tests. 
+
+b. Two copies of the test result (one hard copy and one on electronic media) shall be submitted to the Air Compliance Manager of the DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9 VAC 5-50-30 and 9 VAC 5-80-1200) 
+
+24. Facility Construction – The emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 103) shall be constructed so as to allow for emissions testing upon reasonable notice, using appropriate methods. Sampling ports shall be provided when requested at the appropriate locations in accordance with EPA Reference Method 1 (reference 40 CFR Part 60, Appendix A). In addition, safe sampling platforms and access shall be provided. 
+
+(9 VAC 5-50-30 F and 9 VAC 5-80-1180) 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+25. Emission Testing/Visible Emissions Evaluation – Upon request by the DEQ, the permittee shall conduct stack tests and/or visible emission evaluations of the emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 103) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Air Compliance Manager of the DEQ’s NRO. (9 VAC 5-50-30 G and 9 VAC 5-80-1200) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 16 
+
+RECORDS 
+
+26. On-Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Air Compliance Manager of the DEQ’s NRO. These records shall include, but are not limited to: 
+
+a. Documentation from the manufacturer that each emergency engine gen-set (Ref. Nos. 1S, 2 through 103) is certified to meet the EPA Tier 2 emission standards; 
+
+b. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine-gen-set (Ref. Nos. 1S, 2 through 103); 
+
+c. A monthly log of the monitoring device observations, as required by Condition 2; 
+
+d. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103); 
+
+e. A monthly summary table for each emergency engine gen-set (Ref. 1S, 2 through 103) to include: 
+
+i. Reasons for operating as defined in Condition 6, including, but not limited to, the date, cause of operation, cause of the emergency, and the ISO-declared emergency notification; 
+
+ii. Engine hours – total and subtotals for each reason for operation; and 
+
+iii. Fuel consumption; 
+
+f. All fuel supplier certifications, as required per Condition 8; 
+
+g. Monthly and annual hours of operation of each emergency engine gen-set (Ref. Nos. 1S, 2 through 103), for purposes of scheduled maintenance checks/readiness testing, calculated monthly as the sum of each consecutive 12-month period; 
+
+h. Monthly and annual hours of operation (all purposes) of each emergency engine gen-set (Ref. Nos. 1S, 2 through 103), calculated monthly as the sum of each consecutive 12-month period; 
+
+i. Daily and annual fuel consumption of each emergency diesel engine gen-set (Ref. Nos. 1S, 2 through 103), for all purposes, with annual fuel consumption calculated daily as the sum of each consecutive 365-day period. Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 17 
+
+j. Daily and annual fuel consumption for the combined operation of the twenty-nine (29) emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 29) at MCC1, with annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the throughput limitation specified in Condition 10. 
+
+k. Daily and annual fuel consumption for the combined operation of the thirty-six (36) emergency diesel engine gen-sets (Ref. Nos. 30 through 65) at MCC2, with annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the throughput limitation specified in Condition 11. 
+
+l. Daily and annual fuel consumption for the combined operation of the thirty-eight (38) emergency diesel engine gen-sets (Ref. Nos. 66 through 103) at MCC6, with annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the throughput limitation specified in Condition 12. 
+
+m. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the combined operation of the twenty-nine (29) emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 29) at MCC1, with annual emissions calculated daily as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition 14. 
+
+n. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the combined operation of the thirty-six (36) emergency diesel engine gen-sets (Ref. Nos. 30 through 65) at MCC2, with annual emissions calculated daily as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition 16. 
+
+o. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the combined operation of the thirty-eight (38) emergency diesel engine gen-sets (Ref. Nos. 66 through 103) at MCC6, with annual emissions calculated daily as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition 18. 
+
+p. Records for emergency diesel engine gen-set operations (Ref. Nos. 1S, 2 through 103), as necessary, to demonstrate compliance with the operating limitations of Condition 4, which includes but is not limited to: times, dates, and reasons for operation of each emergency diesel engine gen-set that was operating between May 1 and September 30. 
+
+q. To verify compliance with Condition 5, maintain records of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that an emergency diesel engine gen-set operated during the integration operational period; Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 18 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that the emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by AirNow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours and duration. 
+
+r. Results of all stack tests, and VEEs. 
+
+s. Scheduled and unscheduled maintenance and operator training. 
+
+t. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 103). 
+
+Compliance for the consecutive 12-month period (as applicable for the items above) shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+Compliance for the consecutive 365-day period (as applicable for the items above) shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years, unless otherwise noted. (9 VAC 5-80-1180 and 9 VAC 5-50-50) 
+
+NOTIFICATIONS 
+
+27. Initial Notifications – The permittee shall furnish written notification of the items below to the Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit one notification for each building or construction phase containing information on each emergency engine gen-set as described below: Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 19 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets (Ref. Nos. 30 through 103) in the building, or phase, commenced within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; and 
+
+iii. The date construction commenced. 
+
+b. The date that the integration operational period started for each emergency diesel engine gen-set (Ref. Nos. 30 through 103) within 15 days after the last generator at each building or construction phase completes its integration operational period. If a period of construction is paused or halted for 45 days this notification shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed engine generator set. The notification must contain the following: 
+
+i. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+ii. Installation date; and 
+
+iii. Integration operational period start and end dates. 
+
+For the purpose of this notification the integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. In no case shall this period exceed 30 days. 
+
+(9 VAC 5-50-50 and 9 VAC 5-80-1180) 
+
+GENERAL CONDITIONS 
+
+28. Permit Invalidation – This permit to construct the engine gen-sets (Ref. Nos. 49, 51 through 55, and 57 through 103) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the “Original Permit Date” as listed for the diesel engine gen-sets in the Introduction section of this permit; or Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 20 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9 VAC 5-80-1210) 
+
+29. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9 VAC 5-80-1210 F and 9 VAC 5-80-1210 G) 
+
+30. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9 VAC 5-170-130 and 9 VAC 5-80-1180) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 21 
+
+31. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions, with respect to the emergency diesel engine gen-sets (Ref. Nos. 1S, 2 through 103): 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance; 
+
+b. Maintain an inventory of spare parts; 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum; and 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9 VAC 5-50-20 E and 9 VAC 5-80-1180 D) 
+
+32. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shut-down or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 
+
+33. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Air Compliance Manager of the DEQ’s NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour, by electronic mail, facsimile transmission or telephone. Such notification shall be made as soon as practicable but no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within fourteen days of the occurrence. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Air Compliance Manager of the DEQ’s NRO. 
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) Abteen Ventures LLC (MCC1), Bourzou Ventures LLC (MCC2), Manuchehr Ventures LLC (MCC6) Registration Number: 74107 August 24, 2020, as amended July 26, 2021 Page 22 
+
+34. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) 
+
+35. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the Air Compliance Manager of the DEQ’s NRO of the change of ownership within 30 days of the transfer. 
+
+(9 VAC 5-80-1240) 
+
+36. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9 VAC 5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test dates 
+
+4. Tester; name, address and report date 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. *Signed by reviewer 
+
+Copy of Approved Test Protocol 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity 
+
+4. *For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test Methods 
+
+c. Pollutants tested 
+
+d. Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7. Any other important information 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1. Detailed test results for each run 
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1. *Raw production data 
+
+2. *Raw field data 
+
+3. *Laboratory reports 
+
+4. *Chain of custody records for lab samples 
+
+5. *Calibration procedures and results 
+
+6. Project participants and titles 
+
+7. Observers’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures 
+
+* Not applicable to visible emission evaluations

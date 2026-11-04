@@ -1,0 +1,628 @@
+Title: Microsoft Word - 52281_10_NSR.docx
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25654/639080659420930000
+
+Published Time: Mon, 02 Mar 2026 16:32:22 GMT
+
+Number of Pages: 9
+
+Markdown Content:
+Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY                
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus
+> Secretary of Natural and Historic Resources Director
+
+January 22, 2026 
+
+Ms. Anna Adams 
+
+Director of Facility Operations 
+
+Capital One Services, Inc. 
+
+15000 Capital One Drive 
+
+Richmond, VA 23238 
+
+Location: Henrico County 
+
+Registration No: 52281 
+
+Dear Ms. Adams: 
+
+Attached is an administrative amendment to the new source review permit dated July 10, 2025 to 
+
+operate five (5) Emergency Generators in accordance with the provisions of the Virginia 
+
+Regulations for the Control and Abatement of Air Pollution.  This amended permit supersedes 
+
+your permit dated July 10, 2025. 
+
+The Department of Environmental Quality (DEQ) deemed the application complete on June 9, 
+
+2025 and has determined that the application meets the requirements of 9 VAC 5-80-1290 A for 
+
+a significant amendment to a new source review permit. 
+
+This permit contains legally enforceable conditions.  Failure to comply may result in a Notice of 
+
+Violation and/or civil charges.  Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Capital One Services, Inc. of the 
+
+responsibility to comply with all other local, state, and federal permit regulations. 
+
+The five (5) Emergency Generators may be affected facilities under 40 CFR 60, New Source 
+
+Performance Standards (NSPS), Subpart IIII and/or 40 CFR 63, Maximum Achievable Control 
+
+Technology, (MACT) Subpart ZZZZ and therefore subject to owner/operator requirements of the 
+
+NSPS/MACT.  Virginia has not accepted delegation of this rule. In summary, the units may be 
+
+required to comply with certain federal emission standards and operating limitations. DEQ 
+
+advises you to review each emergency generator for the NSPS/MACT requirements to ensure 
+
+compliance with applicable emission and operational limitations. As the owner/operator you are 
+
+also responsible for monitoring, testing, notification, reporting and recordkeeping requirements 
+
+of the NSPS/MACT.  Notifications shall be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US 
+
+Government Publishing Office maintains the text of these rules at  www.ecfr.gov , Title 40, Part 
+
+60 and/or 63. Ms. Anna Adams 
+
+January 22, 2026 
+
+Page 2
+
+The Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide 
+
+that you may request a formal hearing from this case decision by filing a petition with the DEQ 
+
+within 30 days after this case decision notice was mailed or delivered to you.  Please consult the 
+
+relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you 
+
+actually received this permit or the date on which it was mailed to you, whichever occurred first, 
+
+within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA  23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which 
+
+to file an appeal.  Please refer to Part Two A of the Rules of the Supreme Court of Virginia for 
+
+information on the required content of the Notice of Appeal and for additional requirements 
+
+governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please call the regional office at (804) 527-5020. 
+
+Sincerely, 
+
+James E. Kyle, P.E. 
+
+Air Permit Manager 
+
+SDU/52281_10_NSR.docx 
+
+Attachment: Permit 
+
+The following federal regulation can be found at: 
+
+http://www.gpo.gov/fdsys/search/showcitation.action 
+
+40 CFR 60 – NSPS IIII 
+
+40 CFR 63, MACT Subpart ZZZZ 
+
+Ec: Manager, Enforcement and Compliance (electronic file submission) Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY                
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus
+> Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit supersedes your permit dated July 10, 2025. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution, 
+
+Capital One Services, Inc. 
+
+15000 Capital One Drive 
+
+Richmond, VA 23238 
+
+Registration No.  52281 
+
+is authorized to construct and operate 
+
+Five (5) Emergency Generators 
+
+located at 
+
+Knolls 2 Data Center 
+
+4871 Cox Road, Glen Allen, VA 23060 
+
+in accordance with the Conditions of this permit. 
+
+Approved on January 22, 2026 
+
+James E. Kyle, P.E. 
+
+Air Permit Manager 
+
+Permit consists of 7 pages. 
+
+Permit Conditions 1 to 19 .Capital One Services, Inc. 
+
+January 22, 2026 
+
+Page 2
+
+INTRODUCTION 
+
+This permit document is based on the following permit approval and the respective permit 
+
+application: 
+
+New Source Review Permit dated July 10, 2025 and based on the permit application dated 
+
+October 15, 2025; 
+
+Any changes in the permit application specifications or any existing facilities which alter the 
+
+impact of the facility on air quality may require a permit. Failure to obtain such a permit prior 
+
+to construction may result in enforcement action. In addition, this facility may be subject to 
+
+additional applicable requirements not listed in this permit document. 
+
+Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-10 of the 
+
+State Air Pollution Control Board Regulations for the Control and Abatement of Air 
+
+Pollution.  The regulatory reference or authority for each condition is listed in parentheses () 
+
+after each condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source 
+
+emissions data will necessitate a prompt response by the permittee to requests by the DEQ 
+
+for information to include, as appropriate: process and production data; changes in control 
+
+equipment; and operating schedules.  Such requests for information from the DEQ will either 
+
+be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by 
+
+applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of 
+
+the Code of Virginia, § 10.1-1314 (addressing information provided to the DEQ) of the Code 
+
+of Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. 
+
+Information provided to federal officials is subject to appropriate federal law and regulations 
+
+governing confidentiality of such information. 
+
+PROCESS REQUIREMENTS 
+
+Equipment at this facility consists of the following: 
+
+Reference 
+
+No.  Equipment Description  Rated 
+
+Capacity 
+
+Delegated Federal 
+
+Requirements         
+
+> Located at 4871 Cox Road, Knolls 2Data Center:
+
+G-8/DG#3  Caterpillar Model 3516 Diesel 
+
+> Generator
+
+1,750 kW  N/A 
+
+G-9/DG#4  Caterpillar Model 3516 Diesel 
+
+> Generator
+
+1,750 kW  N/A          
+
+> Located at 4871 Cox Road, Knolls 2Data Center Addition:
+
+G-11  Caterpillar Model 3516C Diesel 
+
+> Generator
+
+1,825 kW  N/A 
+
+G-12  Caterpillar Model 3516C Diesel 
+
+> Generator
+
+1,825 kW  N/A Capital One Services, Inc. 
+
+January 22, 2026 
+
+Page 3
+
+Reference 
+
+No.  Equipment Description  Rated 
+
+Capacity 
+
+Delegated Federal 
+
+Requirements 
+
+G-13  Caterpillar Model 3516C Diesel 
+
+> Generator
+
+1,825 kW  N/A 
+
+Specifications included in the above table are for informational purposes only and do not 
+
+form enforceable terms or conditions of the permit. 
+
+PROCESS LIMITATIONS 
+
+1.  Operating limits  - Each generator shall not operate more than 240 hours per year, calculated 
+
+monthly as the sum of each consecutive 12-month period. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+2.  Emission Controls  - The emissions from each generator shall be controlled by good 
+
+operating practices. The generators shall be provided with adequate access for inspection. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+3.  Monitoring Devices  - Each engine-generator set shall be equipped with a non-resettable 
+
+hour metering device to monitor the operating hours.  The non-resettable hour meter used to 
+
+continuously measure the hours of operation for each engine-generator set shall be observed 
+
+by the owner with a frequency of not less than once each day the engine-generator set is 
+
+operated.  The owner shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and 
+
+operated in accordance with approved procedures which shall include, as a minimum, the 
+
+manufacturer's written requirements or recommendations. Each monitoring device shall be 
+
+provided with adequate access for inspection and shall be in operation when the engine-generator sets are operating. 
+
+(9  VAC 5-80-1180 D) 
+
+OPERATING/EMISSIONS LIMITATIONS 
+
+4.  Fuel  – The approved fuel for the generators is distillate oil as described in Condition 6.  A
+
+change in the fuel may require a permit to modify and operate. 
+
+(9 VAC 5-80-1180) 
+
+5.  Testing  - The permitted facility shall be constructed so as to allow for emissions testing and 
+
+monitoring upon reasonable notice at any time, using appropriate methods.  Test ports shall 
+
+be provided at the appropriate locations. 
+
+(9  VAC 5-50-30 F) Capital One Services, Inc. 
+
+January 22, 2026 
+
+Page 4
+
+6.  Fuel  -The distillate oil for the emergency generators shall meet the specifications below: 
+
+DISTILLATE OIL which meets the ASTM D975 specification for numbers 1 or 2 fuel oil 
+
+except for the sulfur content which shall be as follows: 
+
+Maximum sulfur content per gallon: 
+
+(For each shipment):  15 parts per million (ppm) 
+
+0.0015% by weight 
+
+(9  VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+7.  Fuel Certification  - The permittee shall obtain a certification from the fuel supplier with 
+
+each shipment of distillate oil.  Each fuel supplier certification shall include the following: 
+
+a.  The name of the fuel supplier; 
+
+b.  The date on which the distillate oil was received; 
+
+c.  The quantity of distillate oil delivered in the shipment; 
+
+d.  A statement that the distillate oil complies with the American Society for Testing and 
+
+Materials specifications (ASTM D975) for numbers 1 or 2 fuel oil; and 
+
+e.  The sulfur content of the distillate oil. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically 
+
+required or conducted by DEQ may be used to determine compliance with the fuel 
+
+specifications stipulated in condition 6.  Exceedance of these specifications may be 
+
+considered credible evidence of the exceedance of emission limits. 
+
+(9  VAC 5-80-1180) 
+
+EMISSION LIMITS 
+
+8.  Emissions Limits  - Emissions from the operation of the two Caterpillar Model 3516 
+
+generators (G-8/DG#3 and G-9/DG#4) located at Knolls 2 Data Center shall not exceed the 
+
+limits specified below: 
+
+Per generator:  Combined: 
+
+PM-10  1.6 lbs/hr  1.2 tons/yr 
+
+Nitrogen Oxides (as NO 2) 55.3 lbs/hr  39.8 tons/yr 
+
+Carbon Monoxide  12.7 lbs/hr  9.1 tons/yr 
+
+Volatile Organic Compounds  1.6 lbs/hr  1.2 tons/yr 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) Capital One Services, Inc. 
+
+January 22, 2026 
+
+Page 5
+
+9.  Emissions Limits  - Emissions from the operation of three Caterpillar Model 3516C 
+
+generators (G-11 – G-13) located at Knolls 2 Data Center Addition shall not exceed the 
+
+limits specified below: 
+
+Per generator:  Combined: 
+
+PM-10  4.1 lbs/hr  1.5 tons/yr 
+
+Nitrogen Oxides (as NO 2) 32.9 lbs/hr  11.9 tons/yr 
+
+Carbon Monoxide  21.8 lbs/hr  7.9 tons/yr 
+
+Volatile Organic Compounds  3.6 lbs/hr  1.3 tons/yr 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+10.  Visible Emissions Limit  - Visible emissions from each generator stack shall not exceed 10 
+
+percent opacity except during one six-minute period in any one hour in which visible 
+
+emissions shall not exceed 20 percent opacity.  This condition applies at all times except 
+
+during start-up, shutdown, or malfunction. 
+
+(9  VAC 5-50-260 and 9 VAC 5-80-1180) 
+
+RECORDS 
+
+11.  On Site Records  - The permittee shall maintain records of all emission data and operating 
+
+parameters necessary to demonstrate compliance with this permit.  The content of and format 
+
+of such records shall be arranged with the Director, Piedmont Region.  These records shall 
+
+include, but are not limited to: 
+
+a.  Annual hours of operation for each emergency generator, calculated monthly as the sum 
+
+of each consecutive 12-month period. Compliance for the consecutive 12-month period 
+
+shall be demonstrated monthly by adding the total for the most recently completed 
+
+calendar month to the individual monthly totals for the preceding 11 months. 
+
+b.  Fuel supplier certifications from oil shipments purchased, indicating the sulfur content 
+
+per shipment. 
+
+c.  Hour log required by condition 3 of this permit. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most 
+
+recent five (5) years. 
+
+(9  VAC 5-50-50 and 5-80-1180) 
+
+GENERAL CONDITIONS 
+
+12.  Permit Suspension/Revocation - This permit may be suspended or revoked if the permittee: 
+
+a.  Knowingly makes material misstatements in the permit application or any amendments to 
+
+it; Capital One Services, Inc. 
+
+January 22, 2026 
+
+Page 6
+
+b.  Fails to comply with the conditions of this permit; 
+
+c.  Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d.  Causes emissions from the stationary source which result in violations of, or interfere 
+
+with the attainment and maintenance of, any ambient air quality standard; or 
+
+e.  Fails to operate in conformance with any applicable control strategy, including any 
+
+emission standards or emissions limitations, in the State Implementation Plan in effect at 
+
+the time an application for this permit is submitted. 
+
+(9 VAC 5-80-1210 G) 
+
+13.  Right of Entry - The permittee shall allow authorized local, state, and federal 
+
+representatives, upon the presentation of credentials: 
+
+a.  To enter upon the permittee's premises on which the facility is located or in which any 
+
+records are required to be kept under the terms and conditions of this permit; 
+
+b.  To have access to and copy at reasonable times any records required to be kept under the 
+
+terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c.  To inspect at reasonable times any facility, equipment, or process subject to the terms and 
+
+conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d.  To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during 
+
+regular business hours or whenever the facility is in operation.  Nothing contained herein 
+
+shall make an inspection time unreasonable during an emergency. 
+
+(9 VAC 5-170-130 and 9 VAC 5-80-1180) 
+
+14.  Maintenance/Operating Procedures  - At all times, including periods of start-up, shutdown, 
+
+and malfunction, the permittee shall, to the extent practicable, maintain and operate the 
+
+affected source, including associated air pollution control equipment, in a manner consistent 
+
+with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and 
+
+frequency of excess emissions, with respect to the emergency diesel generators (G-8 through 
+
+G-13): 
+
+a.  Develop a maintenance schedule and maintain records of all scheduled and non -
+
+scheduled maintenance. 
+
+b.  Maintain an inventory of spare parts. 
+
+c.  Have available written operating procedures for equipment.  These procedures shall be 
+
+based on the manufacturer's recommendations, at a minimum. Capital One Services, Inc. 
+
+January 22, 2026 
+
+Page 7
+
+d.  Train operators in the proper operation of all such equipment and familiarize the 
+
+operators with the written operating procedures, prior to their first operation of such 
+
+equipment.  The permittee shall maintain records of the training provided including the 
+
+names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and 
+
+shall be made available to DEQ personnel upon request. 
+
+(9 VAC 5-50-20 E and 9 VAC 5-80-1180 D) 
+
+15.  Record of Malfunctions  - The permittee shall maintain records of the occurrence and 
+
+duration of any bypass, malfunction, shutdown or failure of the facility or its associated air 
+
+pollution control equipment that results in excess emissions for more than one hour. Records 
+
+shall include the date, time, duration, description (emission unit, pollutant affected, cause), 
+
+corrective action, preventive measures taken and name of person generating the record. 
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 
+
+16.  Notification for Facility or Control Equipment Malfunction - The permittee shall furnish 
+
+notification to the Piedmont Regional Office of malfunctions of the affected facility or 
+
+related air pollution control equipment that may cause excess emissions for more than one 
+
+hour.  Such notification shall be made no later than four daytime business hours after the 
+
+malfunction is discovered.  The permittee shall provide a written statement giving all 
+
+pertinent facts, including the estimated duration of the breakdown, within 14 days of 
+
+discovery of the malfunction.  When the condition causing the failure or malfunction has 
+
+been corrected and the equipment is again in operation, the permittee shall notify the 
+
+Piedmont Regional Office. 
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) 
+
+17.  Violation of Ambient Air Quality Standard  - The permittee shall, upon request of the 
+
+DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating 
+
+any primary ambient air quality standard and shall not return to normal operation until such 
+
+time as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) 
+
+18.  Change of Ownership  - In the case of a transfer of ownership of a stationary source, the new 
+
+owner shall abide by any current permit issued to the previous owner.  The new owner shall 
+
+notify the Piedmont Regional Office of the change of ownership within 30 days of the 
+
+transfer. 
+
+(9 VAC 5-80-1240) 
+
+19.  Permit Copy  - The permittee shall keep a copy of this permit on the premises of the facility 
+
+to which it applies. 
+
+(9 VAC 5-80-1180)

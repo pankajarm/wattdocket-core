@@ -1,0 +1,1366 @@
+Title: Permit
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25756/638628573682400000
+
+Published Time: Wed, 25 Sep 2024 09:36:08 GMT
+
+Number of Pages: 18
+
+Markdown Content:
+May 29, 2019 Dear Mr. Qorri: 
+
+Performance for Stationary Compression ignition Internal Combustion Engines and 40 CFR Part 
+
+63, National Emission Standards for Hazardous Air Pollutants /MACTX 777, /
+
+advises you to review the referenced MACT and NSPS to ensure compliance with applicable 
+
+and operati°nal limitations. As the owner/operator you are also responsible for any monitoring, 
+
+Matthew J. Strickler 
+
+Secretary of Natural Resources  
+
+> Location:
+
+Fairfax County 
+
+Registration No.: 73717 
+
+Mr. D. Tony Qorri Director, Construction   
+
+> Zayo Group,
+
+LLC 
+
+3110 N Central Ave. Suite B75 
+
+Phoenix, AZ 85012 
+
+David K. Paylor 
+
+Director 
+
+(804)698-4000 
+
+Thomas A. Faha 
+
+Regional Director 
+
+VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 
+
+13901 Crown Court, Woodbridge, Virginia 22193 
+
+(703)583-3800 FAX (703) 583-3821 
+
+www.deq.virginia.gov 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a 
+
+> Notice
+
+of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Zayo Group LLC of the 
+
+responsibility to comply with all other local, state, and federal permit regulations. 
+
+Pr°P°sed emergency diesel engine gen-sets may be subject to the requirements of 
+
+40 CFR Part 60, New Source Performance Standards (NSPS) Subpart Illi - Standards of 
+
+m/aAx _. a . < ' *
+
+AA KI 1- If —. ., ’ , • ** ---------- ------- - - - ----- ta.iiyiuvw OHM TV VI IX rail 
+
+63, National Emission S tandards for Hazardous Air Pollutants (MACT) Subpart ZZZZ — National 
+
+Emissions Standards for Hazar dous Air Pollutants for Stationary Reciprocating Internal 
+
+Combustion Engines. In sum mary, the units may be required to comply with certain federal 
+
+emission standards and operating limitations. The Department of Environmental Quality (DEQ) 
+
+advises you to review th e referenced MACT and NSPS to ensure compliance with applicable 
+
+emission and operational limitations. The Department of Envi ronmental Quality (DEQ) advises 
+
+you to review the reference d MACT and NSPS to en sure compliance with applicable emission 
+
+and operational limitations. As the owner/operator you are also responsible for any monitoring 
+
+notifica tion, reporting and recordkeeping requirements of the MACT and NSPS. Notifications 
+
+shall only be sent to EPA, Region III.  
+
+> Attached
+
+is a permit to construct and operate emergency diesel engine generator sets 
+
+(gen-sets) at Zayo Group, LLC data center in accordance with the provisions of the Virginia 
+
+State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+In the course of evaluating the application and arriving at a final decision to approve the 
+
+project JheJDepartment of Environmental Quality (DEQ) deemed the application complet e on Sincerely, 
+
+TAF/JAW/AK/737 17mnsr(5-29-201 9) 
+
+Attachment: Permit 
+
+If you have any questions concerning this permit, please contact Mr. Alireza Khalilzadeh 
+
+at (703) 583-3839 or via email at alireza.khalilzadeh@deq.virginia.gov .
+
+David K. Paylor, Director Department of Environmental Quali ty 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Mr. D. Tony Qorri 
+
+May 29, 2019 
+
+Page 2                                                       
+
+> The Board's Regulations as contained in Title 9of the Virginia Administrative Code 5-
+> 170-200 provide that you may request aformal hearing from this case decision by filing a
+> petition with the Board within 30 days after this case decision notice was mailed or delivered to
+> you. Please consult the relevant regulations for additional requirements for such requests.
+
+cc: Ms. Mamie Dorsz, Montrose Air Quality Services (electronic file submission) 
+
+Regional Air Compliance Manager (electronic file submission) 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the 
+
+date you actually received this permit or the date on which it was mailed to you, whichever 
+
+occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: If this permit was delivered to you by mail, three days are added to the thirty-day period 
+
+in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of 
+
+Virginia for information on the required content of the Notice of Appeal and for additional 
+
+requirements governing appeals from decisions of administrative agencies. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, 
+
+the US Government Publishing Office maintains the text of these rules at www.ecfr.gov , Title 
+
+40, Part 60 and 63. STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+is authorized to construct and operate 
+
+emergency diesel engine generator sets (gen-sets)  
+
+> located
+
+at 
+
+in accordance with the Conditions of this permit. 
+
+Approved on: May 29, 2019 
+
+Matthew J. Strickler 
+
+Secretary of Natural Resources 
+
+Thomas A. Faha 
+
+Regional Director  
+
+> Zayo
+
+Group, LLC 
+
+1764A Old Meadow Lane 
+
+McLean, Virginia 22102 
+
+(Fairfax County) Zayo Group, LLC 
+
+1764A Old Meadow Lane  
+
+> McLean,
+
+Virginia 22102 
+
+Registration No. : 73717 Permit consists of 14 pages. 
+
+Permit Conditions 1 to 28. 
+
+Attachment A: Source Testing Report Format (1 page) Thomas A. Faha 
+
+Regional Director 
+
+David K. Paylor 
+
+Director 
+
+(804)698-4000 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution,  
+
+> VIRGINIA
+
+DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 
+
+13901 Crown Court, Woodbridge, Virginia 22193 
+
+(703)583-3800 FAX (703) 583-3821 
+
+www.deq.virginia.gov INTRODUCTION 
+
+Equipment List - Equipment at this facility consists of: 
+
+New Equipment to b6 constructed: 
+
+Reference No 
+
+EG5, EG6, EG7 None 
+
+Original 
+
+Permit Date 
+
+Equipment 
+
+Description Standby 
+
+Rated 
+
+Capaci *
+
+3,202 bhp 
+
+2,250 ekW 
+
+(each unit) 
+
+Three (3) Cummins 
+
+model DQKAN DCC 
+
+emergency diesel 
+
+engine 
+
+gen-sets with 
+
+engine model 
+
+QSK60-G#(TBD) 
+
+(manufactured 2018) 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 2
+
+This permit approval is based on the permit application dated November 5, 2018, including 
+
+amendments dated May 6, 2019, and supplemental information dated May 1,2019. 
+
+May 29, 
+
+2019 
+
+Specifications included in the above tables are for informational purposes only and do not form 
+
+enforceable terms or conditions of the permit. 
+
+Any changes in the permit application specifications or any existing facilities, which alter the 
+
+impact of the facility on air quality, may require a permit. Failure to obtain such a permit prior to 
+
+construction may result in enforcement action. In addition, this facility may be subject to 
+
+additional applicable requirements not listed in this permit.                                                
+
+> Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1 110 and
+> 9VAC5-10-10 of the Commonwealth of Virginia ’sState Air Pollution Control Board Regulations
+> for the Control and Abatement of Air Pollution. The regulatory reference or authority for each
+> condition is listed in parentheses () after each condition.
+
+Delegated 
+
+Federal 
+
+Requirements 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable 
+
+provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of 
+
+Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 
+
+9VAC5-1 70-60 of the State Air Pollution Control Board ’s Regulations. Information provided to 
+
+federal officials is subject to appropriate federal law and regulations governing confidentiality of 
+
+such information. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions 
+
+data will necessitate a prompt response by the permittee to requests by the Department of 
+
+Environmental Quality (DEQ) or the Board for information to include, as appropriate: process 
+
+and production data; changes in control equipment; and operating schedules. Such requests for 
+
+information from the DEQ will either be in writing or by personal contact. PROCESS REQUIREMENTS 
+
+1. 
+
+2. 3. 
+
+OPERATING/EMISSION LIMITATIONS 
+
+Emission Controls - Nitrogen oxides (NOx) emissions from each emergency diesel engine 
+
+gen-set included in the Equipment List section of this permit shall be controlled by the 
+
+turbocharged engine with low temperature after-cooler. The permittee shall maintain 
+
+documentation that demonstrates the control devices have been installed on each 
+
+emergency diesel engine gen-set. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+Emission Controls - Visible emissions, particulate matter (PMw and PM2.5) emissions, 
+
+carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, and 
+
+nitrogen oxide (NOx) emissions from the emergency diesel engine gen-sets included in the 
+
+Equipment List section of this permit shall be controlled by the use of good operating 
+
+practices and performing appropriate maintenance in accordance with the manufacturer 
+
+recommendations. In addition, the permittee may only change those settings that are 
+
+permitted by the manufacturer and does not increase air emissions. 
+
+(9VAC5-80-1 180 and 9VAC5-50-260) 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and 
+
+operated in accordance with approved procedures which shall include, as a minimum, the 
+
+manufacturer's written requirements or recommendations.                                                                   
+
+> 4. Operation of the Emergency Diesel Engine Gen-Sets -The permittee shall operate and
+> maintain each emergency diesel engine gen-set included in the Equipment List section of
+> this permit and control device according to the manufacturer ’swritten instructions or
+> procedures developed by the permittee that are approved by the engine manufacturer. In
+> addition, the permittee may only change those settings that are permitted by the
+> manufacturer and does not increase air emissions.
+> (9VAC5-80-1 180)
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 3                                                   
+
+> 5. Operating Limitations (Ozone Season) —No emergency diesel engine gen-sets included
+> in the Equipment List section of this permit shall be operated for routine (and non-routine)
+> maintenance, readiness testing, or operation training (that involves fuel combustion)
+> between the hours of 7AM to 5PM any day during May 1through September 30. The
+
+Monitoring Devices - Each emergency diesel engine gen-set included in the Equipment 
+
+List section of this permit shall be equipped with a non-resettable hour metering device to 
+
+monitor the operating hours. The non-resettable hour meter used to continuously measure 
+
+the hours of operation for each engine gen-set shall be observed by the owner with a
+
+frequency of not less than once each day the emergency diesel engine gen-set is operated. 
+
+The owner shall keep a log of these observations. 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be 
+
+in operation when the emergency diesel engine gen-sets are operating. 
+
+(9VAC5-80-1 180 D) A failure of the electrical grid; i. 
+
+On-site disaster or equipment failure; or ii. 
+
+iii. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. 
+
+Capacity deficiency or capacity excess conditions; ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+7. Emergency Power Generation - The emergency diesel engine gen-sets included in the 
+
+Equipment List section of this permit shall only be operated in the following modes: 
+
+An abnormal event external to the ISO service territory that may require ISO 
+
+action.  
+
+> Abnormal
+
+natural events or man-made threats that would require conservative  
+
+> operations
+
+to posture the system in a more reliable state; or A fuel shortage requiring departure from normal operating procedures in order to 
+
+minimize the use of such scarce fuel; 
+
+Public service emergencies such as flood, fire, natural disaster, or severe  
+
+> weather
+
+conditions. 
+
+6. Operating Limitations (Ozone Season) - During the integration operational period of each 
+
+diesel engine-generator set included in the Equipment List section of this permit, any 
+
+operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. 
+
+any day during the ozone season of May 1 through September 30 shall only occur if the  
+
+> forecast
+
+Air Quality Index (AQI) for ozone as published in the AirNow website 
+
+(https://aimow.gov ) for Northern Virginia for that day is less than or equal to 100. In the 
+
+event that AirNow-EnviroFlash (www.enviroflash.info ) issues an Air Alert for Metropolitan 
+
+Washington, D C. for a day which the forecasted AQI for ozone ws less than or equal to 
+
+100, operation of each unit (which involves fuel combustion) shall be minimized to the 
+
+maximum extent practical. 
+
+(9VAC5-80-1 180) 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 4 
+
+> permittee
+
+may petition the DEQ-NRO Air Compliance Manager for exceptions to this 
+
+requirement, with approvals made on a case-by case basis. 
+
+> (9VAC5-80-1180)
+
+a. In situations that arises from sudden and reasonably unforeseeable events where the 
+
+primary energy or power source is disrupted or disconnected due to conditions beyond  
+
+> the
+
+control of an owner or operator of a facility including: 
+
+An abnormal system condition requiring manual or automatic action to maintain  
+
+> system
+
+frequency, to prevent loss of firm load, equipment damage, or tripping of   
+
+> system elements
+
+that could adversely affect the reliability of an electric system or 
+
+the safety of persons or property; c. For periodic maintenance, testing, and operational training. 
+
+(9VAC5-80-1180) 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel oil was received; 
+
+c. The quantity of diesel fuel oil delivered in the shipment; 
+
+d. A statement that the diesel fuel oil: 
+
+a. No single unit shall operate more than 500 hours per year for all purposes (as provided 
+
+in Condition 7), calculated monthly as the sum of each consecutive 12-month period; 
+
+b. No single unit shall operate more than 100 hours per year for maintenance checks and 
+
+readiness testing, calculated monthly as the sum of each consecutive 12-month period; 
+
+8. Operating Hours - The operating hours of the emergency diesel engine gen-sets included 
+
+in the Equipment List section of this permit are limited to the following: 
+
+d. For the integration operational period which is the period of time beginning with the first 
+
+time the affected unit is started on-site and ending when the affected unit is fully 
+
+integrated with the sources electrical system. 
+
+complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D 
+
+S15 (also known as ultra low sulfur diesel (ULSD)); or 
+
+ii. has a sulfur content per shipment not to exceed 0.0015% by weight (1 5ppm) and 
+
+either a minimum cetane number of forty or maximum aromatic content of thirty-
+
+five percent by volume.                                                             
+
+> 9. Fuel Specification -The approved fuel for the emergency diesel engine gen-sets included
+> in the Equipment List section of this permit is diesel fuel oil. The diesel fuel oil shall meet the
+> ASTM D975 specification for S15 diesel fuel oil with amaximum sulfur content per shipment
+> of 0.0015%. Achange in the fuel may require anew or amended permit.
+> (9VAC5-80-1 180 and 9VAC5-50-260)
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding 
+
+the total for the most recently completed calendar month to the individual monthly totals for 
+
+the preceding 11 months. 
+
+(9VAC5-80-1 180) 
+
+10. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with 
+
+each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 5EMISSION LIMITS 
+
+Engine 
+
+9.88 Ib/hr 
+
+1.51 Ib/hr 
+
+1.51 Ib/hr 
+
+Pollutant All Operations 
+
+31.77 tpy 
+
+7.41 tpy 1.48 tpy 
+
+1.14 tpy 0.23 tpy 
+
+1.14 tpy 0.23 tpy 
+
+Alternatively, the permittee must obtain approval from the Regional Air Compliance Manager 
+
+of the DEQ ’s Northern Regional Office (NRO), if other documentation will be used to certify 
+
+the diesel fuel oil type. 
+
+11. Emission Limits (Hourly) - Emissions from the operation of each emergency diesel engine 
+
+9 en-set (Ref. Nos.: EG5, EG6, and EG7) shall not exceed the limits s P ecified below:                                             
+
+> Fuel sampling and analysis, independent of that used for certification, as may be periodically
+> required or conducted by DEQ may be used to determine compliance with the fuel
+> specifications stipulated in Condition 9. Exceedance of these specifications may be
+> considered credible evidence of the exceedance of emission limits.
+> (9VAC5-80-1 180)
+
+Cummins QSK60-G#TBD 
+
+Engine 
+
+(each unit) 
+
+42.36 Ib/hr 
+
+Maintenance Checks/ 
+
+Readiness Testing 
+
+6.35 tpy 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 6                                          
+
+> These emissions are derived from the estimated overall emission contribution from
+> operating limits. Exceedance of the operating limits may be considered credible evidence of
+> the exceedance of emission limits. Compliance with these emission limits may be
+> determined as stated in Conditions 1,2,4, and 9.
+> (9VAC5-80-1 180 and 9VAC5-50-260)
+
+12. Emission Limits (Annual) - Total emissions from the combined operation of the 
+
+emergency diesel engine gen-sets (Ref. Nos.: EG5, EG6, and EG7) of this permit shall not 
+
+exceed the limits specified below: 
+
+Nitrogen Oxides (as NO2) 
+
+Carbon Monoxide (CO) 
+
+Particulate Matter (PM10) 
+
+Particulate Matter (PM2.5) 
+
+Nitrogen Oxides (as NO2) 
+
+Carbon Monoxide (CO) Particulate Matter (PM10) 
+
+Particulate Matter (PM2.5) 
+
+-p-
+
+'z 
+
+Pollutant INITIAL COMPLIANCE DETERMINATION                                                                  
+
+> 13. Visible Emission Limit -Visible emissions from each emergency diesel engine gen-set
+> included in the Equipment List section of this permit exhausts shall not exceed 5% opacity
+> except during one 6-minute period in any one hour in which visible emissions shall not
+> exceed 10% opacity as determined by ERA Method 9(reference 40 CFR 60, Appendix A).
+> This condition applies at all times except during startup, shutdown and malfunction.
+
+i. Generator load/kilowatt output; and 
+
+ii. Fuel consumption and fuel sulfur content of the fuel oil. During startup and shutdown, visible emissions from each emergency diesel engine gen-set                                                                             
+
+> shall not exceed 10% opacity except during one 6-minute period in any one hour in which
+> visible emissions shall not exceed 20% opacity as determined by ERA Method 9(reference 40 CFR 60, Appendix A).
+> (9VAC5-80-1 180 and 9VAC5-50-260)
+> These emissions are derived from the estimated overall emission contribution from
+> operating limits. Exceedance of the operating limits may be considered credible evidence of
+> the exceedance of emission limits. Compliance with these emission limits may be
+> determined as stated in Conditions 1,2,4, and 8.
+> (9VAC5-80-1 180 and 9VAC5-50-260)
+
+14. Stack Tests - Initial performance tests shall be conducted on one of the Cummins model 
+
+DQKAN DDC emergency diesel engine gen-sets (Ref. Nos. EG5, EG6, EG7) for nitrogen 
+
+oxides (as NO2) using EPA Reference Method 7 or 7E and carbon monoxide (CO) using 
+
+EPA Reference Method 10 or 10A to determine compliance with the emission limits 
+
+contained in Condition 11. 
+
+c. Recorded emergency engine generator set operational information shall include, but not 
+
+be limited to: 
+
+a. Emissions testing for the selected emergency engine-generator set shall consist of three 
+
+one-hour test runs under load. The average of the three runs shall be reported as the 
+
+short-term emission rate for that emergency engine-generator set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency engine-generator set 
+
+operating at £90 percent of its rated capacity, unless multiple load band testing is 
+
+approved by DEQ; 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 7
+
+d. Perform testing to demonstrate compliance within 120 days after the integration 
+
+operational period has commenced. The integration operational period is defined as: the 
+
+period of time beginning with the first time the affected unit is started on-site and ending 
+
+when the affected unit is fully integrated with the sources electrical system. In no case 
+
+shall this period exceed 30 days. If this deadline falls within the ozone season (May 1
+
+through September 30), the facility shall P erform testin 9 to demonstrate compliance (9VAC5-50-30, 9VAC5-80-1200, and 9VAC5-50-41 0) 
+
+within 30 days after the end of the ozone season. Tests shall be conducted and reported 
+
+and data reduced as set forth in 9VAC5-50-30; 
+
+15. Stack Tests - Initial performance tests shall be conducted on a second of the Cummins  
+
+> model
+
+DQKAN DDC emergency diesel engine gen-sets (Ref. Nos. EG5, EG6, EG?) for 
+
+filterable particulate matter, using ERA Reference Method 5 or 5A, and condensable 
+
+particulate matter, using ERA Reference Method 202. 
+
+e. The details of the tests are to be arranged with the DEQ NRO Regional Air Compliance 
+
+Manager. The permittee shall submit the test protocol to the DEQ NRO Regional Air 
+
+Compliance Manager at least thirty days prior to testing to ensure adequate time for 
+
+DEQ approval. If the test protocol is received by the DEQ with less than thirty days for  
+
+> review
+
+and acceptance, DEQ approval may not be issued in a timely manner to allow for 
+
+testing to take place according to the permittee ’s schedule; 
+
+a. Emissions testing for the selected emergency engine-generator set shall consist of three 
+
+one-hour test runs under load as recorded at &90 percent of its rated capacity, unless 
+
+multiple load band testing is approved by DEQ; 
+
+f. Should conditions occur which would require rescheduling the test, the permittee shall   
+
+> notify the
+
+DEQ NRO Regional Air Compliance Manager in writing, within seven days of    
+
+> the scheduled test
+
+date or as soon as the rescheduling is deemed necessary; and 
+
+c. The details of the tests are to be arranged with the DEQ NRO Regional Air Compliance 
+
+Manager. The permittee shall submit the test protocol to the DEQ NRO Regional Air 
+
+Compliance Manager at least thirty days prior to testing to ensure adequate time for 
+
+DEQ approval. If the test protocol is received by the DEQ with less than thirty days for 
+
+review and acceptance, DEQ approval may not be issued in a timely manner to allow for 
+
+testing to take place according to the permittee ’s schedule; 
+
+g. Two copies, one paper copy and one on removable electronic media, of the test results 
+
+shall be submitted to the DEQ NRO Regional Air Compliance Manager within 60 days 
+
+after test completion and shall conform to the test report format enclosed with this 
+
+> permit.
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 8
+
+b. Perform testing to demonstrate compliance within 120 days after the integration 
+
+operational period has commenced. The integration operational period is defined as: the 
+
+period of time beginning with the first time the affected unit is started on-site and ending 
+
+when the affected unit is fully integrated with the sources electrical system. In no case 
+
+shall this period exceed 30 days. If this deadline falls within the ozone season (May 1
+
+through September 30), the facility shall perform testing to demonstrate compliance 
+
+within 30 days after the end of the ozone season. Tests shall be conducted and reported 
+
+and data reduced as set forth in 9VAC5-50-30; (9VAC5-50-30 and 9VAC5-80-1200) 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+e. Two co P ies, one pap er copy and one on removable electronic media, of the test results 
+
+shall be submitted to the DEQ NRO Regional Air Compliance Manager within 60 days 
+
+after test completion and shall conform to the test report format enclosed with this 
+
+permit. 
+
+16. Visible Emissions Evaluation - Concurrently with the initial performance tests required in  
+
+> Conditions
+
+14 and 15, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 
+
+60, Appendix A, Method 9, shall also be conducted by the permittee on the emergency   
+
+> diesel engine-generator
+
+sets selected for initial performance testing. The details of the tests 
+
+shall be arranged with the Regional Air Compliance Manager of the DEQ ’s NRO. The 
+
+permittee shall submit a VEE protocol in conjunction with the initial stack test protocol 
+
+required by Conditions 14 and 15 at least 30 days prior to testing. 
+
+b. Two copies of the test result (one hard copy and one on electronic media) shall be 
+
+submitted to the Regional Air Compliance Manager of the DEQ ’s NRO within 60 days 
+
+after test completion and shall conform to the test report format enclosed with this permit 
+
+(Attachment A). 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air Compliance 
+
+Manager of the DEQ ’s NRO shall be notified in writing, within seven days, and visible   
+
+> emissions testing
+
+shall be rescheduled within 30 days. Rescheduled testing shall be 
+
+conducted under the same conditions (as possible) as the initial performance tests. 
+
+d. Should conditions occur which would require rescheduling the test, the permittee shall 
+
+notify the DEQ NRO Regional Air Compliance Manager in writing, within seven days of  
+
+> the
+
+scheduled test date or as soon as the rescheduling is deemed necessary; and  
+
+> For
+
+lab testing only (not field testing) : Samples taken as required by this permit shall be  
+
+> analyzed
+
+in accordance with 1VAC30-46, Accreditation for Commercial Environmental 
+
+Laboratories. (9VAC5-50-30, 9VAC5-80-1200, and 9VAC5-50-410) 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 9
+
+17. Emissions Testing - The emergency diesel engine gen-sets included in the Equipment List 
+
+section of this permit shall be constructed so as to allow for emissions testing upon 
+
+reasonable notice at any time, using appropriate methods. This includes constructing the 
+
+facility/equipment such that volumetric flow rates and pollutant emission rates can be 
+
+accurately determined by applicable test methods and providing a stack or duct that is free 
+
+from cyclonic flow. Sampling ports shall be provided when requested at the appropriate 
+
+locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1 180) RECORDS 
+
+b. A log of the operating hour readings from the hour meter observations. 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+h. All fuel supplier certifications. 
+
+Details of commissioning activities, to include, but not limited to, clock hours and 
+
+duration.                           
+
+> The forecasted AQI, as determined by the AirNow website for Northern Virginia,
+> for ozone for the days that an emergency diesel engine gen-set operated during
+> the integration operational period;
+
+The measured AQI, as determined by the AirNow website for Northern Virginia, 
+
+for ozone for the days that an emergency diesel engine gen-set operated during 
+
+the integration operational period; 
+
+g. To verify compliance with Condition 6, maintain records for the emergency diesel engine 
+
+gen-sets (Ref. Nos. EG5, EGG, and EG7) of: 
+
+Documentation recording any Air Alerts issued for that operating day, as 
+
+determined by AirNow-EnviroFlash ; and                         
+
+> f. Annual hours of operation of each emergency diesel engine gen-set for purposes of
+> maintenance checks/readiness testing, calculated monthly as the sum of each
+> consecutive 12-month period.
+
+a. Documentation from the manufacturer that each emergency diesel engine gen-set 
+
+included in the Equipment List section of this permit is certified to meet the ERA Tier 2
+
+emission standards. 
+
+18. On Site Records - The permittee shall maintain records of emission data and operating 
+
+parameters as necessary to demonstrate compliance with this permit. The content and 
+
+format of such records shall be arranged with the Regional Air Compliance Manager of the 
+
+DEC'S NRO. These records shall include, but are not limited to: 
+
+c. Records of the reasons for operation for each emergency diesel engine gen-set, 
+
+including, but not limited to, the date, cause of operation, cause of the emergency, the 
+
+ISO-declared emergency notification, and the hours of operation. 
+
+d. Records for emergency diesel engine gen-set operations, as necessary, to demonstrate 
+
+compliance with the operating limitations of Condition 5; which includes but is not limited 
+
+to: times, dates, and reasons for operation of each emergency diesel engine gen-set that 
+
+was operating between May 1 and September 30. 
+
+e. Annual hours of operation of each emergency diesel engine gen-set included in the 
+
+Equipment List section of this permit, calculated monthly as the sum of each consecutive 
+
+12-month period. 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 10 I. Scheduled and unscheduled maintenance and operator training. NOTIFICATIONS 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13091 Crown Court Woodbridge, VA 22193 The permittee shall submit one notification for each building or construction phase 
+
+containing information on each emergency engine gen-set as described below: 
+
+i. 
+
+ii. 
+
+iii. 
+
+Name and address of the permittee; 
+
+The address of the affected source; and, 
+
+The date construction commenced.                          
+
+> 19. Initial Notifications -The permittee shall furnish written notification of the items below to
+> the Air Compliance Manager of the DEQ ’sNRO at the following address:
+
+a. The actual date on which installation of the emergency diesel engine gen-sets in the 
+
+building, or phase, commenced within 30 days after such date. The notification must 
+
+contain the following: 
+
+b. The date that the integration operational period started for each emergency diesel 
+
+engine gen-sets within 15 days after the last generator at each building, or construction 
+
+phase, completes its integration operational period. If a period of construction is paused 
+
+or halted for 45 days this notification shall be provided to the DEQ within 15 days after 
+
+These records shall be available for inspection by the DEQ and shall be current for the most 
+
+recent five years, unless otherwise noted. 
+
+(9VAC5-80-1 180 and 9VAC5-50-50)                      
+
+> i. Engine information including make, model, serial number, model year, maximum engine
+> power (bhp), and engine displacement for each emergency diesel engine gen-set.
+
+k. Results of all stack tests, visible emission evaluations, and electrical power output 
+
+control device validation. 
+
+j. The manufacturer ’s written operating instructions or procedures developed by the 
+
+owner/operator that are approved by the engine manufacturer for each emergency 
+
+diesel engine gen-set. Compliance for the consecutive 12-month period in subsections above (as applicable) shall 
+
+be demonstrated monthly by adding the total for the most recently completed month to the 
+
+individual monthly totals for the preceding 11 months. 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 11 i. 
+
+GENERAL CONDITIONS 
+
+(9VAC5-80-1 210) 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+(9VAC5-80-1210 G) 
+
+ii. 
+
+iii. 
+
+Engine information including make, model, engine family, serial number, model 
+
+year, maximum engine power, engine displacement, fuel used; 
+
+Installation date; and, 
+
+Integration operational period start and end dates. 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not 
+
+completed within a reasonable time, except for a DEQ approved period between phases 
+
+of the phased construction of a new stationary source or project. 
+
+a. A program of continuous construction is not commenced within 18 months from the 
+
+‘Original Permit Date ’ as listed for the diesel engine gen-sets in the Introduction section 
+
+of this permit; or 
+
+20. Permit Invalidation - This permit to construct the emergency diesel engine gen-sets shall 
+
+become invalid, unless an extension is granted by the DEQ, if: 
+
+completion of the integration operational period for the most recently installed 
+
+emergency diesel engine gen-set. The notification must contain the following: 
+
+e. Fails to operate in conformance with any applicable control strategy, including any 
+
+emission standards or emissions limitations, in the State Implementation Plan in effect at 
+
+the time an application for this permit is submitted.                                                  
+
+> For the purpose of this notification, the integration operational period is defined as: the
+> period of time beginning with the first time the affect unit is started on-site and ending when
+> the affected unit is fully integrated with the sources electrical system. In no case shall this
+> period exceed 30 days.
+> (9VAC5-50-50 and 9VAC5-80-1 180)
+
+d. Causes emissions from the stationary source which result in violations of, or interfere 
+
+with the attainment and maintenance of, any ambient air quality standard; or 
+
+21. Permit Suspension/Revocation - This permit may be suspended or revoked if the 
+
+permittee: 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 12 
+
+a. Knowingly makes material misstatements in the permit application or any amendments 
+
+to it; d. To sample or test at reasonable times. 
+
+b. Maintain an inventory of spare parts. 24. Record of Malfunctions - The permittee shall maintain records of the occurrence and 
+
+duration of any bypass, malfunction, shutdown or failure of the facility or its associated air 
+
+23. Maintenance/Operating Procedures - At all times, including periods of start-up, shutdown, 
+
+soot blowing, and malfunction, the permittee shall, to the extent practicable, maintain and 
+
+operate the affected source, including associated air pollution control equipment, in a
+
+manner consistent with good air pollution control practices for minimizing emissions. 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 13 
+
+Records of maintenance and training shall be maintained on site for a period of five years 
+
+and shall be made available to DEO personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1 180 D) 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during  
+
+> regular
+
+business hours or whenever the facility is in operation. Nothing contained herein 
+
+shall make an inspection time unreasonable during an emergency.  
+
+> (9VAC5-170-130
+
+and 9VAC5-80-1180) 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms 
+
+and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+b. To have access to and copy at reasonable times any records required to be kept under   
+
+> the terms
+
+and conditions of this permit or the State Air Pollution Control Board 
+
+Regulations; 
+
+22. Right of Entry - The permittee shall allow authorized local, state, and federal 
+
+representatives, upon the presentation of credentials: 
+
+The permittee shall take the following measures in order to minimize the duration and 
+
+frequency of excess emissions: 
+
+d. Train operators in the proper operation of all such equipment and familiarize the 
+
+operators with the written operating procedures, prior to their first operation of such 
+
+equipment. The permittee shall maintain records of the training provided including the 
+
+names of trainees, the date of training and the nature of the training. 
+
+c. Have available written operating procedures for equipment. These procedures shall be 
+
+based on the manufacturer's recommendations, at a minimum. 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any 
+
+records are required to be kept under the terms and conditions of this permit; 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non 
+
+scheduled maintenance. 25. Notification for Facility or Control Equipment Malfunction - The permittee shall furnish 
+
+notification to the Regional Air Compliance Manager of the DEQ ’s NRO of malfunctions of 
+
+the affected facility or related air pollution control equipment that may cause excess 
+
+emissions for more than one hour. Such notification shall be made no later than four 
+
+daytime business hours after the malfunction is discovered. The permittee shall provide a 
+
+> written
+
+statement giving all pertinent facts, including the estimated duration of the  
+
+> breakdown,
+
+within 14 days of discovery of the malfunction. When the condition causing the 
+
+failure or malfunction has been corrected and the equipment is again in operation, the  
+
+> permittee
+
+shall notify the Re 9 ional Air Compliance Mana 9 er of the DEQ ’s NRO. 
+
+(9VAC5-20-1 80 C and 9VAC5-80-1 180) 27. Change of Ownership - In the case of a transfer of ownership of a stationary source, the 
+
+new owner shall abide by any current minor NSR permit issued to the previous owner. The 
+
+new owner shall notify the DEQ ’s NRO of the chan 9 e of ownershi P within 30 days of the 
+
+transfer. 
+
+(9VAC5-80-1 240) 
+
+26. Violation of Ambient Air Quality Standard - The permittee shall, upon request of the 
+
+DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating 
+
+any primary ambient air quality standard and shall not return to normal operation until such 
+
+time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-1 80 I and 9VAC5-80-1180) 
+
+28. Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility 
+
+to which it applies. 
+
+> (9VAC5-80-1
+
+180)   
+
+> pollution control
+
+equipment that results in excess emissions for more than one hour. 
+
+Records shall include the date, time, duration, description (emission unit, pollutant affected, 
+
+cause), corrective action, preventive measures taken and name of person generating the 
+
+record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1 180 D) 
+
+Zayo Group, LLC 
+
+Registration Number: 73717 
+
+May 29, 2019 
+
+Page 14 Attachment A
+
+Source Testing Report Format *
+
+SOURCE TESTING REPORT FORMAT 
+
+Copy of Approved Test Protocol 
+
+* Not applicable to visible emission evaluations 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. ‘Signed by reviewer 
+
+Appendix 
+
+1. ‘Raw production data 
+
+2. ‘Raw field data 
+
+3. ‘Laboratory reports 
+
+4. ‘Chain of custody records for lab samples 
+
+5. ‘Calibration procedures and results 
+
+6. Project participants and titles 
+
+7. Observers ’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section. Attached protocol includes: 
+
+sketch of stack (elevation view) showing sampling port locations, upstream and 
+
+downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) 
+
+showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1. Detailed test results for each run 
+
+2. ‘Sample calculations 
+
+3. ‘Description of collected samples, to include audits when applicable 
+
+Report Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test dates 
+
+4. Tester name, address and report date 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity 
+
+4. ‘For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test methods 
+
+c. Pollutants tested 
+
+d. Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as 
+
+required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification 
+
+& discussion of deviations, including the likely impact on results 
+
+7. Any other important information

@@ -1,0 +1,26 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "Not published",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 0,
+ "citation": null,
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "calc:not-recorded",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": []
+ },
+ "transforms": [],
+ "sensitivity": [],
+ "drivers": []
+}

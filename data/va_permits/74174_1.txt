@@ -1,0 +1,1392 @@
+Title: Permit
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25936/638633803342700000
+
+Published Time: Tue, 01 Oct 2024 10:52:14 GMT
+
+Number of Pages: 21
+
+Markdown Content:
+August 9,2019 
+
+Dear Mr. Genovese; Location; Loudoun County Registration No.: 74174 
+
+This permit approval to construct and operate shall not relieve Vadata, Inc. IAD-150, IAD-151 
+
+and IAD-152 of the responsibility to comply with all other local, state, and federal permit 
+
+regulations.           
+
+> David K. Paylor
+> Director
+> (804)698^00
+> Thomas A. Faha
+> Regional Director
+> Matthew J. Strickler
+> Secretary of Natural Resources
+
+The proposed emergency diesel engine gen-sets may be subject to 40 CFR 63, Maximum 
+
+Achievable Control Technology (MACT), Subpart ZZZZ and 40 CFR 60, New Source 
+
+Performance Standard (NSPS), Subpart HII. Virginia has not accepted delegation of this rule. In 
+
+summary, the unit may be required to comply with certain federal emission standards and 
+
+operating limitations. The Department of Environmental Quality (DEQ) advises you to review 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of 
+
+Violation and/or civil charges. Please read all permit conditions carefully. 
+
+Attached is a permit to construct and operate emergency diesel engine generator sets (gen-sets) at 
+
+Vadata, Inc. IAD-150, IAD-151, and IAD-152 data centers in accordance with the provisions of 
+
+the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air 
+
+Pollution. 
+
+Mr. Todd J. Genovese 
+
+Vice President Vadata, Inc. 13200 Woodland Park Rd. 
+
+Herndon, VA 20171 
+
+Commonwealth of Virginia 
+
+VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY           
+
+> NORTHERN REGIONAL OFFICE
+> 13901 Crown Court, Woodbridge, Virginia 22193
+> (703)583-3800 FAX (703) 583-3821
+> www.dea.virginia.gov
+
+In the course of evaluating the application and arriving at a final decision to approve the project, 
+
+the Department of Environmental Quality (DEQ) deemed the application complete on June 12, 
+
+2019. ificerel ’
+
+TAF/JAW/TJL/74174 mNSR Permit (8/9/2019) 
+
+Attachment: Permit 
+
+> cc:
+
+Wilkinson 
+
+egional Air Permit Manager 
+
+the referenced MACT and NSPS to ensure compliance with applicable emission and operational 
+
+limitations. As the owner/operator you are also responsible for any monitoring, notification, 
+
+reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be 
+
+sent to EP A, Region 3. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you 
+
+actually received this permit or the date on which it was mailed to you, whichever occurred first, 
+
+within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+If you have any questions concerning this permit, please contact Jon Lutz at (703) 385-3836 or 
+
+via email at timothy.lutz@deq.virginia.gov .
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 
+
+provide that you may request a formal hearing from this case decision by filing a petition with 
+
+the Board within 30 days after this case decision notice was mailed or delivered to you. Please 
+
+consult the relevant regulations for additional requirements for such requests. 
+
+Aizhan Dossanova, Vadata, Inc. (electronic file submission) 
+
+Regional Air Compliance Manager (electronic file submission) 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which 
+
+to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for 
+
+information on the required content of the Notice of Appeal and for additional requirements 
+
+governing appeals from decisions of administrative agencies. 
+
+David K. Paylor, Director Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US 
+
+Government Publishing Office maintains the text of these rules at www.ecfr.gov . Title 40, Part 
+
+60 and 63. 
+
+Mr. Todd J. Genovese 
+
+August 9, 2019 
+
+Page 2STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+is authorized to construct and operate emergency diesel engine generator sets (gen-sets) 
+
+located at 
+
+in accordance with the Conditions of this permit. 
+
+Approved on: August 9,2019 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution, 
+
+Permit consists of 19 pages. 
+
+Permit Conditions 1 to 33.        
+
+> David K. Paylor
+> Director
+> (804)698-4000
+> Matthew J. Strickler
+> Secretary of Natural Resources
+
+Vadata IAD-150, IAD-151, and IAD-152 
+
+25430,25420 and 25390 Sutton Bay Plaza 
+
+Chantilly, Virginia 20152 
+
+(Loudoun County) 
+
+Thomas A. Paha 
+
+Regional Director 
+
+Vadata, Inc. 13200 Woodland Park Rd. 
+
+Herndon, Virginia 20171 
+
+Registration No.: 74174    
+
+> Thomas A. Faha
+> Regional Director
+
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 
+
+13901 Crown Court, Woodbridge, Virginia 22193 
+
+(703)583-3800 FAX (703) 583-3821 
+
+www.deq.virginia.gov INTRODUCTION  
+
+> The
+
+availability of information submitted to the DEQ or the Board will be governed by 
+
+applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the 
+
+Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of 
+
+Virginia, and 9VAC5-1 70-60 of the State Air Pollution Control Board ’s Regulations. 
+
+Information provided to federal officials is subject to appropriate federal law and regulations 
+
+governing confidentiality of such information.  
+
+> Any
+
+changes in the permit application specifications or any existing facilities, which alter the 
+
+impact of the facility on air quality, may require a permit. Failure to obtain such a permit prior to 
+
+construction may result in enforcement action. In addition, this facility may be subject to  
+
+> additional
+
+applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1 110 and  
+
+> 9VAC5-10-20
+
+of the Commonwealth of Virginia ’s State Air Pollution Control Board 
+
+Regulations for the Control and Abatement of Air Pollution. The regulatory reference or 
+
+authority for each condition is listed in parentheses () after each condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions 
+
+data will necessitate a prompt response by the permittee to requests by the Department of  
+
+> Environmental
+
+Quality (DEQ) or the Board for information to include, as appropriate: process 
+
+and production data; changes in control equipment; and operating schedules. Such requests for 
+
+information from the DEQ will either be in writing or by personal contact. 
+
+This permit approval is based on the permit application dated March 19, 2019 and supplemental 
+
+information dated April 23,2019. 
+
+VadataIAD-150, IAD-151, and IAD-152 
+
+Registration Number; 74174 
+
+August 9, 2019 
+
+Page 4Reference No. Equipment Description 
+
+1-62 None 8/9/2019 
+
+Reference No. Equipment Description 
+
+T-1 and T-2 None 8/9/2019 
+
+Equipment List - Equipment at this facility subject to permit requirements of 9VAC5-80-1 100  
+
+> et.
+
+seq. consists of; 
+
+> Delegated
+
+Federal Requirements 
+
+Specifications included in the above tables are for informational purposes only and do not form 
+
+enforceable terms or conditions of the permit.  
+
+> Sixty
+
+Two (62) Caterpillar 3516C-HD emergency diesel engine gen-sets 
+
+Standby 
+
+Rated Capacity 
+
+2,937 bhp 2,000 ekW 
+
+(each unit) 
+
+3,634 bhp 2,500 ekW 
+
+(each unit) Two (2) Caterpillar 3516C   
+
+> emergency diesel
+
+engine gen-set 
+
+Vadata IAD-150, IAD-151, and IAD-152   
+
+> Registration Number:
+
+74174 
+
+August 9,2019 
+
+> Pages
+
+Original Permit 
+
+Date 
+
+Original 
+
+> Permit
+
+Date 
+
+Equipment to be constructed: 
+
+Standby 
+
+Rated 
+
+Capacity Transitory equipment to be constructed: Delegated 
+
+Federal 
+
+> Requirements
+
+PROCESS REQUIREMENTS 
+
+1. 
+
+2. 
+
+3. 
+
+OPERATING/EMISSION LIMITATIONS  
+
+> The
+
+data from each monitoring device shall be recorded by the permittee with a frequency 
+
+of not less than once each day the emergency diesel engine gen-set is operated. The 
+
+permittee shall keep a log of these observations. 
+
+5. Operating Limitations (Ozone Season) - No emergency diesel engine gen-sets included in 
+
+the Equipment List section of this permit shall be operated for scheduled and non-scheduled maintenance, readiness testing, or operation training (that involves fuel combustion) 
+
+4. Operation of the Engine-Generator Set - The permittee shall operate and maintain each 
+
+emergency diesel engine gen-set included in the Equipment List section of this permit and 
+
+control device according to the manufacturer ’s written instructions or procedures developed  
+
+> by
+
+the permittee that are approved by the engine manufacturer. In addition, the permittee  
+
+> may
+
+only change those settings that are permitted by the manufacturer and does not increase air emissions. 
+
+(9 VAC 5-80-1180) 
+
+Emission Controls - Visible emissions, particulate matter (PMio and PM2.5) emissions, 
+
+carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, and 
+
+nitrogen oxide (NOx) emissions from the emergency diesel engine gen-sets included in the Equipment List section of this permit shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are   
+
+> permitted by
+
+the manufacturer and does not increase air emissions. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and 
+
+operated in accordance with approved procedures which shall include, as a minimum, the 
+
+manufacturer ’s written requirements or recommendations. 
+
+(9 VAC 5-80-1180 D) 
+
+VadataIAD-150, IAD-151, and IAD-152 
+
+Registration Number: 74174 
+
+August 9, 2019 
+
+Page 6
+
+Monitoring Devices - Each emergency diesel engine gen-set included in the Equipment List 
+
+section of this permit shall be equipped with a non-resettable hour meter which measures 
+
+the duration of time that each emergency diesel engine gen-set is operated and a fuel flow 
+
+monitoring device used to continuously measure the fuel throughput for each emergency diesel engine gen-set. 
+
+Emission Controls - Nitrogen oxides (NOx) emissions from each emergency diesel engine gen-set included in the Equipment List section of this permit shall be controlled by engine 
+
+> design.
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 6. 
+
+a. i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+i. 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to 
+
+minimize the use of such scarce fuel; 
+
+7. Emergency Power Generation - The emergency diesel engine gen-sets included in the Equipment List section of this permit shall only be operated for the following purposes: 
+
+An abnormal system condition requiring manual or automatic action to maintain  
+
+> system
+
+frequency, to prevent loss of firm load, equipment damage, or tripping of 
+
+system elements that could adversely affect the reliability of an electric system or 
+
+the safety of persons or property; 
+
+between the hours of 7 AM to 5 PM any day during May 1 through September 30. The 
+
+permittee may petition the Regional Air Compliance Manager, DEQ NRO for exceptions to 
+
+this requirement, with approvals made on a case-by-case basis. 
+
+(9 VAC 5-80-1180) 
+
+Operating Limitations (Ozone Season) - Integration Operational Period - During the integration operational period of each emergency diesel engine gen-sets included in the Equipment List of the permit, any operation of the unit (that involves fuel combustion) 
+
+between the hours of 7 AM to 5 PM any day during the ozone season of May 1 throng 
+
+September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as  
+
+> published
+
+on the AirNow website (http://aimow.gov ) for Northern Virginia for that day is 
+
+<100. In the event that AirNow-EnviroFlash (www.enviroflash.info ) issues an Air Alert for 
+
+Ozone for the Metropolitan Washington, D C. for a day which the forecasted AQI for ozone was <100, operation of each unit (which involves fuel combustion) shall be minimized to 
+
+the maximum extent practical. 
+
+(9 VAC 5-80-1180) In situations that arises from sudden and reasonably unforeseeable events where the 
+
+primary energy or power source is disrupted or disconnected due to conditions beyond 
+
+the control of an owner or operator of a facility including: 
+
+hi. Public service emergencies such as flood, fire, natural disaster, or severe weather 
+
+conditions. 
+
+b. An Independent System Operator (ISO) declared emergency, where an ISO 
+
+emergency is any of the following: 
+
+VadataIAD-150, IAD-151, and IAD-152  
+
+> Registration
+
+Number: 74174 
+
+August 9, 2019 
+
+Page 7c. For maintenance (scheduled and non-scheduled), testing, and operational training. 
+
+> 8.
+
+9. Diesel Fuel Throughput -
+
+a. 
+
+b. 
+
+> c.
+
+d. For the integration operational period, which is the period of time beginning with the 
+
+first time the affected unit is started on-site and ending when the affected unit is fully 
+
+integrated with the sources electrical system. 
+
+The emergency diesel engine gen-sets (Ref. No.: 1 - 62) combined, shall consume no 
+
+more than 678,844 gallons of diesel fuel per year, calculated daily as the sum of each 
+
+consecutive 365 day period. 
+
+V. An abnormal event external to the ISO service territory that may require ISO 
+
+action. 
+
+Operating Hours - Each individual emergency diesel engine gen-set shall not operate more 
+
+than 100 hours per year for planned non-emergency operation and no more than 500 hours 
+
+per year for all purposes (as provided in Condition 7). iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+The emergency diesel engine gen-sets included in the Equipment List section of this 
+
+permit combined, shall consume no more than 279,682 gallons of diesel fuel per year Planned non-emergency operation includes scheduled and non-scheduled maintenance, readiness testing, and operational training. Planned non-emergency operation cannot be used for peak shaving or non-emergency demand response, or to generate income for a
+
+facility to an electric grid or otherwise supply power as part of a financial arrangement with another entity.  
+
+> The
+
+emergency diesel engine gen-sets (Ref. No.: T1 and T2) combined, shall consume 
+
+no more than 21,100 gallons of diesel fiiel per year, calculated daily as the sum of 
+
+each consecutive 365 day period. Total emissions for any annual period calculated as the sum of all emissions firom operation 
+
+under the scenarios above, shall not exceed the limits stated in Condition 14. 
+
+(9 VAC 5-80-1180)  
+
+> The
+
+annual limits for hours of operation shall be calculated daily as the sum of each 
+
+consecutive 365-day period. Compliance for each consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the 
+
+individual daily totals for the preceding 364 days. 
+
+(9 VAC 5-80-1180) 
+
+VadataIAD-150, IAD-151, and IAD-152  
+
+> Registration
+
+Number; 74174 
+
+August 9, 2019 
+
+Pages a. 
+
+b. The date on which the diesel fuel was received; The quantity of diesel fuel delivered in the shipment; c. 
+
+d. 
+
+The sulfur content of the diesel fuel. e. 
+
+EMISSION LIMITS 
+
+Maintenance checks and readiness testing fuel consumption limits does not include the 
+
+integration operational period, manufacturer recall updates, and repairs. 
+
+for maintenance checks and readiness testing, calculated daily as the sum of each 
+
+consecutive 365 day period. 
+
+A statement that the diesel fuel complies with the American Society for Testing and 
+
+Materials specifications (ASTM D975) for SI 5 diesel fuel oil; and 
+
+Compliance for the consecutive 365 day period shall be demonstrated daily by adding the 
+
+total for the most recently completed calendar day to the individual daily totals for the 
+
+preceding 364 days. 
+
+(9 VAC 5-80-1180) 
+
+10. Fuel Specification - The approved fuel for the emergency diesel engine gen-sets included in 
+
+the Equipment List section of this permit is diesel fuel oil. The diesel fuel oil shall meet the 
+
+ASTM D975 specification for S15 diesel fuel oil with a maximum sulfur content per 
+
+shipment of 0.0015% (15 ppm). Exceedance of these specifications maybe considered 
+
+credible evidence of an exceedance of emission limits. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+Vadata IAD-150, IAD-151, and IAD-152 
+
+Registration Number: 74174 
+
+August 9, 2019 
+
+Page 9
+
+12. Emission Limits (Hourly) - Emissions from the operation of each Caterpillar 3516C-HD 
+
+emergency diesel engine gen-set (Ref. Nos.: 1 - 62) shall not exceed the limits specified 
+
+below: Alternatively, the permittee must obtain approval from the Regional Air Compliance 
+
+Manager, DEQ NRO, if other documentation will be used to certify the diesel fuel oil type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be 
+
+periodically required or conducted by DEQ, may be used to determine compliance with the 
+
+fuel specifications stipulated in Condition 10. 
+
+(9 VAC 5-80-1180) 
+
+11. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with 
+
+each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+The name of the fuel supplier; Nitrogen Oxides (as NO2) 48.06 Ibs/hr 
+
+Carbon Monoxide (CO) 6.09 Ibs/hr  
+
+> Volatile
+
+Organic Compounds (VOC) 1.21 Ibs/hr 
+
+Particulate Matter (PMio) 0.40 Ibs/hr 
+
+Particulate Matter (PM2.5) 0.40 Ibs/hr 
+
+(9 VAC 5-80-1180)  
+
+> Nitrogen
+
+Oxides (as NO2) 38.85 Ibs/hr 
+
+Carbon Monoxide (CO) 3.95 Ibs/hr  
+
+> Volatile
+
+Organic Compounds (VOC) 1.14 Ibs/hr 
+
+Particulate Matter (PMio) 0.57 Ibs/hr 
+
+Particulate Matter (PM2.5) 0.57 Ibs/hr  
+
+> (9
+
+VAC 5-80-1180)  
+
+> Nitrogen
+
+Oxides (as NO2) 97.00 tpy Carbon Monoxide (CO) 51.07 tpy Volatile Organic Compounds (VOC) 10.69 tpy 
+
+Particulate Matter (PMio) 3.50 tpy 
+
+Particulate Matter (PM2.5) 3.50 tpy 
+
+13. Emission Limits (Hourly) - Emissions from the operation of each Caterpillar 3516C  
+
+> emergency
+
+diesel engine gen-set (Ref. Nos.: T1 and T2) shall not exceed the limits  
+
+> specified
+
+below: 
+
+These emissions are derived from the estimated overall emission contribution from 
+
+operating limits. Exceedance of the operating limits may be considered credible evidence of 
+
+14. Emission Limits (Annual) - Emissions from the combined operation of all emergency diesel 
+
+engine gen-sets (Ref. Nos. 1 - 62, T1 and T2) included in the Equipment List section of this 
+
+permit for all purposes shall not exceed the limits specified below: 
+
+Vadata IAD-150, IAD-151, and IAD-152  
+
+> Registration
+
+Number: 74174  
+
+> August
+
+9, 2019 
+
+Page 10 Nitrogen Oxides (as NO2) 38.7 tpy 
+
+> I
+
+Carbon Monoxide (CO) 20.9 tpy Volatile Organic Compounds (VOC) 4.4 tpy Particulate Matter (PMio) 1.4 tpy Particulate Matter (PM2.5) 1.4 tpy 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+15. Emission Limits (Maintenance Checks and Readiness Testing) - Emissions from the combined operation of the Caterpillar 3516C-HD emergency diesel engine gen-set (Ref. 
+
+Nos.: 1 - 62) for maintenance checks and readiness testing shall not exceed the limits 
+
+specified below: 
+
+Vadata IAD-150, IAD-151, and IAD-152 
+
+Registration Number: 74174 
+
+August 9, 2019 
+
+Page 11 
+
+the exceedance of emission limits. Compliance with these emission limits may be 
+
+determined as stated in Conditions 1,2, and 4. 
+
+(9 VAC 5-80-1180) 
+
+These emissions are derived from the estimated overall emission contribution from 
+
+operating limits. Exceedance of the operating limits may be considered credible evidence of 
+
+the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions 1,2,4, and 9. 
+
+(9 VAC 5-80-1180) 
+
+17. Stack Test - Initial performance tests shall be conducted on one Caterpillar Model 351 6C-
+
+HD emergency diesel engine gen-set (Ref. Nos.: 1 - 62) for filterable particulate matter, using EPA Reference Method 5 or 5 A, and condensable particulate matter, using EPA 
+
+Reference Method 202. 
+
+16. Visible Emission Limit - Visible emissions from each emergency diesel engine gen-set included in the Equipment List section of this permit shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 
+
+10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown and malfimction. 
+
+During startup and shutdown, visible emissions from each emergency diesel engine gen-set 
+
+shall not exceed 10% opacity except during one 6-minute period in any one hour in which 
+
+visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 
+
+40 CFR 60, Appendix A). (9 VAC 5-80-1180 and 9 VAC 5-50-260) a. 
+
+b. 
+
+> c.
+
+d. 
+
+e. Two copies, one paper copy and one on removable electronic media, of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+The details of the tests are to be arranged with the Regional Air Compliance Manager, 
+
+DEQ NRO. The permittee shall submit the test protocol to the Regional Air 
+
+Compliance Manager, DEQ NRO at least thirty days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less 
+
+than thirty days for review and acceptance, DEQ approval may not be issued in a
+
+timely manner to allow for testing to take place according to the permittee ’s schedule; 
+
+Testing shall be conducted on the Caterpillar Model 3516C-HD emergency engine 
+
+gen-set operating at >90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air 
+
+Compliance Manager of the DEQ ’s NRO shall be notified in writing, within seven 
+
+days, and visible emissions testing shall be rescheduled within 30 days. Rescheduled Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. If this deadline falls within the ozone season (May 
+
+1 through September 30) the facility shall perform testing to demonstrate compliance 
+
+within 30 days after the end of the ozone season. Tests shall be conducted and 
+
+reported and data reduced as set forth in 9VAC5-50-30 and 9VAC5-60-30, and the 
+
+test methods and procedures contained in each applicable section or subpart listed in 
+
+9VAC5-50-410 and 9VAC5-60-70; 
+
+For lab testing only (not field testing): Samples taken as required by this permit shall be 
+
+analyzed in accordance with 1VAC30-46, Accreditation for Commercial Environmental 
+
+Laboratories. 
+
+(9 VAC 5-50-30, 9 VAC 5-80-1200, 9 VAC 5-50-410) 
+
+VadataIAD-150, IAD-151, andIAD-152 
+
+Registration Number: 74174 
+
+August 9, 2019 
+
+Page 12 
+
+Should conditions occur which would require rescheduling the testing, the permittee  
+
+> shall
+
+notify the Regional Air Compliance Manager, DEQ NRO in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+18. Visible Emissions Evaluation - Concurrent with the initial compliance determination required in Condition 17, Visible Emission Evaluations (VEE) in accordance with 40 CFR 
+
+Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the selected 
+
+emergency diesel engine-generator sets selected for initial performance testing. The details 
+
+of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ ’s
+
+NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol required by Condition 17 at least 30 days prior to testing. (9 VAC 5-50-30 and 9 VAC 5-80-1200) 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+RECORDS 
+
+testing shall be conducted under the same conditions (as possible) as the initial performance tests. b. Two copies of the test result (one hard copy and one on electronic media) shall be 
+
+submitted to the Regional Air Compliance Manager of the DEQ ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with 
+
+this permit (Attachment A). 21. On Site Records - The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. All on-site recordkeeping and compliance submittals to DEQ must utilize the reference numbers for 
+
+permitted equipment identified in the Equipment List of this permit. The content and format 
+
+of such records shall be arranged with the Regional Air Compliance Manager of the DEQ ’s
+
+NRO. These records shall include, but are not limited to: 
+
+a. Documentation from the manufacturer that each emergency diesel engine gen-set included in the Equipment List section of this permit is certified to meet the EPA Tier 
+
+2 emission standards. 
+
+20. Emissions Testing/Visible Emissions Evaluation - Upon request by the DEQ, the permittee 
+
+shall conduct stack tests and/or VEEs of the emergency diesel engine gen-sets included in 
+
+the Equipment List of this permit to demonstrate compliance with the emission limits   
+
+> contained in
+
+this permit. The details of the tests shall be arranged with the Regional Air 
+
+Compliance Manager of the DEQ ’s NRO. 
+
+(9 VAC 5-50-30 G and 9 VAC 5-80-1200) 
+
+19. Facility Construction - The emergency diesel engine gen-sets included in the Equipment List section of this permit shall be constructed so as to allow for emissions testing upon reasonable notice, using appropriate methods. This includes constructing the 
+
+facility/equipment such that volumetric flow rates and pollutant emission rates can be  
+
+> accurately
+
+determined by applicable test methods and providing a stack or duct that is free 
+
+from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9 VAC 5-50-30 F and 9 VAC 5-80-1180) 
+
+VadataIAD-150, IAD-151, andIAD-152   
+
+> Registration Number:
+
+74174 
+
+August 9, 2019 
+
+Page 13 b. 
+
+set. 
+
+> c.
+
+d. A log of monitoring device observations, as required by Condition 3. e. 
+
+f. 
+
+To verify compliance with Condition 6, maintain records of: g-
+
+i. 
+
+h. 
+
+i. 
+
+j. 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours 
+
+and duration. 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as 
+
+determined by AirNow-EnviroFlash; and. 
+
+Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each emergency diesel engine gen 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that the emergency diesel engine gen-set operated during 
+
+the integration operational period; 
+
+The manufacturer ’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each emergency diesel engine gen-set 
+
+Records of the reasons for operation for each emergency diesel engine gen-set, 
+
+including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+Annual diesel fuel consumption of each emergency diesel engine gen-set included in 
+
+the Equipment List section of this permit for purposes of maintenance Annual fuel consumption of each emergency diesel engine gen-set included in the Equipment List sections of this permit, calculated as the sum of each consecutive 365-
+
+day period. 
+
+Annual hours of operation of each emergency diesel engine gen-set included in the Equipment List section of this permit, calculated as the sum of each consecutive 365-
+
+day period. 
+
+VadataIAD-150, IAD-151, andIAD-152  
+
+> Registration
+
+Number: 74174 
+
+August 9, 2019 
+
+Page 14 
+
+The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that an emergency diesel engine gen-set operated during 
+
+the integration operational period; Records for emergency diesel engine gen-set operations, as necessary, to demonstrate compliance with the operating limitations of Condition 5; which includes but is not 
+
+limited to: times, dates, and reasons for operation of each emergency diesel engine 
+
+gen-set that was operating between May 1 and September 30. 1. 
+
+n. All fuel supplier certifications. 
+
+Results of all stack tests and visible emission evaluations. o. 
+
+Records of scheduled and unscheduled maintenance P-
+
+Records of operator training. q. r. 
+
+NOTIFICATIONS 
+
+Regional Air Compliance Manager Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+Annual fuel consumption for the combined operation of the 2 emergency diesel engine gen-sets (Ref. Nos.: T1 and T2), calculated daily as the sum of each consecutive 365-
+
+day period. 
+
+22. Initial Notifications - The permittee shall furnish written notification of the items below to 
+
+the Regional Air Compliance Manager, DEQ NRO at the following address: 
+
+Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets. 
+
+k. Annual fuel consumption for the combined operation of the 62 emergency diesel 
+
+engine gen-sets (Ref. Nos.: 1 - 62), calculated daily as the sum of each consecutive 365-day period. m. Annual emissions calculations for NOX (as NO2), CO, VOC, PM 10, and PM2.5 from 
+
+the emergency diesel engine gen-sets included in the Equipment List section of this 
+
+permit, calculated daily as the sum of each consecutive 365-day period. 
+
+VadataIAD-150, IAD-151, andIAD-152  
+
+> Registration
+
+Number: 74174 
+
+August 9, 2019 
+
+Page 15 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed day to the individual daily totals for the preceding 364 
+
+days. 
+
+checks/readiness testing, calculated daily as the sum of each consecutive 365-day 
+
+period. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most 
+
+recent five years. (9 VAC 5-80-1180 and 9 VAC 5-50-50) i. 
+
+ii. 
+
+SPECIAL CONDITIONS - TRANSITORY ENGINE GEN-SETS 
+
+The permittee shall submit one notification for each building containing information on 
+
+each emergency engine gen-set as described below: 
+
+24. Notifications - The peraiittee shall furnish the following written notifications to DEQ's   
+
+> NRO Air
+
+Compliance Manager of: 
+
+Engine information including make, model, engine family, serial number, model  
+
+> year,
+
+maximum engine power, engine displacement, fuel used; 
+
+Installation date; and, iii. Integration operational period start and end dates. 
+
+Name and address of the permittee; The building; 
+
+Unit reference number of the initial unit installed; and,  
+
+> The
+
+date installation commenced. 
+
+Vadata IAD-150, IAD-151, and IAD-152   
+
+> Registration Number;
+
+74174 
+
+August 9, 2019 
+
+Page 16 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets in the 
+
+building commenced within 30 days after such date. The notification must contain the 
+
+following: 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+b. The date that the integration operational period started for each emergency diesel 
+
+engine gen-sets (Ref. Nos. 1-62) within 15 days after the last generator at each 
+
+building completes its integration operational period. If a period of construction is 
+
+paused or halted for 45 days this notification shall be provided to the DEQ within 15 
+
+days after completion of the integration operational period for the most recently 
+
+installed emergency diesel engine gen-set. The notification must contain the 
+
+> following:
+
+a. The actual date and reason for each occurrence that each transitory emergency diesel 
+
+engine gen-set (Ref. Nos. T1 and T2) was placed into service within 15 days after such    
+
+> date. The notification
+
+must include the following: 
+
+For the purpose of this notification, the integrational operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending 
+
+with the affected unit is fully integrated with the sources electrical system. In no case shall 
+
+this period exceed 30 days. (9 VAC 5-80-1180 and 9 VAC 5-50-50) 
+
+23. Operation of the Transitory Engine Gen-Sets - The facility shall only operate the transitory emergency diesel engine gen-sets (Ref. Nos. T1 and T2) in support of the facility such as 
+
+serving as back up during construction, commissioning, and maintenance of engine gen-sets 
+
+(Ref. Nos. 1 through 44). 
+
+(9 VAC 5-80-1180) i. Name and address of the permittee; 
+
+The address of the affected source; ii. 
+
+iv. Fuel used; and Hours operated. V. 
+
+(9 VAC 5-80-1180) 
+
+GENERAL CONDITIONS 
+
+a. 
+
+(9 VAC 5-80-1210) 
+
+26. Permit Suspension/Revocation - This permit may be suspended or revoked if the permittee: 
+
+a. 
+
+b. Fails to comply with the conditions of this permit; Fails to comply with any emission standards applicable to a permitted emissions unit; c. 
+
+d. 
+
+A program of continuous construction is not commenced within 18 months from the 
+
+‘Original Permit Date ’ as listed for the diesel engine gen-sets in the Introduction 
+
+section of this permit; or 
+
+25. Permit Invalidation - This permit to construct the emergency diesel engine gen-sets shall 
+
+become invalid, unless an extension is granted by the DEQ, if: 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not 
+
+completed within a reasonable time, except for a DEQ approved period between 
+
+phases of the phased construction of a new stationary source or project. Causes emissions from the stationary source which result in violations of, or interfere 
+
+with the attainment and maintenance of, any ambient air quality standard; or 
+
+Knowingly makes material misstatements in the permit application or any 
+
+amendments to it; 
+
+Vadata IAD-1 50, IAD-1 51, and IAD-1 52 
+
+Registration Number: 74174 
+
+August 9, 2019 
+
+Page 17 
+
+b. The actual date of the removal of each transitory emergency diesel engine gen-set 
+
+(Ref. Nos. T1 and T2) within 15 days after such date. 
+
+hi. Engine information including make, model, engine family, serial number, model 
+
+year, maximum engine power and engine displacement; (9 VAC 5-80-1210 G) 
+
+a. 
+
+b. 
+
+> c.
+
+d. To sample or test at reasonable times. 
+
+a. 
+
+b. Maintain an inventory of spare parts 
+
+> c.
+
+d. 
+
+Develop a maintenance schedule and maintain records of all scheduled and non 
+
+scheduled maintenance. 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+To have access to and copy at reasonable times any records required to be kept under 
+
+the terms and conditions of this permit or the State Air Pollution Control Board 
+
+Regulations; To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such 
+
+The permittee shall take the following measures in order to minimize the duration and 
+
+frequency of excess emissions: 
+
+Vadata IAD-150, IAD-151, and IAD-152 
+
+Registration Number: 74174 
+
+August 9, 2019 
+
+Page 18 
+
+27. Right of Entry - The permittee shall allow authorized local, state, and federal 
+
+representatives, upon the presentation of credentials: 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during 
+
+regular business hours or whenever the facility is in operation. Nothing contained herein 
+
+shall make an inspection time unreasonable during an emergency. 
+
+(9 VAC 5-170-130 and 9 VAC 5-80-1180) 
+
+To inspect at reasonable times any facility, equipment, or process subject to the terms 
+
+and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+and 28. Maintenance/Operating Procedures - At all times, including periods of start-up, shutdown, 
+
+soot blowing, and malfunction, the permittee shall, to the extent practicable, maintain and 
+
+operate the affected source, including associated monitoring devices and air pollution 
+
+control equipment, in a manner consistent with good air pollution control practices for 
+
+minimizing emissions. 
+
+Have available written operating procedures for equipment. These procedures shall be 
+
+based on the manufacturer's recommendations, at a minimum. equipment. The permittee shall maintain records of the training provided including the 
+
+names of trainees, the date of training and the nature of the training. 
+
+30. Notification for Facility or Control Equipment Malfunction - The permittee shall furnish notification to the Regional Air Compliance Manager, DEQ NRO of malfunctions of the 
+
+affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days 
+
+of discovery of the malfunction. When the condition causing the failure or malfunction has 
+
+been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager, DEQ NRO. 
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) 
+
+31. Violation of Ambient Air Quality Standard - The permittee shall, upon request of the DEQ, 
+
+reduce the level of operation or shut down a facility, as necessary to avoid violating any 
+
+primary ambient air quality standard and shall not return to normal operation until such  
+
+> time
+
+as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 1 and 9 VAC 5-80-1180) 
+
+32. Change of Ownership - In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The  
+
+> new
+
+owner shall notify the DEQ ’s NRO of the change of ownership within 30 days of the 
+
+transfer. 
+
+(9 VAC 5-80-1240) 
+
+29. Record of Mai Amotions - The permittee shall maintain records of the occurrence and 
+
+duration of any bypass, malfunction, shutdown or failure of the facility or its associated air 
+
+pollution control equipment that results in excess emissions for more than one hour. 
+
+Records shall include the date, time, duration, description (emission unit, pollutant affected, 
+
+cause), corrective action, preventive measures taken and name of person generating the 
+
+> record.
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D)  
+
+> Records
+
+of maintenance and training shall be maintained on site for a period of five years 
+
+and shall be made available to DEQ personnel upon request. 
+
+(9 VAC 5-50-20 E and 9 VAC 5-80-1180 D) 
+
+Vadata IAD-150, IAD-151, and IAD-152   
+
+> Registration Number:
+
+74174  
+
+> August
+
+9, 2019 
+
+Page 19 
+
+33. Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility 
+
+to which it applies. 
+
+(9 VAC 5-80-1180) Attachment A
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT Copy of Approved Test Protocol 
+
+* Not applicable to visible emission evaluations 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. * Signed by reviewer 
+
+Appendix 
+
+1. *Raw production data 
+
+2. *Raw field data 
+
+3. /“Laboratory reports 
+
+4. *Chain of custody records for lab samples 
+
+5. *Calibration procedures and results  
+
+> 6.
+
+Project participants and titles  
+
+> 7.
+
+Observers ’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures  
+
+> Report
+
+Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test Dates. 
+
+4. Tester; name, address and report date 
+
+Test Results 
+
+1. Detailed test results for each run  
+
+> 2.
+
+* Sample calculations  
+
+> 3.
+
+*Description of collected samples, to include audits when applicable 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section Attached protocol includes: sketch of 
+
+stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+> Summary
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity  
+
+> 4.
+
+*For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test Methods 
+
+c. Pollutants tested  
+
+> d.
+
+Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the 
+
+test protocol   
+
+> 6. A
+
+statement that test was conducted in accordance with the test protocol or identification & 
+
+> discussion
+
+of deviations, including the likely impact on results  
+
+> 7.
+
+Any other important information

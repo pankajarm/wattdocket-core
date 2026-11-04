@@ -1,0 +1,845 @@
+{
+  "source_capture_at": "2026-11-03T19:58:48Z",
+  "reviewed_at": "2026-11-03",
+  "review_scope": "Purpose-selected source-record consistency and linkage review across states, identity kinds and reported operating statuses. This is not a representative sample, independent physical-site validation, national completeness estimate, or empirical accuracy benchmark.",
+  "sources": {
+    "echo": "https://echo.epa.gov/",
+    "virginia": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers"
+  },
+  "facilities": [
+    {
+      "id": "echo:110001260616",
+      "identity_kind": "frs",
+      "registry_id": "110001260616",
+      "source_record_id": "110001260616",
+      "name": "IBM ANNAPOLIS DATA CENTER",
+      "address_line": "2500 RIVA ROAD",
+      "city": "ANNAPOLIS",
+      "state": "MD",
+      "zip": "21401",
+      "lat": 38.98117,
+      "lon": -76.54493,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 150.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "ENTRANCE POINT OF A FACILITY OR STATION",
+        "reported_accuracy": "150"
+      },
+      "coordinate_conflicts": [],
+      "status": "closed",
+      "status_raw": [
+        "Permanently Closed"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110001260616",
+      "air_records": [
+        {
+          "SourceID": "MD0000002400300230",
+          "AIRName": "IBM ANNAPOLIS DATA CENTER",
+          "AIRFIPSCode": "24003",
+          "AIRStreet": "2500 RIVA RD",
+          "AIRCity": "ANNAPOLIS",
+          "AIRState": "MD",
+          "AIRZip": "21401"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110001260616",
+        "FacName": "IBM ANNAPOLIS DATA CENTER",
+        "FacLat": "38.98117",
+        "FacLong": "-76.54493",
+        "FacState": "MD",
+        "FacZip": "21401",
+        "FacFIPSCode": "24003",
+        "FacDerivedStctyFIPS": "24003",
+        "FacDerivedZip": "21401"
+      }
+    },
+    {
+      "id": "echo:110001894040",
+      "identity_kind": "frs",
+      "registry_id": "110001894040",
+      "source_record_id": "110001894040",
+      "name": "TECFUSIONS CLARKSVILLE LLC",
+      "address_line": "250 BURLINGTON DRIVE",
+      "city": "CLARKSVILLE",
+      "state": "VA",
+      "zip": "23927",
+      "lat": 36.60181,
+      "lon": -78.54992,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "operating",
+      "status_raw": [
+        "Operating"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110001894040",
+      "air_records": [
+        {
+          "SourceID": "VA0000005111700009",
+          "AIRName": "TECFUSIONS CLARKSVILLE LLC",
+          "AIRFIPSCode": "51117",
+          "AIRStreet": "250 BURLINGTON DR",
+          "AIRCity": "CLARKSVILLE",
+          "AIRState": "VA",
+          "AIRZip": "23927"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110001894040",
+        "FacName": "TECFUSIONS CLARKSVILLE LLC",
+        "FacLat": "36.60181",
+        "FacLong": "-78.54992",
+        "FacState": "VA",
+        "FacZip": "23927",
+        "FacFIPSCode": "51117",
+        "FacDerivedStctyFIPS": "51117",
+        "FacDerivedZip": "23927"
+      }
+    },
+    {
+      "id": "echo:110031223771",
+      "identity_kind": "frs",
+      "registry_id": "110031223771",
+      "source_record_id": "110031223771",
+      "name": "AMAZON DATA SERVICES, INC. IAD-6 IAD-13 IAD-54",
+      "address_line": "43831 DEVIN SHAFRON DR",
+      "city": "ASHBURN",
+      "state": "VA",
+      "zip": "20147",
+      "lat": 39.0035,
+      "lon": -77.48506,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [
+        "Operating",
+        "Permanently Closed"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110031223771",
+      "air_records": [
+        {
+          "SourceID": "VA0000005110700846",
+          "AIRName": "AMAZON DATA SERVICES, INC. IAD-6 IAD-13 IAD-54",
+          "AIRFIPSCode": "51107",
+          "AIRStreet": "43831 DEVIN SHAFRON DR",
+          "AIRCity": "ASHBURN",
+          "AIRState": "VA",
+          "AIRZip": "20147"
+        },
+        {
+          "SourceID": "VA0000005110773868",
+          "AIRName": "VADATA INC MEG FOUR",
+          "AIRFIPSCode": "51107",
+          "AIRStreet": "43831 DEVIN SHAFRON DR",
+          "AIRCity": "ASHBURN",
+          "AIRState": "VA",
+          "AIRZip": "20147"
+        },
+        {
+          "SourceID": "VA0000005110701038",
+          "AIRName": "VADATA MEG-1",
+          "AIRFIPSCode": "51107",
+          "AIRStreet": "43831 DEVIN SHAFRON DR",
+          "AIRCity": "ASHBURN",
+          "AIRState": "VA",
+          "AIRZip": "20147"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110031223771",
+        "FacName": "AMAZON DATA SERVICES, INC. IAD-6 IAD-13 IAD-54",
+        "FacLat": "39.0035",
+        "FacLong": "-77.48506",
+        "FacState": "VA",
+        "FacZip": "20147",
+        "FacFIPSCode": "51107",
+        "FacDerivedStctyFIPS": "51107",
+        "FacDerivedZip": "20147"
+      }
+    },
+    {
+      "id": "echo:110035370504",
+      "identity_kind": "frs",
+      "registry_id": "110035370504",
+      "source_record_id": "110035370504",
+      "name": "RACKSPACE HOSTING",
+      "address_line": "801 INDUSTRIAL BLVD STE 200",
+      "city": "GRAPEVINE",
+      "state": "TX",
+      "zip": "76051",
+      "lat": 32.93054,
+      "lon": -97.10471,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "operating",
+      "status_raw": [
+        "Operating"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110035370504",
+      "air_records": [
+        {
+          "SourceID": "TX0000004843901735",
+          "AIRName": "CONCORDANCE HEALTHCARE SOLUTIONS",
+          "AIRFIPSCode": "48439",
+          "AIRStreet": "801 INDUSTRIAL BLVD",
+          "AIRCity": "GRAPEVINE",
+          "AIRState": "TX",
+          "AIRZip": "76051"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110035370504",
+        "FacName": "RACKSPACE HOSTING",
+        "FacLat": "32.93054",
+        "FacLong": "-97.10471",
+        "FacState": "TX",
+        "FacZip": "76051",
+        "FacFIPSCode": "48439",
+        "FacDerivedStctyFIPS": "48439",
+        "FacDerivedZip": "76051"
+      }
+    },
+    {
+      "id": "echo:110040501329",
+      "identity_kind": "frs",
+      "registry_id": "110040501329",
+      "source_record_id": "110040501329",
+      "name": "OSO GRANDE TECHNOLOGY",
+      "address_line": "725 6TH STREET NW",
+      "city": "ALBUQUERQUE",
+      "state": "NM",
+      "zip": "87102",
+      "lat": 35.09203,
+      "lon": -106.65269,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "proposed",
+      "status_raw": [
+        "Planned Facility"
+      ],
+      "naics": "518210 541519",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110040501329",
+      "air_records": [
+        {
+          "SourceID": "NM0000003500101153",
+          "AIRName": "OSO GRANDE TECHNOLOGY",
+          "AIRFIPSCode": "35001",
+          "AIRStreet": "725 6TH STREET NW",
+          "AIRCity": "ALBUQUERQUE",
+          "AIRState": "NM",
+          "AIRZip": "87102"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110040501329",
+        "FacName": "OSO GRANDE TECHNOLOGY",
+        "FacLat": "35.09203",
+        "FacLong": "-106.65269",
+        "FacState": "NM",
+        "FacZip": "87102",
+        "FacFIPSCode": "35001",
+        "FacDerivedStctyFIPS": "35001",
+        "FacDerivedZip": "87102"
+      }
+    },
+    {
+      "id": "echo:110042150524",
+      "identity_kind": "frs",
+      "registry_id": "110042150524",
+      "source_record_id": "110042150524",
+      "name": "MICROSOFT CORPORATION - EAST COAST DATA CENTER",
+      "address_line": "101 HERBERT DRIVE",
+      "city": "BOYDTON",
+      "state": "VA",
+      "zip": "23917",
+      "lat": 36.676594,
+      "lon": -78.372428,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 50.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "ENTRANCE POINT OF A FACILITY OR STATION",
+        "reported_accuracy": "50"
+      },
+      "coordinate_conflicts": [],
+      "status": "operating",
+      "status_raw": [
+        "Operating"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110042150524",
+      "air_records": [
+        {
+          "SourceID": "VA0000005111700071",
+          "AIRName": "MICROSOFT CORPORATION - EAST COAST DATA CENTER",
+          "AIRFIPSCode": "51117",
+          "AIRStreet": "101 HERBERT DRIVE",
+          "AIRCity": "BOYDTON",
+          "AIRState": "VA",
+          "AIRZip": "23917"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110042150524",
+        "FacName": "MICROSOFT CORPORATION - EAST COAST DATA CENTER",
+        "FacLat": "36.676594",
+        "FacLong": "-78.372428",
+        "FacState": "VA",
+        "FacZip": "23917",
+        "FacFIPSCode": "51117",
+        "FacDerivedStctyFIPS": "51117",
+        "FacDerivedZip": "23917"
+      }
+    },
+    {
+      "id": "echo:110061671944",
+      "identity_kind": "frs",
+      "registry_id": "110061671944",
+      "source_record_id": "110061671944",
+      "name": "RACKSPACE HOSTING",
+      "address_line": "801 INDUSTRIAL BLVD., STE 200",
+      "city": "GRAPEVINE",
+      "state": "TX",
+      "zip": "76051",
+      "lat": 32.93054,
+      "lon": -97.10471,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110061671944",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110061671944",
+        "FacName": "RACKSPACE HOSTING",
+        "FacLat": "32.93054",
+        "FacLong": "-97.10471",
+        "FacState": "TX",
+        "FacZip": "76051",
+        "FacFIPSCode": "48439",
+        "FacDerivedStctyFIPS": "48439",
+        "FacDerivedZip": "76051"
+      }
+    },
+    {
+      "id": "echo:110070119832",
+      "identity_kind": "frs",
+      "registry_id": "110070119832",
+      "source_record_id": "110070119832",
+      "name": "GOOGLE WAREHOUSE",
+      "address_line": "1000 LOGISTICS CENTER DRIVE",
+      "city": "FAIRBURN",
+      "state": "GA",
+      "zip": "30213",
+      "lat": 33.539202,
+      "lon": -84.599109,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 150.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "GDT-ADDRESS MATCHING (GEOCODING)",
+        "reference_point": "ENTRANCE POINT OF A FACILITY OR STATION",
+        "reported_accuracy": "150"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "237110 518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070119832",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110070119832",
+        "FacName": "GOOGLE WAREHOUSE",
+        "FacLat": "33.539202",
+        "FacLong": "-84.599109",
+        "FacState": "GA",
+        "FacZip": "30213",
+        "FacFIPSCode": "13121",
+        "FacDerivedStctyFIPS": "13121",
+        "FacDerivedZip": "30213"
+      }
+    },
+    {
+      "id": "echo:110070784059",
+      "identity_kind": "frs",
+      "registry_id": "110070784059",
+      "source_record_id": "110070784059",
+      "name": "AMAZON DATA SERVICES, INC.",
+      "address_line": "8350 W GRANDRIDGE BLVD PMB 443",
+      "city": "KENNEWICK",
+      "state": "OR",
+      "zip": "99336",
+      "lat": 46.22341,
+      "lon": -119.23535,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070784059",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110070784059",
+        "FacName": "AMAZON DATA SERVICES, INC.",
+        "FacLat": "46.22341",
+        "FacLong": "-119.23535",
+        "FacState": "OR",
+        "FacZip": "99336",
+        "FacFIPSCode": "41049",
+        "FacDerivedStctyFIPS": "53005",
+        "FacDerivedZip": "99336"
+      }
+    },
+    {
+      "id": "echo:110071163341",
+      "identity_kind": "frs",
+      "registry_id": "110071163341",
+      "source_record_id": "110071163341",
+      "name": "AMAZON DATA SERVICES, INC.",
+      "address_line": "8350 W GRANDRIDGE BLVD., #443",
+      "city": "KENNEWICK",
+      "state": "OR",
+      "zip": "99336",
+      "lat": 46.22341,
+      "lon": -119.23535,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071163341",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110071163341",
+        "FacName": "AMAZON DATA SERVICES, INC.",
+        "FacLat": "46.22341",
+        "FacLong": "-119.23535",
+        "FacState": "OR",
+        "FacZip": "99336",
+        "FacFIPSCode": "41049",
+        "FacDerivedStctyFIPS": "53005",
+        "FacDerivedZip": "99336"
+      }
+    },
+    {
+      "id": "echo:110071163349",
+      "identity_kind": "frs",
+      "registry_id": "110071163349",
+      "source_record_id": "110071163349",
+      "name": "AMAZON DATA SERVICES, INC.",
+      "address_line": "8350 W GRANDRIDGE BLVD, #443",
+      "city": "KENNEWICK",
+      "state": "OR",
+      "zip": "99336",
+      "lat": 46.22341,
+      "lon": -119.23535,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071163349",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110071163349",
+        "FacName": "AMAZON DATA SERVICES, INC.",
+        "FacLat": "46.22341",
+        "FacLong": "-119.23535",
+        "FacState": "OR",
+        "FacZip": "99336",
+        "FacFIPSCode": "41049",
+        "FacDerivedStctyFIPS": "53005",
+        "FacDerivedZip": "99336"
+      }
+    },
+    {
+      "id": "echo:110071294203",
+      "identity_kind": "frs",
+      "registry_id": "110071294203",
+      "source_record_id": "110071294203",
+      "name": "SCOUT DEVELOPMENT LLC",
+      "address_line": "UNDEVELOPED LOT ENCIRCLED BY LINTON HALL ROAD, WEL",
+      "city": "BRISTOW",
+      "state": "VA",
+      "zip": "20136",
+      "lat": 38.729834,
+      "lon": -77.544163,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 10000.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "Zip Code Centroid",
+        "reference_point": null,
+        "reported_accuracy": "10000"
+      },
+      "coordinate_conflicts": [],
+      "status": "closed",
+      "status_raw": [
+        "Permanently Closed"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071294203",
+      "air_records": [
+        {
+          "SourceID": "VA0000005115374122",
+          "AIRName": "SCOUT DEVELOPMENT LLC",
+          "AIRFIPSCode": "51153",
+          "AIRStreet": "UNDEVELOPED LOT ENCIRCLED BY LINTON HALL ROAD, WEL",
+          "AIRCity": "BRISTOW",
+          "AIRState": "VA",
+          "AIRZip": "20136"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110071294203",
+        "FacName": "SCOUT DEVELOPMENT LLC",
+        "FacLat": "38.729834",
+        "FacLong": "-77.544163",
+        "FacState": "VA",
+        "FacZip": "20136",
+        "FacFIPSCode": "51153",
+        "FacDerivedStctyFIPS": null,
+        "FacDerivedZip": null
+      }
+    },
+    {
+      "id": "echo:110071355440",
+      "identity_kind": "frs",
+      "registry_id": "110071355440",
+      "source_record_id": "110071355440",
+      "name": "639LLC WAREHOUSE",
+      "address_line": "801 SOUTH BARD AVENUE",
+      "city": "SILVER CITY",
+      "state": "NM",
+      "zip": "88061",
+      "lat": 32.7626,
+      "lon": -108.27372,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 50.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "ENTRANCE POINT OF A FACILITY OR STATION",
+        "reported_accuracy": "50"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "221114 518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071355440",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110071355440",
+        "FacName": "639LLC WAREHOUSE",
+        "FacLat": "32.7626",
+        "FacLong": "-108.27372",
+        "FacState": "NM",
+        "FacZip": "88061",
+        "FacFIPSCode": "35017",
+        "FacDerivedStctyFIPS": "35017",
+        "FacDerivedZip": "88061"
+      }
+    },
+    {
+      "id": "echo:110071854350",
+      "identity_kind": "frs",
+      "registry_id": "110071854350",
+      "source_record_id": "110071854350",
+      "name": "AMAZON DATA SERVICES, INC.",
+      "address_line": "8350 W GRANDRIDGE BLVD",
+      "city": "KENNEWICK",
+      "state": "OR",
+      "zip": "99336",
+      "lat": 46.22341,
+      "lon": -119.23535,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071854350",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "110071854350",
+        "FacName": "AMAZON DATA SERVICES, INC.",
+        "FacLat": "46.22341",
+        "FacLong": "-119.23535",
+        "FacState": "OR",
+        "FacZip": "99336",
+        "FacFIPSCode": "41049",
+        "FacDerivedStctyFIPS": "53005",
+        "FacDerivedZip": "99336"
+      }
+    },
+    {
+      "id": "echo:110071987939",
+      "identity_kind": "frs",
+      "registry_id": "110071987939",
+      "source_record_id": "110071987939",
+      "name": "VALARA HOLDINGS HIGH PERFORMANCE COMPUTE CENTER",
+      "address_line": "4000 SOUTH PINE STREET",
+      "city": "SPARTANBURG",
+      "state": "SC",
+      "zip": "29302",
+      "lat": 34.92685,
+      "lon": -81.85119,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": 30.0,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": "ADDRESS MATCHING-HOUSE NUMBER",
+        "reference_point": "CENTER OF A FACILITY OR STATION",
+        "reported_accuracy": "30"
+      },
+      "coordinate_conflicts": [],
+      "status": "under_construction",
+      "status_raw": [
+        "Under Construction"
+      ],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071987939",
+      "air_records": [
+        {
+          "SourceID": "SC00020600674",
+          "AIRName": "VALARA HOLDINGS HIGH PERFORMANCE COMPUTE CENTER",
+          "AIRFIPSCode": "45083",
+          "AIRStreet": "4000 S PINE STREET",
+          "AIRCity": "SPARTANBURG",
+          "AIRState": "SC",
+          "AIRZip": "29302"
+        }
+      ],
+      "combined_record": {
+        "RegistryID": "110071987939",
+        "FacName": "VALARA HOLDINGS HIGH PERFORMANCE COMPUTE CENTER",
+        "FacLat": "34.92685",
+        "FacLong": "-81.85119",
+        "FacState": "SC",
+        "FacZip": "29302",
+        "FacFIPSCode": "45083",
+        "FacDerivedStctyFIPS": "45083",
+        "FacDerivedZip": "29302"
+      }
+    },
+    {
+      "id": "echo:TXR1551ZU",
+      "identity_kind": "program_record",
+      "registry_id": null,
+      "source_record_id": "TXR1551ZU",
+      "name": "AWS ALE 64",
+      "address_line": "12807 DONOP RD",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zip": "78223",
+      "lat": 29.29213,
+      "lon": -98.38999,
+      "coordinate_source": "frs",
+      "coordinate_accuracy_m": null,
+      "coordinate_quality": {
+        "accuracy_field": "FacAccuracyMeters",
+        "collection_method": null,
+        "reference_point": null,
+        "reported_accuracy": null
+      },
+      "coordinate_conflicts": [],
+      "status": "unknown",
+      "status_raw": [],
+      "naics": "518210",
+      "source_url": "https://echo.epa.gov/detailed-facility-report?fid=TXR1551ZU",
+      "air_records": [],
+      "combined_record": {
+        "RegistryID": "TXR1551ZU",
+        "FacName": "AWS ALE 64",
+        "FacLat": "29.29213",
+        "FacLong": "-98.38999",
+        "FacState": "TX",
+        "FacZip": "78223",
+        "FacFIPSCode": null,
+        "FacDerivedStctyFIPS": null,
+        "FacDerivedZip": null
+      }
+    }
+  ],
+  "permits": [
+    {
+      "site": "Microsoft Corporation - East Coast Data Center",
+      "registration": "21527-7",
+      "issued_iso": "2024-04-24",
+      "program": "Article 1 - Title V",
+      "county": "Mecklenburg Co.",
+      "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25642/638627842668970000"
+    },
+    {
+      "site": "Microsoft Corporation - East Coast Data Center",
+      "registration": "21527-15",
+      "issued_iso": "2023-09-19",
+      "program": "Article 6 - mNSR",
+      "county": "Mecklenburg Co.",
+      "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25644/638627844150500000"
+    },
+    {
+      "site": "TECfusions Clarksville LLC",
+      "registration": "30142-3",
+      "issued_iso": "2025-02-12",
+      "program": "Article 6 - mNSR",
+      "county": "Mecklenburg Co.",
+      "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25646/638754663915730000"
+    },
+    {
+      "site": "Scout Development LLC",
+      "registration": "52629-4",
+      "issued_iso": "2019-06-27",
+      "program": "Article 6 - mNSR",
+      "county": "Henrico Co.",
+      "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25660/638627890513100000"
+    },
+    {
+      "site": "VADATA Inc MEG Four",
+      "registration": "73868-1",
+      "issued_iso": "2011-04-14",
+      "program": "Article 6 - mNSR",
+      "county": "Loudoun Co.",
+      "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25776/638628598977470000"
+    }
+  ],
+  "reviewed_cases": [
+    {
+      "record_ids": [
+        "echo:110071294203"
+      ],
+      "judgment": "Reject permit 52629-4: county 153 / registration 74122 conflicts with Henrico 087 / registration 52629.",
+      "expected": "conflict"
+    },
+    {
+      "record_ids": [
+        "echo:110070784059",
+        "echo:110071163341",
+        "echo:110071163349",
+        "echo:110071854350"
+      ],
+      "judgment": "Reported state OR conflicts with coordinate-derived FIPS 53005; shared contact/mailbox coordinates cannot establish facility pins.",
+      "expected": "suspect"
+    },
+    {
+      "record_ids": [
+        "echo:110035370504",
+        "echo:110061671944"
+      ],
+      "judgment": "Same name/address/coordinates are duplicate candidates, not a proven physical-site merge.",
+      "expected": "candidate_group"
+    },
+    {
+      "record_ids": [
+        "echo:110042150524"
+      ],
+      "judgment": "Name alone does not establish permit identity; Title V and minor NSR documents cannot be ordered by suffix to infer supersession.",
+      "expected": "candidate"
+    },
+    {
+      "record_ids": [
+        "echo:110031223771"
+      ],
+      "judgment": "County and registration match is supported by both regulator identifiers; not evidence of present operation.",
+      "expected": "matched"
+    },
+    {
+      "record_ids": [
+        "echo:110001260616",
+        "echo:110040501329",
+        "echo:110071987939"
+      ],
+      "judgment": "AIR source statuses are closed, proposed and under construction respectively. They are not independently verified site-operation observations. No VA permit identity is established.",
+      "expected": "unmatched"
+    },
+    {
+      "record_ids": [
+        "echo:110070119832",
+        "echo:110071355440"
+      ],
+      "judgment": "Warehouse-named records carry multiple industry codes including 518210. Type remains unverified; names alone do not prove exclusion or actual data-center use.",
+      "expected": "unmatched"
+    },
+    {
+      "record_ids": [
+        "echo:TXR1551ZU"
+      ],
+      "judgment": "The retained record ID is an unlinked NPDES program record, not a 12-digit FRS identity or an established distinct site.",
+      "expected": "unmatched"
+    }
+  ],
+  "source_result_sha256": {
+    "echo": "be56e1a482a924bd616e75c3fc89c7a1967b510ff6ce7f5f569fb65eedadfcd0",
+    "virginia_permits": "496571671f3a2258cd0fad99022e9fe470f9f67c7845cce6f2c96a3295bd7a7f"
+  }
+}

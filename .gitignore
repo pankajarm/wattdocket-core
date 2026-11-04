@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.egg-info/
+.pytest_cache/
+web/dist/
+web/.vite/
+*.sqlite
+*.sqlite-journal
+artifacts/cards/*.json
+.env
+.DS_Store
+.production/
+
+# Facility previews and their matching edge allowlist are generated at staging.
+site/share/
+site/share-viewer-request.js
+.env.*
+!.env.example
+.pytest_cache/

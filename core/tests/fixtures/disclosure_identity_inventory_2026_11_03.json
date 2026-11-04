@@ -1,0 +1,216 @@
+{
+  "source_release": "20261103T232128Z-d236c44a2264",
+  "note": "Selected unmodified identity fields from the live inventory; not invented measurements.",
+  "facilities": [
+    {
+      "id": "echo:110032592727",
+      "registry_id": "110032592727",
+      "name": "GOOGLE INC. - IDI",
+      "address": "300 RIVERSIDE PARKWAY",
+      "city": "LITHIA SPRINGS",
+      "state": "GA",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110032592727",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110032592727",
+          "value": "operating"
+        },
+        {
+          "label": "AIR program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110032592727",
+          "value": "GA0000001309700061 GA0000001309700073"
+        }
+      ]
+    },
+    {
+      "id": "echo:110061650100",
+      "registry_id": "110061650100",
+      "name": "GOOGLE, LLC",
+      "address": "300 RIVERSIDE PARKWAY",
+      "city": "LITHIA SPRINGS",
+      "state": "GA",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110061650100",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110061650100",
+          "value": "unknown"
+        },
+        {
+          "label": "CWA program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110061650100",
+          "value": "GA0038920"
+        }
+      ]
+    },
+    {
+      "id": "echo:110070072383",
+      "registry_id": "110070072383",
+      "name": "SCOUT DEVELOPMENT LLC",
+      "address": "6200 TECHNOLOGY BLVD",
+      "city": "SANDSTON",
+      "state": "VA",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070072383",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070072383",
+          "value": "operating"
+        },
+        {
+          "label": "AIR program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070072383",
+          "value": "VA0000005108752629"
+        }
+      ]
+    },
+    {
+      "id": "echo:110043697416",
+      "registry_id": "110043697416",
+      "name": "ANDALE, INC.",
+      "address": "284 SOCIAL CIRCLE",
+      "city": "FOREST CITY",
+      "state": "NC",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110043697416",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110043697416",
+          "value": "operating"
+        },
+        {
+          "label": "AIR program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110043697416",
+          "value": "NC0000003708100221"
+        },
+        {
+          "label": "EIS program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110043697416",
+          "value": "17743211"
+        },
+        {
+          "label": "RCRA program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110043697416",
+          "value": "NCR000183509"
+        }
+      ]
+    },
+    {
+      "id": "echo:110071163188",
+      "registry_id": "110071163188",
+      "name": "VITESSE, LLC",
+      "address": "735 SW CONNECT WAY",
+      "city": "PRINEVILLE",
+      "state": "OR",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071163188",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071163188",
+          "value": "unknown"
+        },
+        {
+          "label": "EIS program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071163188",
+          "value": "19076611"
+        }
+      ]
+    },
+    {
+      "id": "echo:110071294203",
+      "registry_id": "110071294203",
+      "name": "SCOUT DEVELOPMENT LLC",
+      "address": "UNDEVELOPED LOT ENCIRCLED BY LINTON HALL ROAD, WEL",
+      "city": "BRISTOW",
+      "state": "VA",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071294203",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071294203",
+          "value": "closed"
+        },
+        {
+          "label": "AIR program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110071294203",
+          "value": "VA0000005115374122"
+        }
+      ]
+    },
+    {
+      "id": "echo:110070558483",
+      "registry_id": "110070558483",
+      "name": "LEESBURG VA DATA CENTER (GOOGLE)",
+      "address": "20491 GOOSE LANDING LANE",
+      "city": "LEESBURG",
+      "state": "VA",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070558483",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070558483",
+          "value": "unknown"
+        },
+        {
+          "label": "RCRA program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070558483",
+          "value": "VAR000534966"
+        }
+      ]
+    },
+    {
+      "id": "echo:110070822658",
+      "registry_id": "110070822658",
+      "name": "EQUINIX",
+      "address": "41 ALEXANDER RD",
+      "city": "BILLERICA",
+      "state": "MA",
+      "record_summary": [
+        {
+          "label": "Listing source",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070822658",
+          "value": "EPA ECHO"
+        },
+        {
+          "label": "EPA AIR program status",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070822658",
+          "value": "unknown"
+        },
+        {
+          "label": "RCRA program ID",
+          "source_url": "https://echo.epa.gov/detailed-facility-report?fid=110070822658",
+          "value": "MAR000583328"
+        }
+      ]
+    }
+  ]
+}

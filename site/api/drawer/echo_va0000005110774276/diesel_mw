@@ -1,0 +1,60 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "78.0",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 1,
+ "citation": {
+  "id": "diesel-mw-cit-0",
+  "claim_id": "diesel-mw",
+  "document_sha256": "",
+  "publisher": "Virginia Department of Environmental Quality",
+  "document_id": "VA DEQ registration 74276-1",
+  "page": 3,
+  "line": null,
+  "quote": "s Original Permit Date EG1 through EG26 (26) Caterpillar 3516E diesel-fired emergency engine gen-sets 3,000 ekW 4,393 bhp",
+  "matched_text": "1 t",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "va-equipment-1",
+  "url": null
+ },
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "calc:diesel:va:74276-1",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "26 generators summed from the permit's equipment table (p.3)",
+    "kind": "call"
+   },
+   {
+    "line": "= 78.0 MW of installed backup capacity",
+    "kind": "compute"
+   },
+   {
+    "line": "nameplate capacity, not run hours: it is not an emission",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "sum of unit ekW ratings -> MW",
+   "value": "divide by 1000"
+  }
+ ],
+ "sensitivity": [],
+ "drivers": [
+  "26 generators in the Virginia DEQ equipment table"
+ ]
+}

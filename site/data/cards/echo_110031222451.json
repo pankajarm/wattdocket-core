@@ -1,0 +1,184 @@
+{
+ "schema_version": "1.0",
+ "generated_by": "wattdocket.cards@0.1.0",
+ "as_of": "2026-10-29T02:39:29Z",
+ "facility": {
+  "id": "echo_110031222451",
+  "site_id": "echo:110031222451",
+  "name": "STRATCAP",
+  "operator": null,
+  "address": "1807 MICHAEL FARADAY CT",
+  "city": "RESTON",
+  "state": "VA",
+  "zip": "20190",
+  "lat": 38.94968,
+  "lon": -77.33245,
+  "naics": "518210",
+  "status": "unknown",
+  "class_label": "Virginia DEQ air-permitted data center (permit 73567-1)",
+  "class_verified": true,
+  "class_evidence": "Virginia DEQ, 'Issued Air Permits for Data Centers' registry \u2014 exact name match; permit document not text-extracted",
+  "site_permit_count": 1,
+  "sibling_ids": [],
+  "class_match_method": "exact_normalised_name",
+  "class_match_confidence": "registry_statement",
+  "permit_registrations": [
+   "73567-1"
+  ],
+  "permit_issued": "11/07/2007",
+  "permit_county": "Fairfax Co.",
+  "permit_program": "Article 6 - mNSR",
+  "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25731/638628562585630000",
+  "permit_limits": [
+   {
+    "metric": "generator_hours_limit",
+    "value": 500.0,
+    "unit": "hours/year per generator",
+    "page": 3,
+    "quote": "(9VAC5-60-1160and9VAC 5-50-260) OPERATING LIMITATIONS 3 Operating ^loars^Theemergencydieselengine-generatorsets (Unit Reference N o ' s t ^ 2 ) shall not operate more than 500 hours peryeareach.The operating hours shaii be calculated monthly as the sum of each consecutive twelve month period compliance forthe consecutive twelve month period shall be demonstrated monthlybyaddingthetotalforthemost recently completed calendarmonth to the individual monthlytotalsforthe preceding eleven months (9VAC5-60-1160) 4. Operation of the Emergency dieaelenglne^eneratorSet-Thepermitteemust operate and maintain each emergency dieselengine-generatorset (Unit Reference N o ' s 1 ^ 2 ) according to the manufacturer's written instructions or according to proceduresdeveloped bythe permittee thatare approved bytheengine manufacturer In addition,the permittee may only change those settings thatare permitted bythemanufacturerand do not adversely impact air emissions (9VAC5-60-1160) 5. Approved Pnels^Theapprovedfuelfortheemergencydieselengine-generator ^ts(UnitReferenceNo's1^2)islowsulfurdieselfuel.Uponreceiptofthispermit bythepermittee,allshipmentsofdieselfuelforuseintheemergencydiesel engine generatorsets shallmeetthespecifications listed in Conditions Oseofafuel not meetingthefuelspecificationsinCondition6mayrequireapermittomodifyand operate. (9VAC5-60-1180) Digital Reston, LLO Registration Number: 73567 November7,2007 Page4 6. EueiSpecification^Thedieselfuel oil used in the emergency diesel engine-generatorsetsshallconformtotheAmericanSocietyforTestingand Materials (ASTM) specification 0975, with sulfur content per shipment not to exceed 0.05^ by weight (500 ppm). (9VAO 5-60-1160) 7. FueiOertifioation^The permittee shall obtainacertification from the fuel supplier with each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: a. The name ofthe fuel supplier: b. The date on which the diesel fuel oil was received: c The quantity of diesel fuel oil delivered in the shipment: d. A statementthat the diesel fuel oil conforms to the American SocietyforTesting and Materials (ASTM) specification 0975, e. The sulfur content ofthe diesel fuel oil. Fuel sampling and analysis, independent ofthat used for certification,as may be periodically required or conducted by OEQ may be used to determine compliance with the fuel specifications stipulated in Condition 6. Exceedance ofthese specifications may be considered credible evidence ofthe exceedance of emission limits. ^ V A C 5 8 0 ^ 8 0 ) EMiSSiON LIMITS 8. Emission Limit^The total emissions of nitrogen oxides (NOx), expressed as nitrogen dioxide (NO^,from the operation ofthe facility shall not exceed 17.0tons peryear. The NOx emissions shall be calculated using the following equation: Emissions (tons peryear)^ ^ o ^ o f o p ^ t i o ^ t o r ^ i ^ ^ ^ ^ O i ^ o ^ O ^ 1 ^ 2 ^ 0 ^ The emissions shaii be oaiooiatedmonthiy as the sum of each consecutive tweive-month period. Oompiiancefortheconsecutivetweive-month period shaii be demonstrated monthly by adding the totaiforthe most recently completed calendar month to the individual monthlytotalsforthe preceding eleven months. ^VAO5801180) Digital Reston, LLO Registration Number: 73567 November7,2007 Page5 9. ShortTerm Emission Limits^Emissions from the operation of each emergency dieselengine-generatorset (Unit Reference No's1^2)shall not exceedthe limits specked below: Nitrogen Oxides (as NO^ 34.0lbsmr Oarbon Monoxide (OO) 4.7lbsmr (9VAO5-60-1160) 10. Visible Emission Limit^Visible emissions from the emergency diesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) shall not exceed five percent opacity except during one six-minute period in any one hour in which visible emissions shall not exceed ten percent opacity as determined bythe EPAMethod9(reference40 OPR60,AppendixA). This condition applies at all times except during startup, shutdown, and malfunction. During stan^-up and shut-down times, visible emissions from the emergency diesel engine-generatorsets (Unit R e f e r e n c e ^ s 1 ^ 2 ) shall not exceed ten percent except during one six-minute period in any one hour in which visible emissions sball not exceed twentypercent opacity asdetermined bythe EPAMethod9(reference 40OPRPart60,AppendixA). (VAO5-60-1160,9VAO5-50-260and9VAO5-50-60) INITIAL OOMRLIANOE DETERMINATION 11.Stac^Test^An initial performance test shall be conducted on one ofthe emergency dieselengine-generatorsets (Unit Reference No's1^2)fornitrogen oxides (as NO^) using EPA ReferenceMethod7or7Etodeterminecompliance with the emission limits contained in Oonditions6and9. a. Testing shall be performed on the exhaust stack oftheengine while operating at 9 0 ^ or greater of its rated capacity. b. The initial performance test shall be performed, reported, and demonstrate compliancewithinninetydaysafterthe effective date ofthis permit i Should conditions occurwhich would require rescheduling the testing,the permittee shall notifytheRegionalAirOompliance Manager ofthe DEO's Northern Regional Office (NRO) atthe address listed in Condition 16 inwriting, within seven days ofthe scheduledtestdateorassoon as the rescheduling is deemed necessary. ii. The initial performance test shall be conducted and reported and data reduced as setforthin^VAO 5-50-30, and the test methods and procedures contained io each applicable section orsubpart listed in^VAO 5-50-410. Oigital Reston, LLC Registration Number: 73667 November7,2007 Fage6 iii. The details ofthe initial performance test are to be arranged with the Regional Air Compliance Manager of the OEO's NRO. The permittee shall submit one copy ofthe test protocol to the Regional Air Compliance Manager ofthe OEO's NRO to the address listed in Condition 16atleastthirty days priorto testing. Two copies of the test results shall be submitted to the Regional Air Compliance Manager ofthe OEO'sNRO within sixty days aftertest completion and shall conform to the test report format enclosed with this permit. (9VAC6-60-30,9VAC6-60-1200,and9VAC 6-60-410) 12.lnltlal Visible Emissions Evaluation-Visible Emission Evaluations (VEE) in accordance with ERAMethod9(reference40 CFR Ran^ 60,AppendixA) shall be conducted by the permittee on the remaining emergency diesel engine-generator set (Unit Reference N o ' s 1 ^ 2 ) not selected for initial stack testing in Condition 11 a. Initial VEE testing shall be performed on the exhaust stack ofthe engine while operating at 9 0 ^ orgreaterofits rated capacity. b. Each VEE shall consist ofthree runs witharun being comprised often six-minute averages. Each six-minute average shall be made up oftwenty four consecutive observations (at fifteen second intervals). c. The details ofthe VEE tests are to be arranged with the Regional Air Compliance Manager ofthe OEO's NRO at the address listed in Condition 16. d. The permittee shall submitaVEE test protocol at leastthirty days priorto testing. e. The VEE shall be performed within ninety days afterthe effective date ofthis permit. f. Should conditionsoccurwhichwould require rescheduling the testing,the permitteeshallnotifytheRegionalAirComplianceManageroftheOEO'sNRO atthe address listed in Condition 16 in writing,within seven days ofthe scheduled test date or as soon as the rescheduling is deemed necessary. g TwocopiesofthetestresultshallbesubmittedtotheRegionalAirCompliance ManageroftheOEO's NRO atthe address listed in Condition 16within sixty days aftertest completion and shall conform to the test reportformat enclosed with this permit. (9VAC6-60-30and9VAC5-60-1200) Oigital Reston, LLC Registration Number: 73667 November7,2007 Page7 CONTiNUiNGCOMRLiANCEOETERMiNATiON 13.Stac^Tests-UponrequestbytheOEO, the permittee shall conduct additional performance testing ofthe emergency diesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) to demonstrate compliance with the emission limits contained in this permit.The details ofthe tests shall be arranged with the RegionalAirCompliance ManageroftheOEO's NRO atthe address referenced in Condition 16. (9VAC6-60-1260and9VAC6-60-30O) 14.Visibie Emissions Evaiuation-UponrequestbytheOEO, the permittee shall conduct additional VEE'softheemergencydiesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) to demonstrate compliance with the visible emission limits contained in this permit Thedetails ofthe testsshall be arrangedwith the Regional AirCompliance Manager ofthe OEO's NRO atthe address referenced in Condition 16 (9VAC6-60-1200and9VAC6-60-36O) 16.Testing/MonitoringRorts-The permitted facilityshall be constructed so as toallow for emissions testing and monitoring upon reasonable notice at anytime, using appropriate methods. Test portsshall be provided when requested, atthe appropriate locations or in accordance with the applicable performance specification. (9VAC6-60-30Fand9VAC6-60-1160) RECOROS 16.AII correspondence concerning this permit should be submitted to the following address: Regional Air Compliance Manager Department ofEnvironmental Quality NRO 13901 Crown Court Woodbridge,VA22193 (9VAC 6-60-50) 17.0n Site Records The permittee shall maintain records of emission data and operating parameters, as necessary, to demonstrate compliance with this permit The content and format ofsuch records shall be arranged with the RegionalAir Compliance ManageroftheOEO's NRO attheaddress referenced in Condition 16. These records shall include, butshallnotbe limited to: a Theannualhoursofoperationofeachemergencydieselengine-generatorset(Unit Reference N o ' s 1 ^ 2 ) , calculated monthly as the sum of each consecutive twelve-month period Compliancefortheconsecutivetwelve-month period shall be Oigital Reston, LLC Registration Number: 73567 November7,2007 Page6 demonstrated monthly by adding the total forthe most recently completed calendar month tothe individual monthlytotalsforthe preceding eleven months. b. Allfuelsuppliercertifications referred to in Condition7. c. Scheduled and unscheduled maintenance and operatortraining for each emergencydieselengine-generatorset(UnitReferenceNo's1^2)in accordancewith Condition 21. d. Monthly emissions calculation forthe emergency diesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) as provided in Condition 6. Any alternatives to me emissions calculation in Condition6shall be approved in advance bythe Regional AirComplianceManageroftheOEO'sNRC. e. Records ofthe manufacturer's written operating and maintenance instructions or of procedures developed by the owner or operatorthat are authorized by the engine manufacturer. f. Records of changes in settings that are permitted bythe manufacturer ofthe emergency diesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) . These records shall be availableforinspection bythe OEO and shall be currentfor the most recentfive years. (9VAC5-60-1160and9VAC5-50-50) NOTIFICATIONS 16.Initial Notifications^Within thirty days ofthe receipt ofthis permit, the permittee shall furnish written notification to the Regional Air Compliance Manager ofthe OEO, NRO at the address referenced in Condition 16, of: a. The date on which construction ofthe emergency diesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) commenced. b. The actual start-up date ofthe emergency diesel engine-generator sets (Unit Reference N o ' s 1 ^ 2 ) . (9VAC5-50-50and9VAC5-60-1160) GENERAL CONOITIONS # 19 Certification ofOocoments: A. The following documents submitted to the Board shall be signed byaresponsible official: (i) any emission statement, application, form, report, or compliance certification:^) any document required to be signed by any provision ofthe Regulations ofthe Board: or (iii) any other document containing emissions data Oigital Reston, LLO Registration Number: 73567 November7,2067 Rage9 or compliance information the ownerwishes the Board to consider in the administration ofits air quality programs. A responsible official is defined as follows: 1. Forabusinessentity,suchasacorporation,association or cooperatives responsible official is either: a. The president, secretary, treasurer,oravice president ofthe business entity in charge ofaprincipal business function,or any other person who performs similar policy ordecision-making functions forthe business entity: or b Adulyauthorized representative of such business entity ifthe representative is responsibleforthe overall operation of one ormore manufacturing, production, or operating facilities applying for orsubjectto apermit and either(i)the facilities employ more than 250 persons or have gross annual sales or expenditures exceeding ^25 million (in second quarter1960dollars)or(ii)theauthorityto sign documents has been assigned ordelegated to such representative in accordance with procedures ofthe business entity. 2 Forapartnership or sole proprietorship,aresponsible official isageneral partner ortheproprietor,respectively. 3 Foramunicipality,state, federal, or otherpublicagency,aresponsible official iseitheraprincipalexecutiveofficerorranking elected official. Aprincipal executiveofficerofafederal agency includes thechief executive officer having responsibilityforthe overall operations ofthe principal geographic unit oftbe agency. B. Any person signingadocumentundersubsectionAaboveshall make the following certification: ^certify underpenaltyoflawthatthisdocumentand all attachments were prepared undermy direction orsupervision in accordance withasystem designed to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry ofthe person or persons who managed the system, orthosepersonsdirectlyresponsibleforgathering and evaluating the information,the information submitted is, to the best ofmy knowledge and belief, true, accurate, and complete, lam aware thatthere are significantpenaltiesforsubmittingfalse information, including the possibility of fine and imprisonment for knowing violations^ OSubsectionBshall be interpreted to mean thatthesignermusthavesomeform of direction orsupervisionoverthepersonsgathering the data and preparing the Oigital Reston, LLC Registration Number: 73567 November7,2u07 PagelO document (the preparers), although the signer need not personally nor directly supervise these activities. The signer need not be in the same line of authority as me preparers, or do me persons garnering me form need fo be employees (e.g., outside contractors can be used). It is sufficientthatthe signer has authority to assure thatthe necessary action is taken to prepareacomplete and accurate document. (9VAC5-2U-230) 20. PermitSuspension/Revocation-This permit may be suspended or revoked ifthe permittee: a. knowingly makes material misstatements in the permit application or any amendments to it: b. Fails to comply with the conditions ofthis permit: c. Failstocomplywitbanyemission standards applicable toapermitted an emissions unit, included in this permit: d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard: or e. Fails to operate in conformance with any applicable control strategy,including any emission standards or emission limitations, in the State Implementation Plan in effect atthe time an application forthis permit is submitted. ( 9 V A C 5 - 6 0 ^ 6 F ) 21. R l ^ ^ t o ^ E n t r y - T b e permittee sball allow authorised local, state, and federal representatives, upon the presentation of appropriate credentials: a. Toenter upon the pemiittee's premises on which the facility is located or in which any records are required to be kept underthe terms and conditions ofthis permit: b Tohave access to and copy at reasonable times any records required to be kept underthe terms and conditions ofthis permit orthe State Air Pollution Control Board Regulations: c. Toinspect at reasonable times anyfacility,equipment, or process subjectto the terms and conditions ofthis permit ortbe State Air Pollution Control Board Regulations: and d Tosampieortest at reasonable times. Oigital Reston, LLO Registration Number: 73567 November7,2007 Ragell For purposes ofthis condition,the time for inspection shall be deemed reasonable during regular business hours orwheneverthe facility is in operation, doming contained herein shall make an inspection time unreasonable during an emergency ^VAO5-170-130and9VAO5-60-1166) 22.Mamtenance/OperatmgRrocedures^At all times, including periods of start-up, shutdown and malfunction, the permittee shall, to theextent practicable, maintain and operatetbe affected source, including associated air pollution control equipment, inamannerconsistentwith good air pollution control practices for minimizing emissions. Tbe permittee sball take tbe following measures in orderto minimize tbe duration and frequency ofexcess emissions, with respectto process equipmentwhich affect sucb emissions: a. Oevelopamaintenance schedule and maintain records of all scheduled and non-scheduled maintenance. b. Maintain an inventor o i^ave available written operating procedures for equipment.These procedures shall be based on the manufacturers recommendations, ataminimum. d. Train operators in the proper operation of all such equipment and familiarize the operatorswiththewritten operating procedures, priortotheirfirstoperation of suob equipment The permittee shall maintain records ofthe training provided including the names oftrainees,thedateoftraining and the natureofthe training. Records of maintenance and training shall be maintained on site foraperiodoffive years and shall be made available to OEO personnel upon request ^VAO55020Eand9VAO5801180O) 23.RecordofMaifunctions^The permittee shall maintain records ofthe occurrence and duration of any bypass, malfunction, shutdown orfailureoftbe facility orits associated airpollution control equipmenttbat results in excess emissionsformore than one hour. Records sball includetbedate, time, duration, description (emission unit, pollutantaffected, cause),corrective action,preventive measures taken and name of person generating tbe record. (9VAO52u180Jand9VAO5801180O) ^Notification forFaoiiityorOontroiEqoipme^^ fornish notification to the Regional AirOompliance Manager ofthe OEO's NRO at the address referenced in Condition 16ofmalfunctions ofthe affected facility or related air pollution control equipmentthat may cause excess emissions formore OigitalRestoo,LLO Registratioo Number: 73567 November7,2007 Page12 thaoooehour,hyfacsimiletraosmissioo,telephone ortelegraph. Sucoootificatioo shall be made as sooo as practicable but oolaterthaofourdaytimebusioess hours afterthemalfuoctioo is discovered. The permittee shall provideawritteostatemeot giviog all pertioeotfacts,iocludiog the estimated duratioo ofthe breakdowo,withio two weeks of discovery ofthe malfuoctioo. Wheo the cooditioocausiog the failure or malfuoctioo has beeo corrected aod the equipmeot is agaioiooperatioo, the permittee shall ootify the Regiooal Air Oompliaocelviaoager ofthe OEO's NRO. ^VAO5^160Oaod9VAO5-66^160) 25. Violation of AmbientAirQuaiityStandard-Tbe permittee sball, upoo request of tbe OEO, reduce the level of operatioo or shut dowoafacility,asoecessaryto avoid violation aoy primary ambieot air quality staodardaod shall oot return to oormal operatioouotil such time as the ambieot air quality staodard will oot be violated. ^VAO5-20^60laod9VAO5-60^160) 26.0hangeofOwnership-lotbecaseofatraosferofowoershipofastatiooary source, the oewowoer shall abide by aoycurreot permit issued to the previous owner. The oewowoershall ootifytheRegiooal AirOompliaocelvlaoagerofthe OEO's NRO atthe address refereoced in Oondition16ofthe change of ownership within thirty days ofthe transfer. (9VAO5-60^240) 27.RermitOopy-The permittee shall keepacopyofthis permit on the premises ofthe facilityto which it applies. (9VA0 5-60^160)",
+    "registration": "73567-1",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25731/638628562585630000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   }
+  ]
+ },
+ "grid": {
+  "subregion": "SRVC",
+  "subregion_name": "SERC Virginia/Carolina",
+  "utility": null,
+  "balancing_authority": null,
+  "rate_lb_per_mwh": 596.326,
+  "intensity_state": "PROVISIONAL",
+  "factor_set_id": "us-avg-2023.1",
+  "factor_set_sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+  "binding_method": "point_in_polygon"
+ },
+ "verdict": {
+  "sentence": "A modelled reference-size electrical load at this address: 15,402 t CO2e a year, with the range and the reason shown.",
+  "source": "template",
+  "degraded": false
+ },
+ "claims": [
+  {
+   "id": "power-mw",
+   "metric": "power_mw",
+   "value": 10.0,
+   "unit": "MW",
+   "badge": "ESTIMATED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10.0,
+    "p50": 10.0,
+    "p90": 10.0
+   },
+   "drivers": [],
+   "citations": [],
+   "calc_id": "reference_size@0.1.0",
+   "sources": 0,
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "carbon-t",
+   "metric": "carbon_t",
+   "value": 15401.639,
+   "unit": "t CO2e/yr",
+   "badge": "MODELED",
+   "provisional": true,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10662.7,
+    "p50": 15401.6,
+    "p90": 18955.9
+   },
+   "drivers": [],
+   "citations": [
+    {
+     "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+     "page": 1,
+     "line": 224,
+     "quote": "\"co2e_rate_lb_per_mwh\": 596.326",
+     "publisher": "US EPA",
+     "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+     "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+     "verified": true,
+     "verifier_version": "substring-1"
+    }
+   ],
+   "calc_id": "carbon@UNKNOWN@egrid2023rev2:8665e8cf9c7e",
+   "sources": 1,
+   "renderable": true,
+   "render_block_reason": "",
+   "chain": [
+    "10 MW reference capacity x 8760 h x 0.65 utilisation",
+    "= 56,940 MWh/yr",
+    "x 596.3 lb CO2e/MWh (eGRID2023, SRVC)",
+    "/ 2204.6226 lb per metric tonne = 15,402 t CO2e/yr"
+   ],
+   "transforms": [
+    "lb -> metric tonnes: divide by 2204.6226 (never 2000)",
+    "PUE not applied: capacity basis is not stated",
+    "storage excluded from the grid-intensity denominator",
+    "timestamps stored UTC; hour labels kept as published"
+   ],
+   "sensitivity": [
+    {
+     "label": "utilization 0.45",
+     "delta": "-31%"
+    },
+    {
+     "label": "utilization 0.80",
+     "delta": "+23%"
+    },
+    {
+     "label": "if IT basis, PUE 1.25",
+     "delta": "+25%"
+    },
+    {
+     "label": "marginal instead of average",
+     "delta": "+38%"
+    }
+   ]
+  },
+  {
+   "id": "diesel-mw",
+   "metric": "diesel_mw",
+   "unit": "MW",
+   "value": "NOT_PUBLISHED",
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [],
+   "citations": [],
+   "calc_id": null,
+   "chain": [],
+   "transforms": [],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "water-gal",
+   "metric": "water_gal",
+   "unit": "gal/day",
+   "value": "NOT_PUBLISHED",
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [],
+   "citations": [],
+   "calc_id": null,
+   "chain": [],
+   "transforms": [],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": "",
+   "note": "no US state requires facility-level operational water reporting"
+  }
+ ],
+ "hourly": null
+}

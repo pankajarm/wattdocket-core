@@ -1,0 +1,1090 @@
+Title: Darab Ventures One, Two, Six  LLC Registration Number 74234
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/32402/638989963111870000
+
+Published Time: Mon, 17 Nov 2025 17:11:51 GMT
+
+Number of Pages: 30
+
+Markdown Content:
+Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus
+> Secretary of Natural and Historic Resources Director
+
+October 31, 2025 
+
+Mr. Christopher Sweet 
+
+Environmental Health and Safety Director 
+
+Darab Ventures One LLC 
+
+Darab Ventures Two LLC 
+
+Darab Ventures Six LLC 
+
+22190 Loudoun County Parkway 
+
+Ashburn, VA 20147 
+
+Location: Loudoun County 
+
+Registration No.: 74234 
+
+Dear Mr. Sweet: 
+
+Attached is a permit to construct and operate diesel-fired non-emergency engine generators, emergency diesel-fired fire pumps and wet cooling towers to support data center operations at Darab Ventures One LLC, Darab Ventures Two LLC and Darab Ventures Six LLC computer data center facility in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on October 27 th , 2025 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Darab Ventures One LLC of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed diesel engine generator sets (gen-sets) and fire pumps may be subject to 40 CFR 63, Maximum Achievable Control Technology (MACT), Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator, you are also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. Darab Ventures One LLC, Darab Ventures Two LLC and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 2
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and 63. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Kaitlin King at (804) 338-2430 or via e-mail at kaitlin.king@deq.virginia.gov. 
+
+Sincerely, 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+justin.wilkinson@deq.virginia.gov 
+
+Northern Regional Office 
+
+13901 Crown Court, Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/KMK/74234 mNSR (10-31-2025) 
+
+Attachment: Permit Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus
+> Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Darab Ventures One LLC 
+
+Darab Ventures Two LLC 
+
+Darab Ventures Six LLC 
+
+1212 New York Avenue NW, Suite 1000 
+
+Washington, DC 20005 
+
+Registration No.: 74234 
+
+is authorized to construct and operate: 
+
+emissions units at a data center 
+
+located at 
+
+(LC4), 22210 Loudoun County Parkway 
+
+(LC8) 22190 Loudoun County Parkway 
+
+(LC11) 22235 Loudoun County Parkway 
+
+Ashburn, VA 20147 
+
+(Loudoun County) 
+
+in accordance with the Conditions of this permit. 
+
+Approved on: October 31, 2025 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Permit consists of 26 pages (w/o the attachment). 
+
+Permit Conditions 1 to 44. 
+
+Attachment A – Source Testing Report Format (1 page) Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 2
+
+INTRODUCTION 
+
+This permit document is based on and combines permit terms and conditions in accordance with 9VAC5-80-1255 from the following permit approvals and the respective permit applications: 
+
+ Minor NSR permit approval dated October 31 st , 2025 and permit application dated February 3 rd , 2025, including supplemental information dated July 31 st , 2025, September 8th , 2025, September 16 th , 2025 and September 22 nd , 2025; and October 27 th , 2025. 
+
+ Minor NSR permit approval May 19 th , 2023 and permit application dated February 1 st ,2022, and additional information received on March 23, 2022, June 9, 2022, June 23, 2022, July 11, 2022, July 12, 2022, July 15, 2022, July 18, 2022, August 18, 2022, September 13, 2022, and the revised permit application dated October 12, 2022, and supplemental information provided December 9 th , 2022, March 8 th , 2023, April 3 rd 2023, and May 2 nd , 2023. 
+
+Any changes in the permit application specifications or any existing facilities, which alter the impact of the facility on air quality, may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1110 and 9VAC5-10-10 of the Commonwealth of Virginia State Air Pollution Control Board (Board’s) Regulations (Regulations) for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will be either in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 3
+
+provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+Registration Number: 74234 
+
+October 31, 2025 
+
+Page 4 
+
+Equipment List – Equipment at this facility subject to permit requirements of 9VAC5-80-1100 et. seq. consists of: 
+
+Equipment to be Constructed: 
+
+Reference No.  Equipment Description  Rated Capacity 
+
+Add-on 
+
+Control 
+
+Technology 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+91 through 106  Sixteen (16) Caterpillar Model C175-20 non-emergency diesel engine gen-sets 
+
+4,000 ekW 
+
+5,646 bhp 
+
+Selective Catalytic Reduction (SCR) and Diesel Oxidation Catalyst (DOC)* 
+
+N/A  October 31 st , 2025 
+
+107 through 237 
+
+One hundred and thirty-one (131) Caterpillar Model 3516E non-emergency diesel engine gen-sets 
+
+3,100 ekW 
+
+4,381 bhp 
+
+Selective Catalytic Reduction (SCR) and Diesel Oxidation Catalyst (DOC)* 
+
+N/A  October 31 st , 2025 
+
+FP2 and FP3  Two (2) Clarke Model JU4h-UFAEE8 fire pump diesel engine 
+
+48 kW 
+
+64 bhp  N/A  N/A  October 31 st , 2025 
+
+CT1 through CT20  Twenty (20) Wet Cooling Towers  6,460 gpm  N/A  N/A  October 31 st , 2025 
+
+CT21 through CT30  Ten (10) Wet Cooling Towers  12,254 gpm  N/A  N/A  October 31 st , 2025 
+
+*Combined Caterpillar 5X4X2 SCR and DOC control 
+
+Equipment Previously Permitted: 
+
+Reference No.  Equipment Description  Rated Capacity 
+
+Add-on 
+
+Control 
+
+Technology 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+C1 through C11 
+
+Eleven (11) Caterpillar Model C175-20 non-emergency diesel engine gen-sets 
+
+4,000 ekW 
+
+5,646 bhp  Selective Catalytic Reduction (SCR)*  N/A  May 19, 2023 
+
+1 through 90  Ninety (90) Caterpillar Model C175-16 non-emergency diesel engine gen-sets 
+
+3,000 ekW 
+
+4,423 bhp  Selective Catalytic Reduction (SCR)*  N/A  May 19, 2023 
+
+FP1  One (1) Clarke Model JU4h-UFAEE8 fire pump diesel engine 
+
+48 kW 
+
+64 bhp  N/A  N/A  May 19, 2023 
+
+*Caterpillar 5X4X3 SCR system 
+
+The specifications included in the table above are for informational purposes only and do not form enforceable terms or conditions of the permit. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 5
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. Nos. FP1 through FP3) shall be controlled by the following: 
+
+a. Nitrogen oxides (NO x) emissions from the fire pump diesel engines (Ref. Nos. FP1 through FP3) shall be controlled by engine design. 
+
+b. Carbon monoxide (CO) emissions, particulate matter (PM 10 /PM 2.5 ) emissions, volatile organic compounds (VOC) emissions, nitrogen oxides (NO x) emissions, and visible emissions from the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. Nos. FP1 through FP3) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the non-emergency diesel engine gen-sets and the fire pump diesel engines. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+2. Emission Controls – Nitrogen oxide (NO x) emissions from the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 90) shall be controlled by closed loop Selective Catalytic Reduction (SCR) systems. Each SCR system shall be equipped with a temperature probe to continuously monitor the catalyst bed exhaust temperature while the non-emergency diesel engine get-set is operational. Engine exhaust gas shall be treated with urea when the engines are operating at or above twenty percent (20%) load and the catalyst bed exhaust temperature of 572°F is achieved, except for periods of start-up, shutdown, or malfunction. 
+
+The permittee shall operate the engine gen-set and SCR such that the exhaust temperature at the outlet of the emissions control system does not exceed 890°F. The SCR shall be provided with adequate access for inspection and shall be in operation when the non-emergency diesel engine gen-sets are operating as stated above. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [5/19/2023] 
+
+3. Emission Controls – Nitrogen oxide (NO x) emissions from the non-emergency diesel engine gen-sets (Ref. Nos. 91 through 237) shall be controlled by closed loop Selective Catalytic Reduction (SCR) systems. Each SCR system shall be equipped with a temperature probe to continuously monitor the catalyst bed exhaust temperature while the non-emergency diesel engine get-set is operational. 
+
+Engine exhaust gas for the non-emergency diesel engine gen-sets (Ref. Nos. 91 through 237) shall be treated with urea when the catalyst bed exhaust temperature of 572°F is achieved, except for periods of start-up, shutdown, or malfunction. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 6
+
+The permittee shall operate the engine gen-set and SCR such that the exhaust temperature at the outlet of the emissions control system does not exceed 977°F. The SCR shall be provided with adequate access for inspection and shall be in operation when the non-emergency diesel engine gen-sets are operating as stated above. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+4. Emission Controls – Carbon monoxide (CO) emission from the non-emergency diesel engine gen-sets (Ref. Nos. 91 through 237) shall be controlled by a diesel oxidation catalyst (DOC). The DOC shall be provided with adequate access for inspection and shall be in operation when the non-emergency diesel engine gen-sets are operating. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+5. Emission Controls – Particulate emissions from the thirty (30) cooling towers (Ref. Nos. CT1 through CT30) shall be controlled by drift eliminator designed for 0.001% loss. The drift eliminator shall be provided with adequate access for inspection and shall be in operation when the cooling tower is operating. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+6. Monitoring 
+
+a. Fuel Flow: Each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 
+
+1 through 237) shall be equipped with a device to continuously measure and record individual fuel consumption (in gallons) for each engine gen-set during operation. 
+
+b. Engine Operating Hours: Each non-emergency diesel engine gen-set (Ref. Nos. C1 
+
+through C11 and 1 through 237) and the fire pump diesel engines (Ref. No. FP1 through FP3) shall be equipped with a non-resettable hour meter which measures the duration of time that each engine gen-set is operated. 
+
+c. Engine load/kilowatt output: Each non-emergency diesel engine gen-set (Ref. Nos. C1 
+
+through C11 and 1 through 90) shall be equipped with a device to monitor and record the engine gen-set kilowatt output at a minimum frequency of once every fifteen minutes. 
+
+Each monitoring device (as required in a., b., and c. above) shall be observed by the permittee with a frequency of not less than once each day the unit is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the DEQ’s Northern Regional Office (NRO). Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 7
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the units are operating. 
+
+(9VAC5-80-1180 D) [10/31/2025] 
+
+7. Monitoring Devices – The SCR for each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) shall be equipped with devices to continuously measure and record the SCR catalyst bed exhaust temperature and the NO x emissions measured after the catalyst, expressed in ppm. The information shall be recorded at a minimum frequency of once every fifteen minutes, and correlated to run date, engine load/kilowatt output, and diesel fuel throughput. 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the SCR is operating. 
+
+(9VAC5-80-1180 D) [10/31/2025] 
+
+8. Monitoring Devices – The DOC for each non-emergency diesel engine gen-set (Ref. Nos. 91 through 237) shall be equipped with devices to continuously measure and record the DOC catalyst bed temperature at a minimum frequency of once every fifteen minutes during the operation of each engine gen-set. The information shall be correlated to run date, engine load/kilowatt output, and engine operating hours. 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer’s written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the DOC is operating. 
+
+(9VAC5-80-1180 D) [10/31/2025] 
+
+OPERATING LIMITATIONS 
+
+9. Fire Pump Operation – The fire pump diesel engines (Ref. Nos. FP 1 through FP3) shall only be operated to provide power to pump water for fire suppression or protection, for periodic maintenance, testing, and operational training, and for commissioning during the integration operational period. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+10. Operation of the Engine Gen-Sets/Fire Pump Diesel Engine – The permittee shall operate and maintain each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237), fire pump diesel engine (Ref. Nos. FP1 through FP3) and control devices according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 8
+
+only change those settings that are permitted by the manufacturer and does not increase air emissions. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+11. Operating Limitations (Ozone Season) – No non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing or operator training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during May 1 through September 30. The permittee may petition the Regional Air Compliance Manager of DEQ’s NRO for exceptions to this requirement, with approvals made on a case-by-case basis. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+12. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality index (AQI) for ozone as published on the AirNow website (https://airnow.gov) for Northern Virginia for that day is less than or equal to 100. In the event that AirNow-EnviroFlash (www.enviroflash.info) issues an Air Alert for Metropolitan Washington, D.C. for a day which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+13. Operating Hours – The fire pump diesel engines (Ref. Nos. FP1 through FP3) shall not operate more than 120 hours per year for all purposes combined. 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+14. Fuel Specification – The approved fuel for the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. Nos. FP1 through FP3) is ultra-low sulfur diesel fuel oil (ULSD). For the purposes of this permit document, diesel fuel oil is defined as ultra-low sulfur diesel fuel oil, renewable diesel, or a blend of these fuels, and shall meet the specifications below: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for grade ultra-low sulfur 2-D or grade 2-D S15, or, 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of 40 or maximum aromatic content of 35 volume percent. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 9
+
+Exceedance of these specifications may be considered credible evidence of an exceedance of emission limits. A change in the fuel type or the fuel sulfur content may require a permit to modify and operate. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+15. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of ultra-low sulfur diesel fuel oil and renewable diesel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; and 
+
+d. A statement that the diesel fuel: 
+
+i. complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or 
+
+ii. has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee must obtain approval from the Regional Air Compliance Manager of DEQ’s NRO, if other documentation will be used to certify the diesel fuel type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ may be used to determine compliance with the fuel specifications stipulated in Condition 14. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+16. Cooling Tower Limits – The Total Dissolved Solid (TDS) concentration in the process water in each cooling tower (Ref. Nos. CT1 through CT30) shall not exceed 2,500 ppm. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+17. Diesel Fuel Throughput Limit – The non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) combined shall consume no more than 2,916,000 gallons of diesel fuel oil per year for all operations, calculated daily as the sum of each consecutive 365-day period (all uses): 
+
+i. The non-emergency engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237), combined, when emissions are not controlled by SCR, shall consume no Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 10
+
+more than 390,000 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses); 
+
+ii. The non-emergency engine gen-sets without DOC equipped (Ref. Nos. C1 through C11 and 1 through 90) combined, shall consume no more than 1,409,000 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+EMISSION LIMITATIONS 
+
+18. Emission Limits (Hourly) – Emissions from the operation of the Caterpillar C175-20 non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 91 through 106) shall not exceed the limits specified below: 
+
+Pollutant 
+
+4,000 ekW C175-20 
+
+Ref. Nos. C1 through C11 
+
+(each unit) 
+
+4,000 ekW C175-20 
+
+Ref. Nos. 91 through 106 
+
+(each unit) 
+
+Controlled with SCR  Uncontrolled 
+
+Controlled with SCR and DOC 
+
+Uncontrolled 
+
+Nitrogen Oxides (NO x as NO 2) 4.85 lb/hr*  74.68 lb/hr  4.85 lb/hr*  74.68 lb/hr 
+
+Carbon Monoxide (CO)  20.44 lb/hr  2.04 lb/hr**  20.44 lb/hr 
+
+Volatile Organic Compounds (VOC)  1.82 lb/hr  0.18 lb/hr**  1.82 lb/hr 
+
+Filterable Particulate Matter (PM)  0.75 lb/hr  0.75 lb/hr 
+
+Particulate Matter (PM 10 ) 1.02 lb/hr  1.02 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.02 lb/hr  1.02 lb/hr 
+
+*Controlled by SCR; ** Controlled by DOC 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the non-emergency diesel engine gen-sets, pollution control devices or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 11
+
+19. Emission Limits (Hourly) – Emissions from the operation of the Caterpillar C175-16 non-emergency diesel engine gen-sets (Ref. Nos. 1 through 90) shall not exceed the limits specified below: 
+
+Pollutant 
+
+3,000 ekW C175-16 
+
+Ref. Nos. 1 through 90 
+
+(each unit) 
+
+Controlled with SCR  Uncontrolled 
+
+Nitrogen Oxides (NO x as NO 2) 3.80 lb/hr  58.51 lb/hr 
+
+Carbon Monoxide (CO)  6.05 lb/hr 
+
+Volatile Organic Compounds (VOC)  2.31 lb/hr 
+
+Filterable Particulate Matter (PM)  1.28 lb/hr 
+
+Particulate Matter (PM 10 ) 1.48 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.48 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the non-emergency diesel engine gen-sets, pollution control devices or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+20. Emission Limits (Hourly) – Emissions from the operation of the Caterpillar 3516E non-emergency diesel engine gen-sets (Ref. Nos. 107 through 237) shall not exceed the limits specified below: 
+
+Pollutant 
+
+3,100 ekW Caterpillar 3516E 
+
+Ref. Nos. 107 through 237 
+
+(each unit) 
+
+Controlled by SCR and DOC  Uncontrolled 
+
+Nitrogen Oxides (NO x as NO 2) 3.78 lb/hr*  58.11 lb/hr 
+
+Carbon Monoxide (CO)  0.98 lb/hr**  9.81 lb/hr 
+
+Volatile Organic Compounds (VOC)  0.06 lb/hr**  0.58 lb/hr 
+
+Filterable Particulate Matter (PM)  1.78 lb/hr 
+
+Particulate Matter (PM 10 ) 2.00 lb/hr 
+
+Particulate Matter (PM 2.5 ) 2.00 lb/hr 
+
+*Controlled by SCR; ** Controlled by DOC 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the non-emergency diesel engine gen-sets, pollution control devices or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 12
+
+21. Emission Limits (Hourly) – Emissions from the operation of the fire pump diesel engines (Ref. Nos. FP1 through FP3) shall not exceed the limits specified below: 
+
+Pollutant  Ref. Nos. FP1 through FP3 
+
+Nitrogen Oxides (NO x as NO 2) 0.49 lb/hr 
+
+Carbon Monoxide (CO)  0.11 lb/hr 
+
+Volatile Organic Compounds (VOC)  0.04 lb/hr 
+
+Filterable Particulate Matter (PM)  0.02 lb/hr 
+
+Particulate Matter (PM 10 ) 0.02 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.02 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the fire pumps or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+22. Cooling Towers Emission Limits – Emissions from the operation of the cooling towers (Ref. No. CT1 through CT20) shall not exceed the limits specified below: 
+
+Pollutant  Ref. Nos. CT1 through CT20 
+
+(each) 
+
+Ref. Nos. CT1 through CT20 
+
+(combined) 
+
+Particulate Matter (PM)  0.08 lb/hr  7.08 tpy 
+
+Particulate Matter (PM 10 ) 0.05 lb/hr  3.95 tpy 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the cooling towers or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+23. Cooling Towers Emission Limits – Emissions from the operation of the cooling towers (Ref. No. CT21 through CT30) shall not exceed the limits specified below: 
+
+Pollutant  Ref. Nos. CT21 through CT30 
+
+(each) 
+
+Ref. Nos. CT21 through CT30 
+
+(combined) 
+
+Particulate Matter (PM)  0.15 lb/hr  6.71 tpy 
+
+Particulate Matter (PM 10 ) 0.08 lb/hr  3.75 tpy 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the cooling towers or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+24. Emission Limits (Annual) – Emissions from the operation of the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237), and the diesel engine fire pumps (Ref. Nos. FP1 through FP3) shall not exceed the limits specified below: Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC        
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 13
+> Pollutant
+> Facility Wide Emissions from Non-Emergency Engines and Fire Pumps
+> Nitrogen Oxides (NO xas NO 2)96.57 tpy
+> Carbon Monoxide (CO) 99.39 tpy
+> Volatile Organic Compounds (VOC) 21.88 tpy
+> Filterable Particulate Matter (PM) 12.39 tpy
+> Particulate Matter (PM 10 )13.93 tpy
+> Particulate Matter (PM 2.5 )13.93 tpy
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with the annual pollutant emission limits may be determined as stated in Conditions 18, 19, 20, 21, 22 and 23. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+25. Visible Emission Limit – Visible emissions from each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. Nos. FP1 through FP3) exhausts shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown and malfunction. 
+
+During startup and shutdown, visible emissions from each non-emergency diesel engine gen-set and fire pump diesel engine shall not exceed 10% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/31/2025] 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+26. Stack Test – Initial performance tests shall be conducted on at least twenty percent (20%) of the installed non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11) and on at least twenty percent (20%) of the installed non-emergency diesel engine gen-sets (Ref. Nos. 1 through 90) for NO x (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of DEQ’s NRO to determine compliance with the applicable controlled and uncontrolled emission limits contained in Conditions 18 and 19. 
+
+a. Emissions testing of each pollutant for each selected non-emergency diesel engine gen-set shall consist of three one-hour test runs under load. The average of the three runs shall be reported as the short-term emission rate for that non-emergency diesel engine gen-set. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 14
+
+b. Testing shall be performed on the non-emergency diesel engine gen-sets to demonstrate compliance with the controlled and uncontrolled NO x emissions limits and CO emission limits specified in Conditions 18 and 19, as applicable. Testing shall 
+
+be conducted with the non-emergency diesel engine gen-set operating at ≥ 90 percent 
+
+of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded non-emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+iii. Urea solution consumption. 
+
+iv. Catalyst bed exhaust temperature. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30) the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ’s NRO, at least thirty days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two copies, one paper copy and one on removable electronic media, of the test results shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [5/19/2023] Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 15
+
+27. Stack Test (ULSD) – Initial performance tests shall be conducted on three (3) of the installed 4,000 ekW non-emergency diesel engine gen-sets (Ref. Nos. 91 through 106) and on twenty-six (26) of the installed non-emergency diesel engine gen-sets (Ref. Nos. 107 through 237) for NO x (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of DEQ’s NRO to determine compliance with the applicable controlled emission limits contained in Conditions 18 and 20. 
+
+a. Emissions testing of each pollutant for each selected non-emergency diesel engine gen-set shall consist of three one-hour test runs under load. The average of the three runs shall be reported as the short-term emission rate for that non-emergency diesel engine gen-set. 
+
+b. Testing shall be performed on the non-emergency diesel engine gen-sets to demonstrate compliance with the controlled NO X emissions limits and CO emission limits specified in Conditions 18 and 20, as applicable. Testing shall be conducted 
+
+with the non-emergency diesel engine gen-set operating at ≥ 90 percent of its rated 
+
+capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded non-emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+iii. Urea solution consumption. 
+
+iv. Catalyst bed exhaust temperature. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30) the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ’s NRO, at least thirty days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 16
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two copies, one paper copy and one on removable electronic media, of the test results shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [10/31/2025] 
+
+28. Stack Test (Renewable Diesel) – Performance tests shall be conducted on two (2) of the installed non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) while utilizing renewable diesel or a blend of renewable diesel and ULSD for NO x (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of the DEQ’s NRO to determine compliance with the controlled emission limits contained in Conditions 18, 19 and 20. 
+
+a. Emissions testing of each pollutant for each selected diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that diesel engine gen-set. 
+
+b. Testing shall be performed on the exhaust stack of the diesel engine gen-sets to demonstrate compliance with the NO X and CO emission limits specified in Conditions 
+
+18, 19 and 20. Testing shall be conducted with the diesel engine gen-set operating at ≥ 
+
+90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+d. For any engine gen-set that has not commenced the integration operational period 
+
+upon receipt of the first shipment of renewable diesel or a blend of renewable diesel 
+
+and ULSD utilized by the units: Perform testing to demonstrate compliance within 120 
+
+days after the integration operational period has commenced. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 17
+
+e. For any engine gen-set that has commenced the integration operational period upon 
+
+receipt of the first shipment of renewable diesel or a blend of renewable diesel and 
+
+ULSD utilized by the units: Perform testing to demonstrate compliance within 120 
+
+days of the renewable diesel fuel or a blend of renewable diesel and ULSD first utilized by the affected units. The permittee may petition the DEQ’s NRO Air Compliance Manager for an extension to this deadline, with approvals made on a case by-case basis. If the applicable deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+f. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+g. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+h. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [10/31/2025] 
+
+29. Visible Emissions Evaluation – Concurrent with the initial performance tests required in Conditions 26, 27 and 28, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the non-emergency diesel engine gen-sets selected for initial performance testing. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol required by Conditions 26, 27 and 28, at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air Compliance Manager of the DEQ-NRO shall be notified in writing, within seven (7) days, and visible emissions testing shall be rescheduled within thirty-days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 18
+
+b. Two copies of the test result (one hard copy and one electronic copy) shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [10/31/2025] 
+
+CONTINUING COMPIANCE DETERMINATION 
+
+30. Facility Construction – The non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) and fire pump diesel engines (Ref. No. FP1 through FP3) shall be constructed so as to allow for emissions testing upon reasonable notice at any times, using appropriate methods. This includes constructing the facility/equipment such that volumetric flow rates and pollutant emission rates can be determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [10/31/2025] 
+
+31. Emission Testing/Visible Emissions Evaluation – Upon request by the DEQ, the permittee shall conduct stack tests and/or VEEs of the non-emergency diesel engine gen-sets (Ref. Nos. Ref. Nos. C1 through C11 and 1 through 237) and fire pump diesel engines (Ref. Nos. FP1 through FP3) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [10/31/2025] 
+
+32. Cooling Towers – Once per calendar year, the permittee shall sample and analyze the process water from one cooling tower (Ref. Nos. CT1 through CT30) to demonstrate compliance with the TDS limit in Conditions 16 and 23, utilizing EPA approved procedures or equivalent methods as determined by the Regional Air Compliance Manager of DEQ NRO. 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+RECORDS 
+
+33. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. These records shall include, but are not limited to: 
+
+a. Documentation from the manufacturer that each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. Nos. FP1 through FP3) are certified to meet applicable EPA emission standards. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 19
+
+b. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. Nos. FP1 through FP3). 
+
+c. A log of monitoring device observations as required by Condition 6. 
+
+d. Operation and control device monitoring records for each non-emergency diesel engine gen-set set equipped with an SCR (Ref. Nos. C1 through C11 and 1 through 237) as required in Condition 7. This includes records of SCR catalyst bed exhaust temperature and NO x emissions measured after the catalyst, correlated to run date, engine load/kilowatt output, and diesel fuel throughput. 
+
+e. Operation and control device monitoring records for each non-emergency diesel engine gen-set equipped with a DOC (Ref. Nos. 91 through 237) as required in Condition 8. This includes records of the DOC catalyst bed temperature. 
+
+f. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. No. FP1 through FP3). 
+
+g. Monthly and annual hours of operation of each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) and the fire pump diesel engines (Ref. No. FP1 through FP3), with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+h. All fuel supplier certifications. 
+
+i. Daily and annual fuel consumption of each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) when emissions are uncontrolled, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period. 
+
+j. Daily and annual fuel consumption of each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237) when emissions are controlled with SCR, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period. 
+
+k. Daily and annual fuel consumption for the combined operation of the twenty-seven (27) non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 91 through 106) when emissions are uncontrolled, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 20
+
+l. Daily and annual fuel consumption for the combined operation of the twenty-seven (27) non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 91 through 106) when emissions are controlled with SCR, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+m. Daily and annual fuel consumption for the combined operation of the sixteen (16) non-emergency diesel engine gen-sets (Ref. Nos. 91 through 106) when emissions are controlled with DOC, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+n. Daily and annual fuel consumption for the combined operation of the ninety (90) non-emergency diesel engine gen-sets (Ref. Nos. 1 through 90) when emissions are uncontrolled, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+o. Daily and annual fuel consumption for the combined operation of the ninety (90) non-emergency diesel engine gen-sets (Ref. Nos. 1 through 90) when emissions are controlled with SCR, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+p. Daily and annual fuel consumption for the combined operation of the one hundred and thirty one (131) non-emergency diesel engine gen-sets (Ref. Nos. 107 through 237) when emissions are uncontrolled, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+q. Daily and annual fuel consumption for the combined operation of the one hundred and thirty one (131) non-emergency diesel engine gen-sets (Ref. Nos. 107 through 237) when emissions are controlled with SCR, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+r. Daily and annual fuel consumption for the combined operation of the one hundred and thirty one (131) non-emergency diesel engine gen-sets (Ref. Nos. 107 through 237) when emissions are controlled with DOC, for all purposes, with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 17. 
+
+s. Records of TDS sampling and analytic results used to determine compliance with the cooling tower process water TDS limit in Condition 16. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 21
+
+t. Daily and annual emissions calculations for NO x (as NO 2), CO, VOC, PM, PM 10 , and PM 2.5 from the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237), with annual emissions, calculated daily as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition 24. 
+
+u. Results of all stack tests, and VEEs. 
+
+v. Records of scheduled maintenance, non-scheduled maintenance, and operator training. 
+
+w. Records of changes in settings that are permitted by the manufacturer of the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237). 
+
+x. Records of the reasons for operation for each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237), including, but not limited to, the date, cause of operation, and the hours of operation. 
+
+y. Records, as necessary, to demonstrate compliance with the operating limitations of Condition 11 which includes but is not limited to: times, dates and reasons for operation of each diesel engine gen-set that was operating between May 1 and September 30. 
+
+z. To verify compliance with Condition 12, maintain records for the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237) of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an non-emergency diesel engine gen-set operated during the integration operational period; 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an non-emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by Airnow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours, and duration. 
+
+Compliance for the consecutive 12-month period (as applicable for the items above) shall be demonstrated monthly by adding the total for the most recently completed month to the individual monthly totals for the preceding 11 months. 
+
+Compliance for the consecutive 365-day period (as applicable for the items above) shall be demonstrated daily by adding the total for the most recently completed day to the individual daily totals for the preceding 364 days. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 22
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [10/31/2025] 
+
+NOTIFICATIONS 
+
+34. Initial Notifications – The permittee shall furnish written notification of the items below to the Regional Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit notification(s) for each building containing the information as described below: 
+
+a. The actual date on which installation of the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237), the fire pump diesel engines (Ref. Nos. FP1 through FP3) and cooling towers (Ref. Nos. CT1 through CT30) commenced in each building, within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and, 
+
+iv. The date installation commenced. 
+
+b. The start and end dates of the integration operational period for each non-emergency diesel engine gen-set (Ref. Nos. C1 through C11 and 1 through 237), fire pump diesel engines (Ref. Nos. FP1 through FP3) and cooling towers (Ref. Nos. CT1 through CT30) within 15 days after the last generator at each building completes its integration 
+
+operational period. If a period of construction is paused or halted for ≥45 days, this 
+
+notification shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 23
+
+iii. Installation date; and, 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source’s electrical system. 
+
+(9VAC5-50-20) [10/31/2025] 
+
+35. Renewable Diesel Notification – Upon receipt of the first shipment of renewable diesel or a blend of renewable diesel and ULSD, the permittee shall furnish written notification of the items below to the Air Compliance Manager of the DEQ’s NRO. 
+
+a. The actual date on which the shipment was received within fifteen (15) days after such date. The notification must include the following: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; 
+
+iii. Engine gen-sets (with reference numbers) utilizing the fuel in the shipment; and 
+
+iv. Fuel certification (as provided in Condition 15). 
+
+(9VAC5-80-1180) [10/31/2025] 
+
+GENERAL CONDITIONS 
+
+36. Permit Invalidation – This permit to construct the non-emergency diesel engine gen-sets (Ref. Nos. C1 through C11 and 1 through 237), the fire pump diesel engines (Ref. Nos. FP1 through FP3) and the cooling towers (Ref. Nos. CT1 through CT30) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the ‘Original Permit Date’ specified in the equipment list in the Introduction section of this permit, or if, 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) 
+
+37. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 24
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+38. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+39. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, soot blowing, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 25
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+40. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+41. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ’s NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+42. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+> Registration Number: 74234
+> October 31, 2025
+> Page 26
+
+43. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the NRO of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+44. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+Registration Number: 74234 
+
+October 31, 2025 
+
+Page 27 
+
+Attachment A 
+
+Source Testing Report Format Darab Ventures One LLC, Darab Ventures Two LLC, and Darab Ventures Six LLC 
+
+Registration Number: 74234 
+
+October 31, 2025 
+
+Page 28 
+
+SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test Dates. 
+
+4. Tester; name, address and report date 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. *Signed by reviewer 
+
+Copy of Approved Test Protocol 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3.Identification of unit tested & the maximum rated capacity 
+
+4.*For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test Methods 
+
+c. Pollutants tested 
+
+d. Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7. Any other important information 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1. Detailed test results for each run 
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1. *Raw production data 
+
+2. *Raw field data 
+
+3. *Laboratory reports 
+
+4. *Chain of custody records for lab samples 
+
+5. *Calibration procedures and results 
+
+6. Project participants and titles 
+
+7. Observers’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures 
+
+* Not applicable to visible emission evaluations

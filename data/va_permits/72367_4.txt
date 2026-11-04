@@ -1,0 +1,444 @@
+Title: KM_C554e-20200226132652
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/26107/638639799345030000
+
+Published Time: Tue, 08 Oct 2024 09:25:34 GMT
+
+Number of Pages: 13
+
+Markdown Content:
+> Matthew J. Strickler
+> SecretaryofNaturalResources
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+> NORTHERNREGIONALOFFICE
+> 13901 Crown Court, Woodbridge, Virgmia 22193
+
+(703)583-3800FAX(703) 583-3821 
+
+> www. deq. virginia. gov
+
+February 26, 2020 
+
+> DavidK. Paylor
+> Director
+> (804) 698-4000
+> Thomas A. Faha
+> Regional Director
+> Mr. David Leland
+
+Regional Environmental Manager 
+
+Verizon Global EH & S Department Verizon Business Network Services, Inc. 400 International Parkway 
+
+> Richardson, TX 75081
+
+Location: Loudoun County Registration No. : 72367 
+
+> Dear Mr. Leland:
+
+Attached is a minor amendment to the new source review (mNSR) permit dated December 21, 2005 to construct and operate a computer network operation and internet/telecommunications facility located at 22001 Loudoun County Parkway, Ashburn, 
+
+Virginia 20147 (Loudoun County) in accordance with the provisions ofthe Virginia Regulations for the Control and Abatement ofAir Pollution. This amended permit document supersedes the 
+
+permit document dated December 21 , 2005. This permit amendment reflects the splitting of the permitted equipment in the December 21, 2005 mNSR permit into three permit documents, two of which are undergoing subsequent change of ownership (Registration Nos. 74147 and 74179). The Department of Environmental Quality (DEQ) deemed the application complete on 
+
+October 30, 2019. This permit contains legally enforceable conditions. Failure to comply may 
+
+result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully This permit approval to construct and operate shall not relieve Verizon Business Network Services, Inc. of the responsibilityto comply with all other local, state, and federal 
+
+> permit regulations.
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www. ecfr. gov, Title 40, 
+
+Part 63. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a Mr. David Leland  
+
+> February 26, 2020 Page 2
+
+petition with the Board within 30 days after this case decision notice was mailed or delivered to 
+
+you. Please consult the relevant regulations for additional requirements for such requests. As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+David K. Paylor, Director Department of Environmental Quality P. O. Box 1105 Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the 30-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginiafor information on the required content of the Notice ofAppeal and for additional requirements governing appeals from decisions of administrative agencies. If you have any questions concerning this permit, please contact Ms. Sevgi Rudd at 
+
+(703) 583-3806 or via e-mail at sevai. rudd@dea.virainia.aov 
+
+> Sincen
+> fn A. Wilkinson
+
+Regional Air Permit Manager TAF/JAW/SCR/ (2020-2-26) 72367 mNSR Permit  
+
+> Attachment: Permit
+
+ec: Regional Air Compliance Manager(electronic file submission) Matthew J. Strickler  
+
+> SecretaryofNatural Resources
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+> NORTHERNREGIONALOFFICE
+
+13901 CrownCourt, Woodbridge,Virginia22193 (703)583-3800 FAX (703) 583-3821  
+
+> www. deq. virginia. gov
+> DavidK. Paylor
+> Director
+> (804) 698^000
+> Thomas A. Faha Regional Director
+
+STATIONARYSOURCE PERMITTO CONSTRUCTAND OPERATE 
+
+This amended permit document supersedes the permit document dated December 21. 2005. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution, Verizon Business Network Services, Inc. 400 International Parkway 
+
+Richardson, TX 75081 
+
+Registration No. : 72367 is authorized to construct and operate 
+
+emergency diesel engine generatorsets (gen-sets) 
+
+located at Verizon Business Network Services, Inc. 
+
+22001 Loudoun County Parkway Ashburn, VA20147 (Loudoun County) in accordance with the Conditions of this permit. 
+
+December 21, 2005 
+
+February 26, 2020 Approved on: 
+
+> Amended on:
+> \frr^A.3
+
+Thomas A. Faha 
+
+Regional Director 
+
+Permit consists of 9 pages (w/o the attachment). 
+
+Permit Conditions 1 to 17. 
+
+Attachment A - Source Testing Report Format (1 page) Verizon Business Network Services, Inc. 
+
+> Registration Number: 72367 December 21, 2005, as amended February 26, 2020 Page 2
+
+INTRODUCTION 
+
+This permit approval is based on the permit applications dated August 2, 2019 and August 16, 
+
+2017 with supporting documents dated October 30, 2019, October 22, 2019, October 15, 2019, 
+
+October 10, 2019, September 20, 2019, July 9, 2019 and Novembers, 2018; the permit application dated September 14, 2005, with supporting documents dated October 10, 2005 and October 19, 2005; and the permit application dated December 7, 1999, with supporting documents dated January 10, 2000, February3, 2000, March 15, 2000, May 12, 2000, June 7, 
+
+2000, September 22, 2000, October 9, 2000, October 18, 2000, November 1, 2000, November 
+
+6, 2000 and November 8, 2000, including amendment information dated August 2, 2001 and August 18, 2001; and also the permit application dated March 22, 1999, with supporting documents dated April 16, 1999, May4, 1999 and May 5, 1999. Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to 
+
+construction may result in enforcement action. In addition, this facility may be subject to 
+
+additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+The regulatory reference or authority for each condition is listed in parentheses () after each 
+
+> condition.
+
+Annual requirements to fulfill legal obligationsto maintain current stationarysource emissions datawill necessitate a prompt response by the permittee to requests by the DEQor the Board for information to include, as appropriate: process and production data; changes in control 
+
+equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable 
+
+provisions of the Freedom of Information Act, §§ 2. 2-3700 through 2. 2-3714 of the Code of 
+
+Virginia, § 10. 1-1314(addressing information provided to the Board) of the Code of Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of 
+
+> such information.
+
+Equipment List - Equipment at this facility covered by this permit consists of:  
+
+> Reference No.
+
+Equipment Description Rated Capacity Delegated Federal Requirements 
+
+EG1-2 through EG1-4 EG2-1 through EG2-4 
+
+Seven (7) Caterpillar 3516B SR-4-HV emergency diesel engine gen-sets 
+
+2, 876 bhp 
+
+2, 000 ekW 
+
+(each unit) 
+
+> None
+
+Specifications included in the table above are for informational purposes only and do not form 
+
+enforceable terms or conditions of the permit. Verizon Business Network Services, Inc. 
+
+> Registration Number: 72367 December 21, 2005, as amended February 26, 2020 Page3
+
+PROCESSREQUIREMENTS 1. Emission Controls - Nitrogen oxide (NOx) emissionsfrom the seven Caterpillar 3516B emergency diesel enginegen-sets (Ref. Nos. EG1-2through EG1-4and EG2-1 through EG2-4) shall be controlled by Caterpillar's low emission 'B' package. (9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+2. Testing/Monitoring Ports - The permitted facility shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. Test ports shall be provided when requested in accordance with the applicable performance test methods (reference 40 CFR Part 60, Appendix A) shall be provided. 
+
+(9 VAC 5-50-30 F and 9 VAC 5-80-1180) 
+
+3. Monitoring Devices -
+
+Each Caterpillar 3516B emergency diesel engine gen-set (Ref. Nos. EG1-2through EG1-4 and EG2-1 through EG2-4) shall be equipped with a non-resettable hour metering device to monitor the operating hours. The non-resettable hour meter used to continuously measure the hours of operation for each emergency diesel engine gen-set shall be observed by the ownerwith a frequency of not less than once each day the respective emission unit is 
+
+operated. The owner shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and 
+
+operated in accordancewith approved procedures, which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the diesel engine gen-set is operating. 
+
+(9 VAC 5-80-1180 D) Verizon Business Network Services, Inc. 
+
+> Registration Number: 72367
+
+December21, 2005, as amended February26, 2020 
+
+> Page 4
+
+OPERATINGLIMITATIONS 
+
+4. Operating Hours - The seven (7) Caterpillar 3516B emergencydiesel engine gen-sets (Ref. Nos. EG1-2 through EG1-4 and EG2-1 through EG2-4), combined, shall not operate 
+
+more than 1, 092 hours per year, calculated monthly as the sum of each consecutive 12-month period. 
+
+Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendarmonth to the individual monthly totals for 
+
+the preceding 11 months. 
+
+(9 VAC 5-80-1180) 5. Fuel Specifications- The approved fuel for the Caterpillar 3516B emergencydiesel engine gen-sets (Ref. Nos. EG1-2through EG1-4and EG2-1 through EG2-4) is diesel fuel. The 
+
+diesel fuel oil shall meet the specifications below: 
+
+ULTRA LOWSULFURDIESELFUELOIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975grade2-DS15, or, 
+
+b. Has a maximum sulfur content not to exceed 0. 0015% by weight(15 ppm), and either a 
+
+minimum cetane number of forty or maximum aromatic content of thirty-five volume 
+
+> percent.
+
+Exceedance of these specifications may be considered credible evidence of an exceedance 
+
+of emission limits. A change in the fuel type or the fuel sulfur content may require a permit 
+
+to modify and operate. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+6. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with 
+
+each shipment of diesel fuel. Eachfuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier;  
+
+> b. The date on which the diesel fuel was received;
+
+c. The quantity of diesel fuel delivered in the shipment; d. A statement that the diesel fuel complies with the requirements of Condition 5. 
+
+Alternatively, the permittee shall obtain approval from the Air Compliance Managerof DEQ Northern Regional Office(NRO), if other documentation will be used to certify the diesel fuel oil type. Fuel sampling and analysis, independentof that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the 
+
+fuel specifications stipulated in Condition 5. 
+
+(9 VAC 5-80-1180) Verizon Business Network Services, Inc. 
+
+> Registration Number: 72367
+
+December21, 2005, as amended February26, 2020 
+
+> Page 5
+
+EMISSIONLIMITS 7. 8. 
+
+Emission Limits- Emissionsfrom the operation of the Caterpillar 3516B emergency diesel engine gen-sets (Ref. Nos. EG1-2 through EG1-4 and EG2-1 through EG2-4) shall not 
+
+exceed the emission rates specified below: Nitrogen Oxides (as N02) Carbon Monoxide (CO) 
+
+34. 30 Ib/hr (each) 2. 23 Ib/hr (each) 
+
+18. 70 tons/yr (combined) 1.22 tons/yr (combined) 
+
+> These emissions are derived from the estimated overall emission contribution from
+
+operating limits. Exceedance of the operating limits may be considered credible evidence of 
+
+the exceedanceof emission limits. Compliance with these emission limits may be 
+
+> determined as stated in Conditions 4 and 5.
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) Visible Emission Limit- Visible emissions from each Caterpillar 3516B emergency diesel 
+
+engine gen-set (Ref. Nos. EG1-2 through EG1-4 and EG2-1 through EG2-4) shall not exceed 20 percent opacity except during one six-minute period in any one hour in which 
+
+visible emissions shall not exceed 30 percent opacity as determined by the EPAMethod 9 (reference 40 CFR60, AppendixA). This condition applies at all times except during 
+
+startup, shutdown, and malfunction. 
+
+(9 VAC 5-50-80 and 9 VAC 5-50-260) Verizon Business Network Services, Inc.  
+
+> Registration Number: 72367 December 21, 2005, as amended February 26, 2020 Page 6
+
+RECORDS AND REPORTING 
+
+9. On Site Records- The permittee shall maintain records of emission data and operating 
+
+parameters as necessary to demonstrate compliance with this permit. The content and 
+
+format of such records shall be arranged with the Air Compliance Managerof DEQ NRO. 
+
+> These records shall include, but are not limited to:
+
+a. A monthly log of monitoring device observations. 
+
+b. Monthly and annual hours of operation of each Caterpillar 3516B emergency diesel engine gen-set (Ref. Nos. EG1-2through EG1-4and EG2-1 through EG2-4), calculated 
+
+monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. c. Monthly and annual emissions calculations for NOx (as N02), emitted from the Caterpillar 3516B emergency diesel engine gen-sets (Ref. Nos. EG1-2 through EG1-4 and EG2-1 through EG2-4), calculated monthly as the sum of the most recent 12 consecutive month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 1 1 months. d. All fuel supplier certifications.  
+
+> e. Results of all stack tests and visible emission evaluations.
+
+f. Scheduled and unscheduled maintenance, and operator training. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years. 
+
+(9 VAC 5-50-50and 9 VAC 5-80-1180) Verizon Business Network Services, Inc. 
+
+> Registration Number: 72367 December 21, 2005, as amended February 26, 2020 Page 7
+
+GENERAL CONDITIONS 10. Permit Suspension/Revocation - This permit may be suspended or revoked if the 
+
+> permittee:
+
+a. Knowinglymakes material misstatements in the permit application or any amendments 
+
+to it; 
+
+b. Fails to comply with the conditions of this permit; c. Fails to comply with any emission standardsapplicableto a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere 
+
+with the attainment and maintenance of, any ambientair quality standard; or e. Fails to operate in conformance with any applicable control strategy, including any 
+
+emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210G) 
+
+11 Right of Entry - The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on whichthe facility is located or in which any records are required to be kept underthe terms and conditions of this permit; b. To have access to and copy at reasonabletimes any records required to be kept under 
+
+the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonabletimes any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or wheneverthe facility is in operation. Nothing contained herein shall make an inspection time unreasonableduring an emergency (9 VAC 5-170-130 and 9 VAC 5-80-1180) Verizon Business Network Services, Inc.   
+
+> Registration Number: 72367 December 21, 2005, as amended February 26, 2020 Page8
+
+12. Maintenance/Operating Procedures - At all times, including periods of start-up, shutdown, soot blowing, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: a. Develop a maintenance schedule and maintain records of all scheduled and non-
+
+> scheduled maintenance.
+
+b. Maintain an inventory of spare parts. c. Have available written operating procedures for equipment. These procedures shall be 
+
+> based on the manufacturer's recommendations, at a minimum.
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9 VAC 5-50-20 E and 9 VAC 5-80-1180D) 
+
+13. Record of Malfunctions - The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the 
+
+> record.
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 
+
+14. Notificationfor Facility or Control Equipment Malfunction - The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Air Compliance Manager of the DEQ NRO. 
+
+(9 VAC 5-20-180C and 9 VAC 5-80-1180) 
+
+15. Violation of Ambient Air Quality Standard - The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessaryto avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) Verizon Business Network Services, Inc.   
+
+> Registration Number: 72367 December 21, 2005, as amended February 26, 2020 Page 9
+
+16. Changeof Ownership- In the case of a transfer of ownership of a stationary source, the 
+
+new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the DEQ NRO of the change of ownership within 30 days of the 
+
+> transfer.
+
+(9 VAC 5-80-1240) 
+
+17 Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9 VAC 5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT Report Cover  
+
+> 1. Plant name and location
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration)  
+
+> 3. Test Dates.
+
+4. Tester; name, address and report date 
+
+> Certification
+
+1. Signed by team leader/certified observer (include certification date) 2. Signed by responsible company official 
+
+3. *Signed by reviewer Copy of Approved Test Protocol Summary 1. Reason for testing  
+
+> 2. Test dates
+
+3. Identification of unit tested & the maximum rated capacity 4. *For each emission unit, a table showing: 
+
+a. Operating rate   
+
+> b. Test Methods
+> c. Pollutants tested
+
+d. Test results for each run and the run average  
+
+> e. Pollutant standard or limit
+
+5. Summarized process and control equipment data for each run and the average, as required by the test 
+
+> protocol
+
+6. A statement that test was conducted in accordancewith the test protocol or identification & discussion 
+
+of deviations, including the likely impact on results 7. Any other important information Source Operation 1. Description of process and control devices 
+
+2. Process and control equipmentflow diagram 3. Sampling port location and dimensioned cross section. Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbancesand their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the   
+
+> stack and stack diameter or dimensions Test Results 1. Detailed test results for each run
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include auditswhen applicable 
+
+Appendix 1. *Raw production data 2. *Rawfield data 3. *Laboratory reports 4. *Chain of custody records for lab samples 5. *Calibration procedures and results 6. Project participants and titles 
+
+7. Observers' names (industry and agency) 
+
+8. Related correspondence 9. Standard procedures * Not applicable to visible emission evaluations

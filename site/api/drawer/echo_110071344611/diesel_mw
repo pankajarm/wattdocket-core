@@ -1,0 +1,60 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "160",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 1,
+ "citation": {
+  "id": "diesel-mw-cit-0",
+  "claim_id": "diesel-mw",
+  "document_sha256": "",
+  "publisher": "Virginia Department of Environmental Quality",
+  "document_id": "VA DEQ registration 74160-3",
+  "page": 4,
+  "line": null,
+  "quote": "2-Gen-3A through IADI-II-12-Gen-3E Five (5) Cummins Model QSK60-G15 emergency diesel engine gen-sets (Generator 2000DQKAB) 2,922 bhp 2,000 ekW (each uni",
+  "matched_text": "2-Gen-3A through IADI-II-12-Gen-3E Five ",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "va-equipment-1",
+  "url": null
+ },
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "calc:diesel:va:74160-3",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "80 generators summed from the permit's equipment table (p.4)",
+    "kind": "call"
+   },
+   {
+    "line": "= 160.0 MW of installed backup capacity",
+    "kind": "compute"
+   },
+   {
+    "line": "nameplate capacity, not run hours: it is not an emission",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "sum of unit ekW ratings -> MW",
+   "value": "divide by 1000"
+  }
+ ],
+ "sensitivity": [],
+ "drivers": [
+  "80 generators in the Virginia DEQ equipment table"
+ ]
+}

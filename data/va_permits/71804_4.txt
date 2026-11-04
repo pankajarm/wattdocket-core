@@ -1,0 +1,424 @@
+Title: KM_C554e-20161110085654
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25686/638628507317470000
+
+Published Time: Wed, 25 Sep 2024 07:45:31 GMT
+
+Number of Pages: 12
+
+Markdown Content:
+> Molly Joseph Ward
+> SecretaryofNatural Resources
+
+# COMMONWEALTH of VIRGINIA 
+
+DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+> NORTHERNREGIONALOFFICE
+
+13901 CrownCourt, Woodbridge,Virginia22193 
+
+(703)583-3800 
+
+> www. deq. virginia. gov
+
+November 9, 2016  
+
+> David K. Paylor Director Thomas A. Faha
+> RegionalDirector
+
+Mr. Michael Cahill 
+
+Property Manager 
+
+Meridian Science 7990, LLC 
+
+c/o Lincoln Property Company 1775 Greensboro Station Place, Suite 100 McLean, Virginia 22182 Location: Fairfax County Registration No. : 71804 
+
+> Dear Mr. Cahill:
+
+Attached is a permit to construct and operate emergency diesel engine-generatorsets at Meridian Science 7990 in accordance with the provisions of the Virginia State Air Pollution 
+
+Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on 
+
+September 16, 2016. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a 
+
+Notice of Violation and/or civil charges. Please read all permit conditions carefully. This permit approval to construct and operate shall not relieve Meridian Science 7990, 
+
+LLC of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The permittee shall furnish written notification of the actual date that the Cummins 
+
+KTA2300GS existing engine generators (Ref. Nos. 1-5) and the Waukesha VHP670DS existing engine generators(Ref. Nos. 6-8)from the February27, 2009 State Operating Permitwere permanentlytaken out ofservicewithin 10 days aftersuch date. The proposed diesel enginedriven emergencygenerators are subjectto 40 CFR 60 (NSPS), Subpart 1111and/or 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ Virginia has not accepted delegation of this rule. In summary, the units are required to comply with certain federal emission standards and operating limitations. The Department of 
+
+Environmental Quality (DEQ) advises you to review the referenced MACT and NSPS to ensure Mr. Michael Cahill November 9, 2016 
+
+Page 2 
+
+compliance with applicable emission and operational limitations. As the owner/operator you are also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notificationsshall be sentto EPA, Region III. To review any federal rules referenced in the above paragraph or in the attached permit, the US Government PublishingOfficemaintainsthe text ofthese rules at www.ecfr.gov, Title 40, 
+
+Part 60 and 63. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a 
+
+petition with the Board within 30 days after this case decision notice was mailed or delivered to 
+
+you. Please consult the relevant regulations for additional requirements for such requests. As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+David K. Paylor, Director Department of Environmental Quality P. O. Box 1105 Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginiafor information on the required content of the Notice ofAppeal and for additional requirements governing appeals from decisions of administrative agencies. Ifyou have any questions concerning this permit, please contact Mr. Thomas Valentour at (703) 583-3931 
+
+Sincerely, 
+
+# rlt L^. t. ^AJtf^ 
+
+> ^James B. LaFratta
+
+Regional Air Permit Manager TAF/JBL/TMV/71804mNSR  
+
+> Attachment: Permit
+
+ec: RegionalAir Compliance Manager(electronic file submission) Molly Joseph Ward  
+
+> Secretary of Natural Resources
+
+# COMMONWEALTH of VIRGINIA 
+
+DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 
+
+13901 Crown Court, Woodbridge, Virginia 22193 
+
+(703) 583-3800  
+
+> www. deq. vireinia. gov DavidK. Paylor
+> Director
+> Thomas A. Faha Regional Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Meridian Science 7990, LLC 1775 Greensboro Station Place, Suite 100. 
+
+McLean, VA22102 Registration No. : 71804 is authorized to construct and operate emergency diesel engine-generatorsets 
+
+located at Meridian Science 7990, LLC 
+
+7990 Science Applications Court Vienna, Virginia 22182 in accordance with the Conditions of this permit. Approved on November 9, 2016  
+
+> ,
+
+## V^<^-^s(^?; 
+
+Thomas A. Faha 
+
+Regional Director Permit consists of 10 pages. 
+
+Permit Conditions 1 to 23. Mr. Michael Cahill November 9, 2016 
+
+Page 2 INTRODUCTION This permit approval is based on the permit application dated September 1, 2016, including 
+
+supplemental information dated September 13, 2016, and September 16, 2016. Any changes in 
+
+the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-20 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+The regulatory reference or authorityfor each condition is listed in parentheses () after each 
+
+> condition.
+
+Annual requirements to fulfill legal obligationsto maintain current stationarysource emissions data will necessitate a prompt response by the permittee to requests by the DEQor the Board 
+
+for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQwill either be in writing or by personal contact. The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2. 2-3700 through 2. 2-3714 of the Code of Virginia, § 10. 1-1314 (addressing information provided to the Board) of the Code of Virginia, and 
+
+9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentialityof 
+
+> such information.
+
+Equipment List - Equipment at this facility consists of: Equipment to be Constructed: 
+
+> Reference
+
+No. 1-5 6-8 Equipment Description Five (5) Cummins 900DQFAD emergency diesel engine-
+
+> generator sets
+
+Three (3) Cummins 1. 365DQGAB emergency diesel engine-generator sets 
+
+> Rated
+
+Capacity 900 ekW 
+
+1, 482bhp 
+
+> (each unit)
+
+1, 365ekW 
+
+2, 200 bhp 
+
+(each unit) Delegated 
+
+> Federal
+
+Requirements 
+
+> None None
+
+Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+(9 VAC 80-1180 D 3) Mr. Michael Cahill November 9, 2016 
+
+Page3 
+
+PROCESSREQUIREMENTS 
+
+Emission Controls - Nitrogen oxides (NOx) emissions from the emergency diesel engine-generator sets (Ref. Nos. 1-8) shall be controlled by turbocharged engines and low temperature after coolers. The permittee shall maintain documentation that demonstrates the control devices have been installed on the diesel engine-generator sets. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+Emission Controls - Visible emissions, particulate emissions (PM/PMio/PMz^), carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, and nitrogen oxide (NOx) emissions from the emergency diesel engine-generator sets (Ref. Nos. 1-8) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and does not increase air 
+
+> emissions.
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+Monitoring Devices - Each emergency diesel engine-generator set (Ref. Nos. 1-8) shall be equipped with a non-resettable hour metering device to monitor the operating hours. The non-resettable hour meter used to continuously measure the hours of operation for each diesel engine-generator set shall be observed by the owner with a frequency of not less than once each day the engine-generatorset is operated. The owner shall keep a log of these 
+
+> observations.
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordancewith approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the diesel 
+
+> engine-generator sets are operating.
+
+(9 VAC 5-80-1180D) 
+
+OPERATING/EMISSION LIMITATIONS Operation of the Emergency Diesel Engine-Generator Set - The permittee shall operate and maintain each emergency diesel engine-generator set and control device according to the manufacturer's written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and does not increase air emissions. 
+
+(9 VAC 5-80-1180) 
+
+Emergency Power Generation - The emergency diesel engine-generator sets (Ref. Nos. 1-8) shall only be operated in the following modes: a. In situations that arises from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: i. A failure of the electrical grid; Mr. Michael Cahill November 9, 2016 
+
+Page 4 ii. On-site disasteror equipment failure; or iii. Public service emergencies such as flood, fire, natural disaster, or severe weather 
+
+> conditions.
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; ii. Capacity deficiency or capacity excess conditions; iii. A fuel shortage requiring departure from normal operating procedures in order to 
+
+> minimize the use of such scarce fuel;
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or v. An abnormal event external to the ISO service territory that may require ISO action. c. For maintenance checks, readiness testing, performance testing and operational training. i. For the purposes of this permit condition, performance testing shall mean 'stack testing' and/or 'visible emission evaluations' as may be required by this permit or 'performance testing' as may be required by DEQ under 9 VAC 5-50-30 F and G. ii. Any engine operation for maintenance checks, readiness testing and operational training which involves diesel fuel combustion during May 1 through September 30 shall only be done between the hours of 6:00 p. m. and 6:00 a. m. Eastern Daylight Time, unless requested by the permittee and prior approval is provided by DEQ-NRO. 
+
+(9 VAC 5-80-1180) 
+
+Operating Hours - Each emergency diesel engine-generator set (Ref. Nos. 1-8) shall not operate more than 100 hours per year, calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12 month period shall be demonstrated monthly by adding the total operating hours for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9 VAC 5-80-1180) Mr. Michael Cahill November 9, 2016 
+
+Page 5 7. Fuel - The approved fuel for the emergency diesel engine-generator sets (Ref. Nos. 1-8) is diesel fuel. The diesel fuel shall meet the ASTM D975 specification for S15 diesel fuel oil with a maximum sulfur content per shipment of 0. 0015%. A change in the fuel may require a new or amended permit. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+8. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: a. The name of the fuel supplier; b. The date on which the diesel fuel was received; c. The quantity of diesel fuel delivered in the shipment; 
+
+d. A statement that the diesel fuel complies with the American Societyfor Testing and 
+
+Materials specifications (ASTM D975) for S15 diesel fuel oil; and  
+
+> e. The sulfur content of the diesel fuel.
+
+Fuel sampling and analysis, independentof that used for certification, as may be periodically 
+
+required or conducted by DEQ may be used to determine compliance with the fuel specifications stipulated in Condition 7. Exceedance of these specifications may be  
+
+> considered credible evidence of the exceedance of emission limits.
+
+(9 VAC 5-80-1180) 
+
+EMISSION LIMITS 9. Process Emission Limits - Emissions from the operation of each emergency diesel engine-generator set (Ref. Nos. 1-8) shall not exceed the limits specified below: 10. Ref. No. 1-5 6-8 Nitrogen Oxides 
+
+(as N02) 
+
+19.60lbs/hr 29. 37 Ibs/hr 
+
+> Carbon
+> Monoxide
+
+## (CO) 
+
+1. 08 Ibs/hr 2.40 Ibs/hr Volatile Organic Compounds 
+
+(VOC) 
+
+0. 16 Ibs/hr 0. 87 Ibs/hr   
+
+> These emissions are derived from the manufacturer's "not to exceed" data at maximum
+
+design capacity of the engine-generator sets and operating limits to determine the overall emission contribution. Compliance with these pollutant limits shall be based on the proper operation and maintenance of the diesel engines or by testing, if required. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+Annual Engine Generator Emission Limits - Total emissions from all emergency diesel engine-generator sets (Ref. Nos. 1-8) shall not exceed the limits specified below Mr. Michael Cahill November 9, 2016 
+
+Page 6 Ref. No. 1-8 Nitrogen 
+
+> Oxides
+
+(as N02) 9.30 tpy 
+
+> Carbon
+> Monoxide
+
+## (CO) 
+
+0. 62 tpy 
+
+> These emissions are derived from the estimated overall emission contribution from
+
+operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be 
+
+> determined as stated in Condition 6.
+
+(9 VAC 5-80-1180and 9 VAC 5-50-260) 
+
+11 Visible Emission Limit - Visible emissions from each emergency diesel engine-generator exhaust (Ref. Nos. 1-8) shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown and malfunction. 
+
+(9 VAC 5-80-1180and 9 VAC 5-50-260) 
+
+CONTINUING COMPLIANCE DETERMINATION 12. Emissions Testing - Upon request of the DEQ, the permittee shall conduct performance tests and/or visible emissions evaluations on the emergency diesel engine-generator sets (Ref. Nos. 1-8) to demonstrate compliance with the emission limits in contained in this permit. The details of the test shall be arranged with the Northern Regional Office. 
+
+(9 VAC 5-50-30 F and 9 VAC 5-80-1200) 
+
+RECORDS 13. On Site Records - The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the 
+
+> DEQ's NRO. These records shall include, but are not limited to:
+
+a. Annual hours of operation of each engine-generator set for combined reasons of maintenance checks, readiness testing, performance testing and operational training, calculated monthly as the sum of each consecutive 12 month period. Compliance for the consecutive 12 month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. b. Records of the reasons for operation for each engine-generator set (Ref. Nos. 1-8), including, but not limited to, the date, times of operation for maintenance checks, readiness testing and operational training during May 1 through September 30, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation for each reason for operation. Mr. Michael Cahill November 9, 2016 
+
+Page 7 c. Annual hours of operation of each emergency diesel engine-generator set, calculated monthly as the sum of each consecutive 12 month period, calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12 month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. d. All fuel supplier certifications. 
+
+e. Engine information including make, model, serial number, model year, maximum engine 
+
+power (bhp), and engine displacement for each emergency diesel engine-generator set. f. The manufacturer's written operating instructions or procedures developed by the 
+
+owner/operatorthat are approved by the engine manufacturerfor each emergency 
+
+diesel engine-generator set. g. Records of the reasons for operation for each emergency diesel engine-generator set (Ref. Nos. 1-8), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation.  
+
+> h. Results of all stack tests and visible emission evaluations.
+
+i. Scheduled and unscheduled maintenance and operator training. These records shall be available for inspection by the DEQ and shall be current for the most recent five years. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-50) NOTIFICATIONS 14. Initial Notifications- The permittee shall furnish written notification of items a through e 
+
+below to the Regional Air Compliance Manager of the DEQ's NRO at the following address: Regional Air Compliance Manager Department of Environmental Quality 
+
+> 13901 Crown Court
+
+Woodbridge, VA22193 
+
+a. The actual date on which construction of each of the emergency diesel engine-generator 
+
+sets (Ref. Nos. 1-8) commenced within 30 days after such date. Along with this 
+
+> notification, the information below shall be included:
+
+i. Name and address of the permittee;   
+
+> ii. The address of the affected source; Mr. Michael Cahill November 9, 2016
+
+PageS iii. Engine information, including make, model, engine family, serial number, model, year, maximum engine power and engine displacement.  
+
+> iv. Fuel used.
+
+b. The anticipated start-up date of the emergency diesel engine-generator sets (Ref. Nos. 1-8) postmarked not more than 60 days nor less than 30 days prior to such date. 
+
+d. The actual start-up date of the emergency diesel engine-generator sets (Ref. Nos. 1-8) within 15 days after such date. The actual start-up datefor each emergency diesel 
+
+engine-generator set shall be the date on which each engine completes manufacturer's 
+
+trials, but shall be no later than thirty days afterthe initial start up for manufacturer's 
+
+> trials.
+
+(9 VAC 5-50-50 and 9 VAC 5-80-1180) 
+
+GENERAL CONDITIONS 
+
+15. Permit Invalidation- This permit to construct the emergency diesel engine-generatorsets (Ref. Nos. 1-8) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the date of this permit. b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time, except for a DEQ approved period between phases of the phased construction of a new stationary source or project. 
+
+(9 VAC 5-80-1210) 
+
+16. Permit Suspension/Revocation - This permit may be suspended or revoked if the 
+
+> permittee:
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; b. Fails to comply with the conditions of this permit; c. Fails to comply with any emission standards applicable to a permitted emissions unit; d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210G) Mr. Michael Cahill November 9, 2016 
+
+Page 9 17. Right of Entry - The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: a. To enter upon the permittee 's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board 
+
+> Regulations;
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during 
+
+regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9 VAC 5-170-130 and 9 VAC 5-80-1180) 
+
+18. Maintenance/Operating Procedures - At all times, including periods of start-up, shutdown, soot blowing, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions. a. Develop a maintenance schedule and maintain records of all scheduled and non-
+
+> scheduled maintenance.
+
+b. Maintain an inventory of spare parts. c. Have available written operating procedures forequipment. These procedures shall be 
+
+> based on the manufacturer's recommendations, at a minimum.
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the 
+
+names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9 VAC 5-50-20 E and 9 VAC 5-80-1180D) 
+
+19 Record of Malfunctions - The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air Mr. Michael Cahill 
+
+> November 9, 2016
+
+Page 10 pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, 
+
+cause), corrective action, preventive measures taken and name of person generating the 
+
+> record.
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 
+
+20. Notification for Facility or Control Equipment Malfunction - The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ's NRO of malfunctions of 
+
+the affectedfacilityor related air pollution control equipment that may cause excess 
+
+emissions for more than one hour, by facsimile transmission, telephone or telegraph. Such notification shall be made as soon as practicable but no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within two weeks of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager of the DEQ's NRO. 
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) 21 Violation of Ambient Air Quality Standard- The permittee shall, upon request ofthe DEQ, reduce the level of operation or shut down a facility, as necessaryto avoid violating 
+
+any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) 22. Change of Ownership- In the case of a transfer of ownership of a stationary source, the 
+
+new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the Northern Regional Office of the change of ownership within 30 days of the transfer. 
+
+(9 VAC 5-80-1240) 23. Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility 
+
+> to which it applies.
+
+(9 VAC 5-80-1180)

@@ -1,0 +1,14 @@
+{
+  "name": "WattDocket",
+  "short_name": "WattDocket",
+  "description": "Explore public facility records and environmental evidence.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#f4f8fa",
+  "theme_color": "#142e41",
+  "icons": [
+    { "src": "./android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

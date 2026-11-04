@@ -1,0 +1,734 @@
+Title: KM_C554e-20181108160921
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25857/638628779891900000
+
+Published Time: Wed, 25 Sep 2024 15:19:49 GMT
+
+Number of Pages: 18
+
+Markdown Content:
+> Matthew J. Strickler Secretary of Natural Resources
+
+# COMMONWEALTH of VIRGINIA 
+
+DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 
+
+> 13901 Crown Court, Woodbridge, Virginia 22193-1453
+
+(703)583-3800  
+
+> www. deq. virginia. gov
+> DavidK. Faylor
+> Director Thomas A. Faha
+> Regional Director
+
+Novembers, 2018 
+
+> Mr. Joshua Rabina
+
+Site Manager 
+
+Sentinel Ashburn, LLC 
+
+120 W. 45th Street, Suite 2610 NewYork, NewYork 10036 Location: Loudoun County 
+
+Registration No. : 74156 Dear Mr. Rabina: 
+
+Attached is a permit to construct and operate emergency diesel engine generator sets (gen-sets) at Sentinel Ashburn, LLC's computer data center, in accordance with the provisions of the Commonwealth of Virginia State Air Pollution Control Board's (Board's) Regulations for the Control and Abatement of Air Pollution (Regulations). In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on September 10, 2018. This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. This permit approval to construct and operate shall not relieve Sentinel Ashburn, LLC of the responsibility to comply with all other local, state, and federal permit regulations. The proposed emergency diesel engine gen-sets may be subject to the requirements of 40 CFR Part 60, New Source Performance Standards (NSPS) Subpart 1111- Standards of Performance for Stationary Compression Ignition Internal Combustion Engines and 40 CFR Part 63, National Emission Standardsfor HazardousAir Pollutants (MACT) Subpart ZZZZ- National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you are also responsible for any monitoring, notification, reporting and Mr. Joshua Rabina Sentinel Ashburn, LLC November 8, 2018 
+
+> Page 2
+
+recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www. ecfr. gov, Title 40, 
+
+> Part 60 and Part 63.
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: David K. Paylor, Director Department of Environmental Quality P. O. Box 1105 Richmond, VA 23218 If this permit was delivered to you by mail, three days are added to the 30-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. If you have any questions concerning this permit, please contact Mr. Thomas Valentour at (703) 583-3931 or via email at thomas.valentour@dea.virainia.gov. Sincerely, la^f^i^ U ' ^ 
+
+> 'James B. LaFratta
+
+Regional Air Permit Manager TAF/JBUTMV/74156 mNSR  
+
+> Attachment: Permit
+
+ec: Regional Air Compliance Manager (electronic file submission) Mr. William Fowler, Sentinel Ashburn, LLC, (electronic file submission) Matthew J. Strickler Secretary of Natural Resources 
+
+# COMMONWEALTH of VIRGINIA 
+
+DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 13901 CrownCourt, Woodbridge,Virginia22193-1453 
+
+(703) 583-3800 
+
+www.deq.virginia.gov 
+
+> DavidK. Paylor
+> Director
+> Thomas A. Faha
+> Regional Director
+
+STATIONARYSOURCEPERMITTO CONSTRUCTAND OPERATE In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution, 
+
+Sentinel Ashburn, LLC 
+
+120 W. 45th Street, Suite 2610 NewYork, NewYork 10036 Registration No. : 74156 is authorized to construct and operate 
+
+emergency diesel engine generatorsets (gen-sets) 
+
+located at 
+
+22260 Cloud Plaza 
+
+Sterling, VA 20166 
+
+(Loudoun County) in accordance with the Conditions of this permit. Approved on November 8, 2018 Thomas A. Faha 
+
+Regional Director 
+
+Permit consists of 14 pages (w/o Attachment) 
+
+Permit Conditions 1 to 27. 
+
+Attachment A: Source Testing Report Format (1 page) Sentinel Ashburn, LLC 
+
+> Registration Nu m ber: 74156
+> Novembers, 2018
+> Page 2
+
+INTRODUCTION 
+
+This permit approval is based on the permit application dated April 17, 2018, with the updated application dated August 24, 2018 and supplemental information received on April 27, 2018, May 3, 2018, July 17, 2018, September^ 2018, September 10, 2018, October 16, 2018 and 
+
+October 30, 2018. 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to 
+
+additional applicable requirements not listed in this permit. Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1110 and 
+
+9VAC5-10-10oftheCommonwealth ofVirginiaState Air Pollution Control Board's (Board's) Regulations (Regulations) for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. Annual requirements to fulfill legal obligationsto maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for informationfrom the DEQwill either be in writing or by personal contact. The availability of information submitted to the DEQ or the Board will be governed by applicable 
+
+provisions of the Freedom of Information Act, §§ 2. 2-3700 through 2. 2-3714 of the Code of 
+
+Virginia, § 10. 1-1314(addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the Board's Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentialityof such information. Equipment List - Equipmentat this facility consists of the following: Equipmentto be Constructed  
+
+> Reference No.
+
+Equipment Description Standby Rated 
+
+Capacity 
+
+Delegated Federal Requirements 
+
+> A-1-a, b, c, d,
+
+and A-2-e, f, g &i B-1-a, b, c, d, 
+
+> and B-1-i, B-2-
+
+e, f, g, h and B-2-n 
+
+Eighteen(18) MTU 
+
+emergency diesel engine gen-set model 20V4000 DS3000 
+
+4, 680 bhp 
+
+3, 000 ekW (each unit) 
+
+> None
+
+A-1-j, A-2-k, 
+
+> A-2-m, and
+
+B-1-j, B-2-k, 
+
+B-2-m Six (6) MTU emergency diesel engine gen-sets model 16V4000 DS2000 
+
+3,058 bhp 
+
+2, 000 ekW (each unit) 
+
+> None
+
+Specificationsincluded in the above table are for informational purposes only and do not form 
+
+> enforceable terms or conditions. Sentinel Ashburn, LLC
+> Registration Number: 74156
+> Novembers, 2018
+> Page3
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls - Emissionsfrom the emergency diesel engine gen-sets shall be 
+
+controlled by the following: a. Nitrogen oxides (NOx) emissions from the emergency diesel engine gen-sets (Ref. Nos. 
+
+A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, 
+
+A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall be controlled by electronic fuel injection and charge air coolers. The permittee shall maintain documentation that demonstrates the control devices have been installed on each emergency diesel engine gen-set. 
+
+b. Carbon monoxide (CO) emissions, particulate matter (PMio/PM2.5) emissions, volatile 
+
+organic compounds (VOC) emissions, and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, 
+
+g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall be controlled 
+
+by the use of good operating practices and performing maintenance in accordance with 
+
+the manufacturer recommendations. In addition, the permittee may only changethose 
+
+settings that are permitted by the manufacturer and do not degrade the air emissions from the emergency diesel engine gen-sets. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 2. Monitoring - EngineOperating Hours: Each emergency diesel engine gen-set (Ref. Nos. 
+
+A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall be equipped with a non-resettable hour meter 
+
+which measures the duration of time that each engine gen-set is operated. 
+
+Each monitoring device shall be observed by the permittee with a frequency of not less than 
+
+once each day the emergency diesel engine gen-set is operated. The permittee shall keep 
+
+a log of these obsen/ations. Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. 
+
+Each monitoring device shall be provided with adequate accessfor inspection and shall be 
+
+in operation when the engine gen-sets are operating. 
+
+(9VAC5-80-1180 D, 9VAC5-50-20 C, and 9VAC5-50-260) Sentinel Ashburn, LLC 
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page 4
+
+OPERATING LIMITATIONS 
+
+3. Operation of the Engine Generator Sets - The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) and control device according to the manufacturer's written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only changethose settings that are permitted by the manufacturerand does not 
+
+> increase air emissions.
+
+(9VAC5-80-1180) 4 Emergency Power Generation - The emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall only be operated in the following modes:  
+
+> a. In situations that arises from sudden and reasonably unforeseeable events where the
+
+primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; ii. On-site disaster or equipment failure; or ill. Public service emergencies such as flood, fire, natural disaster, or severe weather 
+
+> conditions.
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the 
+
+safety of persons or property; ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to 
+
+> minimize the use of such scarce fuel;
+
+iv. Abnormal natural events or man-made threats that would require conservative 
+
+operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. c. For periodic maintenance, testing, and operational training. (9VAC5-80-1180) Sentinel Ashburn, LLC 
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page5
+
+5. Operating Limitations (Ozone Season) - No diesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall be operated for periodic maintenance, testing or operational training (that involves fuel combustion) between the hours of 7 A. M. to 5 P. M. any day 
+
+during May 1 through September 30. The permittee may petition the DEQ-NRO Air 
+
+Compliance Mangerfor exceptions to this requirement, with approvals made on a case-by-
+
+> case basis.
+
+(9VAC5-80-1180) 6 Operating Hours - The operation of the diesel engine-generatorsets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and 
+
+B-1-j, B-2-k, and B-2-m) are limited by the following: 
+
+a. Each emergency diesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-
+
+a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall not operate more than 135 hours per year for all purposes (as provided in Condition 4) combined, calculated monthly as the sum of each consecutive 12-month period. b. Each individual diesel engine-generator set shall not operate more than 100 hours per year for maintenance checks and readiness testing. These annual limits shall be calculated monthly as the sum of each consecutive 12-month period. c. The diesel engine-generator sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, 
+
+d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m), 
+
+combined, shall not operate more than 672 hours per year for maintenance checks and  
+
+> readiness
+
+testing1, calculated monhly as the sum of each consecutive 12-month period. 
+
+The permittee may petition DEQ-NROAir Compliance Managerfor approval of additional hours to be used for maintenancechecks and readinesstesting; such 
+
+requests will be evaluated on a case-by-case basis. 
+
+As applicable above, compliancefor each consecutive 12-month period shall be demonstrated monthly by addingthe total for the most recently completed calendar month to 
+
+the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) 
+
+1 This limit does not include initial (one-time) commissioning or unplanned maintenance, manufacturer  
+
+> recall updates and repairs. Sentinel Ashburn, LLC
+> Registration Number: 74156
+> November 8, 2018
+> Page 6
+
+7. Fuel Specification- The approved fuel for the emergency diesel engine gen-sets (Ref. 
+
+Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) is ultra-low sulfur diesel fuel oil, and shall meet the specifications below: 
+
+ULTRA LOWSULFURDIESELFUELOIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for grade ultra-low sulfur 2-D or grade 2-D S15, or, b. Has a maximum sulfur content not to exceed 0. 0015% by weight (15 ppm), and either a minimum cetane number of 40 or maximum aromatic content of 35 volume percent. Exceedance of these specifications may be considered credible evidence of an exceedance of emission limits. A change in the fuel type or the fuel sulfur content may require a permit to modify and operate. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+8. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: a. The name of the fuel supplier;  
+
+> b. The date on which the diesel fuel oil was received;
+
+c. The quantity of diesel fuel oil delivered in the shipment; d. A statement that the distillate oil complies with the requirements of Condition 7 (Fuel Specification). 
+
+Alternatively, the permittee shall obtain approval from the RegionalAir Compliance Manager of the DEQ's NRO if other documentation will be used to certify the diesel fuel oil type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by the DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition 7 
+
+(9VAC5-80-1180) Sentinel Ashburn, LLC 
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page 7
+
+EMISSION LIMITS 
+
+9. Emission Limits - Emissionsfrom the operation of the emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall not exceed the limits specified below: 
+
+> Pollutant
+> Ref. Nos. A-1-a, b, c, d and A-2-
+
+e, f, g & i, B-1-a, 
+
+> b, c, d and i, B-
+
+2-e, f, g, h and B-2-n (each unit) 
+
+(Ib/hr) 
+
+Ref. Nos. A-1-j, 
+
+> A-2-k, A-2-m and B-1-j, B-2-k, and
+
+B-2-m 
+
+(each unit) 
+
+(Ib/hr) 
+
+> Maintenance Checks / Readiness
+
+Testing (all 
+
+24 units 
+
+> combined*
+
+(tpy) 
+
+> Ref. Nos. A-1-a, b, c, d and
+
+A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and 
+
+B-1-j, B-2-k, and B-2-m 
+
+(all 24 units combined) 
+
+(tpy) 
+
+Nitrogen Oxides 
+
+(NOx as N02) 66. 96 42. 74 22. 50 98.67 
+
+> Carbon Monoxide
+
+## (CO) 10.0 5. 03 3. 36 14. 19 
+
+> Particulate Matter
+
+(PMio) 1. 10 0. 79 0. 37 1. 66 
+
+> Particulate Matter
+
+(PM2. 5) 0. 85 0.2 0. 37 1. 66 Volatile Organic 
+
+Compounds (VOC) 2. 12 0. 89 0. 71 2. 94 
+
+*Note: Based on 672 combined hours/year(28 hours/engine/year). 
+
+> These emissions are derived from the manufacturer's "not to exceed" data at maximum
+
+design capacity of the emergency diesel engine gen-sets and operating limits to determine 
+
+the overall emission contribution. Exceedanceof the operating limits may be considered credible evidence of the exceedanceof emission limits. Compliancewith the annual emission limits may be determined as stated in Condition 6, or other means acceptable to DEQ. (9VAC5-50-260 and 9VAC5-80-1180) 10. Visible Emission Limit- Visibleemissionsfrom each emergencydiesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and 
+
+A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall not exceed 5% opacity except during one six-minute period in any one hour in which visible emissions shall not exceed 10% 
+
+opacity as determined by the EPA Method 9 (reference 40 CFR 60, AppendixA). 
+
+During startup and shutdown, visible emissions from each engine gen-set (Ref. Nos. A-1-a, 
+
+b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall not exceed 10% opacity exceptduring one six-minute period in any one-hour in whichvisible emissions shall not exceed 20% opacity as 
+
+determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180,9VAC5-50-260and 9VAC5-170-160) Sentinel Ashburn, LLC Registration Number: 74156 
+
+> Novembers, 2018
+> Page 8
+> INITIAL COMPLIANCE DETERMINATION
+
+11. Stack Tests - Initial performance tests shall be conducted on two (2) of the emergency diesel engine-generator sets; one in the group of Ref. Nos. A-1-j, A-2-k, A-2-m and B-1'-j, B-
+
+2-k, and B-2-m; and one shall be tested in the group of Ref. Nos. A-1-a, b, c, d and A-2-e, f, 
+
+g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n for nitrogen oxides (as N02) and carbon monoxide (CO) and to determine compliance with the emission limits (Ib/hr) contained in Condition 9. The testing on selected diesel engine gen-sets shall be performed, reported, 
+
+and demonstrate compliance within 60 days after achieving maximum power demand rate at 
+
+which that unit will be operated but in no event later than 180 days after start-up of that unit. 
+
+Tests shall be conducted and reported and data reduced as set forth in 9VAC 5-50-30. The details of the tests are to be arranged with the Air Compliance Manager of DEQ's NRO. The permittee shall submit a test protocol at least 30 days prior to testing. One copy of the test 
+
+results shall be submitted to the DEQ's NRO within 30 days after test completion and shall 
+
+conform to the test report format enclosed with this permit. a. Emissions testing of each pollutant for each selected engine gen-set shall consist of 
+
+three test runs while the unit is operated at or above 90 percent of its rated capacity 
+
+(standby rating). The average of the three runs shall be reported as the short-term' emission rate for that engine gen-set.  
+
+> b. Recorded information shall include, but not be limited to:
+
+(a) Generator load/kilowatt output. 
+
+> (b) Fuel consumption and fuel sulfur content of the diesel fuel oil.
+
+(9VAC5-80-1200, 9VAC5-50-30 G and 9VAC5-50-410) 
+
+12. Stack Tests - Initial performance tests shall be conducted on two (2) of the emergency diesel engine-generator sets; one in the group of Ref. Nos. A-1-j, A-2-k, A-2-m and B-1-j, B-
+
+2-k, and B-2-m; and one shall be tested in the group of Ref. Nos. A-1-a, b, c, d and A-2-e, f, 
+
+g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n for filterable and condensable particulate 
+
+matter (PM). The testing on selected diesel engine gen-sets shall be performed and reported within 60 days after achieving maximum power demand rate at whichthat unit will be operated but in no event later than 180 days after start-up of that unit. Tests shall be conducted and reported and data reduced as set forth in 9 VAC 5-50-30. The details of the 
+
+tests are to be arranged with the Air Compliance Manager of DEQ's NRO. The permittee 
+
+shall submit a test protocol at least 30 days prior to testing. One copy of the test results shall be submitted to the DEQ's NRO within 30 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+For lab testing only, not field testing: Samples taken as required by this permit shall be 
+
+> analyzed in accordance with 1 VAC 30-46, Accreditation for Commercial Environmental
+
+Laboratories. One copy of the test results shall be submitted to the DEQ's NROwithin 30 days after test completion and shall conform to the test report format enclosed with this 
+
+> permit.
+
+(9VAC5-80-1200, 9VAC5-50-30 G and 9VAC5-50-410) Sentinel Ashburn, LLC  
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page 9
+
+13. Visible Emissions Evaluation - Concurrently with the initial performance tests, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A-4, Method 9, shall also be conducted by the permittee on the two emergency diesel engine gen-sets  
+
+> selected for the stack tests of Conditions 11 & 12. The details of the tests are to be
+
+arranged with the Regional Air Compliance Manager of the DEQ's NRO. The permittee shall submit a test protocol at least thirty (30) days prior to testing. 
+
+Should conditions prevent concurrent opacity observations, the Regional Air Compliance Manager of the DEQ's NRO shall be notified in writing, within seven (7) days, and visible 
+
+emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be conducted under the same conditions as possible as the initial performance tests. The permittee shall submit a test protocol at least 30 days prior to testing. Two copies of the test result (one hard copy and one on electronic media) shall be submitted to the Regional Air Compliance Manager of the DEQ's NRO within sixty (60) days after test completion and 
+
+shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) 
+
+> CONTINUING COMPLIANCE DETERMINATION
+
+14. Facility Construction - The emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and 
+
+B-1-j, B-2-k, and B-2-m) shall be constructed so as to allow for emissions testing upon 
+
+reasonable notice, using appropriate methods. Sampling ports shall be provided when 
+
+> requested at the appropriate locations in accordance with EPA Reference Method 1
+
+(reference 40 CFR Part 60, Appendix A). In addition, safe sampling platforms and access 
+
+> shall be provided.
+
+(9VAC5-50-30 F and 9VAC5-80-1180) 15. Emission Testing/Visible Emissions Evaluation - Upon request by the DEQ, the 
+
+> permittee shall conduct additional stack tests and/or visible emission evaluations of the
+
+emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d 
+
+and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) to 
+
+demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ's NRO. (9VAC5-80-1200 and 9VAC5-50-30 G) Sentinel Ashburn, LLC Registration Number: 74156 
+
+> Novembers, 2018
+> Page 10
+
+RECORDS 
+
+"6. On Site Records - The permittee shall maintain records of emission data and operating 
+
+parameters as necessary to demonstrate compliance with this permit. The content and 
+
+format of such records shall be arranged with the Regional Air Compliance Manager of the 
+
+DEQ's NRO. These records shall include, but are not limited to: 
+
+a. A monthly log of the monitoring device observations as required by Condition 2. b. A monthly summary table for each emergency diesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-
+
+m and B-1-j, B-2-k, and B-2-m) to include: i. Engine hours ii. Reasons for operating as defined in Condition 4. 
+
+c. Monthly and annual hours of operation (all purposes) of each emergency diesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m), with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. d. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) and for all 24 units combined, for purposes of maintenance checks/readiness testing, with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. e. Monthly and annual emissions calculations for N0x(as N02), CO, VOC, PMio, and PM2.5 from the emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m), with annual emissions calculated monthly as the sum of each consecutive 12-
+
+month period, to demonstrate compliance with the annual emission limits in Condition 9. 
+
+f. Records, as necessary, to demonstrate compliance with the operating limitations of 
+
+Condition 5, which includes, but is not limited to, the times, dates and reasons for 
+
+operation of each diesel engine gen-set that was operating between May 1 and 
+
+> September 30.
+
+g. All fuel supplier certifications.  
+
+> h. Results of all stack tests and visible emission evaluations.
+
+i. A copy of the maintenance schedule and records of scheduled and unscheduled 
+
+> maintenance in accordance with Condition 21.
+
+j. Operator training in accordance with Condition 21. Sentinel Ashburn, LLC  
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page 11
+
+k. Records of the manufacturer's written instructions or procedures developed by the owner or operator that are approved by the engine manufacturer. I. Records of changes in settings that are permitted by the manufacturer of the emergency 
+
+> diesel engine gen-sets.
+
+m. For emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m), maintain documentation from the manufacturer that the emergency diesel engine gen-sets are certified to meet the EPA'sTier 2 emission standards. As applicable above, compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. These records shall be available for inspection by the DEQ and shall be current for the most recent five years, unless otherwise noted. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) NOTIFICATIONS 
+
+17. Initial Notifications -The permittee shall furnish written notification of the items below to the Air Compliance Manager of the DEQ's NRO at the following address: Regional Air Compliance Manager Department of Environmental Quality 
+
+> 13901 Crown Court
+
+Woodbridge, VA22193 
+
+a. The actual date on which construction of the emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) commenced within 30 days after such date. The notification must contain the following: i. Name and address of the permittee,  
+
+> ii. The address of the affected source,
+
+iii. Engine information including make, model, engine family, serial number, model year maximum engine power and engine displacement.  
+
+> iv. Fuel used.
+
+b. The actual start-up date of the emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) within 15 days after such date. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) Sentinel Ashburn, LLC 
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page 12
+
+GENERAL CONDITIONS 
+
+18. Permit Invalidation - This permit to construct the emergency diesel engine gen-sets (Ref. Nos. A-1-a, b, c, d and A-2-e, f, g & i, B-1-a, b, c, d and i, B-2-e, f, g, h and B-2-n, and A-1-j, A-2-k, A-2-m and B-1-j, B-2-k, and B-2-m) shall become invalid, unless an extension is 
+
+granted by the DEQ, if: a. A program of continuous construction or modification is not commenced within 18 
+
+> months, or if,
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) 19. Permit Suspension/Revocation- The Board may suspend or revoke any permit if the 
+
+> permittee:
+
+a. Knowinglymakes material misstatements in the permit application or any amendments 
+
+to it; 
+
+b. Fails to comply with the terms or conditions of this permit; c. Fails to comply with any emission standardsapplicableto a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere 
+
+with the attainment and maintenanceof, any ambientair quality standard; or fails to operate in conformance with any applicable control strategy, including any emission 
+
+standards or emission limitations, in the implementation plan in effect at the time that an 
+
+> application is submitted; or
+
+e. Fails to comply with the applicable provisions of 9 VAC 5-80-1100et seq. (9VAC5-80-1210 F and 9VAC5-80-1210 G) 
+
+20. Right of Entry - The permittee shall allow authorized local, state, and federal  
+
+> representatives, upon the presentation of credentials:
+
+a. To enter upon the permittee's premises on whichthe facility is located or in which any records are required to be kept underthe terms and conditions of this permit; b. To have access to and copy at reasonable times any records required to be kept under 
+
+the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspectat reasonabletimes anyfacility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. Sentinel Ashburn, LLC 
+
+> Registration Number: 74156
+> November 8, 2018
+> Page 13
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during 
+
+regular business hours or whenever the facility is in operation. Nothing contained herein 
+
+shall make an inspection time unreasonable during an emergency. (9VAC5-170-130 and 9VAC5-80-1180) 21 Maintenance/OperatingProcedures- At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associatedair pollution control equipment, in a manner consistent 
+
+with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take measures in order to minimizethe duration and frequency of 
+
+excess emissions, including the following: a. Develop a maintenance schedule and maintain records of all scheduled and non-
+
+> scheduled maintenance.
+
+b. Maintain an inventory of spare parts. 
+
+c. Have availablewritten operating procedures for equipment. These procedures shall be 
+
+> based on the manufacturer's recommendations, at a minimum.
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenanceshall be maintained on site fora period of five years and shall be 
+
+made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+22. Record of Malfunctions - The permittee shall maintain records of the occurrence and 
+
+duration of any bypass, malfunction, shut-down or failure of the facilityor its associated air 
+
+pollution control equipment that results in excess emissions for more than one hour. The records shall be maintained in a form suitable for inspection and maintained for at least two 
+
+years (unless a longer period is specified in the applicable emission standard)following the date of occurrence. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken 
+
+and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+23. Notification for Facility or Control Equipment Malfunction - The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ's NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess 
+
+> emissions for more than one hour. Such notification shall be made no later than four
+
+daytime business hours after the malfunction is discovered. The permittee shall provide a 
+
+written statement giving all pertinent facts, including the estimated duration of the 
+
+breakdown, within two weeks of discoveryof the malfunction. When the condition causing Sentinel Ashburn, LLC 
+
+> Registration Number: 74156
+> Novembers, 2018
+> Page 14
+
+the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Air Compliance Manager, the DEQ's NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+24. Notification of Control Equipment Maintenance - The permittee shall furnish notification to the Regional Air Compliance Managerof the DEQ's NRO in case of shutdown or bypassing, or both, of air pollution control equipment for necessary scheduled maintenance,  
+
+> which results in excess emissions for more than one hour. The intent to shut down or
+
+bypass such equipment shall be reported to the RegionalAir Compliance Managerof the 
+
+DEQ's NRO and local air pollution control agency, if any, at least twenty-four hours prior to the planned shutdown. Such prior notice shall include, but is not limited to the following 
+
+> information:
+
+a. Identification of air pollution control equipment to be taken out of service, as well as its location and registration number; b. The expected length of time that the air pollution control equipment will be out of service; c. The nature and quantity of emissions of air pollution likely to occur during the shutdown 
+
+> period; and
+
+d. Measures that will be taken to minimize the length of the shutdown or to negate the effect of the outage. 
+
+(9VAC5-20-180B) 
+
+25. Violation of Ambient Air Quality Standard - Regardless of any other provision of this permit, the permittee shall, upon request of the DEQ, reduce the level of operation of the facility if the DEQ determines that is necessary to prevent a violation of any primary ambient air quality standard. Under worst case conditions, the DEQ may order that the permittee shut down the facility, if there is no other method of operation to avoid a violation of the ambient air quality standard. The DEQ reserves the right to prescribe the method of determining if a facility will cause such a violation. In such cases, the facility shall not be returned to operation until it and the associated air pollution control equipment are able to operate without violation of any primary ambient air quality standard. 
+
+(9VAC5-20-180I and 9VAC5-80-1180) 
+
+26. Change of Ownership - In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the Regional Air Compliance Manager of the DEQ's NRO of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+27 Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCETESTINGREPORTFORMAT 
+
+Report Cover  
+
+> 1. Plant name and location
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration)  
+
+> 3. Test Dates.
+
+4. Tester; name, address and report date 
+
+> Certification
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 3. *Signed by reviewer Copy of approved test protocol Summary 1. Reason for testing  
+
+> 2. Test dates
+
+3. Identification of unit tested & the maximum rated capacity 4. *For each emission unit, a table showing: a. Operating rate   
+
+> b. Test Methods c. Pollutants tested
+
+d. Test results for each run and the run average  
+
+> e. Pollutant standard or limit
+
+5. Summarized process and control equipment datafor each run and the average, as required by 
+
+the test protocol 6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 7. Any other important information Source Operation 1. Description of process and control devices 2. Process and control equipment flow diagram 3. Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts  
+
+> entering the stack and stack diameter or dimensions Test Results 1. Detailed test results for each run
+
+2. *Sample calculations 3. *Description of collected samples, to include audits when applicable Appendix 1. *Raw production data  
+
+> 2. *Rawfield data
+
+3. *Laboratoryreports 4. *Chain of custody records for lab samples 5. *Calibration procedures and results 6. Project participants and titles 7. Observers' names (industry and agency) 8. Related correspondence 9. Standard procedures * Not applicable to visible emission evaluations

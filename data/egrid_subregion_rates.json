@@ -1,0 +1,230 @@
+{
+ "source": {
+  "data_year": 2023,
+  "dataset": "eGRID 2023 rev2",
+  "publisher": "US EPA",
+  "rate_formula": "SRCO2EQA (short tons/yr) * 2000 / SRNGENAN (MWh)",
+  "sheet": "SRL23",
+  "units_note": "eGRID SRL23: SRCO2RTA-style rate columns are lb CO2/MWh; SRCO2AN/SRCO2EQA are SHORT TONS per year",
+  "url": "https://www.epa.gov/system/files/documents/2025-06/egrid2023_data_rev2.xlsx",
+  "workbook_sha256": "895cd81dd8662406189ad8adf5a2578dcb362cdb5cff7cca81b10ee6bd2447c6"
+ },
+ "subregions": {
+  "AKGD": {
+   "co2_metric_tonnes_annual": 2079864.766,
+   "co2_rate_lb_per_mwh": 899.633,
+   "co2e_rate_lb_per_mwh": 905.109,
+   "co2e_short_tons_annual": 2306612.447,
+   "gen_mwh": 5096872.779,
+   "name": "ASCC Alaska Grid"
+  },
+  "AKMS": {
+   "co2_metric_tonnes_annual": 373497.51,
+   "co2_rate_lb_per_mwh": 520.483,
+   "co2e_rate_lb_per_mwh": 522.4,
+   "co2e_short_tons_annual": 413227.158,
+   "gen_mwh": 1582032.382,
+   "name": "ASCC Miscellaneous"
+  },
+  "AZNM": {
+   "co2_metric_tonnes_annual": 56036056.75,
+   "co2_rate_lb_per_mwh": 703.703,
+   "co2e_rate_lb_per_mwh": 706.189,
+   "co2e_short_tons_annual": 61987421.821,
+   "gen_mwh": 175554659.519,
+   "name": "WECC Southwest"
+  },
+  "CAMX": {
+   "co2_metric_tonnes_annual": 42948381.349,
+   "co2_rate_lb_per_mwh": 428.464,
+   "co2e_rate_lb_per_mwh": 429.983,
+   "co2e_short_tons_annual": 47510356.551,
+   "gen_mwh": 220986983.331,
+   "name": "WECC California"
+  },
+  "ERCT": {
+   "co2_metric_tonnes_annual": 158826757.982,
+   "co2_rate_lb_per_mwh": 733.862,
+   "co2e_rate_lb_per_mwh": 736.629,
+   "co2e_short_tons_annual": 175736550.257,
+   "gen_mwh": 477137386.101,
+   "name": "ERCOT All"
+  },
+  "FRCC": {
+   "co2_metric_tonnes_annual": 88726758.146,
+   "co2_rate_lb_per_mwh": 782.262,
+   "co2e_rate_lb_per_mwh": 784.785,
+   "co2e_short_tons_annual": 98119941.259,
+   "gen_mwh": 250055523.983,
+   "name": "FRCC All"
+  },
+  "HIMS": {
+   "co2_metric_tonnes_annual": 1330754.172,
+   "co2_rate_lb_per_mwh": 1123.371,
+   "co2e_rate_lb_per_mwh": 1133.294,
+   "co2e_short_tons_annual": 1479862.817,
+   "gen_mwh": 2611612.997,
+   "name": "HICC Miscellaneous"
+  },
+  "HIOA": {
+   "co2_metric_tonnes_annual": 4423467.125,
+   "co2_rate_lb_per_mwh": 1489.548,
+   "co2e_rate_lb_per_mwh": 1498.947,
+   "co2e_short_tons_annual": 4906807.077,
+   "gen_mwh": 6547004.736,
+   "name": "HICC Oahu"
+  },
+  "MROE": {
+   "co2_metric_tonnes_annual": 15541650.184,
+   "co2_rate_lb_per_mwh": 1397.313,
+   "co2e_rate_lb_per_mwh": 1404.963,
+   "co2e_short_tons_annual": 17225523.678,
+   "gen_mwh": 24520967.706,
+   "name": "MRO East"
+  },
+  "MROW": {
+   "co2_metric_tonnes_annual": 100557400.347,
+   "co2_rate_lb_per_mwh": 920.13,
+   "co2e_rate_lb_per_mwh": 926.552,
+   "co2e_short_tons_annual": 111619164.578,
+   "gen_mwh": 240934538.663,
+   "name": "MRO West"
+  },
+  "NEWE": {
+   "co2_metric_tonnes_annual": 25125680.628,
+   "co2_rate_lb_per_mwh": 539.275,
+   "co2e_rate_lb_per_mwh": 543.178,
+   "co2e_short_tons_annual": 27896765.55,
+   "gen_mwh": 102716862.75,
+   "name": "NPCC New England"
+  },
+  "NWPP": {
+   "co2_metric_tonnes_annual": 77154484.524,
+   "co2_rate_lb_per_mwh": 631.735,
+   "co2e_rate_lb_per_mwh": 635.267,
+   "co2e_short_tons_annual": 85523766.536,
+   "gen_mwh": 269253053.412,
+   "name": "WECC Northwest"
+  },
+  "NYCW": {
+   "co2_metric_tonnes_annual": 13568122.025,
+   "co2_rate_lb_per_mwh": 864.469,
+   "co2e_rate_lb_per_mwh": 865.744,
+   "co2e_short_tons_annual": 14978350.355,
+   "gen_mwh": 34602268.097,
+   "name": "NPCC NYC/Westchester"
+  },
+  "NYLI": {
+   "co2_metric_tonnes_annual": 5260894.163,
+   "co2_rate_lb_per_mwh": 1180.672,
+   "co2e_rate_lb_per_mwh": 1189.333,
+   "co2e_short_tons_annual": 5841684.386,
+   "gen_mwh": 9823461.808,
+   "name": "NPCC Long Island"
+  },
+  "NYUP": {
+   "co2_metric_tonnes_annual": 9364914.699,
+   "co2_rate_lb_per_mwh": 242.089,
+   "co2e_rate_lb_per_mwh": 242.776,
+   "co2e_short_tons_annual": 10352338.512,
+   "gen_mwh": 85283183.254,
+   "name": "NPCC Upstate NY"
+  },
+  "PRMS": {
+   "co2_metric_tonnes_annual": 12249518.213,
+   "co2_rate_lb_per_mwh": 1543.073,
+   "co2e_rate_lb_per_mwh": 1548.53,
+   "co2e_short_tons_annual": 13550533.995,
+   "gen_mwh": 17501153.122,
+   "name": "Puerto Rico Miscellaneous"
+  },
+  "RFCE": {
+   "co2_metric_tonnes_annual": 77129987.965,
+   "co2_rate_lb_per_mwh": 596.904,
+   "co2e_rate_lb_per_mwh": 599.17,
+   "co2e_short_tons_annual": 85344050.369,
+   "gen_mwh": 284874108.51,
+   "name": "RFC East"
+  },
+  "RFCM": {
+   "co2_metric_tonnes_annual": 40341188.751,
+   "co2_rate_lb_per_mwh": 970.617,
+   "co2e_rate_lb_per_mwh": 975.978,
+   "co2e_short_tons_annual": 44714189.117,
+   "gen_mwh": 91629481.603,
+   "name": "RFC Michigan"
+  },
+  "RFCW": {
+   "co2_metric_tonnes_annual": 216775102.845,
+   "co2_rate_lb_per_mwh": 911.424,
+   "co2e_rate_lb_per_mwh": 916.054,
+   "co2e_short_tons_annual": 240167461.722,
+   "gen_mwh": 524352082.167,
+   "name": "RFC West"
+  },
+  "RMPA": {
+   "co2_metric_tonnes_annual": 31820303.068,
+   "co2_rate_lb_per_mwh": 1036.601,
+   "co2e_rate_lb_per_mwh": 1042.539,
+   "co2e_short_tons_annual": 35276810.201,
+   "gen_mwh": 67674810.481,
+   "name": "WECC Rockies"
+  },
+  "SPNO": {
+   "co2_metric_tonnes_annual": 28722167.331,
+   "co2_rate_lb_per_mwh": 861.999,
+   "co2e_rate_lb_per_mwh": 867.74,
+   "co2e_short_tons_annual": 31871637.774,
+   "gen_mwh": 73458953.049,
+   "name": "SPP North"
+  },
+  "SPSO": {
+   "co2_metric_tonnes_annual": 62526787.997,
+   "co2_rate_lb_per_mwh": 872.042,
+   "co2e_rate_lb_per_mwh": 875.567,
+   "co2e_short_tons_annual": 69202639.87,
+   "gen_mwh": 158074959.653,
+   "name": "SPP South"
+  },
+  "SRMV": {
+   "co2_metric_tonnes_annual": 59174053.142,
+   "co2_rate_lb_per_mwh": 739.72,
+   "co2e_rate_lb_per_mwh": 741.741,
+   "co2e_short_tons_annual": 65406383.874,
+   "gen_mwh": 176359169.826,
+   "name": "SERC Mississippi Valley"
+  },
+  "SRMW": {
+   "co2_metric_tonnes_annual": 59270472.965,
+   "co2_rate_lb_per_mwh": 1239.839,
+   "co2e_rate_lb_per_mwh": 1248.582,
+   "co2e_short_tons_annual": 65795246.363,
+   "gen_mwh": 105391939.282,
+   "name": "SERC Midwest"
+  },
+  "SRSO": {
+   "co2_metric_tonnes_annual": 97866263.61,
+   "co2_rate_lb_per_mwh": 842.329,
+   "co2e_rate_lb_per_mwh": 846.007,
+   "co2e_short_tons_annual": 108350076.611,
+   "gen_mwh": 256144699.488,
+   "name": "SERC South"
+  },
+  "SRTV": {
+   "co2_metric_tonnes_annual": 85270737.752,
+   "co2_rate_lb_per_mwh": 898.079,
+   "co2e_rate_lb_per_mwh": 903.306,
+   "co2e_short_tons_annual": 94541910.291,
+   "gen_mwh": 209324307.73,
+   "name": "SERC Tennessee Valley"
+  },
+  "SRVC": {
+   "co2_metric_tonnes_annual": 85994170.817,
+   "co2_rate_lb_per_mwh": 593.419,
+   "co2e_rate_lb_per_mwh": 596.326,
+   "co2e_short_tons_annual": 95256780.642,
+   "gen_mwh": 319478860.928,
+   "name": "SERC Virginia/Carolina"
+  }
+ }
+}

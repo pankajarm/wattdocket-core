@@ -1,0 +1,60 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "64.8",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 1,
+ "citation": {
+  "id": "diesel-mw-cit-0",
+  "claim_id": "diesel-mw",
+  "document_sha256": "",
+  "publisher": "Virginia Department of Environmental Quality",
+  "document_id": "VA DEQ registration 74114-3",
+  "page": 4,
+  "line": null,
+  "quote": "5, R55, A60, B60, C60, D60, R60 Fifteen (15) emergency diesel engine gen-sets, consisting of MTU Model 16V4000G83 and/or Caterpillar Model 3516C MTU Model 16V4000G83 3,351 bhp 2,250 ekW (each uni",
+  "matched_text": "5, R55, A60, B60, C60, D60, R60 Fifteen ",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "va-equipment-1",
+  "url": null
+ },
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "calc:diesel:va:74114-3",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "29 generators summed from the permit's equipment table (p.4)",
+    "kind": "call"
+   },
+   {
+    "line": "= 64.8 MW of installed backup capacity",
+    "kind": "compute"
+   },
+   {
+    "line": "nameplate capacity, not run hours: it is not an emission",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "sum of unit ekW ratings -> MW",
+   "value": "divide by 1000"
+  }
+ ],
+ "sensitivity": [],
+ "drivers": [
+  "29 generators in the Virginia DEQ equipment table"
+ ]
+}

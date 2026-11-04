@@ -1,0 +1,1041 @@
+{
+ "calc_version": "resolve_fallback@0.1.0",
+ "capacity_basis": "UNKNOWN",
+ "factor_set": {
+  "id": "us-avg-2023.1",
+  "sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+  "url": "https://www.epa.gov/egrid"
+ },
+ "geometry": "EPA eGRID2023 subregion polygons, simplified to 110 m (data/egrid_subregions.geojson), the same file the cards use",
+ "reference_mw": 100.0,
+ "state_default": {
+  "AL": "SRSO",
+  "AR": "SPSO",
+  "AZ": "AZNM",
+  "CA": "CAMX",
+  "CO": "RMPA",
+  "CT": "NEWE",
+  "DC": "RFCE",
+  "DE": "RFCE",
+  "FL": "FRCC",
+  "GA": "SRSO",
+  "IA": "MROW",
+  "ID": "NWPP",
+  "IL": "SRMW",
+  "IN": "RFCW",
+  "KS": "SPNO",
+  "KY": "SRTV",
+  "LA": "SRMV",
+  "MA": "NEWE",
+  "MD": "RFCE",
+  "ME": "NEWE",
+  "MI": "RFCM",
+  "MN": "MROW",
+  "MO": "SRMW",
+  "MS": "SRMV",
+  "MT": "NWPP",
+  "NC": "SRVC",
+  "ND": "MROW",
+  "NE": "SPNO",
+  "NH": "NEWE",
+  "NJ": "RFCE",
+  "NM": "AZNM",
+  "NV": "NWPP",
+  "NY": "NYUP",
+  "OH": "RFCW",
+  "OK": "SPSO",
+  "OR": "NWPP",
+  "PA": "RFCE",
+  "RI": "NEWE",
+  "SC": "SRVC",
+  "SD": "MROW",
+  "TN": "SRTV",
+  "TX": "ERCT",
+  "UT": "NWPP",
+  "VA": "SRVC",
+  "VT": "NEWE",
+  "WA": "NWPP",
+  "WI": "MROE",
+  "WV": "SRVC",
+  "WY": "RMPA"
+ },
+ "subregions": {
+  "AKGD": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 161839.0,
+    "p50": 233767.5,
+    "p90": 287713.8
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 905.1 lb CO2e/MWh (eGRID2023, AKGD)",
+    "/ 2204.6226 lb per metric tonne = 233,767 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 16,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 905.109",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "ASCC Alaska Grid",
+   "rate_lb_per_mwh": 905.109
+  },
+  "AKMS": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 93408.3,
+    "p50": 134923.1,
+    "p90": 166059.2
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 522.4 lb CO2e/MWh (eGRID2023, AKMS)",
+    "/ 2204.6226 lb per metric tonne = 134,923 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 24,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 522.4",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "ASCC Miscellaneous",
+   "rate_lb_per_mwh": 522.4
+  },
+  "AZNM": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 126270.9,
+    "p50": 182391.3,
+    "p90": 224481.6
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 706.2 lb CO2e/MWh (eGRID2023, AZNM)",
+    "/ 2204.6226 lb per metric tonne = 182,391 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 32,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 706.189",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "WECC Southwest",
+   "rate_lb_per_mwh": 706.189
+  },
+  "CAMX": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 76883.6,
+    "p50": 111054.1,
+    "p90": 136681.9
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 430.0 lb CO2e/MWh (eGRID2023, CAMX)",
+    "/ 2204.6226 lb per metric tonne = 111,054 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 40,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 429.983",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "WECC California",
+   "rate_lb_per_mwh": 429.983
+  },
+  "ERCT": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 131713.8,
+    "p50": 190253.2,
+    "p90": 234157.8
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 736.6 lb CO2e/MWh (eGRID2023, ERCT)",
+    "/ 2204.6226 lb per metric tonne = 190,253 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 48,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 736.629",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "ERCOT All",
+   "rate_lb_per_mwh": 736.629
+  },
+  "FRCC": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 140324.4,
+    "p50": 202690.7,
+    "p90": 249465.5
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 784.8 lb CO2e/MWh (eGRID2023, FRCC)",
+    "/ 2204.6226 lb per metric tonne = 202,691 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 56,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 784.785",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "FRCC All",
+   "rate_lb_per_mwh": 784.785
+  },
+  "HIMS": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 202639.9,
+    "p50": 292702.1,
+    "p90": 360248.7
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1133.3 lb CO2e/MWh (eGRID2023, HIMS)",
+    "/ 2204.6226 lb per metric tonne = 292,702 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 64,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1133.294",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "HICC Miscellaneous",
+   "rate_lb_per_mwh": 1133.294
+  },
+  "HIOA": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 268020.9,
+    "p50": 387141.3,
+    "p90": 476481.6
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1498.9 lb CO2e/MWh (eGRID2023, HIOA)",
+    "/ 2204.6226 lb per metric tonne = 387,141 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 72,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1498.947",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "HICC Oahu",
+   "rate_lb_per_mwh": 1498.947
+  },
+  "MROE": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 251216.0,
+    "p50": 362867.5,
+    "p90": 446606.2
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1405.0 lb CO2e/MWh (eGRID2023, MROE)",
+    "/ 2204.6226 lb per metric tonne = 362,868 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 80,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1404.963",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "MRO East",
+   "rate_lb_per_mwh": 1404.963
+  },
+  "MROW": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 165673.2,
+    "p50": 239305.7,
+    "p90": 294530.1
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 926.6 lb CO2e/MWh (eGRID2023, MROW)",
+    "/ 2204.6226 lb per metric tonne = 239,306 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 88,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 926.552",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "MRO West",
+   "rate_lb_per_mwh": 926.552
+  },
+  "NEWE": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 97123.5,
+    "p50": 140289.6,
+    "p90": 172664.1
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 543.2 lb CO2e/MWh (eGRID2023, NEWE)",
+    "/ 2204.6226 lb per metric tonne = 140,290 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 96,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 543.178",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "NPCC New England",
+   "rate_lb_per_mwh": 543.178
+  },
+  "NWPP": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 113589.6,
+    "p50": 164073.9,
+    "p90": 201937.1
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 635.3 lb CO2e/MWh (eGRID2023, NWPP)",
+    "/ 2204.6226 lb per metric tonne = 164,074 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 104,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 635.267",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "WECC Northwest",
+   "rate_lb_per_mwh": 635.267
+  },
+  "NYCW": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 154800.3,
+    "p50": 223600.5,
+    "p90": 275200.6
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 865.7 lb CO2e/MWh (eGRID2023, NYCW)",
+    "/ 2204.6226 lb per metric tonne = 223,600 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 112,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 865.744",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "NPCC NYC/Westchester",
+   "rate_lb_per_mwh": 865.744
+  },
+  "NYLI": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 212660.0,
+    "p50": 307175.6,
+    "p90": 378062.2
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1189.3 lb CO2e/MWh (eGRID2023, NYLI)",
+    "/ 2204.6226 lb per metric tonne = 307,176 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 120,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1189.333",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "NPCC Long Island",
+   "rate_lb_per_mwh": 1189.333
+  },
+  "NYUP": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 43409.8,
+    "p50": 62703.1,
+    "p90": 77173.0
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 242.8 lb CO2e/MWh (eGRID2023, NYUP)",
+    "/ 2204.6226 lb per metric tonne = 62,703 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 128,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 242.776",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "NPCC Upstate NY",
+   "rate_lb_per_mwh": 242.776
+  },
+  "PRMS": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 276886.6,
+    "p50": 399947.4,
+    "p90": 492242.9
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1548.5 lb CO2e/MWh (eGRID2023, PRMS)",
+    "/ 2204.6226 lb per metric tonne = 399,947 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 136,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1548.53",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "Puerto Rico Miscellaneous",
+   "rate_lb_per_mwh": 1548.53
+  },
+  "RFCE": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 107135.3,
+    "p50": 154750.9,
+    "p90": 190462.7
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 599.2 lb CO2e/MWh (eGRID2023, RFCE)",
+    "/ 2204.6226 lb per metric tonne = 154,751 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 144,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 599.17",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "RFC East",
+   "rate_lb_per_mwh": 599.17
+  },
+  "RFCM": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 174510.8,
+    "p50": 252071.2,
+    "p90": 310241.5
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 976.0 lb CO2e/MWh (eGRID2023, RFCM)",
+    "/ 2204.6226 lb per metric tonne = 252,071 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 152,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 975.978",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "RFC Michigan",
+   "rate_lb_per_mwh": 975.978
+  },
+  "RFCW": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 163796.1,
+    "p50": 236594.3,
+    "p90": 291193.0
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 916.1 lb CO2e/MWh (eGRID2023, RFCW)",
+    "/ 2204.6226 lb per metric tonne = 236,594 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 160,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 916.054",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "RFC West",
+   "rate_lb_per_mwh": 916.054
+  },
+  "RMPA": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 186412.3,
+    "p50": 269262.3,
+    "p90": 331399.7
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1042.5 lb CO2e/MWh (eGRID2023, RMPA)",
+    "/ 2204.6226 lb per metric tonne = 269,262 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 168,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1042.539",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "WECC Rockies",
+   "rate_lb_per_mwh": 1042.539
+  },
+  "SPNO": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 155157.2,
+    "p50": 224116.0,
+    "p90": 275835.1
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 867.7 lb CO2e/MWh (eGRID2023, SPNO)",
+    "/ 2204.6226 lb per metric tonne = 224,116 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 176,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 867.74",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SPP North",
+   "rate_lb_per_mwh": 867.74
+  },
+  "SPSO": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 156556.7,
+    "p50": 226137.5,
+    "p90": 278323.1
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 875.6 lb CO2e/MWh (eGRID2023, SPSO)",
+    "/ 2204.6226 lb per metric tonne = 226,138 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 184,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 875.567",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SPP South",
+   "rate_lb_per_mwh": 875.567
+  },
+  "SRMV": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 132627.8,
+    "p50": 191573.5,
+    "p90": 235782.8
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 741.7 lb CO2e/MWh (eGRID2023, SRMV)",
+    "/ 2204.6226 lb per metric tonne = 191,574 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 192,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 741.741",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SERC Mississippi Valley",
+   "rate_lb_per_mwh": 741.741
+  },
+  "SRMW": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 223254.1,
+    "p50": 322478.1,
+    "p90": 396896.2
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 1248.6 lb CO2e/MWh (eGRID2023, SRMW)",
+    "/ 2204.6226 lb per metric tonne = 322,478 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 200,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 1248.582",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SERC Midwest",
+   "rate_lb_per_mwh": 1248.582
+  },
+  "SRSO": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 151271.2,
+    "p50": 218502.9,
+    "p90": 268926.6
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 846.0 lb CO2e/MWh (eGRID2023, SRSO)",
+    "/ 2204.6226 lb per metric tonne = 218,503 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 208,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 846.007",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SERC South",
+   "rate_lb_per_mwh": 846.007
+  },
+  "SRTV": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 161516.6,
+    "p50": 233301.8,
+    "p90": 287140.7
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 903.3 lb CO2e/MWh (eGRID2023, SRTV)",
+    "/ 2204.6226 lb per metric tonne = 233,302 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 216,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 903.306",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SERC Tennessee Valley",
+   "rate_lb_per_mwh": 903.306
+  },
+  "SRVC": {
+   "badge": "ESTIMATED",
+   "carbon_t": {
+    "p10": 106626.7,
+    "p50": 154016.4,
+    "p90": 189558.6
+   },
+   "chain": [
+    "100 MW reference capacity (stated, not this site's)",
+    "x 8760 h x 0.65 utilisation (LBNL prior, 0.45-0.80)",
+    "= 569,400 MWh/yr",
+    "x 596.3 lb CO2e/MWh (eGRID2023, SRVC)",
+    "/ 2204.6226 lb per metric tonne = 154,016 t CO2e/yr"
+   ],
+   "citation": {
+    "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+    "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+    "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+    "line": 224,
+    "page": 1,
+    "publisher": "US EPA",
+    "quote": "\"co2e_rate_lb_per_mwh\": 596.326",
+    "verified": true
+   },
+   "drivers": [
+    "capacity_basis_unknown",
+    "utilization_prior"
+   ],
+   "energy_mwh": {
+    "p10": 394200.0,
+    "p50": 569400.0,
+    "p90": 700800.0
+   },
+   "name": "SERC Virginia/Carolina",
+   "rate_lb_per_mwh": 596.326
+  }
+ },
+ "utilization_prior": [
+  0.45,
+  0.65,
+  0.8
+ ]
+}

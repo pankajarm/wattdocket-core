@@ -1,0 +1,49 @@
+{
+ "as_of": "2026-10-29T02:39:27Z",
+ "calc_version": "wattdocket@0.1.0",
+ "receipts": [
+  {
+   "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+   "page": 1,
+   "line": 160,
+   "quote": "\"co2e_rate_lb_per_mwh\": 916.054",
+   "publisher": "US EPA",
+   "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+   "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+   "verified": true,
+   "verifier_version": "substring-1"
+  }
+ ],
+ "facility_id": "echo:110072072082",
+ "subregion": "RFCW",
+ "grid_rate_lb_per_mwh": 916.054,
+ "intensity_state": "PROVISIONAL",
+ "factor_set_id": "us-avg-2023.1",
+ "factor_set_sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+ "calc_id": "carbon@UNKNOWN@egrid2023rev2:8665e8cf9c7e",
+ "estimate": {
+  "annual_mwh": 56940.0,
+  "annual_tonnes_co2e": 23659.4,
+  "p10_tonnes": 16379.6,
+  "p90_tonnes": 29119.3,
+  "band_ratio": 1.778,
+  "badge": "ESTIMATED",
+  "capacity_basis": "UNKNOWN",
+  "drivers": [
+   "capacity_basis_unknown",
+   "utilization_prior"
+  ],
+  "assumptions": {
+   "capacity_mw": 10.0,
+   "capacity_basis": "UNKNOWN",
+   "utilization": 0.65,
+   "utilization_source": "utilization_from_prior",
+   "pue": 1.0,
+   "pue_source": "pue_unknown_basis",
+   "hours": 8760,
+   "grid_rate_lb_per_mwh": 916.054,
+   "factor_set_id": "us-avg-2023.1",
+   "mass_unit": "metric_tonne"
+  }
+ }
+}

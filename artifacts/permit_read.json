@@ -1,0 +1,106 @@
+{
+  "document": "tceq_amazon_ale60_pbr164110.pdf",
+  "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+  "proposed": 6,
+  "verified": [
+    {
+      "metric": "single_generator_non_emergency_limit",
+      "value": 100,
+      "unit": "hr/year",
+      "citation": {
+        "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+        "document": "tceq_amazon_ale60_pbr164110.pdf",
+        "publisher": "Texas Commission on Environmental Quality",
+        "page": 1,
+        "line": 35,
+        "quote": "No single generator will exceed 100 hr/year for non- emergency purposes.",
+        "label": "",
+        "page_derivation": "text search over extracted page text",
+        "verified": true
+      }
+    },
+    {
+      "metric": "engines_maximum_hours_per_year",
+      "value": 2025,
+      "unit": "hours/year",
+      "citation": {
+        "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+        "document": "tceq_amazon_ale60_pbr164110.pdf",
+        "publisher": "Texas Commission on Environmental Quality",
+        "page": 2,
+        "line": 131,
+        "quote": "Engines are based on a maximum of 2,025 hours per year.",
+        "label": "",
+        "page_derivation": "text search over extracted page text",
+        "verified": true
+      }
+    },
+    {
+      "metric": "per_generator_total_operation_limit",
+      "value": 876,
+      "unit": "hours",
+      "citation": {
+        "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+        "document": "tceq_amazon_ale60_pbr164110.pdf",
+        "publisher": "Texas Commission on Environmental Quality",
+        "page": 1,
+        "line": 67,
+        "quote": "ADS proposes a modified limit of 2,025 hrs/yr across all generators at the site with no more than 876 hours total operation per generator",
+        "label": "",
+        "page_derivation": "text search over extracted page text",
+        "verified": true
+      }
+    },
+    {
+      "metric": "diesel_storage_tank_capacity",
+      "value": 40000,
+      "unit": "gallon",
+      "citation": {
+        "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+        "document": "tceq_amazon_ale60_pbr164110.pdf",
+        "publisher": "Texas Commission on Environmental Quality",
+        "page": 1,
+        "line": 30,
+        "quote": "to construct, operate, and maintain two (2) new 40,000-gallon capacity diesel fuel storage tanks (EPNs TK-16 and TK-17)",
+        "label": "",
+        "page_derivation": "text search over extracted page text",
+        "verified": true
+      }
+    },
+    {
+      "metric": "ozone_standard_2015_8hour",
+      "value": 0.07,
+      "unit": "ppm",
+      "citation": {
+        "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+        "document": "tceq_amazon_ale60_pbr164110.pdf",
+        "publisher": "Texas Commission on Environmental Quality",
+        "page": 1,
+        "line": 33,
+        "quote": "Bexar County is classified as serious nonattainment for the 2015 8-hour ozone standard (0.070 ppm).",
+        "label": "",
+        "page_derivation": "text search over extracted page text",
+        "verified": true
+      }
+    },
+    {
+      "metric": "emergency_engine_max_annual_operating_percent",
+      "value": 10,
+      "unit": "%",
+      "citation": {
+        "document_sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+        "document": "tceq_amazon_ale60_pbr164110.pdf",
+        "publisher": "Texas Commission on Environmental Quality",
+        "page": 2,
+        "line": 14,
+        "quote": "provided that the maximum annual operating hours shall not exceed 10% of the normal annual operating schedule of the primary equipment;",
+        "label": "",
+        "page_derivation": "text search over extracted page text",
+        "verified": true
+      }
+    }
+  ],
+  "rejected": [],
+  "model": "muse-spark-1.3",
+  "seconds": 10.0
+}

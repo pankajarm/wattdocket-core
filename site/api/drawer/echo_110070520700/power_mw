@@ -1,0 +1,26 @@
+{
+ "claim_id": "power-mw",
+ "metric": "power_mw",
+ "label": "Power Mw",
+ "headline": "10.0",
+ "unit": "MW",
+ "badge": "ESTIMATED",
+ "provisional": false,
+ "p10": 10.0,
+ "p50": 10.0,
+ "p90": 10.0,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 0,
+ "citation": null,
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "reference_size@0.1.0",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": []
+ },
+ "transforms": [],
+ "sensitivity": [],
+ "drivers": []
+}

@@ -1,0 +1,60 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "39.5",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 1,
+ "citation": {
+  "id": "diesel-mw-cit-0",
+  "claim_id": "diesel-mw",
+  "document_sha256": "",
+  "publisher": "Virginia Department of Environmental Quality",
+  "document_id": "VA DEQ registration 74201-4",
+  "page": 5,
+  "line": null,
+  "quote": "rmit Date CLOUD-1 through CLOUD-3 Three (3) MTU Model 20V4000 DS3000 emergency diesel engine gen-sets, date of manufacture 2016 4,680 bhp 3,000 kW (each uni",
+  "matched_text": "1 t",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "va-equipment-1",
+  "url": null
+ },
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "calc:diesel:va:74201-4",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "14 generators summed from the permit's equipment table (p.5)",
+    "kind": "call"
+   },
+   {
+    "line": "= 39.5 MW of installed backup capacity",
+    "kind": "compute"
+   },
+   {
+    "line": "nameplate capacity, not run hours: it is not an emission",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "sum of unit ekW ratings -> MW",
+   "value": "divide by 1000"
+  }
+ ],
+ "sensitivity": [],
+ "drivers": [
+  "14 generators in the Virginia DEQ equipment table"
+ ]
+}

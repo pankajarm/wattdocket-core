@@ -1,0 +1,60 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "124",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 1,
+ "citation": {
+  "id": "diesel-mw-cit-0",
+  "claim_id": "diesel-mw",
+  "document_sha256": "",
+  "publisher": "Virginia Department of Environmental Quality",
+  "document_id": "VA DEQ registration 74174-1",
+  "page": 5,
+  "line": null,
+  "quote": "r conditions of the permit. > Sixty Two (62) Caterpillar 3516C-HD emergency diesel engine gen-sets Standby Rated Capacity 2,937 bhp 2,000 ekW (each uni",
+  "matched_text": "r conditions of the permit. > Sixty Two ",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "va-equipment-1",
+  "url": null
+ },
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "calc:diesel:va:74174-1",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "62 generators summed from the permit's equipment table (p.5)",
+    "kind": "call"
+   },
+   {
+    "line": "= 124.0 MW of installed backup capacity",
+    "kind": "compute"
+   },
+   {
+    "line": "nameplate capacity, not run hours: it is not an emission",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "sum of unit ekW ratings -> MW",
+   "value": "divide by 1000"
+  }
+ ],
+ "sensitivity": [],
+ "drivers": [
+  "62 generators in the Virginia DEQ equipment table"
+ ]
+}

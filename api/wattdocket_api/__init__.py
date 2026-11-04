@@ -1,0 +1,1 @@
+"""WattDocket HTTP API package."""

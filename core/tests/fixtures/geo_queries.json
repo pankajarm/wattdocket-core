@@ -1,0 +1,367 @@
+{
+ "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1%20E%20Broad%20St%2C%20Columbus%2C%20OH%2043215&benchmark=Public_AR_Current&format=json": {
+  "result": {
+   "addressMatches": [
+    {
+     "addressComponents": {
+      "city": "COLUMBUS",
+      "fromAddress": "1",
+      "preDirection": "W",
+      "preQualifier": "",
+      "preType": "",
+      "state": "OH",
+      "streetName": "BROAD",
+      "suffixDirection": "",
+      "suffixQualifier": "",
+      "suffixType": "ST",
+      "toAddress": "13",
+      "zip": "43215"
+     },
+     "coordinates": {
+      "x": -83.000704705034,
+      "y": 39.962160744961
+     },
+     "matchedAddress": "1 W BROAD ST, COLUMBUS, OH, 43215",
+     "tigerLine": {
+      "side": "L",
+      "tigerLineId": "135576058"
+     }
+    }
+   ],
+   "input": {
+    "address": {
+     "address": "1 E Broad St, Columbus, OH 43215"
+    },
+    "benchmark": {
+     "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+     "benchmarkName": "Public_AR_Current",
+     "id": "4",
+     "isDefault": true
+    }
+   }
+  }
+ },
+ "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=200%20Genesee%20St%2C%20Utica%2C%20NY%2013502&benchmark=Public_AR_Current&format=json": {
+  "result": {
+   "addressMatches": [
+    {
+     "addressComponents": {
+      "city": "UTICA",
+      "fromAddress": "200",
+      "preDirection": "",
+      "preQualifier": "",
+      "preType": "",
+      "state": "NY",
+      "streetName": "GENESEE",
+      "suffixDirection": "",
+      "suffixQualifier": "",
+      "suffixType": "ST",
+      "toAddress": "210",
+      "zip": "13502"
+     },
+     "coordinates": {
+      "x": -75.231977342585,
+      "y": 43.101109920156
+     },
+     "matchedAddress": "200 GENESEE ST, UTICA, NY, 13502",
+     "tigerLine": {
+      "side": "R",
+      "tigerLineId": "171531081"
+     }
+    }
+   ],
+   "input": {
+    "address": {
+     "address": "200 Genesee St, Utica, NY 13502"
+    },
+    "benchmark": {
+     "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+     "benchmarkName": "Public_AR_Current",
+     "id": "4",
+     "isDefault": true
+    }
+   }
+  }
+ },
+ "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2020%20N%20Lamar%20St%2C%20Dallas%2C%20TX%2075202&benchmark=Public_AR_Current&format=json": {
+  "result": {
+   "addressMatches": [
+    {
+     "addressComponents": {
+      "city": "DALLAS",
+      "fromAddress": "2000",
+      "preDirection": "N",
+      "preQualifier": "",
+      "preType": "",
+      "state": "TX",
+      "streetName": "LAMAR",
+      "suffixDirection": "",
+      "suffixQualifier": "",
+      "suffixType": "ST",
+      "toAddress": "2098",
+      "zip": "75202"
+     },
+     "coordinates": {
+      "x": -96.806869976242,
+      "y": 32.783553560763
+     },
+     "matchedAddress": "2020 N LAMAR ST, DALLAS, TX, 75202",
+     "tigerLine": {
+      "side": "R",
+      "tigerLineId": "102988447"
+     }
+    }
+   ],
+   "input": {
+    "address": {
+     "address": "2020 N Lamar St, Dallas, TX 75202"
+    },
+    "benchmark": {
+     "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+     "benchmarkName": "Public_AR_Current",
+     "id": "4",
+     "isDefault": true
+    }
+   }
+  }
+ },
+ "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=21715%20Filigree%20Ct%2C%20Ashburn%2C%20VA%2020147&benchmark=Public_AR_Current&format=json": {
+  "result": {
+   "addressMatches": [
+    {
+     "addressComponents": {
+      "city": "ASHBURN",
+      "fromAddress": "21601",
+      "preDirection": "",
+      "preQualifier": "",
+      "preType": "",
+      "state": "VA",
+      "streetName": "FILIGREE",
+      "suffixDirection": "",
+      "suffixQualifier": "",
+      "suffixType": "CT",
+      "toAddress": "21799",
+      "zip": "20147"
+     },
+     "coordinates": {
+      "x": -77.457841872855,
+      "y": 39.014362866764
+     },
+     "matchedAddress": "21715 FILIGREE CT, ASHBURN, VA, 20147",
+     "tigerLine": {
+      "side": "R",
+      "tigerLineId": "62336993"
+     }
+    }
+   ],
+   "input": {
+    "address": {
+     "address": "21715 Filigree Ct, Ashburn, VA 20147"
+    },
+    "benchmark": {
+     "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+     "benchmarkName": "Public_AR_Current",
+     "id": "4",
+     "isDefault": true
+    }
+   }
+  }
+ },
+ "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2455%20Augustine%20Dr%2C%20Santa%20Clara%2C%20CA%2095054&benchmark=Public_AR_Current&format=json": {
+  "result": {
+   "addressMatches": [
+    {
+     "addressComponents": {
+      "city": "SANTA CLARA",
+      "fromAddress": "2401",
+      "preDirection": "",
+      "preQualifier": "",
+      "preType": "",
+      "state": "CA",
+      "streetName": "AUGUSTINE",
+      "suffixDirection": "",
+      "suffixQualifier": "",
+      "suffixType": "DR",
+      "toAddress": "2565",
+      "zip": "95054"
+     },
+     "coordinates": {
+      "x": -121.97134752899,
+      "y": 37.3822655663
+     },
+     "matchedAddress": "2455 AUGUSTINE DR, SANTA CLARA, CA, 95054",
+     "tigerLine": {
+      "side": "R",
+      "tigerLineId": "122958495"
+     }
+    }
+   ],
+   "input": {
+    "address": {
+     "address": "2455 Augustine Dr, Santa Clara, CA 95054"
+    },
+    "benchmark": {
+     "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+     "benchmarkName": "Public_AR_Current",
+     "id": "4",
+     "isDefault": true
+    }
+   }
+  }
+ },
+ "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/eGRID2023_Subregions/FeatureServer/0/query?geometry=-121.971348%2C37.382266&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=Subregion&returnGeometry=false&f=json": {
+  "features": [
+   {
+    "attributes": {
+     "Subregion": "CAMX"
+    }
+   }
+  ],
+  "fields": [
+   {
+    "alias": "Subregion",
+    "defaultValue": null,
+    "domain": null,
+    "length": 254,
+    "name": "Subregion",
+    "sqlType": "sqlTypeNVarchar",
+    "type": "esriFieldTypeString"
+   }
+  ],
+  "geometryType": "esriGeometryPolygon",
+  "globalIdFieldName": "",
+  "objectIdFieldName": "FID",
+  "spatialReference": {
+   "latestWkid": 3857,
+   "wkid": 102100
+  },
+  "uniqueIdField": {
+   "isSystemMaintained": true,
+   "name": "FID"
+  }
+ },
+ "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/eGRID2023_Subregions/FeatureServer/0/query?geometry=-75.231977%2C43.101110&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=Subregion&returnGeometry=false&f=json": {
+  "features": [
+   {
+    "attributes": {
+     "Subregion": "NYUP"
+    }
+   }
+  ],
+  "fields": [
+   {
+    "alias": "Subregion",
+    "defaultValue": null,
+    "domain": null,
+    "length": 254,
+    "name": "Subregion",
+    "sqlType": "sqlTypeNVarchar",
+    "type": "esriFieldTypeString"
+   }
+  ],
+  "geometryType": "esriGeometryPolygon",
+  "globalIdFieldName": "",
+  "objectIdFieldName": "FID",
+  "spatialReference": {
+   "latestWkid": 3857,
+   "wkid": 102100
+  },
+  "uniqueIdField": {
+   "isSystemMaintained": true,
+   "name": "FID"
+  }
+ },
+ "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/eGRID2023_Subregions/FeatureServer/0/query?geometry=-77.457842%2C39.014363&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=Subregion&returnGeometry=false&f=json": {
+  "features": [
+   {
+    "attributes": {
+     "Subregion": "SRVC"
+    }
+   }
+  ],
+  "fields": [
+   {
+    "alias": "Subregion",
+    "defaultValue": null,
+    "domain": null,
+    "length": 254,
+    "name": "Subregion",
+    "sqlType": "sqlTypeNVarchar",
+    "type": "esriFieldTypeString"
+   }
+  ],
+  "geometryType": "esriGeometryPolygon",
+  "globalIdFieldName": "",
+  "objectIdFieldName": "FID",
+  "spatialReference": {
+   "latestWkid": 3857,
+   "wkid": 102100
+  },
+  "uniqueIdField": {
+   "isSystemMaintained": true,
+   "name": "FID"
+  }
+ },
+ "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/eGRID2023_Subregions/FeatureServer/0/query?geometry=-83.000705%2C39.962161&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=Subregion&returnGeometry=false&f=json": {
+  "features": [
+   {
+    "attributes": {
+     "Subregion": "RFCW"
+    }
+   }
+  ],
+  "fields": [
+   {
+    "alias": "Subregion",
+    "defaultValue": null,
+    "domain": null,
+    "length": 254,
+    "name": "Subregion",
+    "sqlType": "sqlTypeNVarchar",
+    "type": "esriFieldTypeString"
+   }
+  ],
+  "geometryType": "esriGeometryPolygon",
+  "globalIdFieldName": "",
+  "objectIdFieldName": "FID",
+  "spatialReference": {
+   "latestWkid": 3857,
+   "wkid": 102100
+  },
+  "uniqueIdField": {
+   "isSystemMaintained": true,
+   "name": "FID"
+  }
+ },
+ "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/eGRID2023_Subregions/FeatureServer/0/query?geometry=-96.806870%2C32.783554&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=Subregion&returnGeometry=false&f=json": {
+  "features": [
+   {
+    "attributes": {
+     "Subregion": "ERCT"
+    }
+   }
+  ],
+  "fields": [
+   {
+    "alias": "Subregion",
+    "defaultValue": null,
+    "domain": null,
+    "length": 254,
+    "name": "Subregion",
+    "sqlType": "sqlTypeNVarchar",
+    "type": "esriFieldTypeString"
+   }
+  ],
+  "geometryType": "esriGeometryPolygon",
+  "globalIdFieldName": "",
+  "objectIdFieldName": "FID",
+  "spatialReference": {
+   "latestWkid": 3857,
+   "wkid": 102100
+  },
+  "uniqueIdField": {
+   "isSystemMaintained": true,
+   "name": "FID"
+  }
+ }
+}

@@ -1,0 +1,721 @@
+Title: 74085_DC_Permit.pdf
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25817/638628727920470000
+
+Published Time: Wed, 25 Sep 2024 13:53:12 GMT
+
+Number of Pages: 20
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 FAX (804) 698-4178 www.deq.virginia.gov
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Acting Secretary of Natural and Historic Resources Director (804) 698-4020 Thomas A. Faha Regional Director
+
+November 21, 2022 
+
+Mr. Steven Meyers 
+
+Authorized Representative 
+
+c/o Shri Vani Sripada 
+
+Amazon Data Services, Inc. 
+
+13200 Woodland Park Rd. 
+
+Herndon, Virginia 20171 
+
+Location: Loudoun County 
+
+Registration No.: 74085 
+
+Dear Mr. Meyers: 
+
+Attached is a permit to construct and operate additional emergency diesel engine generator sets (gen-sets) at Amazon Data Services, Inc.’s computer data center facility (IAD-62, IAD-68, IAD-81, IAD-83, and IAD-93, IAD-609, and IAD-614) in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. This permit document supersedes your permit document dated March 10, 2021. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on October 25, 2022. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and civil charges. Please read all permit conditions carefully. 
+
+The emergency diesel engine generator sets (gen-sets) may be subject to the requirements of 40 CFR Part 60, New Source Performance Standards (NSPS) Subpart IIII - Standards of Performance for Stationary Compression Ignition Internal Combustion Engines and 40 CFR Part 63, National Emission Standards for Hazardous Air Pollutants (MACT) Subpart ZZZZ -National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines. In summary, the units may be required to comply with certain Mr. Steven Meyers November 21, 2022 Registration Number: 74085 Page 2 
+
+federal emission standards and operating limitations. The DEQ advises you to review the referenced NSPS and MACT regulations to ensure compliance with applicable emission standards, operational limitations, and the monitoring, notification, reporting and recordkeeping requirements. Notifications shall only be sent to EPA, Region III. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit document or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit document was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Cameron Stewart by phone at (571) 866-6093 or e-mail at  cameron.stewart@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+JAW/CLS/74085 mNSR (2022-11-21) 
+
+Attachment: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 FAX (804) 698-4178 www.deq.virginia.gov   
+
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Acting Secretary of Natural and Historic Resources Director (804) 698-4020 Thomas A. Faha Regional Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes the permit document dated March 10, 2021. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Amazon Data Services, Inc. 
+
+13200 Woodland Park Rd. 
+
+Herndon, Virginia 20171 
+
+Registration No.: 74085 
+
+is authorized to construct and operate 
+
+emergency diesel engine generator sets (gen-sets) 
+
+located at 
+
+IAD-62, IAD-68, IAD-81, IAD-83, IAD-93, 
+
+IAD-609, IAD-614 Data Centers 
+
+42949, 42948, 42800, 42948 Fadeley Lane 
+
+24178, 24185 Upper Woodside Lane 
+
+Sterling, VA 20166 
+
+(Loudoun County) 
+
+in accordance with the Conditions of this permit. 
+
+Approved on November 21, 2022 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Permit consists of 18 pages. 
+
+Permit Conditions 1 to 35. Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 2
+
+INTRODUCTION 
+
+This permit approval is based on the permit applications dated June 17, 2022, including supplemental information dated, August 3, 2022, and October 25, 2022; November 23, 2020, including supplemental information dated December 23, 2020, February 8, 2021, February 12, 2021, and March 5, 2021, March 4, 2019, September 27, 2017, including supplemental information received on November 8, 2017, and March 19, 2015, including supplemental information dated May 13, 2015 and July 31, 2015. Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9 VAC 5-80-1110 (definitions) and 9 VAC 5-10-20 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 3
+
+Equipment List – Equipment at this facility consists of: 
+
+Equipment to be constructed: 
+
+Reference 
+
+No.  Equipment Description  Rated 
+
+Capacity  Original Permit Date 
+
+99 
+
+Caterpillar Model 3512C emergency diesel engine gen-set 
+
+(1 unit) 
+
+1,600 ekW 
+
+2,360 bhp  November 21, 2022 
+
+Previously permitted equipment :
+
+Reference 
+
+No.  Equipment Description  Rated 
+
+Capacity  Original P ermit Date 
+
+97 
+
+Caterpillar Model C18 diesel engine driven emergency generator set 
+
+(1 unit) 
+
+750 ekW 
+
+1,112 bhp  March 10, 2021 
+
+98 
+
+Caterpillar Model C18 diesel engine driven emergency generator set 
+
+(1 unit) 
+
+600 ekW 
+
+909 bhp  March 10, 2021 
+
+91 through 96 
+
+Caterpillar Model 3516C-HD diesel engine driven emergency generator sets each with 2500 gallon storage tank 
+
+(6 units) 
+
+2,500 ekW 
+
+3,634 bhp 
+
+(each unit) 
+
+March 29, 2018 
+
+1 through 90 
+
+Caterpillar Model 3516C-HD diesel engine driven emergency generator sets 
+
+(90 units) 
+
+2,500 ekW 
+
+3,634 bhp 
+
+(each unit) 
+
+September 1, 2015 
+
+T1 
+
+Caterpillar Model 3516C diesel engine driven emergency generator set with 1250 gallon storage tank 
+
+(1 unit) 
+
+2,000 ekW 
+
+2,937 bhp  September 1, 2015 
+
+Specifications included in the above tables are for informational purposes only and do not form enforceable terms or conditions of the permit. Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 4
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from each of the emergency diesel-fueled engine-generator sets (Reference Nos. 1 through 96 and T1) shall be controlled by the following: 
+
+a. Nitrogen oxides (NO x) emissions from the engine-generator sets shall be controlled by electronic fuel injection, turbocharged engine, aftercooler and/or charge air cooler. The permittee shall maintain documentation that demonstrates the control devices/mechanisms have been installed on the engine-generator sets. 
+
+b. Visible emissions, particulate emissions, nitrogen oxides (NO x), carbon monoxide and volatile organic compound (VOC) emissions from the engine-generator sets (Ref. Nos. 1 through 96 and T1) shall be controlled by operating and maintaining the engine-generator sets in accordance with the manufacturer's written instructions or procedures developed by the permittee that are approved by the engine-generator set manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+2. Emission Controls – Emissions from the emergency diesel engine-gen-sets (Ref. Nos. 97 through 99) shall be controlled by the following: 
+
+a. Nitrogen oxides (NO x) emissions from each emergency diesel engine gen-set (Ref. Nos. 97 through 99) shall be controlled by engine design. 
+
+b. Carbon monoxide (CO) emissions, particulate matter (PM 10 /PM 2.5 ) emissions, volatile organic compounds (VOC) emissions, nitrogen oxide (NO x) emissions (as NO2), and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. 97 through 99) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the emergency diesel engine gen-sets. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+3. Monitoring Devices – 
+
+a. Fuel Flow: Each engine-generator set (Ref. Nos. 1 through 99 and T1) shall be equipped with a fuel flow meter to continuously measure and record individual fuel consumption (in gallons) for each engine-generator set. 
+
+b. Engine Operating Hours: Each engine-generator set (Ref. Nos. 1 through 99 and T1) shall be equipped with a non-resettable hour metering device to measure the duration of time that each engine-generator set is operated. Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 5
+
+Each monitoring device (as required in a. and b. above) shall be observed by the permittee with a frequency of not less than once each day the emergency diesel engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer’s written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the DEQ’s Northern Regional Office (NRO). Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the engine-generator set is operating. (9 VAC 5-80-1180 O, 9 VAC 5-50-20C, and 9 VAC 5-50-260) 
+
+OPERATING LIMITATIONS 
+
+4. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. Nos. 1 through 99 and T1) shall only be operated in the following modes:  
+
+> a.
+
+In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions.  
+
+> b.
+
+For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 6
+
+v. An abnormal event external to the ISO service territory that may require ISO action.  
+
+> c.
+
+For scheduled maintenance checks and readiness testing (Scheduled MCRT).  
+
+> d.
+
+For unscheduled maintenance, testing and operational training.  
+
+> e.
+
+For the integration operational period, which is the period of time beginning with the first time the affected units is started on-site and ending when the affected unit is fully integrated with the sources electrical system. 
+
+(9 VAC 5-80-1180) 
+
+5. Operation of the Engine Gen-Sets – The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. 97 through 99) and control device according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and does not increase air emissions. 
+
+(9 VAC 5-80-1180) 
+
+6. Operating Limitations (Ozone Season) – No emergency diesel engine gen-set (Ref. Nos. 97 through 99) shall be operated for scheduled maintenance checks (Scheduled MCRT), readiness testing, stack testing, or operation training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during May 1 through September 30. 
+
+(9 VAC 5-80-1180) 
+
+7.  Operating Limitations (Ozone Season)  – Integration  Operational Period  – During the 
+
+integration operational period of each emergency diesel engine gen -set  (Ref. Nos.  97 through 
+
+99 ) any operation of the  unit (that involves fuel combustion) between the hours of  7 a.m. to 5 
+
+p.m.  any day during the ozone season of  May 1 through September 30  shall only occur if the 
+
+forecast Air Quality index (AQI) for ozone as published on the AirNow website 
+
+(https://airnow.gov ) for Northern Virginia for that day is less than or equal to 100. In the event that AirNow-EnviroFlash ( www.enviroflash.info ) issues an Air Alert for Metropolitan Washington, D.C. for a day which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9  VAC 5 -80 -1180) Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 7
+
+8. Operating Hours – In addition to the fuel throughput limitation specified in Condition 11, each engine-generator set (Ref. Nos. 1 through 96 and T1) shall not operate more than 500 hours per year, calculated monthly as the sum of each consecutive 12-month period. Of that amount, the company shall operate no more than 100 hours per year for scheduled maintenance checks and readiness testing (Scheduled MCRT), unscheduled maintenance, testing, and operational training (as provided in Condition 4c. and 4d.). Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. (9 VAC 5-80-1180) 
+
+9. Operating Hours – Each individual emergency diesel engine gen-set (Ref. Nos. 97 through 99) shall not operate more than 32 hours per year for scheduled maintenance checks and readiness testing (Scheduled MCRT) (as provided in Condition 4c.). 
+
+Each individual emergency diesel engine gen-set (Ref. Nos. 97 through 99) shall not operate more than 500 hours per year for all purposes (as provided in Condition 4) combined. 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9 VAC 5-80-1180) 
+
+10. Fuel – The approved fuel for the engine-generator sets (Ref. Nos. 1 through 99 and T1) is diesel fuel. The diesel fuel shall meet the American Society for Testing and Materials (ASTM) D975 specification for Grade No. 1-D S15 or Grade No. 2-D S15 and have a maximum sulfur content of 15 ppm, per shipment. A change in the fuel may require a permit to modify and operate. (9 VAC 5-80-1180) 
+
+11. Fuel Throughput – 
+
+a. The engine-generator sets (Ref. Nos. 1 through 99), combined, shall consume no more than 713,246 gallons of diesel fuel per year, calculated daily as the sum of each consecutive 365-day period. 
+
+b. The engine-generator set (Ref. No. T1) shall consume no more than 2,070 gallons of diesel fuel per year, calculated daily as the sum of each consecutive 365-day period. 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. (9 VAC 5-80-1180) Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 8
+
+12. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; 
+
+d. A statement that the diesel fuel complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra low sulfur diesel (ULSD)); and 
+
+e. The sulfur content of the diesel fuel. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition 10. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. (9 VAC 5-80-1180) 
+
+EMISSION LIMITS 
+
+13. Emission Limits (Hourly) – Emissions from the operation of emergency diesel engine gen-sets (Ref. Nos. 1 through 96 and T1) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar 3516C -HD 
+
+Ref. Nos. 1 through  96 
+
+(each unit) 
+
+Caterpillar 3516C 
+
+Ref. No. T1 
+
+Nitrogen Oxides (as NO 2) 48.07 lbs/hr  38.85 lbs/hr 
+
+Carbon Monoxide  6.01 lbs/hr  4.04 lbs/hr 
+
+Volatile Organic Compounds  1.20 lbs/hr  1.14 lbs/hr 
+
+PM (total)  0.41 lbs/hr  0.57 lbs/hr 
+
+PM 10 (total)  0.41 lbs/hr  0.57 lbs/hr 
+
+PM 2.5 (total)  0.41 lbs/hr  0.57 lbs/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 9
+
+14. Emission Limits (Hourly) – Emissions from the operation of the emergency diesel engine gen-sets (Ref. Nos. 97 through 99) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar C18 
+
+750ekW 
+
+(Ref. No. 97) 
+
+Caterpillar 
+
+C18 600ekW 
+
+(Ref. No. 98) 
+
+Caterpillar 
+
+3512C 
+
+1,600ekW 
+
+(Ref. No. 99) 
+
+Nitrogen Oxides (NO x as NO 2) 14.20 lb/hr  9.51 lb/hr  30.75 lb/hr 
+
+Carbon Monoxide (CO)  4.73 lb/hr  1.59 lb/hr  5.78 lb/hr 
+
+Volatile Organic Compounds (VOC)  1.91 lb/hr  0.33 lb/hr  0.87 lb/hr 
+
+Particulate Matter (PM 10 ) 0.32 lb/hr  0.11 lb/hr  0.44 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.32 lb/hr  0.11 lb/hr  0.44 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+15. Emission Limits (Annual) – Emissions from the operation of the emergency diesel engine gen-sets (Ref. Nos. 1 through 99) shall not exceed the limits specified below: 
+
+Pollutant  (Ref. Nos. 1 through 99) 
+
+All Operations 
+
+(99 Units Combined) 
+
+Nitrogen Oxides (NO x as NO 2) 98.89 tpy 
+
+Carbon Monoxide (CO)  57.83 tpy 
+
+Volatile Organic Compounds (VOC)  13.42 tpy 
+
+Particulate Matter (PM 10 ) 3.55 tpy 
+
+Particulate Matter (PM 2.5 ) 3.55 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with the annual emission limits may be determined as stated in Conditions 10 and 11. 
+
+(9 VAC 5-80-1180) Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 10
+
+16. Emission Limits (Annual) – Emissions from the operation of the emergency diesel engine gen-sets (Ref. Nos. 1 through 99 and T1) shall not exceed the limits specified below: 
+
+Pollutant  (Ref. Nos. 1 through  99 and T1) 
+
+All Operations 
+
+(100  Units Combined) 
+
+Nitrogen Oxides (NO x as NO 2) 99.18 tpy 
+
+Carbon Monoxide (CO)  57.99 tpy 
+
+Volatile Organic Compounds (VOC)  13.46 tpy 
+
+Particulate Matter (PM 10 ) 3.56 tpy 
+
+Particulate Matter (PM 2.5 ) 3.56 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with the annual emission limits may be determined as stated in Conditions 10 and 11. 
+
+(9 VAC 5-80-1180) 
+
+17. Visible Emission Limit – Visible emissions from each engine-generator set (Ref. Nos. 1 through 99 and T1) shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup and shutdown. During startup and shutdown, visible emissions from each engine-generator set (Ref. Nos. 1 through 99 and T1) shall not exceed 10% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). (9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+18. Facility Construction – The engine-generator sets (Ref. Nos. 1 through 96 and T1) shall be constructed so as to allow for emissions testing upon reasonable notice, using appropriate methods. Sampling ports shall be provided when requested at the appropriate locations in accordance with EPA Reference Method 1 (reference 40 CFR Part 60, Appendix A). In addition, safe sampling platforms and access shall be provided. (9 VAC 5-50-30 F and 9 VAC 5-80-1180) 
+
+19. Facility Construction – The emergency diesel engine gen-sets (Ref. Nos. 97 through 99) shall be constructed so as to allow for emissions testing upon reasonable notice at any times, using appropriate methods. This includes constructing the facility/equipment such that Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 11
+
+volumetric flow rates and pollutant emission rates can be determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9 VAC 5-50-30 F and 9 VAC 5-80-1180) 
+
+20. Emission Testing/Visible Emission Evaluations – Upon request by the DEQ, the permittee shall conduct stack tests and/or visible emission evaluations of the engine-generator sets (Ref. Nos. 1 through 99 and T1) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. (9 VAC 5-50-30 G and 9 VAC 5-80-1200) 
+
+RECORDS 
+
+21. On-Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. These records shall include, but are not limited to: 
+
+a. A monthly log of the monitoring device observations as required by Condition 3. 
+
+b. A monthly summary table for each engine-generator set (Ref. Nos. 1 through 99 and T1) to include: 
+
+i. Engine hours; 
+
+ii. Fuel consumption; 
+
+iii. Reasons for operating as defined in Condition 4. 
+
+c. Monthly and annual hours of operation of each engine-generator set (Ref. Nos. 1 through 99 and T1), calculated monthly as the sum of each consecutive 12-month period. 
+
+d. Monthly and annual hours of operation of each engine-generator set (Ref. Nos. 1 through 96 and T1), for purposes of scheduled maintenance checks and readiness testing (Scheduled MCRT), unscheduled maintenance, testing, and operational training, calculated monthly as the sum of each consecutive 12-month period. 
+
+e. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. 97 through 99), for purposes of scheduled maintenance check and readiness testing (Scheduled MCRT), calculated monthly as the sum of each consecutive 12-month period. 
+
+f. Daily and annual fuel consumption for each emergency diesel engine gen-set (Ref. Nos. 1 through 99 and T1) calculated monthly as the sum of each consecutive 365-day period. Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 12
+
+g. Daily and annual fuel consumption for the combined operation of the emergency diesel engine gen-sets (Ref. Nos. 1 through 99), calculated daily as the sum of each consecutive 365-day period. 
+
+h. All fuel supplier certifications. 
+
+i. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine-generator set (Ref. Nos. 1 through 99 and T1). 
+
+j. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets (Ref. Nos. 97 through 99). 
+
+k. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each emergency diesel engine gen-set (Ref. Nos. 97 through 99). 
+
+l. Daily and annual emission calculations for NO x (as NO 2), CO, VOC, PM, PM 10 and PM 2.5 from the emergency diesel engine gen-sets (Ref. Nos. 1 through 99 and T1), with annual emissions, calculated daily, as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Conditions 15 and 16. 
+
+m. Results of all stack tests and visible emission evaluations. 
+
+n. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT), unscheduled maintenance, and operator training on the engine-generator sets (Ref. Nos. 1 through 99 and T1). 
+
+o. Documentation from the manufacturer that each engine-generator set (Ref. Nos. 1 through 99 and T1) is certified to meet the EPA Tier 2 emission standards. 
+
+p. Records of the reasons for operation for each emergency diesel engine gen-set (Ref. Nos. 97 through 98), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+q. Records, as necessary, to demonstrate compliance with the operating limitations of Condition 6; which includes but is not limited to: times, dates and reasons for operation of each diesel engine gen-set that was operating between May 1 and September 30. 
+
+r. To verify compliance with Condition 7, maintain records for the emergency diesel engine gen-sets (Ref. Nos. 97 through 99) of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 13
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by Airnow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours, and duration. 
+
+Compliance for the consecutive 12-month period (as applicable for the items above) shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. Compliance for the consecutive 365-day period (as applicable for the items above) shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years, unless otherwise noted. (9 VAC 5-80-1180 and 9 VAC 5-50-50) 
+
+NOTIFICATIONS 
+
+22. Initial Notifications – The permittee shall furnish written notification of the items below to the Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+a. The actual date on which construction of each emergency diesel engine gen-set commenced (Ref. Nos. 1 through 96), postmarked no later than 30 days after such date. The notification shall include the following: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; 
+
+iii. Engine information including make, model, engine family, serial number, model year, maximum energy power and engine displacement; 
+
+iv. Fuel used. 
+
+b. The anticipated date(s) of the manufacturer’s trials of the emergency diesel engine gen-sets (Ref. Nos. 1 through 96) postmarked not more than 30 days nor less than 15 days prior to such date(s); Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 14
+
+c. The actual date(s) on which the manufacturer’s trials of the emergency diesel engine gen-sets (Ref. Nos. 1 through 96) occurs within 15 days after such date(s); 
+
+d. The anticipated start-up date(s) of the emergency diesel engine gen-sets (Ref. Nos. 1 through 96) postmarked not more than 60 days nor less than 30 days prior to such date(s); 
+
+e. The actual start-up date(s) of the emergency diesel engine gen-sets (Ref. Nos. 1 through 96) within 15 days after such date(s). The actual start-up date shall be the date on which each engine completes manufacturer’s trials, but shall be no later than thirty days after start-up for manufacturer’s trails. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-50) 
+
+23. Initial Notifications – The permittee shall furnish written notification of the items below to the Regional Air Compliance Manager of the DEQ’s NRO at the address listed in Condition 22: 
+
+The permittee shall submit notification(s) for each building containing the information as described below: 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets (Ref. Nos. 97 through 99) commenced in each building, within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and, 
+
+iv. The date installation commenced. 
+
+b. The start and end dates of the integration operational period for each emergency diesel engine gen-set (Ref. Nos. 97 through 99) within 15 days after the last generator at each building completes its integration operational period. If a period of construction is paused or halted for ≥45 days, this notification shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and, Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 15
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source’s electrical system. 
+
+(9 VAC 5-50-20) 
+
+SPECIAL CONDITIONS - TRANSITORY ENGINE-GENERATOR SETS 
+
+24. Operation of the Transitory Engine-Generator Sets – The facility shall only operate the transitory engine-generator set (Ref. No. T1) as back up during construction, commissioning, and maintenance of the other permitted engine-generator sets (Ref. Nos. 1 through 99). 
+
+(9 VAC 5-80-1180) 
+
+25. Notifications – The permittee shall furnish the following written notifications to the Regional Air Compliance Manager of the DEQ’s NRO of: 
+
+a. The actual date and reason for each occurrence that each transitory engine-generator set (Ref. No. T1) was placed into service, postmarked within 15 days after such date. The notification shall include the following: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; 
+
+iii. Engine information including make, model, engine family, serial number, model year, maximum engine power and engine displacement; 
+
+iv. Fuel used; and 
+
+v. Hours operated. 
+
+b. The actual date of the removal from service of each transitory engine-generator set (Ref. No. T1), postmarked within 15 days after such date. 
+
+(9 VAC 5-80-1180) 
+
+GENERAL CONDITIONS 
+
+26. Permit Invalidation – This permit to construct the engine-generator sets (Ref. Nos. 1 through 90 and T1) shall become invalid, unless an extension is granted by the DEQ, if a program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9 VAC 5-80-1210) Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 16
+
+27. Permit Invalidation – This permit to construct the emergency diesel engine gen-sets (Ref. Nos. 91 through 99) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the ‘Original Permit Date’ specified in the equipment list in the Introduction section of this permit, or if, 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9 VAC 5-80-1210) 
+
+28. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9 VAC 5-80-1210 G & H) 
+
+29. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 17
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9 VAC 5-170-130 and 9 VAC 5-80-1180) 
+
+30. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions, with respect to the engine gen-sets (Ref. Nos. 1 through 99 and T1): 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. (9 VAC 5-50-20 E and 9 VAC 5-80-1180 D) 
+
+31. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shut-down or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 
+
+32. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ’s NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or Amazon Data Services, Inc. 
+
+> Registration Number: 74085 November 21, 2022 Page 18
+
+malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) 
+
+33. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) 
+
+34. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the Regional Air Compliance Manager of the DEQ’s NRO of the change of ownership within 30 days of the transfer. 
+
+(9 VAC 5-80-1240) 
+
+35. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9 VAC 5-80-1180)

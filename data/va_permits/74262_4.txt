@@ -1,0 +1,1183 @@
+Title: Digital Realty - Stationary Source Permit to Construct and Operate
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/37093/639185072674230000
+
+Published Time: Wed, 01 Jul 2026 11:54:27 GMT
+
+Number of Pages: 32
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+June 24, 2026 
+
+Mr. Jim Zografos 
+
+Sr Director, Portfolio Management Group 
+
+Digital Realty 
+
+10 Post Office Square, Suite 500 
+
+Boston, MA 02109 
+
+Location: Prince William County and City of Manassas 
+
+Registration No.: 74262 
+
+Dear Mr. Zografos: 
+
+Attached is a permit to construct and operate engine generator-sets (gen-sets) at a data center in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. This permit document supersedes your permit document dated August 29, 2025. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on June 18, 2026. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval does not relieve Digital Realty of the responsibility to comply with all other local, state and federal permit regulations. This permit does not evaluate, approve, or imply approval of any other permits or authorizations under the authority of the Virginia Department of Environmental Quality (DEQ). Issuance of this permit does not create, obligate, assure, or justify any financially backed expectation that additional permits from other DEQ programs will be issued. All future permit applications will be reviewed independently in accordance with the Code of Virginia, applicable regulations, and DEQ policies. 
+
+The proposed diesel fired engine generator sets (engine gen-sets) may be subject to 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The Department of Environmental Quality (DEQ) advises Mr. Jim Zografos June 24, 2026 Page 2 
+
+you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you may be also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and 63. 
+
+The Board ’s Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Katie DeVoss at (571) 866-6090 or  katie.devoss@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+justin.wilkinson@deq.virginia.gov 
+
+Northern Regional Office 
+
+13901 Crown Court, Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/KD/74262 mNSR (2026-06-24) 
+
+Attachment: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes the permit document dated September 20, 2024. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Digital Realty 
+
+43940 Digital Loudoun Plaza, Suite 203 
+
+Ashburn, Virginia 20147 
+
+Registration No.: 74262 
+
+is authorized to construct and operate 
+
+emergency and non-emergency engine gen-sets 
+
+located at 
+
+9905 Godwin Dr and 10050 and 10051 Brickyard Way 
+
+Manassas, Virginia 20110 
+
+(Prince William County and City of Manassas) 
+
+in accordance with the Conditions of this permit. 
+
+Approved on June 24, 2026. 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+Permit consists of  15  pages. 
+
+Permit Conditions 1 to  37 .
+
+Attachment: Source Testing Report Format Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 2 
+
+INTRODUCTION 
+
+This permit approval is based on and combines permit terms and conditions in accordance with 9VAC5-80-1255 from the following permit approvals and the respective permit applications: 
+
+• mNSR permit amendment dated June 24, 2026, based on the permit application dated November 11, 2025, including supplemental information dated December 15, 2025, March 6, 2026, March 25, 2026, March 30, 2026, April 14, 2026, May 26, 2026, May 27, 2026, June 9, 2026, and June 18, 2026. 
+
+• mNSR permit dated August 29, 2025, based on the permit application dated April 25, 2025, including supplemental information dated June 11, 2025, July 30, 2025, August 22, 2025, and August 28, 2025. 
+
+• mNSR permit amendment dated September 20, 2024, based on the permit application dated June 4, 2024, including supplemental information dated September 19, 2024; and 
+
+• mNSR permit dated October 6, 2023, based on the permit application dated April 24, 2023, including supplemental information dated October 6, 2023. 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 3 
+
+provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 4 
+
+Equipment List - Equipment at this facility covered by this permit consists of: 
+
+Equipment Previously Permitted:    
+
+> *Ref. Nos. BYEG1 through BYEG120 are part of the same grouping but listed separately due to differences of permit dates and/or control technologies. Only 120 total units from these four groupings shall be constructed.
+> ** Cummins SCR Model Johnson Matthey cSCR3000 (Compact SCR)
+> †CAT SCR Model Safety Power, ecoCube with passive/catalyzed DPF (cDPF)
+> ‡CAT SCR Model Safety Power, ecoCube (Low Profile(LP)) or Cummins SCR Model Johnson Matthey cSCR3000 (Compact SCR)
+
+Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+Building  Ref. Nos.  Equipment Description  Maximum Rated Capacity (each) 
+
+Add-on Control Technology 
+
+Referenced Federal Requirements 
+
+Original 
+
+Permit Date 
+
+Brick Yard  BYPBB1 and BYPBB2 
+
+(2) Caterpillar C18 emergency diesel-fired engine gen-sets 
+
+750 ekW 
+
+1,112 bhp  None  N/A  August 29, 2025 
+
+Brick Yard 
+
+Building A 
+
+BYEG1 through BYEG60* 
+
+(60) Non-emergency diesel-fired engine gen-sets, Cummins C3250D6E with QSK95-G12 engine 
+
+3,000 ekW / 4,265 bhp 
+
+(de-rated from 
+
+3,250 ekW/ 4,657 bhp) 
+
+Selective Catalytic Reduction (SCR)** 
+
+N/A  August 29, 2025 
+
+Brick Yard 
+
+Building B 
+
+BYEG61 through BYEG120* 
+
+(60) Non-emergency diesel-fired engine gen-sets, Cummins C3250D6E with QSK95-G12 engine 
+
+3,000 ekW, 4,265 bhp 
+
+(de-rated from 
+
+3,250 ekW / 4,657 bhp) 
+
+SCR‡ and Diesel 
+
+Oxidation Catalyst (DOC) 
+
+N/A  August 29, 2025 
+
+Brick Yard 
+
+Building A 
+
+BYEG1 through BYEG60* 
+
+(60) Non-emergency diesel-fired engine gen-sets, Cummins C3000D6E with QSK95-G12 engine and/or Caterpillar 3516E 
+
+3,000 ekW, 4,361 bhp 
+
+(Cummins) 
+
+3,000 ekW, 4,393 bhp 
+
+(Caterpillar) 
+
+SCR ‡ N/A  October 6, 2023 
+
+Brick Yard 
+
+Building B 
+
+BYEG61 through BYEG120* 
+
+(60) Non-emergency diesel-fired engine gen-sets, Cummins C3000D6E with QSK95-G12 engine and/or Caterpillar 3516E 
+
+3,000 ekW, 4,361 bhp 
+
+(Cummins) 
+
+3,000 ekW, 4,393 bhp 
+
+(Caterpillar) 
+
+SCR‡ and DOC  N/A  October 6, 2023 
+
+Brick Plant  BPEG1 through BPEG22 
+
+(22) Caterpillar 3516E non-emergency diesel-fired engine gen-sets 
+
+3,000 ekW 
+
+4,393 bhp 
+
+SCR and Catalyzed Diesel Particulate Filter (cDPF) †
+
+N/A  October 6, 2023 
+
+Brick Plant  BPPBB1  (1) Caterpillar C18 emergency diesel-fired engine gen-set 
+
+750 ekW 
+
+1,112 bhp  None  N/A  October 6, 2023 
+
+Brick Yard 
+
+Building A  BYPBB1MW  (1) Emergency diesel-fired engine gen-set Caterpillar C32 
+
+1,000 ekW 
+
+1,474 bhp  None  N/A  October 6, 2023 Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 5 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls (SCR) – Nitrogen oxide (NO X) emissions from the non-emergency engine gen-sets (Ref. Nos. BPEG1 through BPEG22) shall be controlled by closed loop Selective Catalytic Reduction (SCR). Each SCR system shall be equipped with a temperature probe to continuously monitor and record the catalyst bed exhaust temperature while the engine gen-set is operational. Engine exhaust gas shall be treated with urea, except for periods of start-up, shutdown, or malfunction, when the catalyst bed exhaust temperature of 575°F is achieved. 
+
+The permittee shall operate the engine gen-set and SCR such that the catalyst bed exhaust temperature does not exceed 1,022°F. The SCR shall be provided with adequate access for inspection and shall be in operation when the engine gen-sets are operating as stated above. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [9/20/2024] 
+
+2. Emission Controls (cDPF) – Emissions from the non-emergency engine gen-sets (Ref. Nos. BPEG1 through BPEG22) shall be controlled by a catalyzed Diesel Particulate Filter (cDPF): 
+
+a. Particulate matter (PM 10 and PM 2.5 ) emissions shall be controlled by a catalyzed Diesel Particulate Filter (cDPF) with a backpressure monitor that notifies the permittee when the high backpressure limit of the engine is approached. 
+
+b. Carbon monoxide (CO) emissions and volatile organic compounds (VOC) shall be controlled by a catalyzed DPF (cDPF). Each cDPF system shall be equipped with a temperature probe to continuously monitor and record the catalyst bed exhaust temperature while the engine gen-set is operational. Engine exhaust gas shall be treated, except for periods of start-up, shutdown, or malfunction, when the catalyst bed exhaust temperature of 575°F is achieved. 
+
+The cDPF shall be provided with adequate access for inspection and shall be in operation when the engine gen-set is operating. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [9/20/2024] 
+
+3. Emission Controls (SCR) – Nitrogen oxide (NO X) emissions from the non-emergency engine gen-sets (Ref. Nos. BYEG1 through BYEG120) shall be controlled by closed loop Selective Catalytic Reduction (SCR). Each SCR system shall be equipped with a temperature probe to continuously monitor and record the catalyst bed exhaust temperature while the engine gen-set is operational. Engine exhaust gas shall be treated with urea, except for periods of start-up, shutdown, or malfunction, when the catalyst bed exhaust temperature of 575°F is achieved. Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 6 
+
+The permittee shall operate the Cummins Model C3000D6E/QSK95-G12 and de-rated Cummins Model C3320D6E/QSK95-G12 engine gen-sets/engines and SCR such that the catalyst bed exhaust temperature does not exceed 920°F. The permittee shall operate the Caterpillar Model 3516E engine gen-sets and SCR such that the catalyst bed exhaust temperature does not exceed 1,022°F. 
+
+The SCR shall be provided with adequate access for inspection and shall be in operation when the engine gen-sets are operating as stated above. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [8/29/2025] 
+
+4. Emission Controls (DOC) – Carbon monoxide (CO) and volatile organic compounds (VOC) emissions from the non-emergency diesel engine gen-sets constructed at Brick Plant Building B (Ref. Nos. BYEG61 through BYEG120) shall be controlled by a diesel oxidation catalyst (DOC), if. The DOC shall be provided with adequate access for inspection and shall be in operation when the non-emergency diesel engine gen-set is operating. The DOC shall be considered to be reducing CO when the unit’s SCR is treating 
+
+engine exhaust gas with urea. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [6/24/2026] 
+
+5. Emission Controls – Emissions from the engine-gen-sets shall be controlled by the following: 
+
+a. Nitrogen oxides (NO X) emissions from each emergency diesel engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW) shall be controlled by engine design. 
+
+b. Carbon monoxide (CO), particulate (PM/PM 10 /PM 2.5 ), volatile organic compounds (VOC), nitrogen oxide (NO X), and visible emissions from the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the diesel engine gen-sets. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [6/24/2026] 
+
+6. Monitoring Devices (SCR, DOC, & cDPF) – The non-emergency engine gen-sets shall be equipped with devices to continuously measure and record the following: 
+
+a. The SCR for each non-emergency engine gen-set (Ref. Nos. BPEG1 through BPEG22 and BYEG1 through BYEG120) shall be equipped with a device to continuously measure and record the SCR catalyst bed exhaust temperature and the urea injection rate. The status of the SCR control system shall be recorded continuously when each Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 7 
+
+engine gen-set is in operation, and correlated to run date, engine operating hours, and fuel consumption. 
+
+b. The differential pressure drop across the cDPF for each non-emergency engine gen-set (Ref. Nos. BPEG1 through BPEG22). The filter shall be observed by the permittee with a frequency as recommended by the manufacturer. 
+
+c. The cDPF catalyst bed temperature for each non-emergency engine gen-set (Ref. Nos. BPEG1 through BPEG22) at a minimum frequency of once every fifteen minutes during the operation of each engine gen-set. The information shall be correlated to run date, engine operating hours, and fuel consumption. 
+
+Each monitoring device shall be equipped with a mechanism to detect parameters which 
+
+exceed manufacturer’s recommended thresholds and trigger an alarm to operators when the 
+
+unit is not operating within the manufacturer's recommended conditions. 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer ’s written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the SCR, DOC, and cDPF are operating. 
+
+(9VAC5-80-1180 D) [6/24/2026] 
+
+7. Engine Electrical Power Output – The engine gen-sets (Ref. Nos. BYEG1 through BYEG120), if installed as a Cummins C3250D6E/QSK95-G12 with a maximum capacity of 3,250 ekW, shall be equipped with a controller to limit each unit’s electrical power 
+
+output to no more than 3,000 ekW. The engine gen-set shall also be equipped with a device to monitor and record its kilowatt output at a minimum frequency of once every fifteen minutes while the unit is operational. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [8/29/2025] 
+
+8. Monitoring Devices –
+
+a. Fuel Flow: Each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, 
+
+BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall be equipped with a device to continuously measure and record individual fuel consumption (in gallons) for each engine gen-set. 
+
+b. Engine Operating Hours: Each engine gen-set (Ref. Nos. BPEG1 through BPEG22, 
+
+BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall be equipped with a non-resettable hour meter which measures the duration of time that each engine gen-set is operated. 
+
+c. Engine Load/Kilowatt Output: Each engine gen-set (Ref. Nos. BYEG1 through 
+
+BYEG120), if installed as a Cummins C3250D6E/QSK95-G12 with a maximum Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 8 
+
+capacity of 3,250 ekW, shall be equipped with a device to monitor and record the engine gen-set kilowatt output at a minimum frequency of once every fifteen minutes. 
+
+Each monitoring device (as required in a. through c. above) shall be observed by the permittee with a frequency of not less than once each day the emergency diesel engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s Northern Regional Office (NRO). 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the engine gen-sets are operating. 
+
+(9VAC5-80-1180 D and 9VAC5-50-20 C) [8/29/2025] 
+
+OPERATING/EMISSION LIMITATIONS 
+
+9. Emergency Power Generation – The emergency engine gen-sets (Ref. Nos. BPPBB1 and BYPBB1, BYPBB2, and BYPBB1MW) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 9 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+d. For unscheduled maintenance, testing, and operational training. 
+
+e. For the integration operational period, which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source ’s electrical system. 
+
+(9VAC5-80-1180) [8/29/2025] 
+
+10. Operation of the Engine Gen-Sets – The permittee shall operate and maintain each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW ) and control device according to the manufacturer’s 
+
+written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) [8/29/2025] 
+
+11. Operating Limitations (Ozone Season) – No engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing, or operational training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during May 1 through September 30. The permittee may 
+
+petition the Regional Air Compliance Manager of DEQ’s NRO, for exceptions to this 
+
+requirement, with approvals made on a case-by-case basis. 
+
+(9VAC5-80-1180) [8/29/2025] 
+
+12. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website (https://airnow.gov ) for Northern Virginia for that day is less than or equal to 100. In the 
+
+event that AirNow-EnviroFlash ( www.enviroflash.info ) issues an Air Alert for 
+
+Metropolitan Washington, D.C. for a day which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) [8/29/2025] Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 10 
+
+13. Operating Hours – Each individual emergency engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW) shall not operate more than 25 hours per year for scheduled maintenance checks and readiness testing (Scheduled MCRT, as provided in Condition  9.c ). 
+
+Each emergency engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW) shall not operate more than 500 hours per year for all purposes (as provided in Condition  9) combined. 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [8/29/2025] 
+
+14. Fuel Specification – The approved fuel for the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) is ultra-low sulfur diesel fuel oil, and shall meet the specifications below: 
+
+ULTRA LOW SULFUR DIESEL FUEL OIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for grade ultra-low sulfur 2-D or grade 2-D S15, or 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of 40 or maximum aromatic content of 35 volume percent. 
+
+Exceedance of these specifications may be considered credible evidence of an exceedance of emission limits. A change in the fuel type or the fuel sulfur content may require a permit to modify and operate. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [8/29/2025] 
+
+15. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; and 
+
+d. A statement that the diesel fuel: Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 11 
+
+i. complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or 
+
+ii. has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee must obtain approval from DEQ’s NRO Regional Air Compliance Manager if other documentation will be used to certify the diesel fuel type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition  14 . Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. 
+
+(9VAC5-80-1180) [8/29/2025] 
+
+16. Diesel Fuel Throughput Limit (Emergency Units) –
+
+a. The 750 ekW emergency engine gen-set (Ref. No. BPPBB1) shall consume no more than 737 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+b. The 750 ekW emergency engine gen-sets (Ref. Nos. BYPBB1 and BYPBB2) shall consume no more than 1,474 gallons of diesel fuel oil per year, combined, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+c. The 1,000 ekW emergency engine gen-set (Ref. No. BYPBB1MW) shall consume no more than 965 gallons of diesel fuel oil per year, calculated daily as the sum of each consecutive 365-day period (all uses). 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [8/29/2025] Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 12 
+
+17. Diesel Fuel Throughput Limit (Non-Emergency Units) – The non-emergency diesel engine gen-sets (Ref. Nos. BPEG1 through BPEG22 and BYEG1 through BYEG120) shall only consume a combined quantity of diesel fuel oil (in gallons) each consecutive 365-day period (all uses), as demonstrated by using the following equation: 
+
+Group 1 Mode A Fuel Consumption 6,622,570 gallons +Group 1 Mode B Fuel Consumption 507,275 gallons +Group 2 Mode A Fuel Consumption 6,622,570 gallons +Group 2 Mode B Fuel Consumption 507,275 gallons +
+
+Group 3 Mode A Fuel Consumption 4,135,792 gallons +Group 3 Mode B Fuel Consumption 842,885 gallons +Group 4 Mode A Fuel Consumption 8,428,854 gallons +Group 4 Mode B Fuel Consumption 842,885 gallons +
+
+Group 5 Mode A Fuel Consumption 4,102,222 gallons +Group 5 Mode B Fuel Consumption 900,019 gallons +Group 6 Mode A Fuel Consumption 9,000,194 gallons +Group 6 Mode B Fuel Consumption 900,019 gallons ≤ 1 
+
+Where: 
+
+Building  Fuel Group  Operating Mode 
+
+Engine Gen-Set Model 
+
+(Controls)  Controlled Pollutant(s) 
+
+Brick Plant  Group 1 
+
+Mode A  Caterpillar 3516E 
+
+(cDPF and SCR) 
+
+PM 10 , PM 2.5 , CO, VOC, and NO X
+
+Mode B  Caterpillar 3516E 
+
+(cDPF)  PM 10 and PM 2.5 Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 13 
+
+Building  Fuel Group  Operating Mode 
+
+Engine Gen-Set Model 
+
+(Controls)  Controlled Pollutant(s) 
+
+Brick Yard 
+
+Building B  Group 2 
+
+Mode A  Caterpillar 3516E 
+
+(SCR and DOC)  NO X, CO, and VOC 
+
+Mode B  Caterpillar 3516E 
+
+(No Controls)  -
+
+Brick Yard 
+
+Building A  Group 3 
+
+Mode A  Cummins C3000D6E 
+
+(SCR)  NO X
+
+Mode B  Cummins C3000D6E 
+
+(No Controls)  -
+
+Brick Yard 
+
+Building B  Group 4 
+
+Mode A  Cummins C3000D6E 
+
+(SCR and DOC)  NO X, CO, and VOC 
+
+Mode B  Cummins C3000D6E 
+
+(No Controls)  -
+
+Brick Yard 
+
+Building A  Group 5 
+
+Mode A  De-Rated Cummins C3250D6E 
+
+(SCR)  NO X
+
+Mode B  De-Rated Cummins C3250D6E 
+
+(No Controls)  -
+
+Brick Yard 
+
+Building B  Group 6 
+
+Mode A  De-Rated Cummins C3250D6E 
+
+(SCR and DOC)  NO X, CO, and VOC 
+
+Mode B  De-Rated Cummins C3250D6E 
+
+(No Controls)  -
+
+Compliance for each consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [6/24/2026] Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 0 
+
+EMISSION LIMITS 
+
+18. Hourly Emission Limits – Emissions from the operation of each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall not exceed the limits specified below: 
+
+Pollutant  750 ekW Caterpillar 
+
+(Ref. Nos. BPPBB1, BYPBB1, & BYPBB2) 
+
+1,000 ekW Caterpillar 
+
+(Ref. No. BYPBB1MW) 
+
+Nitrogen Oxides (NO X as NO 2) 14.34 lbs/hr  19.52 lbs/hr 
+
+Carbon Monoxide (CO)  4.73 lbs/hr  2.78 lbs/hr 
+
+Volatile Organic Compounds (VOC)  1.91 lbs/hr  0.34 lbs/hr 
+
+Particulate Matter (PM)  0.32 lbs/hr  0.23 lbs/hr 
+
+Particulate Matter (PM 10 ) 0.33 lbs/hr  0.26 lbs/hr 
+
+Particulate Matter (PM 2.5 ) 0.33 lbs/hr  0.26 lbs/hr Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 1 
+
+Pollutant 
+
+3,000 ekW Caterpillar 
+
+(Constructed at Brick Plant, Fuel Group 1) 
+
+(Ref. Nos. BPEG1 - BPEG22) 
+
+3,000 ekW Caterpillar 
+
+(Constructed at Brick Yard Building B, Fuel Group 2) 
+
+(Ref. Nos. BYEG1 – BYEG120) 
+
+3,000 ekW Cummins (C3000D6E) 
+
+(Constructed at Brick Yard Building A, Fuel Group 3) 
+
+(Ref. Nos. BYEG1 – BYEG120) 
+
+Controlled  Uncontrolled  Controlled  Uncontrolled  Controlled  Uncontrolled 
+
+Nitrogen Oxides (NO X as NO 2) 5.81 lbs/hr*  58.11 lbs/hr  5.81 lbs/hr*  58.11 lbs/hr  5.01 lbs/hr*  50.09 lbs/hr 
+
+Carbon Monoxide (CO)  0.64 lbs/hr**  6.39 lbs/hr  1.92 lbs/hr † 6.39 lbs/hr  7.69 lbs/hr 
+
+Volatile Organic Compounds (VOC) 
+
+0.17 lbs/hr**  0.58 lbs/hr  0.35 lbs/hr † 0.58 lbs/hr  2.65 lbs/hr 
+
+Particulate Matter (PM)  0.11 lbs/hr**  0.74 lbs/hr  0.96 lbs/hr 
+
+Particulate Matter (PM 10 ) 0.31 lbs/hr**  0.92 lbs/hr  1.20 lbs/hr 
+
+Particulate Matter (PM 2.5 ) 0.31 lbs/hr**  0.92 lbs/hr  1.20 lbs/hr 
+
+Sulfur Dioxide 
+
+(SO 2) 0.05 lbs/hr  0.05 lbs/hr  0.05 lbs/hr 
+
+* Controlled by SCR 
+
+** Controlled by cDPF 
+
+† Controlled by DOC Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 2 
+
+Pollutant 
+
+3,000 ekW Cummins (C3000D6E) 
+
+(Constructed at Brick Yard Building B, Fuel Group 4) 
+
+(Ref. Nos. BYEG1 – BYEG120) 
+
+3,000 ekW De-Rated Cummins (C3250D6E) 
+
+(Constructed at Brick Yard Building A, Fuel Group 5) 
+
+(Ref. Nos. BYEG1 – BYEG120) 
+
+3,000 ekW De-Rated Cummins (C3250D6E) 
+
+(Constructed at Brick Yard Building B, Fuel Group 6) 
+
+(Ref. Nos. BYEG1 – BYEG120) 
+
+Controlled  Uncontrolled  Controlled  Uncontrolled  Controlled  Uncontrolled 
+
+Nitrogen Oxides (NO X as NO 2) 5.01 lbs/hr*  50.09 lbs/hr  4.61 lbs/hr*  46.07 lbs/hr  4.61 lbs/hr*  46.07 lbs/hr 
+
+Carbon Monoxide (CO)  1.23 lbs/hr † 7.69 lbs/hr  3.76 lbs/hr  1.20 lbs/hr † 7.52 lbs/hr 
+
+Volatile Organic Compounds (VOC) 
+
+0.42 lbs/hr † 2.65 lbs/hr  2.76 lbs/hr  0.44 lbs/hr † 2.76 lbs/hr 
+
+Particulate Matter (PM)  0.96 lbs/hr  1.00 lbs/hr  1.00 lbs/hr 
+
+Particulate Matter (PM 10 ) 1.20 lbs/hr  1.20 lbs/hr  1.20 lbs/hr 
+
+Particulate Matter (PM 2.5 ) 1.20 lbs/hr  1.20 lbs/hr  1.20 lbs/hr 
+
+Sulfur Dioxide 
+
+(SO 2) 0.05 lbs/hr  0.05 lbs/hr  0.05 lbs/hr 
+
+* Controlled by SCR 
+
+** Controlled by cDPF 
+
+† Controlled by DOC 
+
+The controlled NO X, CO, and VOC emission limits apply to each engine during all periods where Condition  3 requires the SCR control system for that engine to be in operation. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [6/24/2026] Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 3 
+
+19. Annual Emission Limits – Emissions from the operation of the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall not exceed the limits specified below: 
+
+Pollutant  1,000 ekW 
+
+> (Ref. No.
+
+BYPBB1MW )
+
+750 ekW Combined 
+
+(Ref. Nos. BYPBB1 
+
+& BYPBB2) 
+
+750 ekW 
+
+(Ref. No. BPPBB1) 
+
+Nitrogen Oxides (NO X as NO 2) 0.13 tpy  0.19 tpy  0.10 tpy 
+
+Carbon Monoxide (CO)  0.11 tpy  0.36 tpy  0.18 tpy 
+
+Volatile Organic Compounds (VOC) 
+
+0.01 tpy  0.15 tpy  0.07 tpy 
+
+Particulate Matter (PM)  0.01 tpy  0.02 tpy  0.01 tpy 
+
+Particulate Matter (PM 10 ) 0.01 tpy  0.02 tpy  0.01 tpy 
+
+Particulate Matter (PM 2.5 ) 0.01 tpy  0.02 tpy  0.01 tpy 
+
+Pollutant 
+
+3,000 ekW Combined 
+
+(Ref. Nos. BPEG1 through BPEG22 and BYEG1 through BYEG120) 
+
+Nitrogen Oxides (NO X as NO 2) 96.07 tpy 
+
+Carbon Monoxide (CO)  77.38 tpy 
+
+Volatile Organic Compounds (VOC)  46.43 tpy 
+
+Particulate Matter (PM)  50.93 tpy 
+
+Particulate Matter (PM 10 ) 55.73 tpy 
+
+Particulate Matter (PM 2.5 ) 55.73 tpy 
+
+Sulfur Dioxide (SO 2) 1.06 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with the annual emission limits may be determined as stated in Conditions  1, 2, 3, 4, 5, 14 , 16 , 17 , 18 , and  20 .
+
+(9VAC5-80-1180) [6/24/2026] Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 4 
+
+20. Visible Emission Limit –
+
+a. Visible emissions from each non-emergency engine gen-set (Ref. Nos. BPEG1 through BPEG22 and BYEG1 through BYEG120) shall not exceed 5% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This requirement applies at all times except during startup, shutdown and malfunction. 
+
+b. Visible emissions from each emergency engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW) shall not exceed 5% opacity except during one six-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). This requirement applies at all times except during startup, shutdown and malfunction. 
+
+During startup and shutdown, visible emissions from each engine gen-set shall not exceed 10% opacity except during one (1) six-minute period in any one-hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [8/29/2025] 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+21. Stack Tests – Initial performance tests shall be conducted on five (5) of the Caterpillar 3516E non-emergency engine gen-sets (Ref. Nos. BPEG1 through BPEG22) for NO X (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air 
+
+Compliance Manager of the DEQ’s NRO to determine compliance with the controlled emission limits contained in Condition  18 .
+
+a. Emissions testing of each pollutant for each selected non-emergency engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that non-emergency engine gen-set; 
+
+b. Testing shall be performed on the non-emergency engine gen-sets to demonstrate compliance with the NO X and CO emission limits (controlled) specified in Condition 
+
+18 . Testing shall be conducted with the non-emergency engine gen-set operating at ≥ 
+
+90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded non-emergency engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil; 
+
+iii. NO X concentration after the catalyst; and Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 5 
+
+iv. SCR catalyst bed exhaust temperature. 
+
+d. Perform testing to demonstrate compliance within 180 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air 
+
+Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely 
+
+manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee 
+
+shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [8/29/2025] 
+
+22. Stack Tests – Initial performance tests shall be conducted on at least twenty percent (20%) of the units installed for each type of engine model (Caterpillar 3516E, Cummins C3000D6E/QSK95-G12, and de-rated Cummins C3250D6E/QSK95-G12) of the one-hundred-twenty (120) non-emergency diesel engine gen-sets (Ref. Nos. BYEG1 through BYEG120) for NO X (as NO 2) and CO using appropriate EPA reference methods as 
+
+approved by the Regional Air Compliance Manager of the DEQ’s NRO to determine 
+
+compliance with the emission limits contained in Condition  18 .
+
+a. Emissions testing of each pollutant for each selected non-emergency engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that non-emergency engine gen-set; Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 6 
+
+b. Testing shall be performed on the exhaust stack of the non-emergency engine gen-set to demonstrate compliance with the controlled NO X and CO emission limits specified in Condition  18 . Testing shall be conducted with the non-emergency engine gen-set 
+
+operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is 
+
+approved by DEQ; 
+
+c. Recorded non-emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil; 
+
+iii. NO X concentration after the catalyst; and 
+
+iv. SCR catalyst bed exhaust temperature. 
+
+d. Perform testing to demonstrate compliance within 180 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air 
+
+Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely 
+
+manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee 
+
+shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [8/29/2025] Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 7 
+
+23. Visible Emissions Evaluation – Concurrent with the initial performance tests required in Conditions  21  and  22 , Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the non-emergency engine gen-sets selected for initial performance testing. The details of the tests are to be 
+
+arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall 
+
+submit a VEE protocol in conjunction with the initial stack test protocol required by Conditions  21  and  22 , at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air 
+
+Compliance Manager of the DEQ’s NRO shall be notified in writing, within seven (7) days, and visible emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. 
+
+b. Two (2) copies of the test result (one (1) hard copy and one (1) electronic copy) shall be submitted to the Regional Air Compliance Manager of the DEQ’s NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [8/29/2025] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+24. Facility Construction – The emergency diesel engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall be constructed so as to allow for emissions testing upon reasonable notice at any times, using appropriate methods. This includes constructing the facility/equipment such that volumetric flow rates and pollutant emission rates can be determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [8/29/2025] 
+
+25. Emission Testing/Visible Emissions Evaluation/Output Control Device Validation –
+
+Upon request by the DEQ, the permittee shall conduct stack tests, VEEs, and/or Output Control Device Validations on the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) to demonstrate compliance with the emission limits contained in this permit. The details of 
+
+the tests shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [8/29/2025] 
+
+RECORDS 
+
+26. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 8 
+
+format of such records shall be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s NRO. These records shall include, but are not limited to: 
+
+a. Operation and control device monitoring records for each non-emergency engine gen-set equipped with a SCR (Ref. Nos. BPEG1 through BPEG22 and BYEG1 through BYEG120) as required in Condition  6. This includes records of the SCR catalyst exhaust bed temperature and urea injection rate as measured by the SCR continuous monitoring device. 
+
+b. Operation and control device monitoring records for each non-emergency engine gen-set equipped with a cDPF (Ref. Nos. BPEG1 through BPEG22), as required in Condition  6. This includes records of the differential pressure drop across the filter and catalyst bed temperature. 
+
+c. A log of kilowatt output monitoring device observations as required by Condition  7.
+
+d. A log of hours meter and fuel throughput monitoring device observations as required by Condition  8.
+
+e. Records of the reasons for operation for each emergency engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation, as required in Condition  9.
+
+f. Records, as necessary, to demonstrate compliance with the operating limitations of Condition  11 ; which includes but is not limited to: times, dates and reasons for operation of each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) that was operating between May 1 and September 30. 
+
+g. To verify compliance with Condition  12 , maintain records for the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by AirNow-EnviroFlash; and Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 9 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours, and duration. 
+
+h. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW), as required in Condition  13 ,with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+i. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. BPPBB1, BYPBB1, BYPBB2, and BYPBB1MW), as required in Condition  13 ,for purposes of scheduled maintenance checks and readiness testing (Scheduled MCRT), calculated monthly as the sum of each consecutive 12-month period. 
+
+j. All fuel supplier certifications, as required in Condition  14 .
+
+k. Daily and annual fuel consumption of each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW), with the annual fuel consumption calculated daily as the sum of each consecutive 365-day period. 
+
+l. Daily and annual fuel consumption for emergency engine gen-sets (Ref. Nos. BYPBB1 and BYBPP2) combined, calculated daily as the sum of each consecutive 365-day period. 
+
+m. Daily and annual fuel consumption for each non-emergency engine gen-set fuel group (BP Group 1 Mode A, BP Group 1 Mode B, BY Group 2 Mode A, BY Group 2 Mode B, BY Group 3 Mode A, BY Group 3 Mode B, BY Group 4 Mode A, BY Group 4 Mode B, BY Group 5 Mode A, BY Group 5 Mode B, BY Group 6 Mode A, and BY Group 6 Mode B), calculated daily as the sum of each consecutive 365-day period for the purposes of the compliance demonstration with the diesel fuel throughput limit equation in Condition  17 .
+
+n. Daily and annual results of the computed fuel throughput equation used by the non-emergency diesel engine gen-set fuel groups (BP Group 1 Mode A, BP Group 1 Mode B, BY Group 2 Mode A, BY Group 2 Mode B, BY Group 3 Mode A, BY Group 3 Mode B, BY Group 4 Mode A, BY Group 4 Mode B, BY Group 5 Mode A, BY Group 5 Mode B, BY Group 6 Mode A, and BY Group 6 Mode B), calculated daily as the sum of each consecutive 365-day period for the purposes of the compliance demonstration with the diesel fuel throughput limit equation in Condition  17 .
+
+o. Daily and annual emissions calculations for NO X (as NO 2), CO, VOC, PM, PM 10 , and PM 2.5 from the emergency engine gen-set (Ref. No. BYBPP1MW), with annual emissions calculated daily, as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition  19 .Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 10 
+
+p. Daily and annual emissions calculations for NO X (as NO 2), CO, VOC, PM, PM 10 , and PM 2.5 from the combined emergency engine gen-sets (Ref. Nos. BYPBB1 and BYBPP2), with annual emissions calculated daily, as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition  19 .
+
+q. Daily and annual emissions calculations for NO X (as NO 2), CO, VOC, PM, PM 10 , and PM 2.5 from the emergency engine gen-set (Ref. Nos. BPPBB1), with annual emissions calculated daily, as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition  19 .
+
+r. Daily and annual emissions calculations for NO X (as NO 2), CO, VOC, SO 2, PM, PM 10 ,and PM 2.5 from the non-emergency engine gen-sets (Ref. Nos. BPEG1 through BPEG22 and BYEG1 through BYEG120), with annual emissions calculated daily, as the sum of each consecutive 365-day period, to verify compliance with the annual emission limits in Condition  19 .
+
+s. Results of all stack tests, VEEs, and electrical power output control validations. 
+
+t. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT), unscheduled maintenance, operator training, and records as required by Condition  32 .
+
+u. Documentation from the manufacturer that each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) is certified to meet the EPA Tier 2 emission standards. 
+
+v. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW). 
+
+w. The manufacturer’s written operating instructions or procedures developed by the 
+
+owner/operator that are approved by the engine manufacturer for each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW). 
+
+x. Records of changes in settings that are permitted by the manufacturer of the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW). 
+
+Compliance for each consecutive 12-month period in the subsections above (as applicable) shall be demonstrated monthly by adding the total for the most recently completed month to the individual monthly totals for the preceding 11 months. Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 11 
+
+Compliance for each consecutive 365-day period in the subsections above (as applicable) shall be demonstrated daily by adding the total for the most recently completed day to the individual daily totals for the preceding 364 days. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five (5) years. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [6/24/2026] 
+
+NOTIFICATIONS 
+
+27. Initial Notifications – The permittee shall furnish written notification of the items below to 
+
+the Regional Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit notification(s) for each building containing the information as described below: 
+
+a. The actual date on which installation of the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) commenced in each building, within thirty (30) days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and 
+
+iv. The date installation commenced. 
+
+b. The start and end dates of the integration operational period for each engine gen-set (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) within fifteen (15) days after the last engine gen-set at each building completes its integration operational period. If a period of 
+
+construction is paused or halted for ≥45 days, this notification shall be provided to the 
+
+DEQ within fifteen (15) days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 12 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as the period of time beginning with the first time the affected unit is started on-site and ending 
+
+when the affected unit is fully integrated with the source’s electrical system. 
+
+(9VAC5-50-20) [8/29/2025] 
+
+28. Notifications – The permittee shall furnish written notification of the items below to the 
+
+Regional Air Compliance Manager of the DEQ’s NRO: 
+
+a. The actual date on which the Cummins C3250D6E/QSK95-G12 non-emergency diesel engine gen-sets (Ref. Nos. BYEG1 through BYEG120) are programmed to the de-rated electrical output of 3,000 ekW, postmarked no later than 30 days after such date. The notification shall include the following information: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; and 
+
+iii. Engine information, including make, model, engine family, serial number, model year, maximum engine power, and engine displacement. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) [8/29/2025] 
+
+GENERAL CONDITIONS 
+
+29. Permit Invalidation – This permit to construct the engine gen-sets (Ref. Nos. BPEG1 through BPEG22, BPPBB1, BYEG1 through BYEG120, BYPBB1, BYPBB2, and BYPBB1MW) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the 
+
+‘Original Permit Date’ specified in the equipment list in the Introduction section of 
+
+this permit; or if 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 13 
+
+30. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+31. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+32. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 14 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+33. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+34. Notification for Facility or Control Equipment Malfunction – The permittee shall 
+
+furnish notification to the Regional Air Compliance Manager of the DEQ’s NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+35. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) Digital Realty – Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC Registration Number: 74262 June 24, 2026 Page 15 
+
+36. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the NRO of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+37. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1.  Plant name and location 
+
+2.  Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3.  Test Dates. 
+
+4.  Tester; name, address and report date 
+
+Certification 
+
+1.  Signed by team leader/certified observer (include certification date) 
+
+2.  Signed by responsible company official 
+
+3.  *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1.  Reason for testing 
+
+2.  Test dates 
+
+3.  Identification of unit tested & the maximum rated capacity 
+
+4.  *For each emission unit, a table showing: 
+
+a.  Operating rate 
+
+b.  Test Methods 
+
+c.  Pollutants tested 
+
+d.  Test results for each run and the run average 
+
+e.  Pollutant standard or limit 
+
+5.  Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6.  A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7.  Any other important information 
+
+Source Operation 
+
+1.  Description of process and control devices 
+
+2.  Process and control equipment flow diagram 
+
+3.  Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1.  Detailed test results for each run 
+
+2.  *Sample calculations 
+
+3.  *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1.  *Raw production data 
+
+2.  *Raw field data 
+
+3.  *Laboratory reports 
+
+4.  *Chain of custody records for lab samples 
+
+5.  *Calibration procedures and results 
+
+6.  Project participants and titles 
+
+7.  Observers’ names (industry and agency) 
+
+8.  Related correspondence 
+
+9.  Standard procedures 
+
+_____ 
+
+* Not applicable to visible emission evaluations

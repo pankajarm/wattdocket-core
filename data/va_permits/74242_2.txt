@@ -1,0 +1,999 @@
+Title: 74242_DC_Permit.pdf
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25986/638633875365530000
+
+Published Time: Tue, 01 Oct 2024 12:52:16 GMT
+
+Number of Pages: 32
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 www.deq.virginia.gov
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director (804) 698-4020 Richard C. Doucette, CPG Regional Director
+
+September 15, 2023 
+
+Mr. Rhod Hughes 
+
+Manager, Chief Engineer 
+
+Vantage Data Centers 
+
+2820 Northwestern Pkwy 
+
+Santa Clara, CA 95051 
+
+Location: Loudoun County 
+
+Registration No.: 74242 
+
+Dear Mr. Hughes: 
+
+Attached is a permit to construct and operate emergency diesel engine generator sets (gen-sets), black start diesel engine gen-sets, and simple cycle combustion natural gas fired turbines at Vantage Data Centers VA2, LLC (Vantage) in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on September 12, 2023. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Vantage Data Centers VA2, LLC of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed simple cycle combustion natural gas fired turbines are subject to 40 CFR 60, New Performance Standard (NSPS), Subpart KKKK. Virginia has accepted delegation of this rule. In summary, the facility is required to comply with certain federal emission standards and operating limitations. The Department of Environmental Quality (DEQ) advises you to review the referenced NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you are also responsible for any monitoring, notification, reporting and recordkeeping requirements of the NSPS. Notifications shall be sent to Virginia DEQ. Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 2 
+
+The engine gen-sets may be subject to 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII – Standards of Performance for Stationary Compression Ignition Internal Combustion Engines and 40 CFR Part 63, National Emission Standards for Hazardous Air Pollutants (MACT) Subpart ZZZZ – National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines. To date, Virginia has not accepted delegation of this rule for minor or area sources. In summary, the units may be required to comply with certain federal emission standards and operating limitations. DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you are also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at  www.ecfr.gov , Title 40, Part 60 and 63. 
+
+The Board’s Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Director, Michael S. Rolband 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Cameron Stewart at (571)-866-6093 or via email at cameron.stewart@deq.virginia.gov. 
+
+Sincerely, 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+JAW/CLS/74242 mNSR (2023-09-15) 
+
+Attachments: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 www.deq.virginia.gov   
+
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director (804) 698-4020 Richard C. Doucette, CPG Regional Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit includes designated equipment subject to 
+
+New Source Performance Standards (NSPS) 
+
+This permit document supersedes the permit document dated April 7, 2023. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Vantage Data Centers VA2, LLC 
+
+2820 Northwestern Pkwy 
+
+Santa Clara, CA 95051 
+
+Registration No.: 74242 
+
+is authorized to construct and operate 
+
+emissions units at a data center 
+
+located at 
+
+Vantage Data Centers VA2, LLC 
+
+22318 Glenn Drive 
+
+Sterling, VA 20167 
+
+(Loudoun County) 
+
+in accordance with the Conditions of this permit. 
+
+Approved on September 15, 2023. 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Permit consists of 28 pages. 
+
+Permit Conditions 1 to 44 
+
+Attachment A: Source Testing Report Format Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 2 
+
+INTRODUCTION 
+
+This permit approval is based on the permit application dated May 24, 2022, and supplemental information dated July 1, 2022, July 22, 2022, January 11, 2023, and March 22, 2023; and the permit application dated March 6, 2023, and supplemental information dated March 22, 2023, April 11, 2023, April 26, 2023, June 16, 2023, July 25, 2023, and August 28, 2023. 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 3 
+
+Equipment List – Equipment at this facility covered by this permit consists of: 
+
+Equipment to be Constructed: 
+
+Reference No.  Equipment Description 
+
+Rated Capacity 
+
+Add-on Control Technology 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+EG-10 through EG-49 
+
+Forty (40) – Emergency Diesel Engine Generator Sets Caterpillar Model 3516E 
+
+2,750 ekW 
+
+4,043 BHP 
+
+None  None  September 15, 2023 
+
+EP-BS1 and EP-BS2 
+
+Two (2) – Black Start Diesel Engine Generator Sets Caterpillar Model 3516E 
+
+2,750 ekW 
+
+4,043 BHP 
+
+None  None  September 15, 2023 
+
+TG-01 through TG-08 
+
+Eight (8) -Solar SMT-130 simple cycle combustion natural gas fired turbines equipped with SoLoNO X
+
+burners 
+
+16.5 MWe 
+
+161 MMBTU /hr 
+
+Selective Catalytic Reduction (SCR) and Oxidation Catalyst* 
+
+NSPS KKKK  September 15, 2023 
+
+* Braden 25298 SCR with DNX® GTC multi-pollutant catalyst for SCR and CO/VOC oxidation. 
+
+Previously Permitted Equipment: 
+
+Reference No.  Equipment Description  Rated Capacity 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+EG-01 through EG-09 
+
+Nine (9) – Emergency Diesel Engine Generator Sets Caterpillar model 3516E 
+
+2,750 ekW 
+
+4,043 BHP  None  April 7, 2023 
+
+Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Engine Gen-Sets – Emissions from the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) shall be controlled by the following: Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 4 
+
+a. Nitrogen oxides (NO X) emissions from the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) shall be controlled by engine design. 
+
+b. Particulate matter (PM) emissions, particulate matter (PM 10 ) emissions, particulate matter (PM 2.5 ) emissions, carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, nitrogen oxide (NO X) emissions, sulfur dioxide (SO 2)emissions, and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+2. Emission Controls – Turbines – Emissions from the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall be controlled by the following: 
+
+a. Nitrogen oxide (NOx) emissions from the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall be controlled by SoLoNO X
+
+burners and closed loop Selective Catalytic Reduction (SCR) within the multi-pollutant catalyst bed. Each SCR system shall be equipped with four (4) temperature probes to continuously monitor the multi-pollutant catalyst bed inlet temperature while the turbines are operational. Turbine exhaust gas mixed with ambient tempering air shall be treated with an ammonia solution when the turbines are operating at or above fifty percent (50%) load and the multi-pollutant catalyst bed inlet temperature of 450°F is achieved, except for periods of start-up, shutdown, or malfunction. 
+
+In the event that the average catalyst inlet temperature measurement from the four (4) probes exceeds 875°F, ammonia solution injection shall be discontinued and any operations above that level will be considered a malfunction. The SCR system shall be provided with adequate access for inspection and shall be in operation when the turbines are operating as stated above. 
+
+b. Carbon monoxide (CO) and Volatile Organic Compounds (VOC) emissions from the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall be controlled by catalytic oxidation within the multi-pollutant catalyst bed. Each catalytic oxidation system shall be equipped with four (4) temperature probes, common to the SCR system, to continuously monitor and record the catalyst bed inlet temperature while the turbines are operational. Turbine exhaust gas mixed with ambient tempering air shall be treated when the turbines are operating at or above fifty percent (50%) load and the catalyst bed inlet temperature of 450°F is achieved, except for periods of start-up, shutdown, or malfunction. Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 5 
+
+The multi-pollutant catalyst shall be provided with adequate access for inspection and shall be in operation when the turbines are operating as stated above. 
+
+c. Particulate matter (PM) emissions, particulate matter (PM 10 ) emissions, particulate matter (PM 2.5 ) emissions, carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, nitrogen oxide (NO X) emissions, sulfur dioxide (SO 2)emissions and visible emissions from the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+3. Monitoring Devices – Engine Gen-Sets – 
+
+a. Engine Operating Hours: Each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2 shall be equipped with a non-resettable hour meter which measures the duration of time that each diesel engine gen-set is operated. 
+
+b. Fuel Flow: Each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) shall be equipped with a fuel flow monitoring device used to continuously measure the fuel throughput (in gallons) for each diesel engine gen-set during operation. 
+
+Each monitoring device (as required in a. and b. above) shall be observed by the permittee with a frequency of not less than once each day the diesel engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer’s written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of DEQ’s Northern Regional Office (NRO). 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the diesel engine gen-sets are operating. 
+
+(9VAC5-80-1180 D and 9VAC5-50-20 C) 
+
+4. Monitoring Devices – Turbines – 
+
+a. Turbine Operating Hours: Each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall be equipped with a non-resettable hour meter Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 6 
+
+which measures the duration of time that each simple cycle combustion natural gas fired turbine is operated. 
+
+b. Turbine Load: Each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall be equipped with a device to monitor and record the turbine load at a minimum frequency of once every fifteen minutes. 
+
+c. SCR Multi-Pollutant Catalyst Bed Inlet Temperature: Each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall be equipped with a device to measure and record the multi-pollutant catalyst bed inlet temperature. The information shall be recorded at a minimum frequency of no less than once every fifteen minutes. The status of the SCR control system and catalytic oxidation system shall be recorded continuously when each simple cycle combustion turbine is in operation, and correlated to run date, turbine load, and turbine operating hours. 
+
+d. Turbine NO x Emissions: Each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall be equipped with a device to measure and record the NO x emissions measured after the SCR multi-pollutant catalyst, expressed in ppm for each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08). The information shall be recorded at a minimum frequency of once every fifteen minutes, and correlated to run date, turbine load, and turbine operating hours. 
+
+Each monitoring device (as required in a. through d. above) shall be observed by the permittee with a frequency of not less than once each day the combustion turbine is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be equipped with a mechanism to detect parameters which exceed manufacturer’s recommended thresholds and trigger an alarm to operators when the unit is not operating within the manufacturer's recommended conditions. 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the SCR system and catalytic oxidation are operating. 
+
+(9VAC5-80-1180 D) 
+
+OPERATING LIMITATIONS 
+
+5. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) shall only be operated for the following purposes: Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 7 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster that results in a loss of power; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For unscheduled maintenance, testing, and operational training. 
+
+d. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+e. For the integration operational period which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. 
+
+(9VAC5-80-1180) 
+
+6. Black Start Diesel Engine Gen-Set Operation – The black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) shall only be operated for the following purposes: 
+
+a. For start-up of the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08). Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 8 
+
+b. For unscheduled maintenance, testing, and operational training. 
+
+c. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+d. For the integration operational period which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. 
+
+(9VAC5-80-1180) 
+
+7. Operation of the Engine Gen-Sets and Turbines – The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49), each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2), and each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) and control device according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) 
+
+8. Operating Limitations (Ozone Season) – No emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) or black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing or operator training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during May 1 through September 30. The permittee may petition the Regional Air Compliance Manager of DEQ’s NRO for exceptions to this requirement, with approvals made on a case-by-case basis. 
+
+(9VAC5-80-1180) 
+
+9. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website (https://airnow.gov ) for the Northern Virginia region for that day is less than or equal to 100. In the event that AirNow-EnviroFlash ( www.enviroflash.info ) issues an Air Alert for Metropolitan Washington D.C. for a day which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) 
+
+10. Operating Hours – Each individual emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 9 
+
+shall not operate more than 29 hours per year for scheduled maintenance checks and readiness testing (Scheduled MCRT) (as provided in Conditions 5.d. and 6.c.). 
+
+Each individual emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) shall not operate more than 500 hours per year for all purposes (as provided in Condition 5) combined. 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) 
+
+11. Fuel Specification (Diesel) – The approved fuel for the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) is ultra-low sulfur diesel fuel oil, and shall meet the specifications below: 
+
+ULTRA LOW SULFUR DIESEL FUEL OIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for grade ultra-low sulfur 2-D or grade 2-D S15, or 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of 40 or maximum aromatic content of 35 volume percent. 
+
+Exceedance of these specifications may be considered credible evidence of an exceedance of emission limits. A change in the fuel type or the fuel sulfur content may require a permit to modify and operate. 
+
+(9VAC5-80-1180) 
+
+12. Fuel Certification (Diesel) – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; and 
+
+d. A statement that the diesel fuel: 
+
+i. Complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 10 
+
+ii. Has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee must obtain approval from the Regional Air Compliance Manager of DEQ’s NRO, if other documentation will be used to certify the diesel fuel type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ may be used to determine compliance with the fuel specifications stipulated in Condition 11. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. 
+
+(9VAC5-80-1180) 
+
+13. Fuel Specification (Natural Gas) –
+
+a. The approved fuel for the turbines (Ref. Nos. TG-01 through TG-08) is natural gas as defined in 40 CFR 60.4420. A change in the fuel may require a permit to modify and operate. 
+
+b. The simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall not burn any fuel which contains total potential sulfur emissions in excess of 26 ng SO 2/J (0.060 lb SO 2/MMBtu) heat input. 
+
+(9VAC5-80-1180 and 9VAC5-50-410) 
+
+14. Diesel Fuel Throughput Limits – The emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), combined, shall consume no more than 685,325 gallons of diesel fuel oil per year calculated daily as the sum of each consecutive 365-day period. 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) 
+
+15. Requirements by Reference - Except where this permit is more restrictive than the applicable requirement, the simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall be operated in compliance with the requirements of 40 CFR 60, Subpart KKKK. 
+
+(9VAC5-80-1180, 9VAC5-50-400, and 9VAC5-50-410) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 11 
+
+EMISSION LIMITS 
+
+16. Emission Limits (Hourly) – Engine Gen-Sets – Emissions from the operation of each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) shall not exceed the limits specified below: 
+
+Compliance with these pollutant emission limits shall be based on the proper operation and maintenance of the diesel engine gen-sets or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+17. Emission Limits (Annual) – Engine Gen-Sets – Total emissions from the combined operation of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2 shall not exceed the limits specified below: 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence   
+
+> 1Filterable Only
+> 2Filterable Only
+
+Pollutant 
+
+Caterpillar Model 3516E 
+
+(Ref. Nos. EG-01 through EG-49 and EP-BS1 and EP-BS2) 
+
+(each unit) 
+
+Nitrogen Oxides (NO x as NO 2) 53.48 lb/hr 
+
+Carbon Monoxide (CO)  10.34 lb/hr 
+
+Volatile Organic Compounds (VOC)  0.89 lb/hr 
+
+Particulate Matter (PM) 1 0.62 lb/hr 
+
+Particulate Matter (PM 10 ) 0.83 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.83 lb/hr 
+
+Sulfur Dioxide (SO 2) 0.04 lb/hr 
+
+Pollutant 
+
+All Operations 
+
+(Ref. Nos. EG-01 through EG-49 and EP-BS1 and EP-BS2) 
+
+(All Units Combined) 
+
+Nitrogen Oxides (NO x as NO 2) 95.00 tpy 
+
+Carbon Monoxide (CO)  39.41 tpy 
+
+Volatile Organic Compounds (VOC)  5.28 tpy 
+
+Particulate Matter (PM) 2 2.41 tpy 
+
+Particulate Matter (PM 10 ) 2.77 tpy 
+
+Particulate Matter (PM 2.5 ) 2.77 tpy 
+
+Sulfur Dioxide (SO 2) 0.07 tpy Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 12 
+
+of the exceedance of emission limits. Compliance with the annual pollutant emission limits may be determined as stated in Conditions 11 and 14. 
+
+(9VAC5-80-1180) 
+
+18. Emission Limits (Hourly) – Turbines – Emissions from the operation of each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall not exceed the limits specified below: 
+
+Pollutant  Ref. Nos. TG-01 through TG-08 
+
+Uncontrolled  Controlled 
+
+Nitrogen Oxides (NO x as NO 2) 6.32 lb/hr  1.41 lb/hr 
+
+Carbon Monoxide (CO)  6.42 lb/hr  1.07 lb/hr 
+
+Volatile Organic Compounds (VOC)  1.22 lb/hr  1.22 lb/hr 
+
+Particulate Matter (PM) 3 1.61 lb/hr 
+
+Particulate Matter (PM 10 ) 1.61 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.61 lb/hr 
+
+Sulfur Dioxide (SO 2) 0.55 lb/hr 
+
+Compliance with these pollutant emission limits shall be based on the proper operation and maintenance of the simple cycle combustion natural gas fired turbines or by testing, as required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+19. VOC Emission Limits (Hourly) – Turbines – If the actual emissions of VOC (in lb/hr) from the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) as measured during the initial VOC performance test required by Condition 28, are less than 0.98 lb/hr, the controlled VOC hourly emission limit established by Condition 18 shall be revised in accordance with the table below: 
+
+VOC 
+
+If the actual emissions are:  <0.49 lb/hr  ≥0.49 lb/hr and 
+
+<0.98 lb/hr 
+
+Then the controlled VOC hourly emission limit shall become: 
+
+=0.61 lb/hr  =1.25 x (actual hourly emissions) 
+
+The revised hourly emissions limit shall replace the controlled lb/hr VOC emissions factor in the emissions calculation equation in Condition 22. The revised VOC hourly emission limit of Condition 19 and revised VOC lb/hr controlled emissions factor in Condition 22  
+
+> 3Filterable Only Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 13
+
+shall be effective and enforceable 30 days following the receipt by the Regional Air Compliance Manager of the DEQ’s NRO of the performance test report required by Condition 28. 
+
+(9 VAC5-80-1180 and 9 VAC 5-50-260) 
+
+20. NO X Emission Limit – Turbines – Controlled emissions from the operation of each the simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall not exceed the limits specified below: 
+
+Nitrogen Oxides (NO X) 2 ppm @ 15% O 2
+
+Compliance with this pollutant emissions limit shall be determined as stated in Conditions 26 and 30. 
+
+(9VAC5-80-1180, 9VAC5-50-260, and 9VAC5-50-410) 
+
+21. Emission Limits (Annual) – Total emissions from the combined operation of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall not exceed the limits specified below: 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with the annual pollutant emission limits shall be determined as stated in Condition 22. 
+
+(9VAC5-80-1180) 
+
+22. Annual Emissions Calculations – The total annual emissions of each regulated pollutant from the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) and the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall be calculated  
+
+> 4Filterable Only
+
+Pollutant 
+
+All Operations 
+
+(Ref. Nos. EG-01 through EG-49, EP-BS1, EP-BS2, and TG-01 through TG-08) 
+
+(All Units Combined) 
+
+Nitrogen Oxides (NO x as NO 2) 95.00 tpy 
+
+Carbon Monoxide (CO)  41.76 tpy 
+
+Volatile Organic Compounds (VOC)  42.87 tpy 
+
+Particulate Matter (PM) 4 56.51 tpy 
+
+Particulate Matter (PM 10 ) 56.51 tpy 
+
+Particulate Matter (PM 2.5 ) 56.51 tpy 
+
+Sulfur Dioxide (SO 2) 19.21 tpy Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 14 
+
+daily as the sum of each consecutive 365-day period. Refer to Condition 34 for record keeping requirements to demonstrate compliance with this condition. 
+
+Daily emissions for each pollutant shall be calculated using the following calculation method and applicable emission factor as listed in the tables below: 
+
+a. Emission Factor Tables 
+
+Table 1.A – 
+
+Ref. Nos. EG-01 through EG-49, EP-BS1 and EP-BS2 
+
+Pollutant  Emissions Factor (EF) (lb/gal) 
+
+Nitrogen Oxides (NO x as NO 2) 0.277 
+
+Carbon Monoxide (CO)  0.11 
+
+Volatile Organic Compounds (VOC)  0.02 
+
+Particulate Matter (PM) 5 0.007 
+
+Particulate Matter (PM 10 ) 0.008 
+
+Particulate Matter (PM 2.5 ) 0.008 
+
+Sulfur Dioxide (SO 2) 0.0002 
+
+Table 1.B – 
+
+Ref. Nos. TG-01 through TG-08 
+
+Pollutant  Emissions Factor (EF) (lb/hr) 
+
+Uncontrolled 
+
+Nitrogen Oxides (NO x as NO 2) 6.32 
+
+Carbon Monoxide (CO)  6.42 
+
+Volatile Organic Compounds (VOC)  1.22 
+
+Particulate Matter (PM) 6 1.61 
+
+Particulate Matter (PM 10 ) 1.61 
+
+Particulate Matter (PM 2.5 ) 1.61 
+
+Sulfur Dioxide (SO 2) 0.55 
+
+Table 1.C – 
+
+Ref. Nos. TG-01 through TG-08 
+
+Pollutant 
+
+Emissions Factor (EF) (lb/hr) 
+
+Controlled with SCR & Catalytic Oxidation within Multi-Pollutant Catalyst 
+
+Nitrogen Oxides (NO x as NO 2) 1.41 
+
+Carbon Monoxide (CO)  1.07 
+
+Volatile Organic Compounds (VOC)  1.22*   
+
+> 5Filterable Only
+> 6Filterable Only Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 15
+
+Particulate Matter (PM) 7 1.61 
+
+Particulate Matter (PM 10 ) 1.61 
+
+Particulate Matter (PM 2.5 ) 1.61 
+
+Sulfur Dioxide (SO 2) 0.55 
+
+*If initial VOC performance testing results in a revision to the controlled VOC lb/hr emissions limit in Condition 18, then the revised VOC lb/hr emissions limit calculated in accordance with Condition 19 shall be used in the equation below. 
+
+Emission Calculations: Daily emissions for each pollutant (tons/day) shall be calculated using the following equation using the emission factors listed in the above tables, as appropriate: 
+
+NO X, CO, VOC, PM, PM10, PM2.5, and SO 2 = [(Total fuel consumption (gallons per day) for the diesel engines gen-sets (Ref. Nos. EG-01 through EG-49, EP-BS1 and EP-BS2) x EF per Table 1.A) + (Total uncontrolled hours per day for the combustion turbines (Ref. No. TG-01 through TG-08) x EF per Table 1.B) + (Total controlled hours per day for the combustion turbines (Ref. No. TG-01 through TG-08) x EF per Table 1.C)] ÷ 2000 lbs/ton 
+
+(9VAC5-80-1180) 
+
+23. Visible Emission Limit – Visible emissions from each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49), each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2), and each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) exhaust shall not exceed 5% opacity except during one six-minute period in any one-hour in which visible emissions shall not exceed 10% opacity as determined by the EPA Reference Method 9 (40 CFR 60, Appendix A). 
+
+During startup and shutdown, visible emissions from each emergency diesel engine-gen-set (Ref. Nos. EG-01 through EG-49), each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2), and each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) shall not exceed 10% opacity except during one six-minute period in any one-hour in which visible emissions shall not exceed 20% opacity as determined by EPA Reference Method 9 (40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+24. Stack Tests – Engine Gen-Sets – Initial performance tests shall be conducted on two (2) of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-09) and eight (8) of the diesel engine gen-sets (Ref. Nos. EG-10 through EG-49, EP-BS1, and EP-BS2) for nitrogen oxides (as NO 2) and carbon monoxide (CO) using appropriate EPA Reference Methods as  
+
+> 7Filterable Only Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 16
+
+approved by the Regional Air Compliance Manager of DEQ’s NRO to determine compliance with the emission limits contained in Condition 16. 
+
+a. Emissions testing for each selected diesel engine gen-set shall consist of three one-hour test runs under load. The average of the three runs shall be reported as the short-term emission rate for that diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the diesel engine gen-sets to demonstrate compliance with the NO x and CO emission limits specified in Condition 16. Testing shall be conducted with the diesel engine gen-set operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; 
+
+ii. Fuel consumption and fuel sulfur content of the fuel oil; 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced for new units. If this deadline falls within the ozone season (May 1 through September 30) the permittee shall perform testing to demonstrate compliance within thirty (30) days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager, at least thirty (30) days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two copies, one paper copy and one electronic copy, of the test results shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 17 
+
+25. Visible Emissions Evaluation – Engine Gen-Sets – Concurrent with the initial performance tests required in Condition 24, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the selected diesel engine gen-sets selected for initial performance testing. The details of the tests shall be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol required by Condition 24, at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air Compliance Manager of DEQ’s NRO shall be notified in writing, within seven (7) days, and visible emissions testing shall be rescheduled within thirty-days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. 
+
+b. Two copies of the test result (one hard copy and one electronic copy) shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) 
+
+26. Initial Performance Test – Turbines – Initial performance tests shall be conducted for NO x from the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) in accordance with the requirements of 40 CFR 60.4400 to determine compliance with the emission limit contained in Condition 20. 
+
+a. The tests shall be performed, reported, and demonstrate compliance within 60 days after achieving the maximum production rate at which the facility will be operated but in no event later than 180 days after start-up of the permitted facility. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5-50-410. 
+
+b. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit a test protocol at least 30 days prior to testing. 
+
+c. Two copies of the test result (one hard copy and one electronic copy) shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30, 9VAC5-80-1200, and 9VAC5-50-410) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 18 
+
+27. Initial Performance Test – Turbines – Initial performance test for SO 2 shall be conducted on the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) in accordance with the requirements in accordance with the requirements of 40 CFR 60.4415 to determine compliance with the emission limit contained in Condition 13.b. 
+
+The tests shall be performed, reported, and demonstrate compliance within 60 days after achieving the maximum production rate at which each turbine will be operated, but in no event later than 180 days after start-up of each permitted turbine. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5-50-410. 
+
+(9VAC5-50-30, 9VAC5-80-1200, and 9VAC5-50-410) 
+
+28. Stack Tests – Turbines – Initial performance tests shall be conducted on two (2) of the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) for nitrogen oxides (as NO 2), carbon monoxide (CO), and volatile organic compounds (VOC) using appropriate EPA Reference Methods as approved by the Regional Air Compliance Manager of DEQ’s NRO to determine compliance with the emission limits contained in Condition 18. A single NO X performance test can be completed to satisfy the requirements of this condition and Condition 26, as long as all parameters and requirements are met for each condition. 
+
+a. Emissions testing for each selected turbine shall consist of three one-hour test runs under load. The average of the three runs shall be reported as the short-term emission rate for that combustion turbine; 
+
+b. Testing shall be performed on the exhaust stack of the turbines to demonstrate compliance with the controlled and uncontrolled NO x, CO, and VOC emission limits specified in Condition 18. Testing shall be conducted with the turbine at ≥ 90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded turbine operational information shall include, but not be limited to: 
+
+i. Turbine load; 
+
+ii. Sulfur content of the natural gas; 
+
+iii. NO X concentration before and after the SCR multi-pollutant catalyst; 
+
+iv. SCR multi-pollutant catalyst bed inlet temperature; and 
+
+v. Urea solution injection rate. Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 19 
+
+d. Perform testing to demonstrate compliance within 60 days after achieving the maximum production rate at which each new unit will be operated but in no event later than 180 days after start-up for new units. If this deadline falls within the ozone season (May 1 through September 30) the permittee shall perform testing to demonstrate compliance within thirty (30) days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager, at least thirty (30) days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than thirty days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within seven days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two copies of the test results (hard copy or electronic copy), shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) 
+
+29. Visible Emissions Evaluation – Turbines – Concurrent with the initial performance tests required in Conditions 28, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the selected turbines selected for initial performance testing. The details of the tests shall be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol required by Condition 28, at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air Compliance Manager of DEQ’s NRO shall be notified in writing, within seven (7) days, and visible emissions testing shall be rescheduled within thirty-days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. 
+
+b. Two copies of the test result (one hard copy and one electronic copy) shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 20 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+30. Performance Test – Turbines – NO x performance tests shall be conducted on an annual basis (no more than 14 calendar months following the previous performance test) on the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) in accordance with the requirements of 40 CFR 60.4400 to determine compliance with the emission limit contained in Condition 20. 
+
+If the NO x emission result from the performance test is less than or equal to 75 percent of the NO x emission limit for the turbine, you may reduce the frequency of subsequent performance tests to once every 2 years (no more than 26 calendar months following the previous performance test). If the results of any subsequent performance test exceed 75 percent of the NOx emission limit for the turbine, you must resume annual performance tests. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5- 50-410. 
+
+a. If the NO x emission result from the performance test is less than or equal to 75 percent of the NO x emission limit for the turbine, you may reduce the frequency of subsequent performance tests to once every 2 years (no more than 26 calendar months following the previous performance test). If the results of any subsequent performance test exceed 75 percent of the NOx emission limit for the turbine, you must resume annual performance tests. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5- 50-410. 
+
+b. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee shall submit a test protocol at least 30 days prior to testing. 
+
+c. Two copies of the test result (one hard copy and one electronic copy) shall be submitted to the Regional Air Compliance Manager of DEQ’s NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30, 9VAC5-80-1200, and 9VAC5-50-410) 
+
+31. Performance Test – Turbines – Sulfur Dioxide (SO 2) performance tests shall be conducted on the eight (8) simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) in accordance with the requirements of 40 CFR 60.4415 to determine compliance with the emission limit contained in Condition 13.b. 
+
+(9VAC5-50-30, 9VAC5-80-1200, and 9VAC5-50-410) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 21 
+
+32. Facility Construction – The emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) shall be constructed so as to allow for emissions testing upon reasonable notice, using appropriate methods. This includes constructing the facility/equipment such that volumetric flow rates and pollutant emission rates can be accurately determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) 
+
+33. Emission Testing/Visible Emissions Evaluation – Upon request by the DEQ, the permittee shall conduct stack tests and/or visible emission evaluations of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), the black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of DEQ’s NRO. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) 
+
+RECORDS AND REPORTING 
+
+34. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of DEQ’s NRO. These records shall include, but are not limited to: 
+
+a. A daily log of the monitoring device observations as required by Conditions 3 and 4. 
+
+b. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), calculated monthly as the sum of each consecutive 12-month period. 
+
+c. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), for purposes of scheduled maintenance checks and readiness testing, calculated monthly as the sum of each consecutive 12-month period. 
+
+d. Daily and annual consumption of diesel fuel of each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) calculated daily as the sum of each consecutive 365-day period. Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 22 
+
+e. Monthly and annual hours of operation of each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) when emissions are uncontrolled, for all purposes, calculated monthly as the sum of each consecutive 12-month period. 
+
+f. Monthly and annual hours of operation of each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) when emissions are controlled by SCR with multi-pollutant catalyst, for all purposes, calculated monthly as the sum of each consecutive 12-month period. 
+
+g. Monthly and annual hours of operation the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08), combined, when emissions are uncontrolled, for all purposes, calculated monthly as the sum of each consecutive 12-month period. 
+
+h. Monthly and annual hours of operation of the simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08), combined, when emissions are controlled by SCR with multi-pollutant catalyst for all purposes, calculated monthly as the sum of each consecutive 12-month period. 
+
+i. Daily and annual diesel fuel consumption of all emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49) and black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2) combined, calculated daily as the sum of each consecutive 365-day period. 
+
+j. Daily and annual emissions calculations for NO X (as NO 2), CO, VOC, PM, PM 10 ,PM 2.5 , and SO 2 from the combined operation of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08), calculated daily as the sum of each consecutive 365-day period, as required by Condition 22. 
+
+k. Records of reasons for operation of each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) to demonstrate compliance with Condition 6. 
+
+l. Records for emergency diesel engine gen-set operations, as necessary, to demonstrate compliance with the operating limitations of Condition 8, which includes but is not limited to: times, dates, and reasons for operation of each emergency diesel engine gen-set, (Ref. Nos. EG-01 through EG-49) that was operating between May 1 and September 30. 
+
+m. To verify compliance with Condition 9, maintain records of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-sets operated during the integration operational period; Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 23 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that the emergency diesel engine gen-sets operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by AirNow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours and duration. 
+
+n. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08). 
+
+o. All fuel supplier certifications. 
+
+p. Documentation from the manufacturer that each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) is certified to meet the EPA Tier 2 emissions standards. 
+
+q. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49) and each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2). 
+
+r. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the manufacturer for each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08). 
+
+s. Records of the reasons for operation for each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+t. Records of the reasons for operation for each black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) including, but not limited to, the date, the reason of operation (as specified in Condition 6) and the hours of operation. 
+
+u. Operation and control device monitoring records for each simple cycle combustion natural gas fired turbine (Ref. Nos. TG-01 through TG-08) equipped with SCR and catalytic oxidation within the multi-pollutant catalyst as required in Condition 4. This Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 24 
+
+includes records of the multi-pollutant catalyst bed inlet temperature and NO X
+
+emission concentration as measured by the SCR continuous monitoring device. 
+
+v. Results of all performance tests, stack tests and visible emission evaluations. 
+
+w. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+x. Records of unscheduled maintenance, testing, and operational training. 
+
+Compliance for the consecutive 12-month period in the subsections above (as applicable) shall be demonstrated monthly by adding the total for the most recently completed month to the individual monthly totals for the preceding 11 months. 
+
+Compliance for the consecutive 365-day period in the subsections above (as applicable) shall be demonstrated daily by adding the total for the most recently completed day to the individual daily totals for the preceding 364 days. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) 
+
+NOTIFICATIONS 
+
+35. Initial Notifications – The permittee shall furnish written notification of the items below to the Regional Air Compliance Manager of DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit one notification for each building or construction phase containing information on each engine gen-set as described below: 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08), commenced in the building, or phase, within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee, 
+
+ii. Unit reference number of the initial unit installed, 
+
+iii. The address of the affected source, and Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 25 
+
+iv. The date construction commenced. 
+
+b. The date that the integration operational period started for each emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-set (Ref. Nos. EP-BS1 and EP-BS2) and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08), within 15 days after the last engine gen-set at each building or construction phase completes its integration operational period. If a period of construction is paused or halted for ≥45 days this notification shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used, 
+
+ii. Unit reference number, 
+
+iii. Installation date, and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification the integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. In no case shall this period exceed 30 days. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) 
+
+GENERAL CONDITIONS 
+
+36. Permit Invalidation – This permit to construct the emergency diesel engine gen-sets (Ref. Nos. EG-01 through EG-49), black start diesel engine gen-sets (Ref. Nos. EP-BS1 and EP-BS2), and simple cycle combustion natural gas fired turbines (Ref. Nos. TG-01 through TG-08), shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the ‘Original Permit Date’ specified in the equipment list of this permit, or if 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 26 
+
+37. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+38. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+39. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 27 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+40. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+41. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Regional Air Compliance Manager of DEQ’s NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+42. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) Vantage Data Centers Registration Number: 74242 September 15, 2023 Page 28 
+
+43. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the Regional Air Compliance Manager of DEQ’s NRO of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+44. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test Dates. 
+
+4. Tester; name, address and report date 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity 
+
+4. *For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test Methods 
+
+c. Pollutants tested 
+
+d. Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7. Any other important information 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1. Detailed test results for each run 
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1. *Raw production data 
+
+2. *Raw field data 
+
+3. *Laboratory reports 
+
+4. *Chain of custody records for lab samples 
+
+5. *Calibration procedures and results 
+
+6. Project participants and titles 
+
+7. Observers’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures 
+
+_____ 
+
+* Not applicable to visible emission evaluations

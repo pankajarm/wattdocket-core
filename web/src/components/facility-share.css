@@ -1,0 +1,7 @@
+.facility-share__actions { display:flex; flex-wrap:wrap; gap:8px; }
+.facility-share__status { display:block; color:#315e59; font-size:12px; line-height:1.4; }
+.facility-share__status:not(:empty) { margin-top:7px; }
+.facility-share__fallback { display:block; color:#536d7c; font-size:12px; margin-top:8px; }
+.facility-share__fallback input { display:block; width:100%; max-width:360px; margin-top:4px; padding:8px; border:1px solid #b8ccd6; border-radius:5px; background:#fff; color:#203c4c; font:12px var(--sans); }
+.page--public .fachead__actions { display:flex; flex-direction:column; align-items:flex-end; gap:8px; }
+@media(max-width:700px) { .page--public .fachead__actions { align-items:flex-start; } }

@@ -1,0 +1,26 @@
+Title: Permit
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000
+
+Published Time: Wed, 25 Sep 2024 09:25:40 GMT
+
+Number of Pages: 2
+
+Markdown Content:
+NRO-285-11 
+
+> Douglas W. Domenech Secretary of Natural Resources
+
+# COMMONWEALTH of VIRGINIA 
+
+DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703)583-3800 Fax (703) 583-3821 www.deq.virginia.gov 
+
+> David K. Paylor Director
+
+October 13, 2011 Mr. Michael Stark Chief Facilities Engineer VISA, Inc. 45005 Russell Branch Parkway, Ashburn, Virginia 20147 Dear Mr. Stark: Registration No.: 73643 This letter acknowledges receipt of the supplemental information that you submitted on August 22, 2011 concerning your permit application dated June 30, 2011 to amend your permit to construct and operate a data center facility located at 45005 Russell Branch Parkway in Ashburn, Virginia. The Department of Environmental Quality (DEQ) Northern Regional Office staff has reviewed your application in light of the new information. Based on that review, it does not appear that the facility calibrated the Flo-Scan meters in accordance with approved procedures (and/or manufacturer's written requirements or recommendations) as stated in the Warning Letter dated September 19, 2011, issued by DEQ to VISA, Inc. In light of this information, DEQ's Air Permitting division cannot proceed with the permit amendment to update the pound per gallon emission factors used to calculate annual emissions, as stated in your June 30, 2011 letter request. Should VISA, Inc wish to move forward with updating the emission factors contained in the current permit, the facility will need to have the fuel flow monitoring device recalibrated in accordance with manufacturer's approved procedures. The re-calibration shall be completed and certified by the manufacturer of the fuel flow monitoring device or an approved third party. Once recalibration has been completed, VISA may then restack-test the engines in accordance with Conditions 12 and 13 of the facility's August 28, 2009 (as amended April 29, 2010) NSR permit to obtain an acceptable pound per gallon emission factor for use in calculating annual emissions. Once completed, you may resubmit your amendment request for consideration. Mr. Michael Stark October 13, 2011 Page 2 The Department of Environmental Quality (DEQ) does however, approve your request to update the engine-generator set model numbers contained in Condition 1 of the permit based on the information provided in your letter request. The request constitutes an administrative amendment and the permit will be amended to incorporate the change the next time it is opened.  
+
+> x
+
+If you have any questions or require assistance, please call the regional office at 703-583-3853. Sincerely, Terry H. Darton Regional Air Permit Manager. THD/EHA/11-285-ltr Cc: Emil Grecescu, VISA (electronic communication) John Fouto, AMEC (electronic communication) File

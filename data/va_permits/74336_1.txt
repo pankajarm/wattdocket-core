@@ -1,0 +1,940 @@
+Title: 13832 Redskin Acquisition, LP - Permit to Construct and Operate
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/36294/639150607463270000
+
+Published Time: Fri, 22 May 2026 14:32:26 GMT
+
+Number of Pages: 25
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+May 22, 2026 
+
+Mr. Rory Pillsbury 
+
+Vice President 
+
+13832 Redskin Acquisition, LP 
+
+14555 Avion Parkway, Suite 110 
+
+Chantilly, VA 20151 
+
+Location: Fairfax County 
+
+Registration No.: 74336 
+
+Dear Mr. Pillsbury: 
+
+Attached is a permit approval to construct and operate diesel engine generator sets (gen-sets) at the Word of Grace data center in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. 
+
+In the course of evaluating the application and arriving at a final decision to approve the stationary source, the Department of Environmental Quality (DEQ) deemed the application complete on March 19, 2026. 
+
+This permit document contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve 13832 Redskin Acquisition, LP, of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed diesel fired emergency engine gen-sets may be subject to 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the unit may be required to comply with certain federal emission standards and operating limitations. DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you may be also responsible for any monitoring, testing, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications and reports shall only be sent to EPA, Region III. Mr. Rory Pillsbury Registration Number: 74336 May 22, 2026 Page 2 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and/or 63. 
+
+The Board’s Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the DEQ within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Olga Mokhova at (703) 853-2222 or  Olga.N.Mokhova@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+justin.wilkinson@deq.virginia.gov 
+
+Northern Regional Office 
+
+13901 Crown Court, Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/OM/74336 mNSR (2026-5-22) 
+
+Attachment: Permit 
+
+Source Testing Report Format Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+13832 Redskin Acquisition, LP 
+
+14555 Avion Parkway, Suite 110 
+
+Chantilly, VA 20151 
+
+Registration No.: 74336 
+
+is authorized to construct and operate 
+
+diesel engine generator sets (gen-sets) at the Word of Grace data center 
+
+located at 
+
+IAD05 Data Center (Building E) — 2860 Towerview Road, 
+
+IAD06 Data Center (Building F) — 2850 Towerview Road, Herndon, Virginia 20171 
+
+(Fairfax County) 
+
+in accordance with the Conditions of this permit document. 
+
+Approved on May 22, 2026. 
+
+_____________________________________ 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+Permit consists of 22 pages with an Attachment A “Source Testing Report Format”. 
+
+Permit Conditions 1 to 35. 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 2 
+
+INTRODUCTION 
+
+This permit document is based on the following permit approval and the respective permit application: 
+
+• mNSR permit dated May 22, 2026, based on the permit application received on November 14, 2025, including supplemental information dated February 13, 2026, March 19, 2026, and May 20, 2026. 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses ( ) after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the DEQ) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 3 
+
+Equipment List - Equipment at this facility covered by this permit consists of: 
+
+Equipment to be Constructed: 
+
+Reference No. 
+
+Equipment Description 
+
+Rated Capacity 
+
+(each) 
+
+Add-on Controls Technology 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+EG-001 through EG-060 
+
+(60) Caterpillar Model 3516E emergency diesel-fired engine gen-sets 
+
+3,100 ekW 
+
+4,381 bhp 
+
+Selective Catalytic Reduction (SCR)* and catalyzed Diesel Particulate Filter (cDPF)* 
+
+None  May 22, 2026 
+
+PBB-001 and 
+
+PBB-002 
+
+(2) Caterpillar 
+
+Model 3512C emergency diesel-fired engine gen-sets 
+
+1,500 ekW 
+
+2,206 bhp  SCR* and cDPF*  None  May 22, 2026 
+
+* Safety Power ecoCUBE Series 5. 
+
+Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls (SCR) – Nitrogen oxide (NO x) emissions from the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall be controlled by closed loop Selective Catalytic Reduction (SCR). Each SCR system shall be equipped with a temperature probe to continuously monitor the catalyst bed exhaust temperature while the engine-generator set is operational. 
+
+Engine exhaust gas shall be treated with urea when the catalyst bed exhaust temperature of 540°F is achieved and the engine gen-set is operating above ten percent (10%) generator load, except for periods of start-up, shutdown, or malfunction. 
+
+The permittee shall operate the engine gen-set and SCR such that the catalyst bed exhaust temperature does not exceed 1,003°F. 
+
+The SCR shall be provided with adequate access for inspection and shall be in operation when the engine-generator sets are operating as stated above. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [May 22, 2026] 
+
+2. Emission Controls (cDPF) – Particulate (PM, PM 10 , and PM 2.5 ), carbon monoxide (CO), and volatile organic compounds (VOC) emissions from the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060) shall be controlled by a catalyzed Diesel Particulate Filter (cDPF). The cDPF shall be equipped with a backpressure monitor that 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 4 
+
+notifies the permittee when the high backpressure limit of the engine is approached. The cDPF shall be considered reducing CO and VOC when the unit ’s SCR is treating engine exhaust gas with urea. The diesel particulate filter portion of the cDPF (DPF) shall be considered reducing PM, PM 10 , and PM 2.5 when the unit is operating. 
+
+The cDPF shall be provided with adequate access for inspection and shall be in operation when the emergency diesel engine gen-set is operating. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [May 22, 2026] 
+
+3. Emission Controls (cDPF) – Particulate (PM, PM 10 , and PM 2.5 ) emissions from the emergency diesel engine gen-sets (Ref. Nos. PBB-001 and PBB-002) shall be controlled by a catalyzed Diesel Particulate Filter (cDPF). The cDPF shall be equipped with a backpressure monitor that notifies the permittee when the high backpressure limit of the engine is approached. The diesel particulate filter portion of the cDPF (DPF) shall be considered reducing PM, PM 10 , and PM 2.5 when the unit is operating. 
+
+The cDPF shall be provided with adequate access for inspection and shall be in operation when the non-emergency diesel engine gen-set is operating. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [May 22, 2026] 
+
+4. Emission Controls – Emissions from the diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall be controlled by the following: 
+
+a. Nitrogen oxide (NO x) emissions from each diesel engine gen-set shall be controlled by engine design. 
+
+b. Carbon monoxide (CO), particulate (PM, PM 10 , and PM 2.5 ), volatile organic compounds (VOC), nitrogen oxide (NO x), and visible emissions from the diesel engine gen-sets shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase the air emissions from the diesel engine gen-sets. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [May 22, 2026] 
+
+5. Monitoring Devices (SCR and cDPF) –
+
+a. Each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall be equipped with devices to continuously measure and record the following: 
+
+i. The SCR catalyst bed exhaust temperature. The information shall be recorded at a minimum frequency of once every fifteen minutes, and correlated to run date, engine load/kilowatt output, engine operating hours, and fuel consumption. 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 5 
+
+ii. The NO x emission concentration measured after the SCR catalyst, expressed in ppm. The information shall be recorded at a minimum frequency of once every fifteen minutes, and correlated to run date, engine load/kilowatt output, engine operating hours, and fuel consumption. 
+
+iii. The differential pressure drop across the cDPF. The filter shall be observed by the permittee with a frequency as recommended by the manufacturer. 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the SCR and cDPF are operating. 
+
+(9 VAC 5-80-1180 D) [May 22, 2026] 
+
+6. Monitoring –
+
+a. Fuel Flow: Each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, 
+
+PBB-001 and PBB-002) shall be equipped with a device to continuously measure and record individual fuel consumption (in gallons) for each engine gen-set. 
+
+b. Engine Operating Hours: Each emergency diesel engine gen-set (Ref. Nos. EG-001 
+
+through EG-060, PBB-001 and PBB-002) shall be equipped with a non-resettable hour meter which measures the duration of time that each engine gen-set is operated. 
+
+c. Engine Load/Kilowatt Output: Each emergency diesel engine gen-set (Ref. Nos. EG-
+
+001 through EG-060, PBB-001 and PBB-002) shall be equipped with a device to monitor and record the engine gen-set kilowatt output at a minimum frequency of once every fifteen minutes. 
+
+Each monitoring device (as required in a. and b. above) shall be observed by the permittee with a frequency of not less than once each day the emergency diesel engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s Northern Regional Office (NRO). 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the emergency diesel engine gen-sets are operating. 
+
+(9VAC5-80-1180D) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 6 
+
+OPERATING LIMITATIONS 
+
+7. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+d. For unscheduled maintenance, testing, and operational training. 
+
+e. For the integration operational period, which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully 
+
+integrated with the source’s electrical system. 
+
+(9VAC5-80-1180) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 7 
+
+8. Operation of the Engine Gen-sets – The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) and control device according to the manufacturer's written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+9. Operating Limitations (Ozone Season) – No emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing, or operational training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during May 1 through September 30. The permittee may petition the Regional Air 
+
+Compliance Manager of DEQ’s NRO, for exceptions to this requirement, with approvals 
+
+made on a case-by-case basis. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+10. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website ( https://www.airnow.gov/ ) for Northern Virginia for 
+
+that day is less than or equal to 100. In the event that AirNow-EnviroFlash (https://www.enviroflash.info/ ) issues an Air Alert for Northern Virginia/DC area for a day 
+
+which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+11. Operating Hours –
+
+a. Each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall not operate more than 500 hours per year for all purposes (as provided in Condition 7) combined. 
+
+b. Each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall not operate more than 30 hours per year for Scheduled MCRT (as provided in Condition  7.c ). 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 8 
+
+12. Fuel Specification – The approved fuel for the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) is diesel fuel oil. For the purposes of this permit document, diesel fuel oil is defined as ultra-low sulfur diesel fuel oil (ULSD), renewable diesel, or a blend of these fuels, and shall meet the specifications below: 
+
+DIESEL FUEL OIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for ultra-low sulfur diesel grade No. 1-D or 2-D S15, or 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of 40 or maximum aromatic content of 35 percent (35%) by volume. 
+
+Exceedance of these specifications may be considered credible evidence of an exceedance of emission limits. A change in the fuel type or the fuel sulfur content may require a permit to modify and operate. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+13. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; 
+
+d. A statement that the fuel complies with the requirements of Condition 12, Fuel Specifications. 
+
+Alternatively, the permittee must obtain approval from DEQ’s NRO Regional Air 
+
+Compliance Manager, if other documentation will be used to certify the diesel fuel type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition 12. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+14. Diesel Fuel Throughput Limit – The emergency diesel engine gen-sets (Ref. Nos. PBB-001 and PBB-002) combined shall consume no more than 103,200 gallons of diesel fuel per year, calculated daily as the sum of each consecutive 365-day period (all uses). 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 9 
+
+Compliance for the consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+15. Diesel Fuel Throughput Limits – The emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060) for all operations shall only consume a combined quantity of diesel fuel (in gallons) each consecutive 365-day period, as demonstrated by using the following equation: 
+
+Group 1 Fuel Consumption 5,244,505 gallons +Group 2 Fuel Consumption 470,739 gallons ≤ 1 
+
+Engine Group  Ref. Nos.  Engine Model 
+
+(SCR & cDPF Status) 
+
+Group 1  EG-001 through EG-060  Caterpillar 3516E 
+
+(SCR & cDPF operating) 
+
+Group 2  EG-001 through EG-060  Caterpillar 3516E 
+
+(SCR not operating & DPF* operating) 
+
+* The diesel particulate filter portion of the cDPF controls (DPF). 
+
+Compliance for each consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 10 
+
+EMISSION LIMITS 
+
+16. Emission Limits (Hourly) – Emissions from the operation of each emergency diesel 
+
+engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar 3516E 
+
+(Ref. Nos. EG-001 
+
+through EG-060) 
+
+Caterpillar 3512C 
+
+(Ref. Nos. PBB-001 
+
+and PBB-002) 
+
+Controlled 
+
+by SCR+cDPF 
+
+Uncontrolled 
+
+by SCR* 
+
+Controlled 
+
+by SCR* 
+
+Uncontrolled 
+
+by SCR* 
+
+Nitrogen Oxides 
+
+(NO x as NO 2) 5.43 lbs/hr  54.28 lbs/hr  2.59 lbs/hr  25.87 lbs/hr 
+
+Sulfur Dioxide (SO 2) 0.05 lbs/hr  0.03 lbs/hr 
+
+Carbon Monoxide (CO)  1.97 lbs/hr  6.57 lbs/hr  2.35 lbs/hr 
+
+Volatile Organic Compounds (VOC)  0.29 lbs/hr  0.58 lbs/hr  0.81 lbs/hr 
+
+Particulate Matter (PM)  0.40 lbs/hr  0.20 lbs/hr 
+
+Particulate Matter (PM 10 ) 0.49 lbs/hr  0.21 lbs/hr 
+
+Particulate Matter (PM 2.5 ) 0.49 lbs/hr  0.21 lbs/hr 
+
+* Also controlled by the diesel particulate filter portion of the cDPF (DPF). 
+
+The controlled NO x emission limit applies to each engine during all periods where Condition 1 requires the SCR control system for that engine to be in operation. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 11 
+
+17. Emission Limits (Annual) – Emissions from the operation of the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall not exceed the limits specified below for all operations: 
+
+Pollutant 
+
+Combined 
+
+Caterpillar 3516E 
+
+(Ref. Nos. 
+
+EG-001 through EG-060) 
+
+Combined 
+
+Caterpillar 3512C 
+
+(Ref. Nos. 
+
+PBB-001 and PBB-002) 
+
+All Units 
+
+(Ref. Nos. 
+
+EG-001 through EG-060, 
+
+PBB-001 and 
+
+PBB-002) 
+
+Nitrogen Oxides 
+
+(NO x as NO 2) 81.22 tpy  13.45 tpy  94.67 tpy 
+
+Sulfur Dioxide (SO 2) 0.67 tpy  0.01 tpy  0.68 tpy 
+
+Carbon Monoxide (CO)  50.07 tpy  6.01 tpy  56.08 tpy 
+
+Volatile Organic Compounds (VOC)  5.85 tpy  1.87 tpy  7.72 tpy 
+
+Particulate Matter (PM)  7.80 tpy  0.32 tpy  8.12 tpy 
+
+Particulate Matter (PM 10 ) 9.20 tpy  0.35 tpy  9.55 tpy 
+
+Particulate Matter (PM 2.5 ) 9.20 tpy  0.35 tpy  9.55 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions 1, 2, 3, 4, 12, 14, 15, 16 and 18. 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+18. Visible Emission Limit – Visible emissions from each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) exhaust shall not exceed 5% opacity except during one (1) six-minute period in any one-hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This requirement applies at all times except during startup, shutdown and malfunction. 
+
+During startup and shutdown, visible emissions from each diesel engine gen-set shall not exceed 10% opacity except during one (1) six-minute period in any one-hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 12 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+19. Stack Test – Initial performance tests shall be conducted on twelve (12) of the Caterpillar 3516E emergency diesel engine gen-sets  (Ref. Nos. EG-001 through EG-060) and on one (1)  Caterpillar 3512C  (Ref. Nos. PBB-001 and PBB-002) for  NO x (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager 
+
+of the DEQ’s NRO to determine compliance with the emission limits contained in 
+
+Condition 16. 
+
+a. Emissions testing of each pollutant for each selected emergency diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that emergency diesel engine gen-set; 
+
+b. Testing shall be performed on the emergency diesel engine gen-sets to demonstrate compliance with the controlled NO x and controlled CO emission limits for the  engine 
+
+gen-sets (Ref. Nos. EG-001 through EG-060) and controlled NO x and CO emissions limits for the engine gen-sets (Ref. Nos. PBB-001 and PBB-002) specified in Condition 16. Testing shall be conducted with the emergency diesel engine gen-set 
+
+operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is 
+
+approved by DEQ; 
+
+c. Recorded emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+iii. NO x concentration after the catalyst; 
+
+iv. SCR Catalyst bed exhaust temperature; and 
+
+v. Urea solution injection rate. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. The permittee may petition the 
+
+Regional Air Compliance Manager of DEQ’s NRO, for exceptions to this requirement, 
+
+with approvals made on a case-by-case basis. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 13 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely 
+
+manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee 
+
+shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [May 22, 2026] 
+
+20. Stack Test (Renewable Diesel) – Initial performance tests shall be conducted on two (2) emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) while utilizing renewable diesel or a blend of renewable diesel and ULSD for NO x (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air 
+
+Compliance Manager of the DEQ’s NRO to determine compliance with the emission limits contained in Condition 16. 
+
+a. Emissions testing of each pollutant for each selected emergency diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that emergency diesel engine gen-set. 
+
+b. Testing shall be performed on the exhaust stack of the emergency diesel engine gen-sets to demonstrate compliance with controlled NO x and controlled CO emission limits for the  engine  gen-sets (Ref. Nos. EG-001 through EG-060) and controlled NO x
+
+and CO emissions limits for the engine gen-sets (Ref. Nos. PBB-001 and PBB-002) specified in Condition 16. Testing shall be conducted with the emergency diesel engine gen-set operating at ≥ 90 percent of its rated capacity, unless multiple load 
+
+band testing is approved by DEQ; 
+
+c. Recorded emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil; 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 14 
+
+iii. NO x concentration after the catalyst; 
+
+iv. SCR Catalyst bed exhaust temperature; and 
+
+v. Urea solution injection rate. 
+
+d. For any engine gen-set that has not commenced the integration operational period 
+
+upon receipt of the first shipment of renewable diesel or a blend of renewable diesel 
+
+and ULSD utilized by the units: Perform testing to demonstrate compliance within 120 
+
+days after the integration operational period has commenced. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. For any engine gen-set that has commenced the integration operational period upon 
+
+receipt of the first shipment of renewable diesel or a blend of renewable diesel and 
+
+ULSD utilized by the units: Perform testing to demonstrate compliance within 120 
+
+days of the renewable diesel fuel or a blend of renewable diesel and ULSD first 
+
+utilized by the affected units. The permittee may petition the DEQ’s NRO Air 
+
+Compliance Manager for an extension to this deadline, with approvals made on a case-by-case basis. If the applicable deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+f. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+g. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+h. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [May 22, 2026] 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 15 
+
+21. Visible Emissions Evaluation – Concurrent with the initial performance tests required in Conditions 19 and 20, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the emergency diesel engine gen-sets selected for initial performance testing. The details of the tests are to be arra nged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee 
+
+shall submit a VEE protocol in conjunction with the initial stack test protocol required by Conditions 19 and 20 at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air 
+
+Compliance Manager of DEQ’s NRO shall be notified in writing, within seven (7) 
+
+days, and visible emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. 
+
+b. Two (2) copies of the test result (one (1) hard copy and one (1) electronic copy) shall 
+
+be submitted to the Regional Air Compliance Manager of the DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [May 22, 2026] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+22. Facility Construction – The emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. This includes constructing the facility/equipment such that volumetric flow rates and pollutant emission rates can be accurately determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [May 22, 2026] 
+
+23. Emission Testing/Visible Emissions Evaluation (VEE) – Upon request by the DEQ, the permittee shall conduct stack tests and/or VEEs of the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged 
+
+with the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [May 22, 2026] 
+
+RECORDS 
+
+24. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s NRO . These records shall include, but are not limited to: 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 16 
+
+a. Operation and control device monitoring records for each emergency engine gen-set equipped with a SCR (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) as required in Conditions Error! Reference source not found. )(i) and 5(a)(ii). This i ncludes records of the SCR catalyst bed exhaust temperature and NO x emission concentration as measured by the SCR continuous monitoring device. 
+
+b. Operation and control device monitoring records for each emergency engine gen-set equipped with a cDPF (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002), as required in Condition Error! Reference source not found. )(iii). This includes r ecords of the differential pressure drop across the filter. 
+
+c. A log of monitoring device observations as required by Condition 6. 
+
+d. Records of the reasons for operation for each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation, to verify compliance with Condition 7. 
+
+e. Records, as necessary, to demonstrate compliance with the operating limitations of Condition 9; which includes but is not limited to: times, dates, and reasons for operation of each emergency diesel generator set that was operating between May 1 and September 30. 
+
+f. To verify compliance with Condition 10, maintain records of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by AirNow-EnviroFlash; and 
+
+iv. Details of IOP activities, to include, but not limited to, clock hours, and duration. 
+
+g. Monthly and annual hours of operation (all purposes) of each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002), calculated monthly as the sum of each consecutive 12-month period, as required by Condition 11a. 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 17 
+
+h. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) for Scheduled MCRT, calculated monthly as the sum of each consecutive 12-month period, as required by Condition 11b. 
+
+i. All fuel supplier certifications to verify compliance with Condition 12. 
+
+j. Daily and annual fuel consumption for each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002), for all purposes, calculated daily as the sum of each consecutive 365-day period, as required by Condition 14. 
+
+k. Daily and annual fuel consumption for the combined operation of the emergency 
+
+diesel engine gen-sets (Ref. Nos. PBB-001 and PBB-002), for all purposes, calculated daily as the sum of each consecutive 365-day period, to verify compliance with the fuel throughput limitations specified in Condition 14. 
+
+l. Daily and annual fuel consumption for each emergency diesel engine gen-set fuel group (Group 1 through Group 2)) for all purposes, calculated daily as the sum of each consecutive 365-day period for the purposes of the compliance demonstration with the diesel fuel throughput limit equation in Condition 15. 
+
+m. Daily and annual results of the computed fuel throughput equation used by the emergency diesel engine gen-set fuel groups (Group 1 through Group 2), for all purposes, calculated daily as the sum of each consecutive 365-day period for the purposes of the compliance demonstration with the diesel fuel throughput limit equation in Condition 15. 
+
+n. Daily and annual emissions calculations for NO x (as NO 2), SO 2, CO, VOC, PM, PM 10 ,and PM 2.5 from the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060) for all operations, combined, to verify compliance with the annual emissions limitations in Condition 17, with annual emissions calculated daily as the sum of each consecutive 365-day period. 
+
+o. Daily and annual emissions calculations for NO x (as NO 2), SO 2, CO, VOC, PM, PM 10 ,and PM 2.5 from the emergency diesel engine gen-sets (Ref. Nos. PBB-001 and PBB-002) for all operations, combined, to verify compliance with the annual emissions limitations in Condition 17, with annual emissions calculated daily as the sum of each consecutive 365-day period. 
+
+p. Daily and annual emissions calculations for NO x (as NO 2), SO 2, CO, VOC, PM, PM 10 ,and PM 2.5 from the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) for all operations, combined, to verify compliance with the annual emissions limitations in Condition 17, with annual emissions calculated daily as the sum of each consecutive 365-day period. 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 18 
+
+q. Results of all stack tests and visible emission evaluations (VEE). 
+
+r. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+s. Records of unscheduled maintenance and operator training. 
+
+t. Operator training in accordance with Condition 30. 
+
+u. Documentation from the manufacturer that each emergency diesel engine gen-set certified to meet the EPA Tier 2 emission standards. 
+
+v. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each emergency diesel engine gen-set. 
+
+w. The manufacturer's written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each emergency diesel engine gen-sets. 
+
+x. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets. 
+
+Compliance for each consecutive 12-month period in the subsections above (as applicable) shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+Compliance for each consecutive 365-day period in applicable subsections above shall be demonstrated daily by adding the total for the most recently completed day to the individual daily totals preceding 364 days. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five (5) years. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [May 22, 2026] 
+
+NOTIFICATIONS 
+
+25. Initial Notifications – The permittee shall furnish written notification of the items below to 
+
+the Regional Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 19 
+
+The permittee shall submit notification(s) for each building containing the information as described below: 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) commenced in each building, within thirty (30) days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and 
+
+iv. The date installation commenced. 
+
+b. The start and end dates of the integration operational period for each emergency diesel engine gen-set (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) within fifteen (15) days after the last engine gen-set at each building completes its integration 
+
+operational period. If a period of construction is paused or halted for ≥45 days, this 
+
+notification shall be provided to the DEQ within fifteen (15) days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as the period of time beginning with the first time the affected unit is started on-site and ending 
+
+when the affected unit is fully integrated with the source’s electrical system. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) [May 22, 2026] 
+
+26. Renewable Diesel Notification – Upon receipt of the first shipment of renewable diesel or a blend of renewable diesel and ULSD, the permittee shall furnish written notification of 
+
+the items below to the Air Compliance Manager of the DEQ’s NRO at address in Condition 25. 
+
+a. The actual date on which the shipment was received within fifteen (15) days after such date. The notification must include the following: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 20 
+
+iii. Engine gen-sets (with reference numbers) utilizing the fuel in the shipment; and 
+
+iv. Fuel certification (as provided in Condition 13). 
+
+(9VAC5-80-1180) [May 22, 2026] 
+
+GENERAL CONDITIONS 
+
+27. Permit Invalidation – This permit to construct the emergency diesel engine gen-sets (Ref. Nos. EG-001 through EG-060, PBB-001 and PBB-002) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the 
+
+‘Original Permit Date’ specified in the equipment list in the Introduction section of 
+
+this permit; or if 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) 
+
+28. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+29. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 21 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+30. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+31. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, 13832 Redskin Acquisition, LP Registration Number: 74336 May 22, 2026 Page 22 
+
+cause), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+32. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ’s Northern 
+
+Regional Office (NRO) of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance 
+
+Manager of the DEQ’s NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+33. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) 
+
+34. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the DEQ’s Northern Regional office of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+35. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) ATTACHMENT A “SOURCE TESTING REPORT FORMAT ”
+
+Report Cover 
+
+1.  Plant name and location 
+
+2.  Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3.  Test Dates. 
+
+4.  Tester; name, address and report date 
+
+Certification 
+
+1.  Signed by team leader/certified observer (include certification date) 
+
+2.  Signed by responsible company official 
+
+3.  *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1.  Reason for testing 
+
+2.  Test dates 
+
+3.  Identification of unit tested & the maximum rated capacity 
+
+4.  *For each emission unit, a table showing: 
+
+a.  Operating rate 
+
+b.  Test Methods 
+
+c.  Pollutants tested 
+
+d.  Test results for each run and the run average 
+
+e.  Pollutant standard or limit 
+
+5.  Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6.  A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7.  Any other important information 
+
+Source Operation 
+
+1.  Description of process and control devices 
+
+2.  Process and control equipment flow diagram 
+
+3.  Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1.  Detailed test results for each run 
+
+2.  *Sample calculations 
+
+3.  *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1.  *Raw production data 
+
+2.  *Raw field data 
+
+3.  *Laboratory reports 
+
+4.  *Chain of custody records for lab samples 
+
+5.  *Calibration procedures and results 
+
+6.  Project participants and titles 
+
+7.  Observers’ names (industry and agency) 
+
+8.  Related correspondence 
+
+9.  Standard procedures 
+
+* Not applicable to visible emission evaluations

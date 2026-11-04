@@ -1,0 +1,228 @@
+{
+ "schema_version": "1.0",
+ "generated_by": "wattdocket.cards@0.1.0",
+ "as_of": "2026-10-29T02:39:29Z",
+ "facility": {
+  "id": "echo_110071448594",
+  "site_id": "echo:110071448594",
+  "name": "MICROSOFT BLUE RIDGE (IAD11-12-13) DATA CENTER",
+  "operator": null,
+  "address": "24282 QUAIL RIDGE LANE",
+  "city": "ALDIE",
+  "state": "VA",
+  "zip": "20105",
+  "lat": 38.94549,
+  "lon": -77.55899,
+  "naics": "518210",
+  "status": "unknown",
+  "class_label": "Virginia DEQ air-permitted data center (permit 74221-4)",
+  "class_verified": true,
+  "class_evidence": "Virginia DEQ, 'Issued Air Permits for Data Centers' registry \u2014 DEQ registration number equals the plant id in EPA's source id, same county; permit document not text-extracted",
+  "site_permit_count": 1,
+  "sibling_ids": [],
+  "class_match_method": "exact_registration_number",
+  "class_match_confidence": "registry_statement",
+  "permit_registrations": [
+   "74221-4"
+  ],
+  "permit_issued": "07/21/2025",
+  "permit_county": "Loudoun Co.",
+  "permit_program": "Article 6 - mNSR",
+  "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25964/638892954826130000",
+  "permit_limits": [
+   {
+    "metric": "mcrt_hours_limit",
+    "value": 36.0,
+    "unit": "hours/year per generator",
+    "page": 8,
+    "quote": "Operating Hours \u2013 Each individual emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-59) shall not operate more than 36 hours per year for scheduled maintenance checks and readiness testing (Scheduled MCRT, as provided in Condition 6.c).",
+    "registration": "74221-4",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25964/638892954826130000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   },
+   {
+    "metric": "generator_hours_limit",
+    "value": 500.0,
+    "unit": "hours/year per generator",
+    "page": 8,
+    "quote": "Each individual emergency diesel engine gen-set (Ref. Nos. EG-01 through EG-59) shall not operate more than 500 hours per year for all purposes (as provided in Condition 6) combined.",
+    "registration": "74221-4",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25964/638892954826130000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   }
+  ],
+  "permit_equipment": {
+   "units": 59,
+   "mw_total": 176.1,
+   "rated_ekw": 176100.0,
+   "ratings_ekw": [
+    500.0,
+    1000.0,
+    3100.0
+   ],
+   "page": 4,
+   "quote": "riginal Permit Date EG-58 and EG-59 Two (2) Caterpillar C32 diesel fired emergency engine gen-sets 1,474 bhp / 1,000 kW (each) N/",
+   "registration": "74221-4"
+  }
+ },
+ "grid": {
+  "subregion": "SRVC",
+  "subregion_name": "SERC Virginia/Carolina",
+  "utility": null,
+  "balancing_authority": null,
+  "rate_lb_per_mwh": 596.326,
+  "intensity_state": "PROVISIONAL",
+  "factor_set_id": "us-avg-2023.1",
+  "factor_set_sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+  "binding_method": "point_in_polygon"
+ },
+ "verdict": {
+  "sentence": "A modelled reference-size electrical load at this address: 15,402 t CO2e a year, with the range and the reason shown.",
+  "source": "template",
+  "degraded": false
+ },
+ "claims": [
+  {
+   "id": "power-mw",
+   "metric": "power_mw",
+   "value": 10.0,
+   "unit": "MW",
+   "badge": "ESTIMATED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10.0,
+    "p50": 10.0,
+    "p90": 10.0
+   },
+   "drivers": [],
+   "citations": [],
+   "calc_id": "reference_size@0.1.0",
+   "sources": 0,
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "carbon-t",
+   "metric": "carbon_t",
+   "value": 15401.639,
+   "unit": "t CO2e/yr",
+   "badge": "MODELED",
+   "provisional": true,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10662.7,
+    "p50": 15401.6,
+    "p90": 18955.9
+   },
+   "drivers": [],
+   "citations": [
+    {
+     "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+     "page": 1,
+     "line": 224,
+     "quote": "\"co2e_rate_lb_per_mwh\": 596.326",
+     "publisher": "US EPA",
+     "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+     "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+     "verified": true,
+     "verifier_version": "substring-1"
+    }
+   ],
+   "calc_id": "carbon@UNKNOWN@egrid2023rev2:8665e8cf9c7e",
+   "sources": 1,
+   "renderable": true,
+   "render_block_reason": "",
+   "chain": [
+    "10 MW reference capacity x 8760 h x 0.65 utilisation",
+    "= 56,940 MWh/yr",
+    "x 596.3 lb CO2e/MWh (eGRID2023, SRVC)",
+    "/ 2204.6226 lb per metric tonne = 15,402 t CO2e/yr"
+   ],
+   "transforms": [
+    "lb -> metric tonnes: divide by 2204.6226 (never 2000)",
+    "PUE not applied: capacity basis is not stated",
+    "storage excluded from the grid-intensity denominator",
+    "timestamps stored UTC; hour labels kept as published"
+   ],
+   "sensitivity": [
+    {
+     "label": "utilization 0.45",
+     "delta": "-31%"
+    },
+    {
+     "label": "utilization 0.80",
+     "delta": "+23%"
+    },
+    {
+     "label": "if IT basis, PUE 1.25",
+     "delta": "+25%"
+    },
+    {
+     "label": "marginal instead of average",
+     "delta": "+38%"
+    }
+   ]
+  },
+  {
+   "id": "diesel-mw",
+   "metric": "diesel_mw",
+   "unit": "MW",
+   "value": 176.1,
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [
+    "59 generators in the Virginia DEQ equipment table"
+   ],
+   "citations": [
+    {
+     "doc_sha256": "",
+     "page": 4,
+     "line": null,
+     "quote": "riginal Permit Date EG-58 and EG-59 Two (2) Caterpillar C32 diesel fired emergency engine gen-sets 1,474 bhp / 1,000 kW (each) N/",
+     "publisher": "Virginia Department of Environmental Quality",
+     "dataset": "VA DEQ registration 74221-4",
+     "field": "equipment table",
+     "verified": true,
+     "verifier_version": "va-equipment-1"
+    }
+   ],
+   "calc_id": "calc:diesel:va:74221-4",
+   "chain": [
+    "59 generators summed from the permit's equipment table (p.4)",
+    "= 176.1 MW of installed backup capacity",
+    "nameplate capacity, not run hours: it is not an emission"
+   ],
+   "transforms": [
+    "sum of unit ekW ratings -> MW: divide by 1000"
+   ],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "water-gal",
+   "metric": "water_gal",
+   "unit": "gal/day",
+   "value": "NOT_PUBLISHED",
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [],
+   "citations": [],
+   "calc_id": null,
+   "chain": [],
+   "transforms": [],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": "",
+   "note": "no US state requires facility-level operational water reporting"
+  }
+ ],
+ "hourly": null
+}

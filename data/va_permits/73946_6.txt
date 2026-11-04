@@ -1,0 +1,1508 @@
+Title: 7394606_DC_Permit.pdf
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/26024/638634505784000000
+
+Published Time: Wed, 02 Oct 2024 06:22:58 GMT
+
+Number of Pages: 37
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+October 1, 2024 
+
+Mr. Vincent K. Moore Jr., GSP 
+
+Sr. EHS Compliance Operations Analyst 
+
+Equinix, LLC 
+
+21715 Filigree Court 
+
+Ashburn, VA 20147 
+
+Location: Loudoun County 
+
+Registration No.: 73946 
+
+Dear Mr. Moore: 
+
+Attached is a permit to construct and operate emergency and non-emergency diesel engine generator sets (gen-sets) at Equinix, LLC’s data center, in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. This permit document combines the terms and conditions from and supersedes your permit document dated October 28, 2020. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on September 24, 2024. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Equinix, LLC of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed and the existing emergency and non-emergency diesel engine gen-sets may be subject to the requirements of 40 CFR Part 60, New Source Performance Standards (NSPS) Subpart IIII – Standards of Performance for Stationary Compression Ignition Internal Combustion Engines and 40 CFR Part 63, National Emission Standards for Hazardous Air Pollutants (MACT) Subpart ZZZZ – National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you are also responsible for any Mr. Vincent Moore October 1, 2024 
+
+> Page 2
+
+monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at  www.ecfr.gov , Title 40, Part 60 and 63. 
+
+The Board’s Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Katie DeVoss at (571) 866-6090 or  katie.devoss@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+justin.wilkinson@deq.virginia.gov 
+
+Northern Regional Office 
+
+13901 Crown Court, Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/KD/73946 mNSR (2024-10-01) 
+
+Attachment: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes your permit document dated October 28, 2020. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Equinix, LLC 
+
+21551 Beaumeade Circle 
+
+Ashburn, VA 20147 
+
+Registration No.: 73946 
+
+is authorized to construct and operate 
+
+non-emergency and emergency diesel engine generator sets (gen-sets) 
+
+located at 
+
+DC-10 at 21551 Beaumeade Circle 
+
+DC-12 and DC-15 at 44790 and 44780 Performance Circle 
+
+DC-16 and DC-17 at 44740 and 44710 Performance Circle 
+
+DC-18 at 44690 Performance Circle 
+
+Ashburn, VA 20147 (Loudoun County) 
+
+in accordance with the Conditions of this permit. 
+
+Approved on: October 1, 2024. 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Permit consists of  33  pages. 
+
+Permit Conditions 1 to  42 .
+
+Attachment A: Source Testing Report Format (1 page) Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 2
+
+INTRODUCTION 
+
+This permit approval is based on and combines permit terms and conditions in accordance with 9VAC5-80-1255 from the following permit approvals and the respective permit applications: 
+
+Permit Program: 
+
+Approval/Amendment Date 
+
+Application Signature Date 
+
+Application Supplemental Information Date 
+
+Minor NSR: September 29, 2011  June 17, 2011  September 14, 2011 
+
+Minor NSR: January 18, 2017  March 29, 2016  May 12, 2016 
+
+June 8, 2016 
+
+September 12, 2016 
+
+October 5, 2016 
+
+Minor NSR: September 11, 2019  May 9, 2019  May 21, 2019 
+
+May 27, 2019 
+
+June 12, 2019 
+
+July 8, 2019 
+
+July 16, 2019 
+
+July 31, 2019 
+
+August 29, 2019 
+
+September 9, 2019 
+
+Minor NSR: October 28, 2020  July 31, 2020  August 31, 2020 
+
+October 19, 2020 
+
+Minor NSR: March 4, 2024  August 22, 2022  September 13, 2022 
+
+December 8, 2022 
+
+December 16, 2022 
+
+March 17, 2023 
+
+August 9, 2023 
+
+October 29, 2023 
+
+November 20, 2023 
+
+February 20, 2024 
+
+February 22, 2024 
+
+Minor NSR Amendment: 
+
+October 1, 2024 
+
+August 5, 2024  September 24, 2024 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1110 (definitions) and 9 VAC 5-10-20 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 3
+
+Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a condition is listed in brackets [ ] after each regulatory reference. When identical conditions on approval for one or more emission units are combined, the listed effective date does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and 
+
+federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 
+
+Equipment List – Equipment at this facility consists of: 
+
+Equipment part of this project: 
+
+Engine Group  Ref. No(s).  Equipment Description 
+
+Standby Rated Capacity 
+
+Add-On Control Technology 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+DC-15 
+
+DC-15-Gen A 
+
+DC-15-Gen B 
+
+DC-15-Gen C 
+
+DC-15-Gen D 
+
+DC-15-Gen E 
+
+DC-15-Gen F 
+
+DC-15-Gen G 
+
+DC-15-Gen H 
+
+DC-15-Gen J 
+
+DC-15-Gen K 
+
+DC-15-Gen L 
+
+DC-15-Gen M 
+
+DC-15-Gen R1 
+
+DC-15-Gen R2 
+
+(14) Cummins Model QSK95-G15 emergency diesel engine gen-sets 
+
+5,051 bhp 
+
+3,500 ekW (de-rated to 3,350 ekW) 
+
+(each) 
+
+None  N/A  March 4, 2024 Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 4
+
+DC-16S 
+
+DC-16-Gen A 
+
+DC-16-Gen B 
+
+DC-16-Gen C 
+
+DC-16-Gen D 
+
+DC-16-Gen E 
+
+(5) Kohler Model KD103V20 non-emergency diesel engine gen-sets (Standard Configuration) 
+
+5,753 bhp 
+
+4,000 ekW 
+
+(each) 
+
+Selective Catalytic Reduction (SCR) 
+
+N/A  March 4, 2024 
+
+DC-16 
+
+DC-16 Gen F 
+
+DC-16 Gen G 
+
+DC-16 Gen H 
+
+DC-16 Gen J 
+
+DC-16 Gen K 
+
+DC-16 Gen L 
+
+DC-16 Gen M 
+
+DC-16 Gen N 
+
+DC-16-Gen O 
+
+DC-16-Gen R1 
+
+DC-16-Gen R2 
+
+(11) Kohler Model KD103V20 non-emergency diesel engine gen-sets (Low NO X
+
+Configuration) 
+
+5,753 bhp 
+
+4,000 ekW 
+
+(each) 
+
+SCR  N/A  March 4, 2024 
+
+DC-16Z  DC-16-Gen Z 
+
+(1) Kohler Model KD27V12 emergency diesel engine gen-set 
+
+1,195 bhp 
+
+800 ekW  None  N/A  March 4, 2024 
+
+DC-17 
+
+DC-17-Gen A 
+
+DC-17-Gen B 
+
+DC-17-Gen C 
+
+DC-17-Gen D 
+
+DC-17-Gen E 
+
+DC-17-Gen F 
+
+DC-17-Gen G 
+
+DC-17-Gen H 
+
+DC-17-Gen J 
+
+DC-17-Gen K 
+
+DC-17-Gen L 
+
+DC-17-Gen M 
+
+DC-17-Gen N 
+
+DC-17-Gen O 
+
+DC-17-Gen R1 
+
+DC-16-Gen R2 
+
+(16) Kohler Model KD103V20 non-emergency diesel engine gen-sets (Low NO X
+
+Configuration) 
+
+5,753 bhp 
+
+4,000 ekW 
+
+(each) 
+
+SCR  N/A  March 4, 2024 Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 5
+
+DC-17Z  DC-17-Gen Z 
+
+(1) Kohler Model KD27V12 emergency diesel engine gen-set 
+
+1,195 bhp 
+
+800 ekW  None  N/A  March 4, 2024 
+
+DC-18 
+
+DC-18-Gen A 
+
+DC-18-Gen B 
+
+DC-18-Gen C 
+
+DC-18-Gen D 
+
+DC-18-Gen E 
+
+DC-18-Gen F 
+
+DC-18-Gen G 
+
+DC-18-Gen H 
+
+DC-18-Gen J 
+
+DC-18-Gen K 
+
+DC-18-Gen L 
+
+DC-18-Gen M 
+
+DC-18-Gen N 
+
+DC-18-Gen O 
+
+DC-18-Gen R1 
+
+DC-18-Gen R2 
+
+(16) Kohler Model KD103V20 non-emergency diesel engine gen-sets (Low NO X
+
+Configuration) 
+
+5,753 bhp 
+
+4,000 ekW 
+
+(each) 
+
+SCR  N/A  March 4, 2024 
+
+DC-18Z  DC-18-Gen Z 
+
+(1) Kohler Model KD27V12 emergency diesel engine gen-set 
+
+1,195 bhp 
+
+800 ekW  None  N/A  March 4, 2024 
+
+Equipment previously permitted: 
+
+Engine Group  Ref. No(s).  Equipment Description 
+
+Standby Rated Capacity 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+DC-10J  DC-10-Gen J 
+
+(1) Caterpillar Model 3516C emergency diesel engine gen-set 
+
+2,937 bhp 
+
+2,000 ekW  None  October 28, 2020 
+
+DC-15Z  DC-15-Gen Z 
+
+(1) Cummins Model 500DFEK emergency diesel engine gen-set (engine model QSX15-G9 NR 2) 
+
+755 bhp 
+
+500 ekW  None  September 11, 2019 Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 6
+
+DC-10 
+
+DC-10-Gen A 
+
+DC-10-Gen B 
+
+DC-10-Gen C 
+
+DC-10-Gen D 
+
+DC-10-Gen E 
+
+DC-10-Gen F 
+
+DC-10-Gen G 
+
+DC-10-Gen H 
+
+DC-10-Gen R 
+
+DC-10-Swing Gen1 
+
+(10) Caterpillar 3516C emergency diesel engine gen-sets 
+
+2,937 bhp 
+
+2,000 ekW 
+
+(each unit) 
+
+None  September 29, 2011 
+
+DC-10Z  DC-10-Gen Z 
+
+(1) Caterpillar C15 emergency diesel engine gen-set 
+
+779 bhp 
+
+500 ekW  None  September 29, 2011 
+
+DC-12 
+
+DC-12-Gen A 
+
+DC-12-Gen B 
+
+DC-12-Gen C 
+
+DC-12-Gen D 
+
+DC-12-Gen E 
+
+DC-12-Gen F 
+
+DC-12-Gen G 
+
+DC-12-Gen R1 
+
+(8) Cummins QSK95-G9 emergency diesel engine gen-sets 
+
+4,351 bhp 
+
+3,000 ekW 
+
+(each unit) 
+
+None  January 18, 2017 
+
+Specifications included in the above tables are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from the emergency diesel engine-gen-sets shall be controlled by the following: 
+
+a. Nitrogen oxides (NO X) emissions from each emergency diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, and DC-15Z) shall be controlled by electronic fuel injection, turbocharged engines, and after coolers. The permittee shall maintain documentation that demonstrates the control devices have been installed on each emergency diesel engine gen-set. 
+
+b. Nitrogen oxides (NO X) emissions from each emergency diesel engine gen-set (Engine Groups DC-15, DC-16Z, DC-17Z, and DC-18Z) shall be controlled by engine design. 
+
+c. Nitrogen oxide (NO X) emissions from the non-emergency engine gen-sets (Engine Group DC-16S) shall be controlled by closed loop Selective Catalytic Reduction (SCR). Each SCR system shall be equipped with a temperature probe to continuously monitor the catalyst bed exhaust temperature while the engine gen-set is operational. Engine exhaust gas shall be treated with urea when each engine gen-set is operating at or above twenty percent load and the catalyst bed exhaust temperature of 572°F is Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 7
+
+achieved, except for periods of start-up, shutdown, or malfunction. In the event that the engine exhaust gas temperature exceeds 977°F, urea injection shall be discontinued and any operations above that level will be considered a malfunction. The SCR shall be provided with adequate access for inspection and shall be in operation when the engine gen-sets are operating as stated above. 
+
+d. Nitrogen oxide (NO X) emissions from the non-emergency engine gen-sets (Engine Groups DC-16, DC-17, and DC-18) shall be controlled by closed loop Selective Catalytic Reduction (SCR). Each SCR system shall be equipped with a temperature probe to continuously monitor the catalyst bed inlet temperature while the engine gen-set is operational. Engine exhaust gas shall be treated with urea when each engine gen-set is operating at or above twenty percent load and the catalyst bed inlet temperature of 572°F is achieved, except for periods of start-up, shutdown, or malfunction. In the event that the engine exhaust gas temperature exceeds 1,000°F, urea injection shall be discontinued and any operations above that level will be considered a malfunction. The SCR shall be provided with adequate access for inspection and shall be in operation when the engine gen-sets are operating as stated above. 
+
+e. Visible emissions, particulate matter (PM 10 and PM 2.5 ) emissions, carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, and nitrogen oxide (NO X) emissions from the diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/1/2024] 
+
+2. Engine Electrical Power Output – The emergency engine gen-sets (Engine Group DC-15) shall be equipped with a controller to limit its electrical power output to no more than 3,350 ekW. The controller shall be programmed to initiate a shutdown timer of no more than 120 seconds, if the engine gen-set exceeds its capacity limit of 3,350 ekW. The engine gen-set above shall also be equipped with a device to monitor and record its kilowatt output at a minimum frequency of once every fifteen minutes while each unit is operational. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [10/1/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 8
+
+3. Monitoring Devices – 
+
+a. Engine Operating Hours: Each diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) shall be equipped with a non-resettable hour meter which measures the duration of time that each engine gen-set is operated. 
+
+b. SCR: Each non-emergency diesel engine gen-set (Engine Group DC-16S) shall be equipped with devices to continuously measure and record the SCR catalyst bed exhaust temperature and the NO X emissions measured after the catalyst, expressed in ppm. The information shall be recorded at a minimum frequency of once every fifteen minutes, and correlated to run date, engine load/kilowatt output, and engine operating hours. 
+
+c. SCR: Each non-emergency diesel engine gen-set (Engine Groups DC-16, DC-17, and DC-18) shall be equipped with devices to continuously measure and record the SCR catalyst bed inlet temperature and the NO X emissions measured after the catalyst, expressed in ppm. The information shall be recorded at a minimum frequency of once every fifteen minutes, and correlated to run date, engine load/kilowatt output, and engine operating hours. 
+
+d. Fuel Flow: Each diesel engine gen-set (Engine Groups DC-15, Groups DC-16, DC-16S, DC-17, and DC-18) shall be equipped with a device to continuously measure and record individual fuel consumption (in gallons) for each engine gen-set. 
+
+Each monitoring device (as required in a. through c. above) shall be observed by the owner with a frequency of not less than once each day the diesel engine gen-set is operated. The permittee shall keep a log of these observations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the DEQ’s Northern Regional Office (NRO). 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the diesel engine gen-sets are operating. 
+
+(9VAC5-80-1180 D) [10/1/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 9
+
+OPERATING/EMISSION LIMITATIONS 
+
+4. Operation of the Diesel Engine Gen-Sets – The permittee shall operate and maintain each diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) and control device according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+5. Operating Limitations (Ozone Season) – No diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) shall be operated for scheduled maintenance and readiness testing (Scheduled MCRT), testing, or operational training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30. The permittee may petition the Air Compliance Manager of the DEQ NRO for exceptions to this requirement, with approvals made on a case by case basis. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+6. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each diesel engine gen-set (Engine Groups DC-10J, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website (http://airnow.gov ) for Northern Virginia for that day is ≤100. In the event that AirNow-EnviroFlash ( www.enviroflash.info ) issues an Air Alert for Metropolitan Washington, D.C. for a day which the forecasted AQI for ozone was ≤100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+7. Emergency Power Generation – The emergency diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16Z, DC-17Z, and DC-18Z) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster that results in a loss of power; Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 10
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. An Independent System Operator (ISO) declared emergency, where an ISO emergency is any of the following: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For unscheduled maintenance, testing, and operational training. 
+
+d. For scheduled maintenance checks and readiness testing (Scheduled MC/RT). 
+
+e. For the integration operational period which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source’s electrical system. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+8. Operating Hours (DC-10, DC-10Z, DC-10J, DC-12, DC-15Z) – The operating hours of the emergency diesel engine gen-sets (Engine Groups DC-10, DC-10Z, DC-10J, DC-12, DC-15Z) are limited to the following: 
+
+a. No single unit (Engine Groups DC-10, DC-10Z, DC-10J, DC-12, and DC-15Z) shall operate more than 100 hours per year for all purposes (as provided in Condition  7), calculated monthly as the sum of each consecutive 12-month period. 
+
+b. No single unit (Engine Groups DC-10J and DC-15Z) shall operate more than 59 hours per year for scheduled maintenance checks and readiness testing (Scheduled MC/RT), calculated monthly as the sum of each consecutive 12-month period. This hourly limit Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 11
+
+does not include the integration operational period, manufacturer recall updates, and repairs. 
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+9. Operating Hours (DC-15, DC-16Z, DC-17Z, DC-18Z) – The operating hours of the emergency diesel engine gen-sets (Engine Groups DC-15, DC-16Z, DC-17Z, DC-18Z) are limited to the following: 
+
+a. No single unit (Engine Group DC-15) shall operate more than 500 hours per year for all purposes (as provided in Condition  7), calculated monthly as the sum of each consecutive 12-month period; 
+
+b. No single unit (Engine Groups DC-16Z, DC-17Z, and DC-18Z) shall operate more than 170 hours per year for all purposes (as provided in Condition  7), calculated monthly as the sum of each consecutive 12-month period; and 
+
+c. No single unit (Engine Groups DC-15, DC-16Z, DC-17Z, and DC-18Z) shall operate more than fourteen (14) hours per year for scheduled maintenance checks and readiness testing (Scheduled MC/RT), calculated monthly as the sum of each consecutive 12-month period. This hourly limit does not include the integration operational period, manufacturer recall updates, and repairs. 
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+10. Diesel Fuel Throughput Limit – The emergency diesel engine gen-sets (Engine Group DC-15), combined, shall consume no more than 120,000 gallons of diesel fuel per year, calculated monthly as the sum of each consecutive 12-month period for all purposes (as provided in Condition  7). 
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 12
+
+11. Diesel Fuel Throughput Limit (DC-16 and DC-16S) – The non-emergency diesel engine gen-sets (Engine Groups DC-16 and DC-16S) are limited to the following: 
+
+a. The diesel engine gen-sets (Engine Group DC-16) combined shall not consume more than 137,500 gallons of diesel fuel per year for all operations, calculated monthly as the sum of each consecutive 12-month period. 
+
+b. The diesel engine gen-sets (Engine Group DC-16) combined shall not consume more than 41,250 gallons of diesel fuel per year without the exhaust gas treated with urea, calculated monthly as the sum of each consecutive 12-month period. 
+
+c. The diesel engine gen-sets (Engine Group DC-16S) combined shall not consume more than 62,500 gallons of diesel fuel per year for all operations, calculated monthly as the sum of each consecutive 12-month period. 
+
+d. The diesel engine gen-sets (Engine Group DC-16S) combined shall not consume more than 18,750 gallons of diesel fuel per year without the exhaust gas treated with urea, calculated monthly as the sum of each consecutive 12-month period. 
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+12. Diesel Fuel Throughput Limit (DC-17 and DC-18) – The non-emergency diesel engine gen-sets (Engine Groups DC-17and DC-18) are limited to the following: 
+
+a. The diesel engine gen-sets (Engine Group DC-17) combined shall not consume more than 200,000 gallons of diesel fuel per year for all operations, calculated monthly as the sum of each consecutive 12-month period. 
+
+b. The diesel engine gen-sets (Engine Group DC-17) combined shall not consume more than 60,000 gallons of diesel fuel per year without the exhaust gas treated with urea, calculated monthly as the sum of each consecutive 12-month period. 
+
+c. The diesel engine gen-sets (Engine Group DC-18) combined shall not consume more than 200,000 gallons of diesel fuel per year for all operations, calculated monthly as the sum of each consecutive 12-month period. 
+
+d. The diesel engine gen-sets (Engine Group DC-18) combined shall not consume more than 60,000 gallons of fuel per year without the exhaust gas treated with urea, calculated monthly as the sum of each consecutive 12-month period. 
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 13
+
+13. Fuel – The approved fuel for the diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) is diesel fuel. For the purposes of this permit document, diesel fuel is defined as ultra-low sulfur diesel fuel oil and hydrotreated vegetable oil (HVO), and shall meet the specifications below: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) D975 specification for Grade No. 1-D S15 or Grade No. 2-D S15, or, 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of 40 or maximum aromatic content of 35 volume percent. 
+
+A change in the fuel may require a new or amended permit. However, if a change in the fuel is not subject to new source review permitting requirements, this condition should not be construed to prohibit such a change. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/4/2024] 
+
+14. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; 
+
+d. A statement that the diesel fuel: 
+
+i. complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or 
+
+ii. has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee must obtain approval from the Regional Air Compliance Manager of the DEQ NRO, if other documentation will be used to certify the diesel fuel type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by the DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition  13 . Exceedance of these specifications may be considered credible evidence of exceedance of emission limits. 
+
+(9VAC5-80-1180) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 14
+
+EMISSION LIMITS 
+
+15. Emission Limits (Hourly – DC10 and DC12) – Emissions from the operation of each emergency diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, and DC-12) shall not exceed the limits specified below: 
+
+Pollutant  Engine Group 
+
+DC-10Z 
+
+Engine Groups DC-10 and DC-10J (each unit) 
+
+Engine Group 
+
+DC-12 (each unit) 
+
+Nitrogen Oxides 
+
+(as NO 2) 10.30 lb/hr  38.85 lb/hr  56.97 lb/hr 
+
+Carbon Monoxide (CO)  - 3.91 lb/hr  2.39 lb/hr 
+
+Volatile Organic Compounds (VOC)  - 1.13 lb/hr  1.03 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/4/2024] 
+
+16. Emission Limits (Hourly – DC15 and DC15Z through DC18Z) – Emissions from the operation of each emergency diesel engine gen-set (Engine Groups DC-15, DC-15Z, DC-16Z, DC-17Z, and DC-18Z) shall not exceed the limits specified below: 
+
+Pollutant  Engine Group 
+
+DC-15 (each unit) 
+
+Engine Group 
+
+DC-15Z (each unit) 
+
+Engine Groups 
+
+DC-16Z, DC-17Z, and DC-18Z 
+
+(each unit) 
+
+Nitrogen Oxides (as NO 2) 63.82 lb/hr  9.68 lb/hr  15.81 lb/hr 
+
+Carbon Monoxide (CO)  8.54 lb/hr  1.26 lb/hr  2.95 lb/hr 
+
+Volatile Organic Compounds (VOC)  2.62 lb/hr  0.39 lb/hr  0.09 lb/hr 
+
+Particulate Matter (PM 10 ) 1.11 lb/hr  0.19 lb/hr  0.27 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.11 lb/hr  0.19 lb/hr  0.27 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 15
+
+17. Emission Limits (Hourly – Non-Emergency Units) – Emissions from the operation of the non-emergency diesel engine gen-sets (Engine Groups DC-16, DC-16S, DC-17, and DC-18) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Uncontrolled Engine Group DC-16S 
+
+(each unit) 
+
+Controlled Engine Group DC-16S 
+
+(each unit) 
+
+Uncontrolled Engine Groups DC-16, DC-17, and DC-18 
+
+(each unit) 
+
+Controlled Engine Groups DC-16, DC-17, and DC-18 
+
+(each unit) 
+
+Nitrogen Oxides (as NO 2) 104.98 lb/hr  7.61 lb/hr  75.66 lb/hr  7.61 lb/hr 
+
+Carbon Monoxide (CO)  9.93 lb/hr  9.93 lb/hr 
+
+Volatile Organic Compounds (VOC) 
+
+3.69 lb/hr  3.22 lb/hr 
+
+Particulate Matter (PM 10 ) 1.58 lb/hr  1.58 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.58 lb/hr  1.58 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the diesel engine gen-sets or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/4/2024] 
+
+18. Emission Limits (Annual – DC10 and DC12) – Total emissions from the emergency diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, and DC-12) shall not exceed the limits specified below: 
+
+Pollutant  Engine Groups 
+
+DC-10, DC-10J, and DC-10Z  Engine Group DC-12 
+
+Nitrogen Oxides 
+
+(as NO 2) 21.89 tons/yr  22.79 tons/yr 
+
+Carbon Monoxide (CO)  2.19 tons/yr  0.96 tons/yr 
+
+Volatile Organic Compounds (VOC)  0.63 tons/yr  0.41 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined by Conditions  1, 3, 8, 13 , and  15 .
+
+(9VAC5-80-1180) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 16
+
+19. Emission Limits (Annual – DC15) – Total emissions from the emergency diesel engine gen-sets (Engine Groups DC-15 and DC-15Z) shall not exceed the limits specified below: 
+
+Pollutant  Engine Group 
+
+DC-15 
+
+Engine Group 
+
+DC-15Z 
+
+Engine Groups 
+
+DC-15 and DC-15Z 
+
+Nitrogen Oxides 
+
+(as NO 2) 15.76 tons/yr  0.48 tons/yr  16.24 tons/yr 
+
+Carbon Monoxide (CO)  2.11 tons/yr  0.06 tons/yr  2.17 tons/yr 
+
+Volatile Organic Compounds (VOC)  1.21 tons/yr  0.02 tons/yr  1.23 tons/yr 
+
+Particulate Matter (PM 10 ) 0.70 tons/yr  0.01 tons/yr  0.71 tons/yr 
+
+Particulate Matter (PM 2.5 ) 0.70 tons/yr  0.01 tons/yr  0.71 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined by Conditions  1, 2, 3, 8, 9, 10 , 13 , and  16 .
+
+(9VAC5-80-1180) [3/4/2024] 
+
+20. Emission Limits (Annual – DC16) – Total emissions from the diesel engine gen-sets (Engine Groups DC-16, DC-16S, and DC-16Z) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Engine Group 
+
+DC-16 
+
+(All Operations) 
+
+Engine Group 
+
+DC-16 
+
+(Uncontrolled) 
+
+Engine Group 
+
+DC-16Z 
+
+Nitrogen Oxides 
+
+(as NO 2) 6.88 tons/yr  5.57 tons/yr  1.34 tons/yr 
+
+Carbon Monoxide (CO)  7.25 tons/yr  2.17 tons/yr  0.25 tons/yr 
+
+Volatile Organic Compounds (VOC)  2.59 tons/yr  0.78 tons/yr  0.01 tons/yr 
+
+Particulate Matter (PM 10 ) 0.69 tons/yr  0.21 tons/yr  0.02 tons/yr 
+
+Particulate Matter (PM 2.5 ) 0.69 tons/yr  0.21 tons/yr  0.02 tons/yr Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 17
+
+Pollutant 
+
+Engine Group 
+
+DC-16S 
+
+(All Operations) 
+
+Engine Group 
+
+DC-16S (Uncontrolled) 
+
+Engine Groups 
+
+DC-16, DC-16S, and DC-16Z 
+
+Nitrogen Oxides 
+
+(as NO 2) 4.11 tons/yr  3.52 tons/yr  12.33 tons/yr 
+
+Carbon Monoxide (CO)  3.38 tons/yr  1.01 tons/yr  10.88 tons/yr 
+
+Volatile Organic Compounds (VOC)  1.18 tons/yr  0.35 tons/yr  3.78 tons/yr 
+
+Particulate Matter (PM 10 ) 0.31 tons/yr  0.09 tons/yr  1.03 tons/yr 
+
+Particulate Matter (PM 2.5 ) 0.31 tons/yr  0.09 tons/yr  1.03 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined by Conditions  1, 3, 9, 11 , 13 , 15 , and  17 .
+
+(9VAC5-80-1180) [3/4/2024] 
+
+21. Emission Limits (Annual – DC17) – Total emissions from the diesel engine gen-sets (Engine Groups DC-17 and DC-17Z) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Engine Group 
+
+DC-17 
+
+(All Operations) 
+
+Engine Group 
+
+DC-17 (Uncontrolled) 
+
+Engine Group 
+
+DC-17Z 
+
+Engine Groups 
+
+DC-17 and DC-17Z 
+
+Nitrogen Oxides 
+
+(as NO 2) 10.01 tons/yr  8.11 tons/yr  1.34 tons/yr  11.35 tons/yr 
+
+Carbon Monoxide (CO)  10.54 tons/yr  3.16 tons/yr  0.25 tons/yr  10.79 tons/yr 
+
+Volatile Organic Compounds (VOC)  3.77 tons/yr  1.13 tons/yr  0.01 tons/yr  3.78 tons/yr 
+
+Particulate Matter (PM 10 ) 1.01 tons/yr  0.30 tons/yr  0.02 tons/yr  1.03 tons/yr 
+
+Particulate Matter (PM 2.5 ) 1.01 tons/yr  0.30 tons/yr  0.02 tons/yr  1.03 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined by Conditions  1, 3, 9, 12 , 13 , 15 , and  17 .
+
+(9VAC5-80-1180) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 18
+
+22. Emission Limits (Annual – DC18) – Total emissions from the diesel engine gen-sets (Engine Groups DC-18 and DC-18Z) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Engine Group 
+
+DC-18 
+
+(All Operations) 
+
+Engine Group 
+
+DC-18 (Uncontrolled) 
+
+Engine Group 
+
+DC-18Z 
+
+Engine Groups 
+
+DC-18 and DC-18Z 
+
+Nitrogen Oxides 
+
+(as NO 2) 10.01 tons/yr  8.11 tons/yr  1.34 tons/yr  11.35 tons/yr 
+
+Carbon Monoxide (CO)  10.54 tons/yr  3.16 tons/yr  0.25 tons/yr  10.79 tons/yr 
+
+Volatile Organic Compounds (VOC)  3.77 tons/yr  1.13 tons/yr  0.01 tons/yr  3.78 tons/yr 
+
+Particulate Matter (PM 10 ) 1.01 tons/yr  0.30 tons/yr  0.02 tons/yr  1.03 tons/yr 
+
+Particulate Matter (PM 2.5 ) 1.01 tons/yr  0.30 tons/yr  0.02 tons/yr  1.03 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined by Conditions  1, 3, 9, 12 , 13 , 16 , and  17 .
+
+(9VAC5-80-1180) [3/4/2024] 
+
+23. Emission Limits (Annual – Facility Wide) – Total emissions from the diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) shall not exceed the limits specified below: 
+
+Pollutant 
+
+Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z 
+
+Nitrogen Oxides (as NO 2) 95.96 tons/yr 
+
+Carbon Monoxide (CO)  37.77 tons/yr 
+
+Volatile Organic Compounds (VOC)  13.61 tons/yr 
+
+Particulate Matter (PM 10 ) 4.32 tons/yr 
+
+Particulate Matter (PM 2.5 ) 4.32 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined by Conditions  1, 2, 3, 8, 9, 10 , 11 , 12 , 13 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , and  22 .
+
+(9VAC5-80-1180) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 19
+
+24. Visible Emission Limit – Visible emissions from each diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) exhausts shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown and malfunction. 
+
+During startup and shutdown, visible emissions from each diesel engine gen-set shall not exceed 10% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/4/2024] 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+25. Stack Test – Initial performance tests shall be conducted on three (3) non-emergency diesel engine gen-sets from the engine groups (Engine Groups DC-16 and DC-16S), with at least one unit tested from each group, for NO X (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of the DEQ NRO to determine compliance with the controlled emission limits contained in Condition  17 .
+
+a. Emissions testing of each pollutant for each selected diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the diesel engine gen-set to demonstrate compliance with the controlled NO X and CO emission limits specified in Condition  17 . Testing shall be conducted with the diesel engine gen-set operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+iii. NO X concentration pre-catalyst and post-catalyst. 
+
+iv. Urea solution consumption for units equipped with SCR. 
+
+v. Catalyst bed exhaust temperature for units equipped with Miratech SCR and catalyst bed inlet temperature for units equipped with SafetyPower SCR. Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 20
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ NRO, at least 30 days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ NRO, in writing, within seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results shall be submitted to the Regional Air Compliance Manager, DEQ NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [10/1/2024] 
+
+26. Stack Test – Initial performance tests shall be conducted on three (3) non-emergency diesel engine gen-sets from each engine group (Engine Groups DC-17 and DC-18), for a total of at least six (6) units tested, for NO X (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of the DEQ NRO to determine compliance with the controlled emission limits contained in Condition  17 .
+
+a. Emissions testing of each pollutant for each selected diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the diesel engine gen-set to demonstrate compliance with the controlled NO X and CO emission limits specified in Condition  17 . Testing shall be conducted with the diesel engine gen-set operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded diesel engine gen-set operational information shall include, but not be limited to: Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 21
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+iii. NO X concentration pre-catalyst and post-catalyst. 
+
+iv. Urea solution consumption for units equipped with SCR. 
+
+v. Catalyst bed inlet temperature for units equipped with SCR. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ NRO, at least 30 days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ NRO, in writing, within seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results shall be submitted to the Regional Air Compliance Manager, DEQ NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [10/1/2024] 
+
+27. Stack Test – Initial performance tests shall be conducted on at least three (3) emergency diesel engine gen-sets (Engine Group DC-15) for NO X (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of the DEQ NRO to determine compliance with the emission limits contained in Condition  16 .Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 22
+
+a. Emissions testing of each pollutant for each selected emergency diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that emergency diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency diesel engine gen-set to demonstrate compliance with the NO X and CO emission limits specified in Condition  16 . Testing shall be conducted with the emergency diesel engine gen-set operating at ≥ 90 percent of its de-rated capacity, unless multiple load band testing is approved by DEQ; 
+
+c. Recorded emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. In no case shall the integration operational period exceed 30 days. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager of DEQ NRO. The permittee shall submit the test protocol to the Regional Air Compliance Manager of DEQ NRO, at least 30 days prior to testing to ensure adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee shall notify the Regional Air Compliance Manager of DEQ NRO, in writing, within seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results shall be submitted to the Regional Air Compliance Manager, DEQ NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 23
+
+28. Visible Emissions Evaluation – Concurrent with the initial performance tests required in Conditions  25 , 26 , and  27 , Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the selected diesel engine gen-sets selected for initial performance testing of Conditions  25 , 26 , and  27 .The details of the tests shall be arranged with the Air Compliance Manager of the DEQ NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol required by Conditions  25 , 26 , and  27 , at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Air Compliance Manager of the DEQ NRO shall be notified in writing, within seven (7) days, and visible emissions testing shall be rescheduled within thirty-days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. 
+
+b. Two copies of the test result (one hard copy and one on electronic media) shall be submitted to the Air Compliance Manager of the DEQ NRO within sixty (60) days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [3/4/2024] 
+
+29. Electrical Power Output Control Device Validation – An electrical power output control device validation shall be conducted on the engine gen-sets (Engine Group DC-15) to validate that the electrical power output control device (required by Condition  2) prevents each engine gen-set from exceeding its permitted capacity. The validation shall be performed, reported, and demonstrate compliance within 60 days after achieving the maximum production rate at which the engine gen-set will be operated but in no event later than 120 days after startup of the permitted engine gen-set. The details of the validation are to be arranged with the Regional Air Compliance Manager of the DEQ NRO. The permittee shall submit a protocol at least 30 days prior to testing. One copy of the test results shall be submitted to the DEQ within 60 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-80-1180) [3/4/2024] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+30. Emissions Testing/Visible Emission Evaluations (VEE)/Output Control Device Validation – Upon request by the DEQ, the permittee shall conduct stack tests, VEEs, 
+
+and/or Output Control Device Validations of the diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Air Compliance Manager of the DEQ NRO. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [3/4/2024] Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 24
+
+31. Facility Construction – The emergency diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. This includes construction the facility/equipment such that volumetric flow rates and pollutant emission rates can be accurately determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [3/4/2024] 
+
+RECORDS 
+
+32. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Air Compliance Manager of the DEQ NRO. These records shall include, but are not limited to: 
+
+a. Documentation from the manufacturer that each diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) is certified to meet the EPA Tier 2 emission standards. 
+
+b. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z). 
+
+c. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z). 
+
+d. Records of the reasons for operation for each emergency diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16Z, DC-17Z, and DC-18Z), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+e. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16Z, DC-17Z, and DC-18Z). 
+
+f. A log of monitoring device observations in ekW, as required by Condition  2.
+
+g. A log of the operating hour readings from the hour meter observations, as required by Condition  3.a .Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 25
+
+h. Operation and control device monitoring records for each engine gen-set equipped with a SCR (Engine Groups DC-16, DC-16S, DC-17, and DC-18) as required in Conditions  3.b  and  3.c . This includes records of the SCR catalyst exhaust bed temperature (Engine Group DC-16S), SCR catalyst bed inlet temperature (Engine Groups DC-16, DC-17, and DC-18), and NO X emission concentration as measured by the SCR continuous monitoring device (Engine Groups DC-16, DC-16S, DC-17, and DC-18). 
+
+i. A log of the fuel consumption (in gallons) readings from the fuel flow monitoring device observations, as required by Condition  3.d .
+
+j. Monthly and annual hours of operation of each emergency diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16Z, DC-17Z, and DC-18Z), calculated monthly as the sum of each consecutive 12-month period. 
+
+k. Monthly and annual hours of operation of each emergency diesel engine gen-set (Engine Groups DC-10, DC-10J, DC-10Z, DC-12, DC-15, DC-15Z, DC-16Z, DC-17Z, and DC-18Z), for purposes of Scheduled MCRT, calculated monthly as the sum of each consecutive 12-month period. 
+
+l. Monthly and annual fuel consumption of the combined operation of the emergency diesel engine gen-sets (Engine Group DC-15) for all purposes, with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+m. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-16) for all operations with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+n. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-16) without the exhaust gas treated with urea (uncontrolled), with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+o. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-16S) for all operations, with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+p. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-16S) without the exhaust gas treated with urea (uncontrolled), with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 26
+
+q. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-17) for all operations, with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+r. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-17) without the exhaust gas treated with urea (uncontrolled), with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+s. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-18) for all operations, with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+t. Monthly and annual fuel consumption of the combined operation of the non-emergency diesel engine gen-sets (Engine Group DC-18) without the exhaust gas treated with urea (uncontrolled), with the annual fuel consumption calculated monthly as the sum of each consecutive 12-month period. 
+
+u. Monthly and annual emissions calculations for NO X (as NO 2), CO, and VOC from the emergency diesel engine gen-sets (Engine Group DC-12), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  18 .
+
+v. Monthly and annual emissions calculations for NO X (as NO 2), CO, and VOC from the emergency diesel engine gen-sets (Engine Groups DC-10, DC-10J, and DC-10Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  18 .
+
+w. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the emergency diesel engine gen-sets (Engine Group DC-15Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  19 .
+
+x. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the emergency engine gen-sets (Engine Group DC-15), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  19 .
+
+y. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the emergency engine gen-sets (Engine Groups DC-15 and DC-15Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  19 .Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 27
+
+z. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-16) for all operations, with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition 
+
+20 .
+
+aa. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-16) while operating without SCR (uncontrolled), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  20 .
+
+bb. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-16S) for all operations, with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition 
+
+20 .
+
+cc. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-16S) while operating without SCR (uncontrolled), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  20 .
+
+dd. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the emergency engine gen-set (Engine Group DC-16Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  20 .
+
+ee. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the engine gen-sets (Engine Groups DC-16, DC-16S, and DC-16Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  20 .
+
+ff. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-17) for all operations, with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition 
+
+21 .
+
+gg. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-17) while operating without SCR (uncontrolled), with annual emissions calculated monthly, as Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 28
+
+the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  21 .
+
+hh. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the emergency engine gen-set (Engine Group DC-17Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  21 .
+
+ii. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the engine gen-sets (Engine Groups DC-17 and DC-17Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  21 .
+
+jj. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-18) for all operations, with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition 
+
+22 .
+
+kk. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the non-emergency engine gen-sets (Engine Group DC-18) while operating without SCR (uncontrolled), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  22 .
+
+ll. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the emergency engine gen-set (Engine Group DC-18Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  22 .
+
+mm. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10 , and PM 2.5 from the engine gen-sets (Engine Groups DC-18 and DC-18Z), with annual emissions calculated monthly, as the sum of each consecutive 12-month period, to verify compliance with the annual emission limits in Condition  22 .
+
+nn. Records, as necessary, to demonstrate compliance with the operating limitations of Condition  5, which includes but is not limited to: times, dates, and reasons for operation of each emergency diesel engine gen-set that was operating between May 1 and September 30. 
+
+oo. To verify compliance with Condition  6, maintain records of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that an emergency diesel engine gen-set operated during the integration operational period; Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 29
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that the emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording on any Air Alerts issued for that operating day, as determined by AirNow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours and duration. 
+
+pp. All fuel supplier certifications. 
+
+qq. Results of all stack tests, visible emission evaluations, and electrical power output control device validations. 
+
+rr. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+ss. Records of unscheduled maintenance and operator training. 
+
+tt. Records as required by Condition  37 .
+
+Compliance for the consecutive 12-month period in subsections above (as applicable) shall be demonstrated monthly by adding the total for the most recently completed month to the individual monthly totals for the preceding 11 months. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years, unless otherwise noted. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [10/1/2024] 
+
+NOTIFICATIONS 
+
+33. Initial Notifications – The permittee shall furnish written notification of the items below to the Air Compliance Manager of the DEQ NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13091 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit one notification for each building containing information on each emergency diesel engine gen-set as described below: 
+
+a. The actual date on which installation of the diesel engine gen-sets (Engine Groups DC-15, DC-15 Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 30
+
+commenced in each building, within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and 
+
+iv. The date installation commenced. 
+
+b. The date that the integration operational period started for each diesel engine gen-set (Engine Groups DC-15, DC-15 Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) within 15 days after the last gen-set at each building, completes its integration operational period. If a period of construction is paused or halted for ≥45 days this notification shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed emergency diesel engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as: the period of time beginning with the first time the affect unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. 
+
+(9VAC5-50-50) [3/4/2024] 
+
+GENERAL CONDITIONS 
+
+34. Permit Invalidation – This permit to construct the diesel engine gen-sets (Engine Groups DC-15, DC-15Z, DC-16, DC-16S, DC-16Z, DC-17, DC-17Z, DC-18, and DC-18Z) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the “Original Permit Date” specified in the equipment list, or if 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 31
+
+35. Permit Suspension/Revocation – The Board may suspend or revoke any permit if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the terms or conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+36. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 32
+
+37. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated monitoring devices and air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take measures in order to minimize the duration and frequency of excess emissions, including the following: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+38. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shut-down or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. The records shall be maintained in a form suitable for inspection and maintained for at least two years (unless a longer period is specified in the applicable emission standard) following the date of occurrence. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+39. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Air Compliance Manager of the DEQ NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within two weeks of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Air Compliance Manager of the DEQ NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) Equinix, LLC Registration Number: 73946 October 1, 2024 
+
+> Page 33
+
+40. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) 
+
+41. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the Air Compliance Manager of the DEQ NRO of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+42. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1.  Plant name and location 
+
+2.  Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3.  Test dates 
+
+4.  Tester name, address and report date 
+
+Certification 
+
+1.  Signed by team leader/certified observer (include certification date) 
+
+2.  Signed by responsible company official 
+
+3.  *Signed by reviewer 
+
+Copy of Approved Test Protocol 
+
+Summary 
+
+1.  Reason for testing 
+
+2.  Test dates 
+
+3.  Identification of unit tested & the maximum rated capacity 
+
+4.  *For each emission unit, a table showing: 
+
+a.  Operating rate 
+
+b.  Test methods 
+
+c.  Pollutants tested 
+
+d.  Test results for each run and the run average 
+
+e.  Pollutant standard or limit 
+
+5.  Summarized process and control equipment data for each run and the average, as 
+
+required by the test protocol 
+
+6.  A statement that test was conducted in accordance with the test protocol or identification 
+
+& discussion of deviations, including the likely impact on results 
+
+7.  Any other important information 
+
+Source Operation 
+
+1.  Description of process and control devices 
+
+2.  Process and control equipment flow diagram 
+
+3.  Sampling port location and dimensioned cross section. Attached protocol includes: 
+
+sketch of stack (elevation view) showing sampling port locations, upstream and 
+
+downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1.  Detailed test results for each run 
+
+2.  *Sample calculations 
+
+3.  *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1.  *Raw production data 
+
+2.  *Raw field data 
+
+3.  *Laboratory reports 
+
+4.  *Chain of custody records for lab samples 
+
+5.  *Calibration procedures and results 
+
+6.  Project participants and titles 
+
+7.  Observers’ names (industry and agency) 
+
+8.  Related correspondence 
+
+9.  Standard procedures 
+
+____ 
+
+* Not applicable to visible emission evaluations

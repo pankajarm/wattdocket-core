@@ -1,0 +1,520 @@
+Title: CLOP Ashland VA LLC - Minor New Source Review Permit
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/37601/639207454970370000
+
+Published Time: Mon, 27 Jul 2026 09:38:17 GMT
+
+Number of Pages: 14
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+July 21, 2026 
+
+Mr. Brian Trombley 
+
+Vice President of Construction 
+
+CLOP Ashland VA LLC 
+
+400 Water St., Suite 200 
+
+Excelsior, MN 55331 
+
+Location: Hanover County 
+
+Registration No.: 53197 
+
+Dear Mr. Trombley: 
+
+Attached is a permit approval to construct and operate a data center in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. This combined permit document supersedes your permit document dated February 14, 2025. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on June 5, 2026. 
+
+This permit document contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve CLOP Ashland VA LLC of the responsibility to comply with all other local, state, and federal permit regulations. This permit does not evaluate, approve, or imply approval of any other permits or authorizations under the authority of the Virginia Department of Environmental Quality (DEQ). Issuance of this permit does not create, obligate, assure, or justify any financially backed expectation that additional permits from other DEQ programs will be issued. All future permit applications will be reviewed independently in accordance with the Code of Virginia, applicable regulations, and DEQ policies. 
+
+The proposed diesel emergency engine-generator sets are subject to 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the units are required to comply with certain federal emission standards and operating limitations. DEQ advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you are Mr. Brian Trombley July 21, 2026 Page 2 
+
+also responsible for any monitoring, testing, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications and reports shall only be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and 63. 
+
+The Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the DEQ within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Director 
+
+Department of Environmental Quality 
+
+P.O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact the regional office at (804) 527-5020. 
+
+Sincerely, 
+
+James E. Kyle, P.E., Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+(804) 489-6241 
+
+James.Kyle@deq.virginia.gov 
+
+Piedmont Regional Office 
+
+4949-A Cox Road, Glen Allen, VA 23060 
+
+(804) 527-5020 
+
+Attachments: Permit 
+
+Source Testing Report Format 
+
+cc: Manager/Inspector, Air Compliance Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes your permit document dated February 14, 2025. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+CLOP Ashland VA LLC 
+
+400 Water Street, Suite 200 
+
+Excelsior, MN 55331 
+
+Registration No.: 53197 
+
+is authorized to construct and operate 
+
+a data center 
+
+located at 
+
+12174 Washington Highway 
+
+Ashland, VA 
+
+in accordance with the Conditions of this permit document. 
+
+Approved on July 21, 2026. 
+
+_____________________________________ 
+
+James E. Kyle, P.E., Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+(804) 489-6241 
+
+James.Kyle@deq.virginia.gov 
+
+Piedmont Regional Office 
+
+4949-A Cox Road, Glen Allen, VA 23060 
+
+(804) 527-5020 
+
+Permit consists of  11  pages. 
+
+Permit Conditions 1 to  25 .CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 2 
+
+INTRODUCTION 
+
+This permit document is based on and combines permit terms and conditions in accordance with 
+
+9VAC5-80-1255 from the following permit approvals and the respective permit applications: 
+
+• minor NSR approval dated July 21, 2026 based on the permit application dated May 27, 2026, including supplemental information dated July 17, 2026; 
+
+• minor NSR approval dated February 14, 2025 based on the permit application dated December 16, 2024, including supplemental information dated January 14, 2025 and January 23, 2025; 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit document. 
+
+Words or terms used in this permit document shall have meanings as provided in 9 VAC 5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the DEQ) of the Code of Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 3 
+
+Equipment List - Equipment at this facility covered by this permit document consists of: 
+
+Equipment to be Constructed:                        
+
+> Reference No. Equipment Description Rated Capacity
+> Referenced Federal Requirements
+> 00GEN-1 Emergency engine-generator set (Kohler/Rehlko KD3000 or equivalent) 3000 kWe None
+> 01GEN-1 Emergency engine-generator set (Kohler/Rehlko KD3000 or equivalent) 3000 kWe None
+> 02GEN-1 Emergency engine-generator set (Kohler/Rehlko KD3000A or equivalent) 3000 kWe None
+> 03GEN-1 Emergency engine-generator set (Kohler/Rehlko KD3000A or equivalent) 3000 kWe None
+> 04GEN-1 Emergency engine-generator set (Kohler/Rehlko KD3000A or equivalent) 3000 kWe None
+> 05GEN-1 Emergency engine-generator set (Kohler/Rehlko KD3000A or equivalent) 3000 kWe None
+> HGEN Emergency engine-generator set Kohler/Rehlko 500REOZVC or equivalent) 500 kWe None
+
+Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Nitrogen oxide (NOx) emissions from the emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) shall be controlled by a turbocharged engine and aftercooler and optimization for low NOx emissions through the engine controller. The permittee shall maintain documentation that demonstrates the engine control device is enabled on each engine-generator set. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [July 21, 2026] 
+
+2. Emission Controls - Nitrogen oxide (NOx) emissions shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [February 14, 2025] 
+
+3. Monitoring Devices – Each emergency engine-generator set (00GEN-1 through 05GEN-1, and HGEN) shall be equipped with a non-resettable hour metering device to monitor the operating hours. The non-resettable hour meter used to continuously measure the hours of operation for each engine-generator set shall be observed by the permittee with a frequency of not less than once each day the engine-generator set is operated. The owner shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 4 
+
+provided with adequate access for inspection and shall be in operation when the engine-generator sets are operating. 
+
+(9VAC5-80-1180 D) [July 21, 2026] 
+
+OPERATING LIMITATIONS 
+
+4. Operation of the Engine-Generator Set - The permittee shall operate and maintain each emergency engine-generator set (00GEN-1 through 05GEN-1, and HGEN), including the turbocharger, aftercooler and engine controller, according to the manufacturer's written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) [July 21, 2026] 
+
+5. Emergency Power Generation - The emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid. 
+
+ii. On-site disaster or equipment failure, or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property. 
+
+ii. Capacity deficiency or capacity excess conditions. 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel. 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state, or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For periodic maintenance, testing, and operational training. 
+
+When changing from Emergency Power Generation to Non-Emergency (Alternate) Power Generation, the permittee shall submit appropriate documentation to the Department of Environmental Quality (DEQ) and receive DEQ approval for the change in the method of operation of the engine-generator set to ensure that the facility remains in compliance CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 5 
+
+with the appropriate permitting requirements. Total emissions for any 12-month period, calculated as the sum of all emissions from operations under the scenarios above, shall not exceed the limits stated in Conditions  9, 10  and  11 .
+
+(9VAC5-80-1180) [July 21, 2026] 
+
+6. Operating Hours – Each of the emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) shall not operate more than 500 hours per year, including up to 100 hours per year for maintenance checks and readiness testing, calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. Records of hours of operation for each engine-generator set (00GEN-1 through 05GEN-1, and HGEN) shall be kept, as per Condition  15.a .
+
+(9VAC5-80-1180) [February 14, 2025] 
+
+7. Fuel - The approved fuel for the emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) is diesel fuel. The diesel fuel shall meet the ASTM D975 specification for S15 diesel fuel oil with a maximum sulfur content per shipment of 0.0015%. A change in the fuel shall be considered a change in the method of operation of the engines and may require a new or amended permit. However, if a change in the fuel is not subject to new source review permitting requirements, this condition should not be construed to prohibit such a change. 
+
+(9VAC5-80-1180) [February 14, 2025] 
+
+8. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier. 
+
+b. The date on which the diesel fuel was received, and 
+
+c. The quantity of diesel fuel delivered in the shipment; 
+
+d. A statement that the diesel fuel complies with the American Society for Testing and Materials specifications (ASTM D975) for S15 diesel fuel oil; and 
+
+e. The sulfur content of the diesel fuel. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition  7. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. Records of fuel certifications shall be kept, as per Condition  15.d .
+
+(9VAC5-80-1180) [July 21, 2026] CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 6 
+
+EMISSION LIMITS 
+
+9. Emission Limits - Emissions from the operation of the two emergency engine-generator sets 00GEN-1 and 01GEN-1 shall not exceed the limits specified below: 
+
+Each unit Each unit Combined 
+
+PM 1.0 lb/hr 0.3 tons/yr 0.5 tons/yr 
+
+PM10 1.0 lb/hr 0.3 tons/yr 0.5 tons/yr 
+
+PM2.5 1.0 lb/hr 0.3 tons/yr 0.5 tons/yr 
+
+Nitrogen Oxides (as NO 2) 57.0 lb/hr 14.3 tons/yr 28.5 tons/yr 
+
+Carbon Monoxide 13.8 lb/hr 3.5 tons/yr 6.9 tons/yr 
+
+Volatile Organic Compounds 2.9 lb/hr 0.8 tons/yr 1.5 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1, 6, 14  and  15 .
+
+(9VAC5-80-1180 and 9VAC5-50-260) [July 21, 2026] 
+
+10. Emission Limits - Emissions from the operation of the four emergency engine-generator sets 02GEN-1 through 05GEN-1 shall not exceed the limits specified below: 
+
+Each unit Each unit Combined 
+
+PM 1.1 lb/hr 0.3 tons/yr 1.1 tons/yr 
+
+PM10 1.3 lb/hr 0.4 tons/yr 1.3 tons/yr 
+
+PM2.5 1.3 lb/hr 0.4 tons/yr 1.3 tons/yr 
+
+Nitrogen Oxides (as NO 2) 57.0 lb/hr 14.3 tons/yr 57.0 tons/yr 
+
+Carbon Monoxide 3.8 lb/hr 1.0 tons/yr 3.8 tons/yr 
+
+Volatile Organic Compounds 2.9 lb/hr 0.7 tons/yr 2.9 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1, 6, 14  and  15 .
+
+(9VAC5-80-1180 and 9VAC5-50-260) [July 21, 2026] 
+
+11. Emission Limits - Emissions from the operation of the emergency engine-generator set HGEN shall not exceed the limits specified below: CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 7 
+
+PM 0.6 lb/hr 
+
+PM10 0.6 lb/hr 
+
+PM2.5 0.6 lb/hr 
+
+Nitrogen Oxides (as NO 2) 9.8 lb/hr 2.5 tons/yr 
+
+Carbon Monoxide 0.5 lb/hr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1, 6, 14  and  15 .
+
+(9VAC5-80-1180 and 9VAC5-50-260) [July 21, 2026] 
+
+12. Visible Emission Limit - Visible emissions from the stack of each of the emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) shall not exceed 10 percent opacity, except during one six-minute period in any one hour in which visible emissions shall not exceed 20 percent opacity as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown, and malfunction. 
+
+(9VAC5-80-1180) [July 21, 2026] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+13. Emissions Testing - The emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. This includes constructing the facility/equipment such that volumetric flow rates and pollutant emission rates can be accurately determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [February 14, 2025] 
+
+14. Emission Testing/Visible Emissions Evaluation – Upon request by the DEQ, the permittee shall conduct stack tests and/or visible emissions evaluations of the engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Piedmont Regional Office. Results of any tests shall be kept as per Condition  15.h .
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [February 14, 2025] 
+
+RECORDS 
+
+15. On Site Records - The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 8 
+
+format of such records shall be arranged with the Piedmont Regional Office. These records shall include, but are not limited to: 
+
+a. Monthly and annual hours of operation of each emergency engine-generator set (00GEN-1 through 05GEN-1, and HGEN), calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+b. Log of observations, as required by Condition  3.
+
+c. Reasons for operation for each engine-generator set including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification and the hours of operation. 
+
+d. All fuel supplier certifications. 
+
+e. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine-generator set. 
+
+f. Documentation that demonstrates the emergency engine-generator sets (00GEN-1 through 05GEN-1, and HGEN) operate with a turbocharged engine and aftercooler and can be optimized for low NO X emissions through the engine controller. 
+
+g. The manufacturer's written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each engine-generator set. 
+
+h. Results of all stack tests, visible emission evaluations, and visible emission observations. 
+
+i. Scheduled and unscheduled maintenance and operator training. 
+
+These records shall be available for inspection by DEQ and shall be current for the most recent five years. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [July 21, 2026] 
+
+NOTIFICATIONS 
+
+16. Initial Notifications - The permittee shall furnish written notification to the Piedmont Regional Office of: 
+
+a. The actual date on which construction of the emergency engine-generator sets 00GEN-1 through 05GEN-1, and HGEN commenced within 30 days after such date. 
+
+b. The actual start-up date of the emergency engine-generator sets 00GEN-1 through 05GEN-1, and HGEN within 15 days after such date. The actual start-up date shall be the date on which each engine completes manufacturer's trials but shall be no later than thirty days after the initial start up for manufacturer's trials. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) [July 21, 2026] CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 9 
+
+GENERAL CONDITIONS 
+
+17. Permit Invalidation - The permit approval dated July 21, 2026 to construct the emergency diesel engine gen-sets shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced by August 13, 2026 for 00GEN-1, 01GEN-1 and HGEN. 
+
+b. A program of continuous construction is not commenced by January 20, 2028 for 02GEN-1 through 05GEN-1. 
+
+c. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time, except for a DEQ approved period between phases of the phased construction of a new stationary source or project. 
+
+(9 VAC 5-80-1210) [July 21, 2026] 
+
+18. Permit Suspension/Revocation - This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it. 
+
+b. Fails to comply with the conditions of this permit. 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit. 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard, or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+19. Right of Entry - The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit. 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations. 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations, and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 10 
+
+20. Maintenance/Operating Procedures - At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions, with respect to air pollution control equipment and process equipment which affect such emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+21. Record of Malfunctions - The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+22. Notification for Facility or Control Equipment Malfunction - The permittee shall furnish notification to the Piedmont Regional Office of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Piedmont Regional Office. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+23. Violation of Ambient Air Quality Standard - The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any CLOP Ashland VA LLC Registration Number: 53197 July 21, 2026 Page 11 
+
+primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) 
+
+24. Change of Ownership - In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the Piedmont Regional Office of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+25. Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1.  Plant name and location 
+
+2.  Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3.  Test Dates. 
+
+4.  Tester; name, address and report date 
+
+Certification 
+
+1.  Signed by team leader/certified observer (include certification date) 
+
+2.  Signed by responsible company official 
+
+3.  *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1.  Reason for testing 
+
+2.  Test dates 
+
+3.  Identification of unit tested & the maximum rated capacity 
+
+4.  *For each emission unit, a table showing: 
+
+a.  Operating rate 
+
+b.  Test Methods 
+
+c.  Pollutants tested 
+
+d.  Test results for each run and the run average 
+
+e.  Pollutant standard or limit 
+
+5.  Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6.  A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7.  Any other important information 
+
+Source Operation 
+
+1.  Description of process and control devices 
+
+2.  Process and control equipment flow diagram 
+
+3.  Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1.  Detailed test results for each run 
+
+2.  *Sample calculations 
+
+3.  *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1.  *Raw production data 
+
+2.  *Raw field data 
+
+3.  *Laboratory reports 
+
+4.  *Chain of custody records for lab samples 
+
+5.  *Calibration procedures and results 
+
+6.  Project participants and titles 
+
+7.  Observers’ names (industry and agency) 
+
+8.  Related correspondence 
+
+9.  Standard procedures 
+
+_____ 
+
+* Not applicable to visible emission evaluations

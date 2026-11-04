@@ -1,0 +1,39 @@
+.atlas-map-shell { position: relative; min-width: 0; min-height: 260px; width: 100%; height: 100%; background: var(--map-bg); overflow: hidden; }
+.atlas-map { width: 100%; height: 100%; min-height: 260px; background: var(--map-bg); z-index: 0; }
+/* Only imagery changes tone. Markers, labels, controls and attribution retain
+   their semantic foreground/surface colors and remain readable in either mode. */
+:root[data-theme='dark'] .atlas-map .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) saturate(.55) brightness(.8) contrast(.9); }
+.atlas-map .leaflet-control-attribution { color: var(--muted); background: var(--panel); font-size: 12px; line-height: 1.5; padding: 3px 7px; }
+.atlas-map .leaflet-control-attribution a { color: var(--blue); }
+.atlas-map .leaflet-bar { border: 0; box-shadow: var(--shadow); }
+.atlas-map .leaflet-bar a { border-color: var(--line); background: var(--panel); color: var(--text); width: 44px; height: 44px; line-height: 44px; }
+.atlas-map .leaflet-bar a:hover, .atlas-map .leaflet-bar a:focus { background: var(--hover); color: var(--blue); }
+.atlas-map .leaflet-bar a.leaflet-disabled { color: var(--dim); background: var(--bg-2); }
+.atlas-map .leaflet-control-zoom { margin-right: 12px; margin-bottom: 12px; }
+.atlas-map .leaflet-tooltip { background: var(--panel); color: var(--text); border: 0; border-radius: 6px; padding: 9px 12px; box-shadow: var(--shadow); font: 500 14px/1.5 var(--sans); white-space: normal; width: max-content; max-width: 260px; }
+.atlas-map .leaflet-tooltip-top::before { border-top-color: var(--panel); }
+.atlas-map .leaflet-tooltip-bottom::before { border-bottom-color: var(--panel); }
+.atlas-map .leaflet-tooltip-left::before { border-left-color: var(--panel); }
+.atlas-map .leaflet-tooltip-right::before { border-right-color: var(--panel); }
+.atlas-map .atlas-spider-leg { stroke: var(--muted); }
+.atlas-marker-wrap, .atlas-cluster-wrap { background: transparent; border: 0; display: flex; align-items: center; justify-content: center; }
+.atlas-marker { display: block; width: 16px; height: 16px; border: 2px solid var(--panel); border-radius: 50%; background: var(--action); box-shadow: 0 2px 6px rgb(4 39 81 / .3); }
+.atlas-marker--selected { width: 22px; height: 22px; background: var(--teal); outline: 2px solid var(--teal); outline-offset: 3px; }
+.atlas-cluster { display: grid; place-items: center; width: 40px; height: 40px; border: 2px solid var(--panel); border-radius: 50%; background: var(--action); color: var(--on-action); font: 700 14px/1 var(--sans); font-variant-numeric: tabular-nums; box-shadow: 0 2px 7px rgb(4 39 81 / .3); }
+.atlas-map-legend, .atlas-map-notice { position: absolute; z-index: 500; left: 12px; padding: 10px 12px; border-radius: 8px; background: var(--panel); color: var(--text-2); box-shadow: var(--shadow); font: 500 13px/1.5 var(--sans); }
+.atlas-map-legend { bottom: 31px; max-width: calc(100% - 84px); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.atlas-map-legend__dot { flex: none; width: 10px; height: 10px; background: var(--action); border-radius: 50%; }
+.atlas-map-legend__divider { color: var(--muted); }
+.atlas-map-notice { top: 125px; max-width: calc(100% - 24px); }
+@media (max-width: 1000px) {
+  .atlas-map-legend { font-size: 14px; line-height: 1.45; bottom: max(31px, env(safe-area-inset-bottom)); gap: 4px 8px; }
+  .atlas-map-legend__explanation { flex-basis: 100%; }
+  .atlas-map-legend__divider { display: none; }
+  .atlas-map-notice { top: 145px; font-size: 14px; }
+}
+@media (max-height: 480px) and (max-width: 1000px) {
+  .atlas-map-legend { padding: 6px 10px; font-size: 12px; }
+  .atlas-map-legend__explanation { flex-basis: auto; }
+  .atlas-map-legend__divider { display: inline; }
+  .atlas-map-notice { top: 90px; font-size: 12px; }
+}

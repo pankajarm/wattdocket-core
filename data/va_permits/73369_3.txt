@@ -1,0 +1,332 @@
+Title: New Dominion Technology Park, LLC - Stationary Source Permit to Modify and Operate
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/35473/639105417623670000
+
+Published Time: Tue, 31 Mar 2026 07:16:02 GMT
+
+Number of Pages: 13
+
+Markdown Content:
+Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+September 16, 2025 
+
+Shari Barnes Property Manager New Dominion Technology Park, LLC 499 Grove Street Herndon, VA 20170 
+
+Location: Fairfax County Registration No.: 73369 
+
+Dear Ms. Barnes: 
+
+Attached is a permit approval to construct and operate a project at an office building in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. This combined permit document supersedes your permit document dated September 26, 2007. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on July 30, 2025. 
+
+This permit document contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve New Dominion Technology Park, LLC of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the DEQ within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: Ms. Shari Barnes September 16, 2025 Page 2 
+
+Director Department of Environmental Quality 
+
+P.  O. Box 1105 Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact RJ Peters at (804) 845-6826 or 
+
+by email at rj.peters@deq.virginia.gov 
+
+Sincerely, 
+
+Justin A. Wilkinson Regional Air Permit Manager _____________________________________ 
+
+# Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO MODIFY AND OPERATE 
+
+This permit document supersedes your permit document dated September 26, 2007. In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, New Dominion Technology Park, LLC 499 Grove Street Herndon, VA 20170 is authorized to construct and operate diesel engine-generator sets located at 399 & 499 Grove Street 
+
+Herndon, VA 20170 in accordance with the Conditions of this permit. Approved on September 16, 2025. 
+
+Justin A. Wilkinson Regional Air Permit Manager, Department of Environmental Quality 
+
+Permit consists of 11 pages. 
+
+Permit Conditions 1 to 31. New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 2 
+
+INTRODUCTION 
+
+This permit approval is based on the permit applications dated May 4, 2006 and April 15, 2025 with supplemental information dated May 27, 2025, June 16, 2025, July 2023, 2025, and July 30, 2025. Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. 
+
+Words or terms used in this permit shall have meanings as provided in 9 VAC 5-80-1110 (definitions) and 9 VAC 5-10-20 of the State Air Pollution Control Board’s (Board) Regulations for the Control and Abatement of Air Pollution (Regulations). The regulatory reference or authority for each condition is listed in parentheses () after each condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 
+
+Equipment List - Equipment permitted at this facility consists of the following:           
+
+> Reference No. Equipment Description Rated Capacity Federal Requirements
+> NDIIG1 Detroit Diesel 1000DS4 1,340 BHP 1,000 kW
+> None
+> NDIIG2 Detroit Diesel 1000DS4 1,340 BHP 1,000 kW
+> None
+> NDIG1 Diesel Cummins Model KTA50 -
+> G3
+> 1,850 BHP 1,250 kW
+> None
+> NDIG2 Diesel Caterpillar 3508B 1,489 BHP 1,000 kW
+> None
+
+Specifications included in the permit under this Condition are for informational purposes only and do not form enforceable terms or conditions of the permit 
+
+PROCESS REQUIREMENTS 
+
+1.  Emission Controls – Combustion and visible emissions from the diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) shall be controlled by the use of good New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 3 
+
+operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted or authorized by the manufacturer, or in accordance with the manufacturer’s written recommendations, and do not affect the air emissions. (9VAC5-80-1180 and 9VAC5-50-260) [09/26/2007] 
+
+2.  Emission Controls - Visible emissions and nitrogen oxide (NOx) emissions from the diesel engine gen-sets (Unit Reference #s NDIG1 and NDIG2) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. (9VAC5-80-1180 and 9VAC5-50-260) [09/16/2025] 
+
+3.  Monitoring Devices - Each engine-generator set (Unit Reference #s NDIG1 and NDIG2) shall be equipped with a non-resettable hour metering device to monitor the operating hours. The non-resettable hour used to continuously measure the hours of operation for each engine-generator set shall be observed by the owner with a frequency of not less than once each day the engine-generator set is operated. The owner shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the engine-generator sets are operating. (9VAC5-80-1180 D) [09/16/2025] 
+
+OPERATING LIMITATIONS 
+
+4.  Operating Hours – The diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) shall not operate more than 500 hours per year each. The operating hours shall be calculated monthly as the sum of each consecutive twelve-month period. Compliance for the consecutive twelve-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding eleven months. (9VAC5-80-1180) [09/26/2007] 
+
+5.  Operating Hours – Each engine-generator set (Ref. Nos. NDIG1 and NDIG2) shall not operate more than 500 hours per year, calculated monthly as the sum of each consecutive 12 month period. Compliance for the consecutive 12 month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. (9VAC5-80-1180) [09/16/2025] New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 4 
+
+6.  Operation of the Diesel Engine-Generator Set - The permittee must operate and maintain each diesel engine-generator set (Ref. Nos. NDIIG1, NDIIG2, NDIG1, and NDIG2) device according to the manufacturer’s written instructions or according to procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted or authorized by the manufacturer, or in accordance with the manufacturer’s written recommendations, and do not impact on air emissions. (9VAC5-80-1180) [09/16/2025] 
+
+7.  Emergency Power Generation - The engine-generator sets (Ref. Nos. NDIG1 and NDIG2) shall only be operated in the following modes: 
+
+a.  In situations that arises from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i.  A failure of the electrical grid; 
+
+ii.  On-site disaster or equipment failure; or 
+
+iii.  Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b.  For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i.  An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii.  Capacity deficiency or capacity excess conditions; 
+
+iii.  A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv.  Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v.  An abnormal event external to the ISO service territory that may require ISO action. 
+
+c.  For periodic maintenance, testing, and operational training. 
+
+When changing from Emergency Power Generation to Non-Emergency (Alternate) Power Generation, the permittee shall submit appropriate documentation to the Department of New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 5 
+
+Environmental Quality (DEQ), and receive DEQ approval for the change in the method of operation of the engine-generator set to ensure that the facility remains in compliance with the appropriate permitting requirements. Total emissions for any 12 month period, calculated as the sum of all emissions from operations under the scenarios above, shall not 
+
+exceed the limits stated in Conditions 12, 14, and 15. 
+
+(9VAC5-80-1180) [09/16/2025] 
+
+8.  Approved Fuels – The approved fuel for the diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) is low sulfur diesel fuel. Upon receipt of this permit by the permittee, all shipments of diesel fuel for use in the diesel engine-generator sets shall meet 
+
+the specifications listed in Condition 10.  Use of a fuel not meeting the fuel specifications in 
+
+Condition 10 may require a permit to modify and operate. 
+
+(9VAC5-80-1180) [09/26/2007] 
+
+9.  Fuel - The approved fuel for the engine-generator sets (Ref. Nos. NDIG1 and NDIG2) is diesel fuel. The diesel fuel shall meet the ASTM D975 specification for S15 diesel fuel oil with a maximum sulfur content per shipment of 0.0015%. A change in the fuel shall be considered a change in the method of operation of the engine gen-sets and may require a new or amended permit. However, if a change in the fuel is not subject to new source review permitting requirements, this condition should not be construed to prohibit such a change. (9VAC5-80-1180) [09/16/2025] 
+
+10.  Fuel Specification – The diesel fuel oil used in the diesel engine-generator sets shall conform to the American Society for Testing and Materials (ASTM) specification D975, with sulfur content per shipment not to exceed 0.05% by weight (500 ppm). (9VAC5-80-1180) [09/26/2007] 
+
+11.  Fuel Certification - The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: 
+
+a.  The name of the fuel supplier; 
+
+b.  The date on which the diesel fuel oil was received; 
+
+c.  The quantity of diesel fuel oil delivered in the shipment; 
+
+d.  A statement that the diesel fuel oil conforms to the American Society for Testing and Materials (ASTM) specification D975; 
+
+e.  The sulfur content of the diesel fuel oil. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ may be used to determine compliance with the New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 6 
+
+fuel specifications stipulated in Condition 9 and 10.  Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. (9VAC5-80-1180) [09/16/2025] 
+
+EMISSION LIMITS 
+
+12.  Emission Limit – The total emissions of nitrogen oxides (NOx), expressed as nitrogen dioxide (NO 2), from the operation of NDIIG1 and NDIIG2 combined shall not exceed 18.1 tons per year. The NOx emissions shall be calculated using the following equation: 
+
+NOx Emissions (tons per year) = 
+
+36.2  lbs of NOx 1 ton 
+
+(Hours of operation for engines × ( )) ×
+
+Hour  2000 lbs 
+
+The NOx emissions shall be calculated monthly as the sum of each consecutive twelve -
+
+month period. Compliance for the consecutive twelve-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding eleven months. (9VAC5-80-1180) [09/26/2007] 
+
+13.  Short Term Emission Limits – Emissions from the operation of each diesel engine-generator set (Unit Reference #’s NDIIG1 and NDIIG2) shall not exceed the limits specified below: 
+
+Nitrogen Oxides (as NO 2) 36.2 lbs/hr 
+
+Carbon Monoxide (CO) 9.0 lbs/hr (9VAC5-80-1180) [09/26/2007] 
+
+14.  Emission Limit – Emissions from the operation of the Cummins Model KTA50-G3 Emergency Gen-Set (Ref No. NDIG1) shall not exceed the limits specified below: 
+
+Hourly Annual 
+
+Nitrogen Oxides 51.4 lbs/hr 12.8 tons/yr Carbon Monoxide (CO) 2.5 lbs/hr 0.6 tons/yr Sulfur Dioxide (SO 2) 2.3 lbs/hr 0.6 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be 
+
+determined as stated in Conditions 2, 5, 6, 9, and 11. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [09/16/2025] New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 7 
+
+15.  Emission Limit – Emissions from the operation of the Diesel Caterpillar 3508B (Unit Reference No. NDIG2) shall not exceed the limits specified below: 
+
+Hourly Annual 
+
+Nitrogen Oxides 22.7 lbs/hr 5.7 tons/yr Carbon Monoxide (CO) 27.9 lbs/hr 7.0 tons/yr Volatile Organic Compounds (VOCs) 3.3 lbs/hr 0.8 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be 
+
+determined as stated in Conditions 2, 5, 6, 9, and 11. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [09/16/2025] 
+
+16.  Visible Emission Limit – Visible emissions from the diesel engine-generator sets (Ref. Nos. NDIIG1 and NDIIG2) shall not exceed five percent opacity except during one six minute period in any one hour in which visible emissions shall not exceed ten percent opacity as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown, and malfunction. 
+
+During start-up and shut-down times, visible emissions from the diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) shall not exceed ten percent except during one six-minute period in any one hour in which visible emissions shall not exceed twenty percent opacity as determined by the EPA Method 9 (reference 40 CFR Part 60, Appendix A). (9VAC5-80-1180, 9VAC5-50-260 and 9VAC5-50-80) [09/27/2007] 
+
+17.  Visible Emission Limit - Visible emissions from each engine-generator set exhaust (Ref. Nos. NDIG1 and NDIG2) shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown and malfunction. (9VAC5-80-1180) [09/16/2025] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+18.  Stack Tests - Upon request by the DEQ, the permittee shall conduct additional performance testing of the diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO 
+
+at the address referenced in Condition 22. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [09/26/2007] New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 8 
+
+19.  Visible Emissions Evaluation - Upon request by the DEQ, the permittee shall conduct additional VEE’s of the diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) to demonstrate compliance with the visible emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance 
+
+Manager of the DEQ’s NRO at the address referenced in Condition 22. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [09/26/2007] 
+
+20.  Testing/Monitoring Ports – The engine gen-sets (Ref. Nos. NDIIG1 and NDIIG2) shall be constructed so as to allow for emissions testing and monitoring upon reasonable notice at any time, using appropriate methods. Test ports shall be provided when requested, at the appropriate locations or in accordance with the applicable performance specification. (9VAC5-50-30 F and 9VAC5-80-1180) [09/26/2007] 
+
+21.  Emissions Testing - The engine gen-sets (Ref. Nos. NDIG1 and NDIG2) shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. (9VAC5-50-30 F and 9VAC5-80-1180) [09/16/2025] 
+
+RECORDS 
+
+22.  All correspondence concerning this permit should be submitted to the following address: 
+
+Regional Air Compliance Manager Department of Environmental Quality NRO 13901 Crown Court Woodbridge, VA 22193 
+
+(9VAC5-50-50) [09/26/2007] 
+
+23.  On Site Records - The permittee shall maintain records of emission data and operating parameters, as necessary, to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s NRO at the address referenced in Condition 22.  These records shall include, but shall not be limited to: 
+
+a.  The annual hours of operation of each diesel engine-generator set (Unit Reference #’s NDIIG1, NDIIG2, NDIG1, and NDIG2), calculated monthly as the sum of each consecutive twelve-month period. Compliance for the consecutive twelve-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding eleven months. New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 9 
+
+b.  All fuel supplier certifications referred to in Condition 11. 
+
+c.  Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine-generator set. 
+
+d.  The manufacturer's written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each engine-generator set. 
+
+e.  Scheduled and unscheduled maintenance, and operator training for each diesel engine-generator set (Unit Reference #’s NDIIG1, NDIIG2, NDIG1, and NDIG2) in accordance with Condition 26. 
+
+f.  Monthly emissions calculation for the diesel engine-generator sets (Unit Reference #’s NDIIG1 and NDIIG2) as provided in Condition 12. Any alternatives to the emissions calculation in Condition 12 shall be approved in advance by the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+g.  Records of the manufacturer’s written operating and maintenance instructions or of procedures developed by the owner or operator that are authorized by the engine manufacturer. 
+
+h.  Records of changes in settings that are permitted by the manufacturer of the diesel engine-generator sets (Unit Reference #’s NDIIG1, NDIIG2, NDIG1, and NDIG2). 
+
+i.  Results of all stack tests and visible emission evaluations. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years. (9VAC5-80-1180 and 9VAC5-50-50) [09/16/2025] 
+
+GENERAL CONDITIONS 
+
+24.  Permit Suspension/Revocation - This permit may be suspended or revoked if the permittee: 
+
+a.  Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b.  Fails to comply with the conditions of this permit; 
+
+c.  Fails to comply with any emission standards applicable to a permitted an emissions unit, included in this permit; 
+
+d.  Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 10 
+
+e.  Fails to operate in conformance with any applicable control strategy, including any emission standards or emission limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+25.  Right of Entry - The permittee shall allow authorized local, state, and federal representatives, upon the presentation of appropriate credentials: 
+
+a.  To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b.  To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c.  To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d.  To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. (9VAC5-170-130 and 9VAC5-80-1180) 
+
+26.  Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions, with respect to process equipment which affect such emissions: 
+
+a.  Develop a maintenance schedule and maintain records of all scheduled and non -
+
+scheduled maintenance. 
+
+b.  Maintain an inventory of spare parts. 
+
+c.  Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. New Dominion Technology Park, LLC Registration Number: 73369 September 16, 2025 Page 11 
+
+d.  Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. (9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+27.  Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the record. (9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+28.  Notification for Facility or Control Equipment Malfunction - The permittee shall furnish notification to the DEQ NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the DEQ NRO. (9VAC5-20-180 C and 9VAC5-80-1180) 
+
+29.  Violation of Ambient Air Quality Standard - The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. (9VAC5-20-180 I and 9VAC5-80-1180) 
+
+30.  Change of Ownership - In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the Regional Air Compliance Manager of the DEQ’s NRO at the address 
+
+referenced in Condition 22 of the change of ownership within thirty days of the transfer. 
+
+(9VAC5-80-1240) 
+
+31.  Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility to which it applies. (9VAC5-80-1180)

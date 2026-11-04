@@ -1,0 +1,4 @@
+.site-footer { display:flex; flex-wrap:wrap; justify-content:space-between; gap:12px 24px; padding:22px max(20px,env(safe-area-inset-left)) max(22px,env(safe-area-inset-bottom)); border-top:1px solid var(--line); background:var(--panel); color:var(--muted); font:14px/1.6 var(--sans); }
+.site-footer nav { display:flex; flex-wrap:wrap; gap:4px 22px; }
+.site-footer a { display:inline-flex; align-items:center; min-height:44px; color:var(--blue); text-decoration:underline; text-underline-offset:3px; }
+.site-footer a:focus-visible { outline:3px solid var(--focus); outline-offset:3px; }

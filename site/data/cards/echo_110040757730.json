@@ -1,0 +1,171 @@
+{
+ "schema_version": "1.0",
+ "generated_by": "wattdocket.cards@0.1.0",
+ "as_of": "2026-10-29T02:39:29Z",
+ "facility": {
+  "id": "echo_110040757730",
+  "site_id": "echo:110040757730",
+  "name": "NORTHROP GRUMMAN SERVICES CORPORATION",
+  "operator": null,
+  "address": "12900 FEDERAL SYSTEMS PARK DR",
+  "city": "FAIRFAX",
+  "state": "VA",
+  "zip": "22033",
+  "lat": 38.85916,
+  "lon": -77.39273,
+  "naics": "518210",
+  "status": "unknown",
+  "class_label": "Virginia DEQ air-permitted data center (permit 73813-1)",
+  "class_verified": true,
+  "class_evidence": "Virginia DEQ, 'Issued Air Permits for Data Centers' registry \u2014 exact name match; permit document not text-extracted",
+  "site_permit_count": 1,
+  "sibling_ids": [],
+  "class_match_method": "exact_normalised_name",
+  "class_match_confidence": "registry_statement",
+  "permit_registrations": [
+   "73813-1"
+  ],
+  "permit_issued": "01/26/2011",
+  "permit_county": "Fairfax Co.",
+  "permit_program": "Article 5 - SOP",
+  "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25770/638628584702270000"
+ },
+ "grid": {
+  "subregion": "SRVC",
+  "subregion_name": "SERC Virginia/Carolina",
+  "utility": null,
+  "balancing_authority": null,
+  "rate_lb_per_mwh": 596.326,
+  "intensity_state": "PROVISIONAL",
+  "factor_set_id": "us-avg-2023.1",
+  "factor_set_sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+  "binding_method": "point_in_polygon"
+ },
+ "verdict": {
+  "sentence": "A modelled reference-size electrical load at this address: 15,402 t CO2e a year, with the range and the reason shown.",
+  "source": "template",
+  "degraded": false
+ },
+ "claims": [
+  {
+   "id": "power-mw",
+   "metric": "power_mw",
+   "value": 10.0,
+   "unit": "MW",
+   "badge": "ESTIMATED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10.0,
+    "p50": 10.0,
+    "p90": 10.0
+   },
+   "drivers": [],
+   "citations": [],
+   "calc_id": "reference_size@0.1.0",
+   "sources": 0,
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "carbon-t",
+   "metric": "carbon_t",
+   "value": 15401.639,
+   "unit": "t CO2e/yr",
+   "badge": "MODELED",
+   "provisional": true,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10662.7,
+    "p50": 15401.6,
+    "p90": 18955.9
+   },
+   "drivers": [],
+   "citations": [
+    {
+     "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+     "page": 1,
+     "line": 224,
+     "quote": "\"co2e_rate_lb_per_mwh\": 596.326",
+     "publisher": "US EPA",
+     "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+     "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+     "verified": true,
+     "verifier_version": "substring-1"
+    }
+   ],
+   "calc_id": "carbon@UNKNOWN@egrid2023rev2:8665e8cf9c7e",
+   "sources": 1,
+   "renderable": true,
+   "render_block_reason": "",
+   "chain": [
+    "10 MW reference capacity x 8760 h x 0.65 utilisation",
+    "= 56,940 MWh/yr",
+    "x 596.3 lb CO2e/MWh (eGRID2023, SRVC)",
+    "/ 2204.6226 lb per metric tonne = 15,402 t CO2e/yr"
+   ],
+   "transforms": [
+    "lb -> metric tonnes: divide by 2204.6226 (never 2000)",
+    "PUE not applied: capacity basis is not stated",
+    "storage excluded from the grid-intensity denominator",
+    "timestamps stored UTC; hour labels kept as published"
+   ],
+   "sensitivity": [
+    {
+     "label": "utilization 0.45",
+     "delta": "-31%"
+    },
+    {
+     "label": "utilization 0.80",
+     "delta": "+23%"
+    },
+    {
+     "label": "if IT basis, PUE 1.25",
+     "delta": "+25%"
+    },
+    {
+     "label": "marginal instead of average",
+     "delta": "+38%"
+    }
+   ]
+  },
+  {
+   "id": "diesel-mw",
+   "metric": "diesel_mw",
+   "unit": "MW",
+   "value": "NOT_PUBLISHED",
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [],
+   "citations": [],
+   "calc_id": null,
+   "chain": [],
+   "transforms": [],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "water-gal",
+   "metric": "water_gal",
+   "unit": "gal/day",
+   "value": "NOT_PUBLISHED",
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [],
+   "citations": [],
+   "calc_id": null,
+   "chain": [],
+   "transforms": [],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": "",
+   "note": "no US state requires facility-level operational water reporting"
+  }
+ ],
+ "hourly": null
+}

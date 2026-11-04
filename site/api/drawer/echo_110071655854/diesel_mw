@@ -1,0 +1,90 @@
+{
+ "claim_id": "diesel-mw",
+ "metric": "diesel_mw",
+ "label": "Diesel Mw",
+ "headline": "192",
+ "unit": "MW",
+ "badge": "REPORTED",
+ "provisional": false,
+ "p10": null,
+ "p50": null,
+ "p90": null,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 2,
+ "citation": {
+  "id": "diesel-mw-cit-0",
+  "claim_id": "diesel-mw",
+  "document_sha256": "",
+  "publisher": "Texas Commission on Environmental Quality",
+  "document_id": "",
+  "page": 2,
+  "line": "8",
+  "quote": "At full build-out, the facility features 86 diesel emergency generators to provide backup electr",
+  "matched_text": "At full build-out, the facility features",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "substring-1",
+  "url": null
+ },
+ "extra_citations": [
+  {
+   "id": "diesel-mw-cit-1",
+   "claim_id": "diesel-mw",
+   "document_sha256": "",
+   "publisher": "Texas Commission on Environmental Quality",
+   "document_id": "",
+   "page": 9,
+   "line": "27",
+   "quote": "Kilowatts = Power rating is greater than 2237 KW. AECD = The CI ICE is no",
+   "matched_text": "Kilowatts = Power rating is greater than",
+   "verified": true,
+   "verified_at_utc": "2026-10-29T02:39:29Z",
+   "verifier_version": "substring-1",
+   "url": null
+  }
+ ],
+ "chain": {
+  "calc_id": "calc:diesel:tceq_notice_38602sob.pdf",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "86 emergency generators (permit, cited)",
+    "kind": "call"
+   },
+   {
+    "line": "x 2,237 kW per unit (permit says 'greater than', so this is a floor)",
+    "kind": "compute"
+   },
+   {
+    "line": "= 192 MW of backup diesel capacity, at least",
+    "kind": "compute"
+   },
+   {
+    "line": "this is installed capacity, not run hours: it is not an emission",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "kW -> MW",
+   "value": "divide by 1000"
+  },
+  {
+   "label": "reported as a lower bound because the permit states 'greater than'",
+   "value": ""
+  }
+ ],
+ "sensitivity": [
+  {
+   "label": "at 100 hr/yr per unit (TCEQ emergency limit)",
+   "delta": "\u2248 0.7% of annual grid MWh",
+   "tone": "flat"
+  }
+ ],
+ "drivers": [
+  "86 generators named in the state air permit"
+ ]
+}

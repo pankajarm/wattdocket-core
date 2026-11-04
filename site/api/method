@@ -1,0 +1,57 @@
+{
+ "as_of": "2026-10-29T02:39:27Z",
+ "calc_version": "wattdocket@0.1.0",
+ "receipts": [
+  {
+   "publisher": "WattDocket (compiled from EPA/EIA national averages)",
+   "url": "https://www.epa.gov/egrid",
+   "sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+   "note": "sha256 of canonical_json"
+  }
+ ],
+ "rule_zero": "the model reads and cites; it never computes",
+ "mass_unit": "metric tonne",
+ "lb_per_metric_tonne": 2204.622621848776,
+ "intensity_note": "PROVISIONAL until settled by CEMS or Open Grid Emissions; three plausible tables move the level ~20% while the hourly ratio stays ~1.75x",
+ "factor_sets": [
+  {
+   "id": "us-avg-2023.1",
+   "published_by": "WattDocket (compiled from EPA/EIA national averages)",
+   "effective_date": "2023-12-31",
+   "url": "https://www.epa.gov/egrid",
+   "sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+   "lb_per_mwh": {
+    "coal": 2249.0,
+    "gas": 1135.0,
+    "oil": 1672.0,
+    "nuclear": 0.0,
+    "wind": 0.0,
+    "solar": 0.0,
+    "hydro": 0.0,
+    "other": 0.0
+   },
+   "canonical_json": "{\"coal\":2249.0,\"gas\":1135.0,\"hydro\":0.0,\"nuclear\":0.0,\"oil\":1672.0,\"other\":0.0,\"solar\":0.0,\"wind\":0.0}",
+   "note": "PROVISIONAL until settled by CEMS or Open Grid Emissions; three plausible tables move the level ~20% while the hourly ratio stays ~1.75x"
+  }
+ ],
+ "invariants": [
+  "INV-1 metric tonnes from pounds (divide 2204.6226, never 2000)",
+  "INV-2 timestamps stored UTC; a 25-hour DST day cannot shift joins",
+  "INV-3 hour convention explicit per source (EIA-930 is hour-ending)",
+  "INV-4 PUE applied only to IT-basis capacity",
+  "INV-5 battery storage excluded from the intensity denominator",
+  "INV-6 a provisional intensity carries its factor-set hash",
+  "INV-7 no claim renders without a verified citation or a calc id",
+  "INV-8 an empty lookup is 'not reported', never zero",
+  "INV-9 water is never a scalar",
+  "INV-10 model prose may only restate computed values"
+ ],
+ "change_log": [
+  {
+   "factor_set_id": "us-avg-2023.1",
+   "sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+   "effective_date": "2023-12-31",
+   "change": "initial published table"
+  }
+ ]
+}

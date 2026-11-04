@@ -1,0 +1,25 @@
+.operator-access { max-width:1210px; margin:0 auto; padding:clamp(44px,7vw,100px) 28px; display:grid; grid-template-columns:minmax(0,1fr) minmax(320px,440px); gap:clamp(40px,7vw,100px); align-items:start; }
+.operator-access__intro h1 { max-width:620px; margin:0 0 24px; font:600 clamp(36px,4.5vw,60px)/1.1 var(--display); letter-spacing:-.03em; color:var(--text); text-wrap:balance; }
+.operator-access__intro > p { max-width:60ch; color:var(--muted); font-size:19px; line-height:1.65; }
+.operator-access__rule { width:52px; height:3px; background:var(--teal); margin:36px 0 24px; }
+.operator-access__intro .operator-access__note { font-size:16px; max-width:48ch; }
+.operator-access__card { padding:32px; background:var(--panel); border:1px solid var(--line); border-radius:12px; }
+.operator-access__card h2 { margin:0 0 14px; font:600 28px/1.25 var(--display); letter-spacing:-.02em; color:var(--text); }
+.operator-access__card p { color:var(--muted); font-size:16px; line-height:1.65; }
+.operator-access__card .operator-access__fine { font-size:14px; margin-bottom:24px; }
+.operator-access__card .operator-access__error { color:var(--red); }
+.operator-access__card a { display:inline-flex; align-items:center; min-height:44px; color:var(--blue); font-size:16px; font-weight:600; line-height:1.5; }
+.nav__signout { border:0; padding:0; background:none; color:inherit; font:inherit; cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
+.operator-access__providers { display:grid; gap:12px; margin:26px 0 18px; }
+.operator-access__provider { min-height:54px; display:grid; grid-template-columns:24px minmax(0,1fr) 18px; align-items:center; gap:12px; width:100%; padding:14px 16px; border:1px solid var(--control-border); border-radius:8px; background:var(--panel); color:var(--text-2); font:inherit; font-size:16px; font-weight:600; text-align:left; line-height:1.4; cursor:pointer; }
+.operator-access__provider:hover:not(:disabled) { background:var(--hover); border-color:var(--blue); }
+.operator-access__provider:focus-visible { outline:3px solid var(--blue); outline-offset:3px; }
+.operator-access__provider:disabled { opacity:.6; cursor:not-allowed; }
+.operator-access__provider--cognito { border-color:var(--action); background:var(--action); color:var(--on-action); }
+.operator-access__provider--cognito:hover:not(:disabled) { background:var(--action); border-color:var(--action); filter:brightness(.94); }
+.operator-access__google,.operator-access__mail { width:22px; height:22px; }
+.operator-access__google { padding:2px; background:#fff; border-radius:50%; }
+.operator-access__facebook { display:grid; place-items:end center; overflow:hidden; width:22px; height:22px; border-radius:50%; background:#1877f2; color:#fff; font:700 21px/20px Arial,sans-serif; }
+.operator-access__arrow { width:18px; height:18px; }
+@media(max-width:900px) { .operator-access { grid-template-columns:minmax(0,1fr); padding:36px 20px max(64px, env(safe-area-inset-bottom)); gap:28px; } .operator-access__intro h1 { max-width:20ch; font-size:clamp(32px,7vw,46px); margin:0 0 20px; } .operator-access__intro > p { font-size:18px; } .operator-access__rule { margin:24px 0 18px; } .operator-access__card { padding:24px; } .operator-access__card p { font-size:18px; } .operator-access__card .operator-access__fine { font-size:16px; } }
+@media(max-width:380px) { .operator-access { padding-left:16px; padding-right:16px; } .operator-access__card { padding:20px; } .operator-access__provider { gap:8px; padding:14px 12px; } }

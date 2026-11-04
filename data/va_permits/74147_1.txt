@@ -1,0 +1,474 @@
+Title: KM_C554e-20200226132406
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25849/638628764147670000
+
+Published Time: Wed, 25 Sep 2024 14:53:34 GMT
+
+Number of Pages: 13
+
+Markdown Content:
+> Matthew J. Strickler
+> SecretaryofNatural Resources
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+> NORTHERNREGIONALOFFICE
+> 13901 Crown Court, Woodbridge, Virginia 22193
+
+(703)583-3800FAX(703) 583-3821 
+
+> www. deq. virginia. gov
+
+February 26, 2020  
+
+> David K. Paylor
+> Director
+> (804) 698-4000
+> Thomas A. Faha
+> Regional Director
+> Ms. Shannon L. Casebolt
+
+Environmental Compliance Manager 
+
+Equinix, LLC 
+
+21701 FiligreeCt. 
+
+Ashburn, VA20147 
+
+Location: Loudoun County 
+
+Registration No. : 74147 
+
+> Dear Ms. Casebolt:
+
+Attached is an administrative and a minor amendment to your new source review permit dated December 21, 2005 to construct and operate a data center located at 21830 Uunet Way, Ashburn, Virginia 20147 (Loudoun County) in accordance with the provisions of the Virginia Regulations for the Control and Abatement ofAir Pollution. This amended permit supersedes 
+
+your permit dated December 21 , 2005. These permit amendments reflect the splitting of the permitted equipment in the December 21, 2005 mNSR permit into three permit documents, two 
+
+of which undergoing subsequent change of ownerships (Registration Nos. 72367 and 74179). The Department of Environmental Quality (DEQ) deemed the application complete on December 9, 2019. This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully 
+
+This permit approval to construct and operate shall not relieve Equinix, LLC of the 
+
+responsibility to comply with all other local, state, and federal permit regulations. To review any federal rules referenced in the above paragraph or in the attached permit, 
+
+the US Government Publishing Office maintains the text of these rules atwww. ecfr. gov, Title 40, 
+
+Part63. ~ -----------... "-.,.... -. -, 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-
+
+170-200 provide that you may request a formal hearing from this case decision by filing a 
+
+petition with the Board within 30 days afterthis case decision notice was mailed or delivered to 
+
+you. Please consult the relevant regulations for additional requirements for such requests. Ms. Shannon L. Casebolt 
+
+> February26, 2020 Page 2
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+David K. Paylor, Director Department of Environmental Quality P. O. Box 1105 Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the 30-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appealsfrom decisions of administrative agencies. If you have any questions concerning this permit, please contact Ms. Sevgi Rudd at 
+
+(703) 583-3806 or via e-mail at sevai. rudd@dea.virainia.aov Sincerely, 
+
+> Juj&tTn A. Wilkinson
+
+regional Air Permit Manager 
+
+TAF/JAW/SCR/(2020-2-26) 74147 mNSR Permit  
+
+> Attachment: Permit
+
+ec: RegionalAir Compliance Manager(electronic file submission) Matthew J. Strickler  
+
+> SecretaryofNatural Resources
+
+# VIRGINIADEPARTMENT OF ENVIRONMENTALQUALITY 
+
+> NORTHERNREGIONALOFFICE
+
+13901 CrownCourt, Woodbridge,Virginia22193 (703)583-3800 FAX (703) 583-3821 
+
+> www. deq. virginia. gov
+> David K. Paylor
+> Director
+> (804) 698-4000
+> Thomas A. Faha
+> RegionalDirector
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This amended permit document supersedes the permit document dated December 21. 2005. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution, Equinix, LLC 
+
+21701 FiligreeCt. 
+
+Ashburn, VA20147 Registration No. : 74147 is authorized to construct and operate 
+
+located at 
+
+emergency diesel enginegeneratorsets (gen-sets) 
+
+Equinix, LLC 
+
+21830UunetWay 
+
+Ashburn, VA20147 (Loudoun County) in accordance with the Conditions of this permit. 
+
+December 21, 2005 
+
+February 26, 2020 Approved on: 
+
+Amended on: Thomas A. Faha 
+
+Regional Director 
+
+Permit consists of 9 pages (w/o the attachment). 
+
+Permit Conditions 1 to 17. 
+
+Attachment A - Source Testing Report Format (1 page) Equinix, LLC Registration Number: 74147 December 21, 2005, as amended February 26, 2020 Page 2 
+
+INTRODUCTION This permit approval is based on the permit application dated November 20, 2017 with 
+
+supporting documents dated Novembers, 2018, July 17, 2019, July 22, 2019, September20, 
+
+2019, and December 9, 2019; the permit application dated September 14, 2005, with supporting 
+
+documents dated October 10, 2005 and October 19, 2005; and the permit application dated December 7, 1999, with supporting documents dated January10, 2000, February3, 2000, 
+
+March 15, 2000, May 12, 2000, June 7, 2000, September 22, 2000, October 9, 2000, October 18, 2000, November 1, 2000, November 6, 2000 and November 8, 2000, including amendment 
+
+information dated August2, 2001 and August 18, 2001; and also the permit application dated March 22, 1999, with supporting documents dated April 16, 1999, May 4, 1999 and May 5, 
+
+1999. Any changes in the permit application specifications or any existing facilities, which alter the 
+
+impactof the facilityon air quality, may require a permit. Failure to obtain such a permit prior to 
+
+construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each 
+
+> condition.
+
+Annual requirements to fulfill legal obligationsto maintain current stationary source emissions 
+
+data will necessitate a prompt response by the permittee to requests by the Department of 
+
+Environmental Quality(DEQ)or the Boardfor information to include, as appropriate: process 
+
+and production data; changes in control equipment; and operating schedules. Such requests for information from DEQ will either be in writing or by personal contact. The availability of information submitted to DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2. 2-3700 through 2. 2-3714 of the Code of 
+
+Virginia, § 10. 1-1314(addressing information provided to the Board) of the Code of Virginia, and 9 VAC 5-170-60of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentialityof 
+
+> such information.
+
+Equipment List - Equipment at this facility covered by this permit consists of:  
+
+> Reference No.
+
+Equipment Description Rated Capacity Delegated Federal 
+
+> Requirements
+
+EG-1 through EG-8 Eight (8) Cummins QSK60-G6 emergency diesel engine gen-sets 
+
+2, 922 bhp 
+
+2, 000 ekW 
+
+> (each unit) None
+
+Specifications included in the table above are for informational purposes only and do not form 
+
+enforceable terms or conditions of the permit. Equinix, LLC Registration Number: 74147 December 21, 2005, as amended February 26, 2020 Page3 
+
+> PROCESS REQUIREMENTS
+
+1. Emissions Controls - Nitrogen oxide (NOx) emissions from the eight (8) Cummins QSK60-G6 emergency diesel engine gen-sets (Ref. Nos. EG-1 through EG-8) shall be controlled by 
+
+> Onan's low emission version.
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 2. Testing/Monitoring Ports - The permitted facility shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. Test ports shall be provided when requested in accordance with the applicable performance test methods (reference 40 CFR Part60, AppendixA) shall be provided. (9 VAC 5-50-30 F and 9 VAC 5-80-1180) 3. Monitoring Devices -Each Cummins QSK60-G6 emergency diesel engine gen-sets (Ref. Nos. EG-1 through EG-8) shall be equipped with a non-resettable hour metering device to monitor the operating hours. The non-resettable hour meter used to continuously measure the hours of operation for each emergency diesel engine gen-set shall be observed by the owner with a frequency of not less than once each day the respective emission unit is operated. The owner shall  
+
+> keep a log of these observations.
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and operated in accordancewith approved procedures, whichshall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequateaccessfor inspection and shall be in operation when the diesel  
+
+> engine gen-set is operating.
+
+(9 VAC 5-80-1180 D) Equinix, LLC Registration Number: 74147 December 21 2005, as amended February 26, 2020 Page 4 
+
+OPERATING LIMITATIONS 
+
+4. Operating Hours - Each Cummins QSK60-G6 emergency diesel engine gen-set (Ref. Nos. EG-1 through EG-8) shall not operate more than 150 hours per year, calculated monthly as 
+
+the sum of each consecutive 12-month period. 
+
+Compliancefor the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendarmonth to the individual monthly totals for 
+
+the preceding 11 months. 
+
+(9 VAC 5-80-1180) 5. Fuel Specifications - The approved fuel for the Cummins QSK60-G6 emergency diesel 
+
+engine gen-sets (Ref. Nos. EG-1 through EG-8) is diesel fuel oil. The diesel fuel oil shall 
+
+> meet the specifications below:
+
+ULTRA LOWSULFURDIESELFUELOIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975grade2-DS15, or, 
+
+b. Has a maximum sulfur content not to exceed 0. 0015% by weight(15 ppm), and either a 
+
+minimum cetane number of forty or maximum aromatic content of thirty-five volume 
+
+> percent.
+
+Exceedanceof these specifications may be considered credible evidence of an exceedance 
+
+of emission limits. A change in the fuel type or the fuel sulfur content may require a permit 
+
+to modify and operate. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 6. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Eachfuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier;  
+
+> b. The date on which the diesel fuel was received;
+
+c. The quantity of diesel fuel delivered in the shipment; d. A statement that the diesel fuel complies with the requirements of Condition 5. 
+
+Alternatively, the permittee shall obtain approval from the Air Compliance Managerof DEQ Northern Regional Office (NRO), if other documentwill be used to certify the diesel fuel oil 
+
+type. 
+
+Fuel sampling and analysis, independentof that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel 
+
+specifications stipulated in Condition 5. 
+
+(9 VAC 5-80-1180) Equinix, LLC Registration Number: 74147  
+
+> December 21 2005, as amended February 26, 2020
+> Page 5
+
+EMISSION LIMITS 
+
+> 7.
+
+8. Emission Limits - Emissions from the operation of the Cummins QSK60-G6emergency diesel engine gen-sets (Ref. Nos. EG-1 through EG-8) shall not exceed the limits specified 
+
+> below:
+
+Nitrogen Oxides (as N02) Carbon Monoxide (CO) 
+
+35. 43 Ib/hr (each) 8. 37 Ib/hr(each) 
+
+Volatile Organic Compounds (VOCs) 2. 58 Ib/hr (each) 21. 26 tons/yr (combined) 5. 02 tons/yr (combined) 1. 55 tons/yr (combined) 
+
+> These emissions are derived from the estimated overall emission contribution from
+
+operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be 
+
+> determined as stated in Conditions 4 and 5.
+
+(9 VAC 5-80-1180and 9 VAC 5-50-260) 
+
+Visible Emission Limit - Visible emissions from each Cummins QSK60-G6 emergency diesel engine gen-set (Ref. Nos. EG-1 through EG-8) shall not exceed 20 percent opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 30 percent opacity as determined by EPA Method 9 (reference 40 CFR 60, AppendixA). This condition applies at all times except during startup, shutdown and 
+
+> malfunction.
+
+(9 VAC 5-80-1180and 9 VAC 5-50-260) Equinix, LLC Registration Number: 74147 December 21 2005, as amended February 26, 2020 Page 6 
+
+RECORDSAND REPORTING 
+
+9. On Site Records - The permittee shall maintain records of emission data and operating 
+
+parameters as necessary to demonstrate compliance with this permit. The content and 
+
+format of such records shall be arrangedwith the Air Compliance Managerof DEQ NRO. 
+
+> These records shall include, but are not limited to:
+
+a. A monthly log of monitoring device observations. 
+
+b. Monthly and annual hours of operation of each Cummins QSK60-G6emergency diesel 
+
+engine gen-set (Ref. Nos. EG-1 through EG-8), calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be 
+
+demonstrated monthly by addingthe total for the most recently completed calendar 
+
+month to the individual monthly totals for the preceding 1 1 months. c. Monthly and annual emission calculations for NOx (as N02), emitted from the Cummins 
+
+QSK60-G6emergency diesel engine gen-sets (Ref. Nos. EG-1 through EG-8), 
+
+calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for 
+
+the most recently completed calendarmonth to the individual monthly totals for the 
+
+preceding 11 months. d. All fuel supplier certifications.  
+
+> e. Results of all stack tests and visible emission evaluations.
+
+f. Scheduled and unscheduled maintenance and operator training. These records shall be available for inspection by DEQ and shall be current for the most recent five years. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-50) Equinix, LLC Registration Number: 74147   
+
+> December21, 2005, as amended February26, 2020
+> Page?
+> GENERAL CONDITIONS
+
+10. Permit Suspension/Revocation - This permit may be suspended or revoked if the 
+
+> permittee:
+
+a. Knowinglymakes material misstatements in the permit application or any amendments 
+
+> to it;
+
+b. Fails to comply with the conditions of this permit; c. Fails to comply with any emission standards applicableto a permitted emissions unit;  
+
+> d. Causes emissions from the stationary source which result in violations of, or interfere
+
+with the attainment and maintenanceof, any ambient air quality standard; or e. Fails to operate in conformance with any applicable control strategy, including any emission standardsor emissions limitations, in the State Implementation Plan in effect at 
+
+> the time an application for this permit is submitted.
+
+(9VAC5-80-1210G)     
+
+> 11 Right of Entry - The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials:
+
+a. To enter upon the permittee's premises on whichthe facility is located or in which any records are required to be kept underthe terms and conditionsof this permit; b. To have access to and copy at reasonable times any records required to be kept under    
+
+> the terms and conditions of this permit or the State Air Pollution Control Board Regulations;
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and    
+
+> d. To sample or test at reasonable times.
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or wheneverthe facility is in operation. Nothing contained herein shall make an inspection time unreasonableduring an emergency (9 VAC 5-170-130 and 9 VAC 5-80-1180) Equinix, LLC Registration Number: 74147 December 21, 2005, as amended February 26, 2020 Page8 
+
+12. Maintenance/Operating Procedures - At all times, including periods ofstart-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practicesfor minimizing emissions.        
+
+> The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: a. Develop a maintenance schedule and maintain records of all scheduled and non-
+> scheduled maintenance.
+> b. Maintain an inventory of spare parts.
+
+c. Have available written operating procedures for equipment. These procedures shall be   
+
+> based on the manufacturer's recommendations, at a minimum. d. Train operators in the proper operation of all such equipment and familiarize the
+
+operators with the written operating procedures, priorto theirfirst operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. Records of maintenance and training shall be maintained on site for a period of five years and shall be made availableto DEQ personnel upon request. (9 VAC 5-50-20 E and 9 VAC 5-80-1180 D)   
+
+> 13. Record of Malfunctions - The permittee shall maintain records of the occurrence and
+
+duration of any bypass, malfunction, shutdown or failure of the facilityor its associated air 
+
+> pollution control equipment that results in excess emissions for more than one hour.
+
+Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the 
+
+> record.
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 14. Notification for Facility or Control Equipment Malfunction - The permittee shall furnish notificationto the Air Compliance Managerof DEQ NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. Whenthe condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Air 
+
+> Compliance Manager of DEQ NRO.
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) Equinix, LLC Registration Number: 74147   
+
+> December21, 2005, as amended February26, 2020
+> Page 9
+
+15. Violation of Ambient Air Quality Standard - The permittee shall, upon request of DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambientair quality standard and shall not return to normal operation until such time 
+
+> as the ambient air quality standard will not be violated.
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) 16. Change of Ownership - In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new ownershall notify the Air Compliance Managerof DEQ NROof the changeof    
+
+> ownership within 30 days of the transfer.
+
+(9 VAC 5-80-1240) 17. Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility  
+
+> to which it applies.
+
+(9 VAC 5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT Report Cover  
+
+> 1. Plant name and location
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registratic 
+
+3. Test Dates. 
+
+4. Tester; name, address and report date 
+
+> Certification
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. *Signed by reviewer 
+
+Copy of Approved Test Protocol 
+
+Summary 1. 2. 3. 
+
+> 4.
+
+Reason for testing 
+
+> Test dates
+
+Identification of unit tested & the maximum rated capacity 
+
+*For each emission unit, a table showing: 
+
+a. Operating rate   
+
+> b. Test Methods c. Pollutants tested
+
+d. Test results for each run and the run average  
+
+> e. Pollutant standard or limit
+
+## 5. Summarized process and control equipment data for each run and the average, as required by the test 
+
+> protocol
+
+6-. A statement that test was conducted in accordance with the test protocol or identification & discussion 
+
+of deviations, including the likely impact on results 
+
+7. Any other important information Source Operation 1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section. Attached protocol includes: sketch of 
+
+stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances 
+
+## and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering 
+
+the stack and stack diameter or dimensions  
+
+> Test Results 1. Detailed test results for each run
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include audits when applicable 
+
+Appendix 1. *Raw production data 2. *Rawfield data laboratory reports 
+
+*Chain of custody records for lab samples 
+
+*Calibration procedures and results Project participants and titles 
+
+Observers' names (industry and agency) 
+
+Related correspondence Standard procedures 3. 4. 5. 6. 7. 8. 9. Not applicable to visible emission evaluations

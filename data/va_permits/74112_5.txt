@@ -1,0 +1,1158 @@
+Title: Iron Mountain Information Management, LLC - Stationary Source Permit to Construct and Operate
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25827/639123668253970000
+
+Published Time: Tue, 21 Apr 2026 10:13:45 GMT
+
+Number of Pages: 28
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+April 18, 2026 
+
+Mr. Jeremiah Mitchell 
+
+Senior Manager, Data Center Operations 
+
+Iron Mountain Information Management, LLC 
+
+11680 Hayden Road 
+
+Manassas, VA 20109 
+
+Location: Prince William County 
+
+Registration No.: 74112 
+
+Dear Mr. Mitchell: 
+
+Attached is a permit approval to construct and operate emissions units at a data center in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. This combined permit document supersedes your permit document dated October 16, 2024. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on April 9, 2026. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Iron Mountain Information Management, LLC of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed diesel fired emergency engine generator sets (engine gen-sets) may be subject to 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The Department of Environmental Quality (DEQ) advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you may be also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. Mr. Jeremiah Mitchell April 18, 2026 Page 2 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and 63. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Cameron Stewart at (571) 866-6093 or  cameron.stewart@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+justin.wilkinson@deq.virginia.gov 
+
+Northern Regional Office 
+
+13901 Crown Court, Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/CLS/74112 mNSR (2026-04-18) 
+
+Attachment: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes your permit document dated October 16, 2024. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Iron Mountain Information Management, LLC 
+
+1101 Enterprise Drive 
+
+Royersford, PA 19468 
+
+Registration No.: 74112 
+
+is authorized to construct and operate 
+
+emergency diesel engine gen-sets 
+
+located at 
+
+Iron Mountain Information Management, LLC 
+
+VA1 11680 Hayden Road, Manassas, VA 20109 
+
+VA2 11660 Hayden Road, Manassas, VA 20109 
+
+VA3 11640 Hayden Road, Manassas, VA 20109 
+
+VA6 7745 Wellington Road, Manassas, VA 20109 
+
+VA7 8330 Bethlehem Road, Manassas, VA 20109 
+
+VA8/9 TBD Wellington Road, Manassas, VA 20109 
+
+VA10 11451 Hayden Rd, Manassas, VA 20109 
+
+in accordance with the Conditions of this permit document. 
+
+Approved on April 18, 2026. 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Permit consists of  26  pages. 
+
+Permit Conditions 1 to  30 .
+
+Attachments: Attachment A – Source Testing Report Format Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 4 
+
+INTRODUCTION 
+
+This permit document is based on, and combines permit terms and conditions in accordance with 9VAC5-80-1255 from, the following permit approvals and the respective permit applications: 
+
+Permit Program: Approval/Amendment Date 
+
+Application/Letter Signature Date 
+
+Application Supplemental Information Date 
+
+Minor NSR: 
+
+December 22, 2016  August 17, 2016  September 23, 2016 
+
+Minor NSR: June 3, 2019  January 25, 2019  February 18, 2019 March 4, 2019 
+
+Minor NSR Significant Amendment: March 4, 2022  December 15, 2021  February 14, 2022 
+
+Minor NSR: 
+
+October 16, 2024 
+
+September 12, 2023 
+
+January 19, 2024 
+
+October 16, 2023 
+
+October 18, 2023 
+
+December 13, 2023 
+
+May 17, 2024 
+
+May 24, 2024 
+
+May 29, 2024 
+
+July 11, 2024 
+
+September 27, 2024 
+
+Minor NSR: 
+
+April 18, 2026  April 10, 2025 
+
+May 9, 2025 
+
+September 3, 2025 
+
+November 24, 2025 
+
+February 16, 2026 
+
+April 9, 2026 
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-10-20 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition and the most recent effective date (if different from the date of this combined permit) for a term or condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 5 
+
+with 9VAC5-80-1120 F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 
+
+Equipment List – Equipment at this facility consists of: 
+
+Equipment to be Constructed: 
+
+Ref No(s).  Equipment Description  Rated Capacity  Referenced Federal Requirements 
+
+Original Permit Date 
+
+71 through 85 
+
+Fifteen (15) Cummins C3000 D6e (Model QSK95-G9) emergency diesel engine gen-sets 
+
+4,309 bhp 
+
+3,000 ekW 
+
+(each unit) 
+
+None  April 18, 2026 
+
+LS-6 
+
+One (1) MTU 16V2000 DS1000 (Model 16V2000G86S) emergency diesel engine gen-set 
+
+1,839 bhp 
+
+1,000 ekW  None  April 18, 2026 
+
+LS-10 
+
+One (1) Cummins 275DQDAB (Model QSL9-G7 NR3) emergency diesel engine gen-set 
+
+418 bhp 
+
+275 ekW  None  April 18, 2026 Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 6 
+
+Previously Permitted Equipment: 
+
+Ref. No(s).  Equipment Description  Rated Capacity  Referenced Federal Requirements 
+
+Original Permit Date 
+
+1 through 21 
+
+Twenty-one (21) MTU 20V4000 DS3000 (Model 20V4000G83L) emergency diesel engine gen-sets 
+
+4,678 bhp 3,000 ekW (each unit) 
+
+None  June 3, 2019 
+
+4C1, 4C2, 4C3, 4C4, 4C5, 4C6, 4C7, and 4R1 
+
+Eight (8) Caterpillar 3516C emergency diesel engine gen-sets 
+
+3,634 bhp 2,500 ekW (each unit) 
+
+None 
+
+December 22, 2016 (amended June 3, 2019) 
+
+4H 
+
+One (1) Caterpillar C9 emergency diesel engine gen-set 
+
+398 bhp 
+
+250 ekW  None 
+
+December 22, 2016 (amended June 3, 2019) 
+
+22 through 45 and 
+
+51 through 70 
+
+Forty-four (44) Caterpillar C175-16 emergency diesel engine gen-sets 
+
+4,423 bhp 
+
+3,000 ekW 
+
+(each unit) 
+
+None  October 16, 2024 
+
+46 through 50 
+
+Five (5) MTU 20V4000 DS3000 (Model 20V4000G83L) emergency diesel engine gen-sets 
+
+4,678 bhp 3,000 ekW (each unit) 
+
+None  October 16, 2024 
+
+86 through 114 
+
+Twenty-nine (29) 
+
+Caterpillar C175-16 emergency diesel engine gen-sets 
+
+or 
+
+Cummins C3000 D6e (Model QSK95-G9) emergency diesel engine gen-sets 
+
+4,423 bhp 
+
+3,000 ekW 
+
+(each unit) 
+
+or 
+
+4,309 bhp 
+
+3,000 ekW 
+
+(each unit) 
+
+None  October 16, 2024 
+
+LS-2 
+
+One (1) MTU 12V1600 DS600 emergency diesel engine gen-set 
+
+896 bhp 
+
+667 ekW  None  October 16, 2024 Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 7 
+
+Ref. No(s).  Equipment Description  Rated Capacity  Referenced Federal Requirements 
+
+Original Permit Date 
+
+LS-3 and LS-7 
+
+Two (2) Caterpillar 3512C emergency diesel engine gen-sets 
+
+2,206 bhp 
+
+1,500 ekW 
+
+(each unit) 
+
+None  October 16, 2024 
+
+LS-8 
+
+One (1) Caterpillar C32 emergency diesel engine gen-set 
+
+1,483 bhp 
+
+1,000 ekW  None  October 16, 2024 
+
+4C8  One (1) Caterpillar 3516C emergency diesel engine gen-set 
+
+3,634 bhp 2,500 ekW  None  October 16, 2024 
+
+Specifications included in the above tables are for informational purposes only and do not form enforceable terms or conditions of the permit. 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from the emergency diesel engine gen-sets shall be controlled by the following: 
+
+a. Nitrogen oxides (NO X) emissions from each emergency diesel engine gen-set (Ref. Nos. 1 through 21, 4C1 through 4C7, 4H, and 4R1) shall be controlled by electronic fuel injection, turbocharged engines, and aftercoolers. The permittee shall maintain documentation that demonstrates the control devices have been installed on each emergency diesel engine gen-set. 
+
+b. Nitrogen oxides (NO X) emissions from the emergency diesel engine-gen-sets (Ref. Nos. 22 through 114, LS-2, LS-3, LS-6, LS-7, LS-8, LS-10, and 4C8) shall be controlled by engine design. 
+
+c. Visible emissions, particulate matter emissions (PM 10 and PM 2.5 ), carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, and nitrogen oxide (NO X) emissions from the emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and does not increase air emissions. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [4/18/2026] 
+
+2. Monitoring Devices – Each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) shall be equipped with a non-resettable hour metering device to monitor the operating hours. The non-Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 8 
+
+resettable hour meter used to continuously measure the hours of operation for each engine gen-set shall be observed by the owner with a frequency of not less than once each day the emergency diesel engine gen-set is operated. The owner shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the emergency diesel engine gen-sets are operating. 
+
+(9VAC5-80-1180 D) [4/18/2026] 
+
+OPERATING/EMISSION LIMITATIONS 
+
+3. Operation of the Emergency Diesel Engine Gen-Sets – The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) and control device according to the 
+
+manufacturer ’s written instructions, or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) [4/18/2026] 
+
+4. Operating Limitations (Ozone Season) – No emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing, or operation training (that involves fuel combustion) between the hours of 7 AM to 5 PM any day during May 1 through September 30. The permittee may petition the 
+
+Regional Air Compliance Manager of DEQ’s N orthern Regional Office (NRO), for exceptions to this requirement, with approvals made on a case-by-case basis. 
+
+(9VAC5-80-1180) [4/18/2026] 
+
+5. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10), any operation of the unit (that involves fuel combustion) between the hours of 7 AM to 5 PM any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website ( http://airnow.gov ) for 
+
+Northern Virginia for that day is ≤100. In the event that AirNow-EnviroFlash (www.enviroflash.info) issues an Air Alert for Metropolitan Washington, D.C. for a day 
+
+which the forecasted AQI for ozone was 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) [4/18/2026] Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 9 
+
+6. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+d. For unscheduled maintenance, testing, and operational training. 
+
+e. For the integration operational period, which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source ’s electrical system. 
+
+(9VAC5-80-1180) [4/18/2026] Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 10 
+
+7. Operating Hours – The operating hours of the emergency diesel engine gen-sets are limited to the following: 
+
+a. The MTU 20V4000 DS3000 emergency diesel engine gen-sets (Ref. Nos. 1 through 21 and 46 through 50) combined shall not operate more than 644 hours per year and each emergency diesel engine gen-set (Ref. Nos. 1 through 21 and 46 through 50) shall not operate more than 500 hours per year for all purposes as provided in Condition  6.
+
+b. The Caterpillar C175-16 emergency diesel engine gen-sets (Ref. Nos. 22 through 45 and 51 through 70) combined shall not operate more than 1,232 hours per year and each emergency diesel engine gen-set (Ref. Nos. 22 through 45 and 51 through 70) shall not operate more than 500 hours per year for all purposes as provided in Condition  6.
+
+c. The Caterpillar C175-16 or Cummins C3000 D6e emergency diesel engine gen-sets (Ref. Nos. 86 through 114) combined shall not operate more than 812 hours per year and each emergency diesel engine gen-set (Ref. Nos. 86 through 114) shall not operate more than 500 hours per year for all purposes as provided in Condition  6.
+
+d. The Cummins C3000 D6e emergency diesel engine gen-sets (Ref. Nos. 71 through 85) combined shall not operate more than 420 hours per year for all purposes as provided in Condition  6.
+
+e. The MTU 12V1600 DS600 emergency diesel engine gen-set (Ref. No. LS-2) shall not operate more than 24 hours per year for all purposes as provided in Condition  6.
+
+f. The Caterpillar 3512C emergency diesel engine gen-sets (Ref. Nos. LS-3 and LS-7) combined shall not operate more than 80 hours per year for all purposes as provided in Condition  6.
+
+g. The MTU 16V2000 DS1000 emergency diesel engine gen-set (Ref. No. LS-6) shall not operate more than 40 hours per year for all purposes as provided in Condition  6.
+
+h. The Caterpillar C32 emergency diesel engine gen-set (Ref. No. LS-8) shall not operate more than 40 hours per year for all purposes as provided in Condition  6.
+
+i. The Cummins DQDAB emergency diesel engine gen-set (Ref. No. LS-10) shall not operate more than 40 hours per year for all purposes as provided in Condition  6.
+
+j. The Caterpillar 3516C emergency diesel engine gen-sets (Ref. Nos. 4C1 through 4C8 and 4R1) combined shall not operate more than 216 hours per year for all purposes as provided in Condition  6.Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 11 
+
+k. The Caterpillar C9 emergency diesel engine gen-set (Ref. No. 4H) shall not operate more than 24 hours per year for all purposes as provided in Condition  6.
+
+The annual limits for hours of operation shall be calculated daily as the sum of each 365-day period. Compliance for each consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [4/18/2026] 
+
+8. Operating Hours (Scheduled MCRT) – The operating hours of the emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) are limited to the following: 
+
+a. Each individual emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) shall not operate more than 22 hours per year for scheduled maintenance checks and readiness testing (Scheduled MCRT, as provided in Condition 6.c). 
+
+The annual limits for hours of operation shall be calculated daily as the sum of each 365-day period. Compliance for each consecutive 365-day period shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+(9VAC5-80-1180) [4/18/2026] 
+
+9. Fuel Specification – The approved fuel for the emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) is diesel fuel oil. The diesel fuel oil shall meet the ASTM D975 specification for S15 diesel fuel oil with a maximum sulfur content per shipment of 0.0015%. A change in the fuel may require a new or amended permit. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [4/18/2026] 
+
+10. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; and 
+
+d. A statement that the diesel fuel: 
+
+i. Complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 12 
+
+ii. Has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee must obtain approval from the Regional Air Compliance Manager of the DEQ's NRO, if other documentation will be used to certify the diesel fuel oil type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ may be used to determine compliance with the fuel specifications stipulated in Condition  9. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. 
+
+(9VAC5-80-1180) [4/18/2026] 
+
+EMISSION LIMITS 
+
+11. Emission Limits (Hourly) – Emissions from the operation of each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) permit shall not exceed the limits specified below: 
+
+Pollutant 
+
+Ref. Nos. 1 through 21 and 46 through 50 
+
+MTU 20V4000 DS3000 
+
+(each unit) 
+
+Ref. Nos. 22 through 45 and 51 through 70 
+
+Caterpillar C175-16 
+
+(each unit) 
+
+Ref. Nos. 71 through 85 
+
+Cummins C3000 D6e 
+
+(each unit) 
+
+Ref. No. LS-2 
+
+MTU 12V1600DS600 
+
+Ref. Nos. 
+
+LS-3 and LS-7 Caterpillar 3512C 
+
+(each unit) 
+
+Nitrogen Oxides 
+
+(as NO 2) 61.91 lb/hr  58.51 lb/hr  49.49 lb/hr  11.83 lb/hr  29.18 lb/hr 
+
+Carbon Monoxide (CO)  10.00 lb/hr  6.05 lb/hr  1.99 lb/hr  1.10 lb/hr  4.24 lb/hr 
+
+Volatile Organic Compounds (VOC) 
+
+2.80 lb/hr  2.87 lb/hr  0.95 lb/hr  0.46 lb/hr  0.81 lb/hr 
+
+Particulate Matter (PM 10 ) 1.33 lb/hr  1.50 lb/hr  0.60 lb/hr  0.22 lb/hr  0.43 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.33 lb/hr  1.50 lb/hr  0.60 lb/hr  0.22 lb/hr  0.43 lb/hr Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 13 
+
+Pollutant 
+
+Ref. No. LS-6 
+
+MTU 16V2000 DS1000 
+
+Ref. No. LS-8 Caterpillar C32 
+
+Ref. No. LS-10 
+
+Cummins 275DQDAB 
+
+Ref. Nos. 4C1 through 4C8 and 4R1 
+
+Caterpillar 3516C (each unit) 
+
+Ref. No. 4H Caterpillar C9 
+
+Nitrogen Oxides 
+
+(as NO 2) 24.23 lb/hr  19.52 lb/hr  3.93 lb/hr  42.61 lb/hr  2.76 lb/hr 
+
+Carbon Monoxide (CO)  2.66 lb/hr  2.78 lb/hr  1.47 lb/hr  3.36 lb/hr  0.50 lb/hr 
+
+Volatile Organic Compounds (VOC) 
+
+0.70 lb/hr  0.34 lb/hr  0.07 lb/hr  0.92 lb/hr  0.19 lb/hr 
+
+Particulate Matter (PM 10 ) 0.17 lb/hr  0.26 lb/hr  0.08 lb/hr  0.51 lb/hr  0.14 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.17 lb/hr  0.26 lb/hr  0.08 lb/hr  0.51 lb/hr  0.14 lb/hr 
+
+Pollutant 
+
+Ref. Nos. 86 through 114 
+
+Caterpillar C175-16 
+
+(each unit) 
+
+Cummins C3000 D6e 
+
+(each unit) 
+
+Nitrogen Oxides (as NO 2) 58.51 lb/hr  49.49 lb/hr 
+
+Carbon Monoxide (CO)  6.05 lb/hr  1.99 lb/hr 
+
+Volatile Organic Compounds (VOC)  2.87 lb/hr  0.95 lb/hr 
+
+Particulate Matter (PM 10 ) 1.50 lb/hr  0.60 lb/hr 
+
+Particulate Matter (PM 2.5 ) 1.50 lb/hr  0.60 lb/hr 
+
+Compliance with these emission limits shall be based on the proper operation and maintenance of the emergency diesel engine gen-sets or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [4/18/2026] Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 14 
+
+12. Emission Limits (Annual) – Total emissions from the emergency diesel engine gen-sets shall not exceed the limits specified below: 
+
+Pollutant 
+
+Ref. Nos. 1 through 21 and 46 through 50 
+
+(All Units Combined) 
+
+Ref. Nos. 22 through 45 and 51 through 70 
+
+(All Units Combined) 
+
+Nitrogen Oxides 
+
+(as NO 2) 19.94 tpy  36.04 tpy 
+
+Carbon Monoxide (CO)  3.22 tpy  3.73 tpy 
+
+Volatile Organic Compounds (VOC)  0.90 tpy  1.77 tpy 
+
+Particulate Matter (PM 10 ) 0.43 tpy  0.92 tpy 
+
+Particulate Matter (PM 2.5 ) 0.43 tpy  0.92 tpy 
+
+Pollutant  Ref. Nos. 71 through 85 
+
+(All Units Combined) 
+
+Ref. Nos. 4C1 through 4C8 and 4R1 (All Units Combined) 
+
+Nitrogen Oxides 
+
+(as NO 2) 10.39 tpy  4.60 tpy 
+
+Carbon Monoxide (CO)  0.42 tpy  0.36 tpy 
+
+Pollutant 
+
+Ref. Nos. 
+
+LS-3 and LS-7 
+
+(All Units Combined)  Ref. No. LS-6  Ref. No. LS-8 
+
+Nitrogen Oxides 
+
+(as NO 2) 1.17 tpy  0.48 tpy  0.39 tpy 
+
+Pollutant  Ref. Nos. 86 through 114 
+
+(All Units Combined) 
+
+Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10 
+
+(All Units Combined) 
+
+Nitrogen Oxides 
+
+(as NO 2) 23.76 tpy  97.02 tpy 
+
+Carbon Monoxide (CO)  2.46 tpy  10.51 tpy Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 15 
+
+Pollutant  Ref. Nos. 86 through 114 
+
+(All Units Combined) 
+
+Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10 
+
+(All Units Combined) 
+
+Volatile Organic Compounds (VOC)  1.17 tpy  4.19 tpy 
+
+Particulate Matter (PM 10 ) 0.61 tpy  2.18 tpy 
+
+Particulate Matter (PM 2.5 ) 0.61 tpy  2.18 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1, 7, and  11 .
+
+(9VAC5-80-1180) [4/18/2026] 
+
+13. Visible Emission Limit – Visible emissions from each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) exhaust shall not exceed 5% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 10% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during startup, shutdown and malfunction. 
+
+During startup and shutdown, visible emissions from each emergency diesel engine gen-set shall not exceed 10% opacity except during one 6-minute period in any one hour in which visible emissions shall not exceed 20% opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [4/18/2026] 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+14. Stack Test – Initial performance tests shall be conducted on nine (9) of the forty-four (44) Caterpillar C175-16 emergency diesel engine gen-sets (Ref. Nos. 22 through 45 and 51 through 70), on three (3) of the fifteen (15) Cummins C3000 D6e emergency diesel engine gen-sets (Ref. Nos. 71 through 85), and on two (2) of the five (5) MTU 20V4000 DS3000 emergency diesel engine gen-sets (Ref. Nos. 46 through 50) for NO X (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance 
+
+Manager of the DEQ’s NRO to determine compliance with the emission limits contained in 
+
+Condition  11 .
+
+a. Emissions testing of each pollutant for each selected emergency diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 16 
+
+runs shall be reported as the short-term emission rate for that emergency diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency diesel engine gen-set to demonstrate compliance with the NO X and CO emission limits specified in Condition  11 . Testing shall be conducted with the emergency diesel engine gen-set 
+
+operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is 
+
+approved by DEQ; 
+
+c. Recorded emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air 
+
+Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely 
+
+manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee 
+
+shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [4/18/2026] Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 17 
+
+15. Stack Test – Initial performance tests shall be conducted on at least twenty percent (20%) of the units installed for each type of engine model (Caterpillar C175-16 and Cummins C3000 D6e) of the twenty-nine (29) emergency diesel engine gen-sets (Ref. Nos. 86 through 114) for NO X (as NO 2) and CO using appropriate EPA reference methods as 
+
+approved by the Regional Air Compliance Manager of the DEQ’s NRO to determine 
+
+compliance with the emission limits contained in Condition  11 .
+
+a. Emissions testing of each pollutant for each selected emergency diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that emergency diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency diesel engine gen-set to demonstrate compliance with the NO X and CO emission limits specified in Condition  11 . Testing shall be conducted with the emergency diesel engine gen-set 
+
+operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is 
+
+approved by DEQ; 
+
+c. Recorded emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output. 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air 
+
+Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely 
+
+manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee 
+
+shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 18 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results 
+
+shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [10/16/2024] 
+
+16. Visible Emissions Evaluation – Concurrent with the initial performance tests required in Conditions  14  and  15 , Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the emergency diesel engine gen-sets selected for initial performance testing. The details of the tests are to be arr anged with the Regional Air Compliance Manager of DEQ’s NRO. The permittee 
+
+shall submit a VEE protocol in conjunction with the initial stack test protocol required by Conditions  14  and  15 , at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Regional Air 
+
+Compliance Manager of the DEQ’s NRO shall be notified in writing, within seven (7) 
+
+days, and visible emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be conducted under the same operating conditions as the initial performance tests. 
+
+b. Two (2) copies of the test result (one (1) hard copy and one (1) electronic copy) shall 
+
+be submitted to the Regional Air Compliance Manager of the DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [4/18/2026] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+17. Facility Construction – The emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. This includes constructing the facility/equipment such that volumetric flow rates and pollutant emission rates can be determined by applicable test methods and providing a stack or duct that is free from cyclonic flow. Sampling ports shall be provided when requested at the appropriate locations and safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [4/18/2026] 
+
+18. Emission Testing/Visible Emissions Evaluation – Upon request by the DEQ, the permittee shall conduct stack tests and/or visible emission evaluations of the emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) to demonstrate compliance with the emission limits Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 19 
+
+contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ ’s NRO. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [4/18/2026] 
+
+RECORDS 
+
+19. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the DEQ's NRO. These records shall include, but are not limited to: 
+
+a. Documentation from the manufacturer that each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4R1, LS-2, LS-3, LS-6, LS-7, and LS-8) is certified to meet the EPA Tier II emission standards 
+
+b. Documentation from the manufacturer that each emergency diesel engine gen-set (Ref. Nos. 4H and LS-10) is certified to meet the EPA Tier III emission standards 
+
+c. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each emergency diesel engine gen-set. 
+
+d. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+e. Records of unscheduled maintenance and operator training. 
+
+f. Records as required by Condition  25 .
+
+g. A log of the monitoring device observations as required by Condition  2.
+
+h. Records of the reasons for operation for each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+i. Records for emergency diesel engine gen-set (Ref. Nos.1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) operations, as necessary, to demonstrate compliance with the operating limitations of Condition  4, which includes but is not limited to: times, dates, and reasons for operation of each emergency diesel engine gen-set that was operating between May 1 and September 30. 
+
+j. To verify compliance with Condition  5, maintain records for emergency diesel engine gen-sets (Ref. No. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) of. Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 20 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that an emergency diesel engine gen-set operated during the integration operational period; 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that the emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by AirNow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours and duration. 
+
+k. Daily and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) calculated daily as the sum of each consecutive 365-day period. 
+
+l. Daily and annual hours of combined operation of the MTU 20V4000 emergency diesel engine gen-sets (Ref. Nos. 1 through 21 and 46 through 50), calculated daily as the sum of each consecutive 365-day period to demonstrate compliance with Condition  7.a .
+
+m. Daily and annual hours of combined operation of the Caterpillar C175-16 emergency diesel engine gen-sets (Ref. Nos. 22 through 45 and 51 through 70), calculated daily as the sum of each consecutive 365-day period to demonstrate compliance with Condition  7.b .
+
+n. Daily and annual hours of combined operation of the Caterpillar C175-16 or Cummins C3000 D6e emergency diesel engine gen-sets (Ref. Nos. 86 through 114), calculated daily as the sum of each consecutive 365-day period to demonstrate compliance with Condition  7.c .
+
+o. Daily and annual hours of combined operation of the Cummins C3000 D6e emergency diesel engine gen-sets (Ref. Nos. 71 through 85), calculated daily as the sum of each consecutive 365-day period to demonstrate compliance with Condition  7.d .
+
+p. Daily and annual hours of combined operation of the Caterpillar 3512C emergency diesel engine gen-sets (Ref. Nos. LS-3 and LS-7), calculated daily as the sum of each consecutive 365-day period to demonstrate compliance with Condition  7.f .
+
+q. Daily and annual hours of combined operation of the Caterpillar 3516C emergency diesel engine gen-sets (Ref. Nos. 4C1 through 4C8 and 4R1), calculated daily as the sum of each consecutive 365-day period to demonstrate compliance with Condition 
+
+7.j .Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 21 
+
+r. Daily and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10) for purposes of scheduled maintenance checks and readiness testing (Scheduled MCRT), calculated daily as the sum of each consecutive 365-day period. 
+
+s. Annual emissions calculations for NO X (as NO 2), CO, VOC, PM 10, and PM 2.5 from the emergency diesel engine gen-sets (Ref. Nos. 1 through 114, 4C1 through 4C8, 4H, 4R1, LS-2, LS-3, LS-6, LS-7, LS-8, and LS-10), to verify compliance with the ton/yr emissions limitations in Condition  12 , with annual emissions calculated daily as the sum of each consecutive 365-day period. 
+
+t. All fuel supplier certifications. 
+
+u. The manufacturer ’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each emergency diesel engine gen-set. 
+
+v. Results of all stack tests and visible emission evaluations. 
+
+w. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets. 
+
+Compliance for each consecutive 365-day period (as applicable for the items above) shall be demonstrated daily by adding the total for the most recently completed calendar day to the individual daily totals for the preceding 364 days. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [4/18/2026] 
+
+NOTIFICATIONS 
+
+20. Initial Notifications – The permittee shall furnish written notification of the items below to 
+
+the Regional Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit notification(s) for each building containing the information as described below: Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 22 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets (Ref. Nos. 22 through 114, LS-3, LS-6, LS-7, LS-8, and LS-10) commenced in each building, within thirty (30) days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and 
+
+iv. The date installation commenced. 
+
+b. The start and end dates of the integration operational period for each emergency diesel engine gen-set (Ref. Nos. 22 through 114, LS-3, LS-6, LS-7, LS-8, and LS-10) within fifteen (15) days after the last engine gen-set at each building completes its integration operational period. If a period of construction is paused or halted for ≥45 days, this 
+
+notification shall be provided to the DEQ within fifteen (15) days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as the period of time beginning with the first time the affected unit is started on-site and ending 
+
+when the affected unit is fully integrated with the source’s electrical system. 
+
+(9VAC5-50-50) [4/18/2026] 
+
+21. Initial Notifications – The permittee shall furnish written notification for emergency diesel engine gen-sets (Ref. No. 1 through 21) of the items below to the Regional Air Compliance Manager of the DEQ's NRO at the following address: 
+
+Regional Air Compliance Manager Department of Environmental Quality 13901 Crown Court 
+
+Woodbridge, VA 22193 Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 23 
+
+The permittee shall submit one notification for each building or construction phase containing information on each emergency engine gen-set as described below: 
+
+a. The actual date on which installation of the emergency diesel engine generators in the building, or phase, commenced within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; and 
+
+iii. The date construction commenced. 
+
+b. The date that the integration operational period started for each emergency diesel engine gen-set within 15 days after the last generator at each building, or construction phase, completes its integration operational period. If a period of construction is paused or halted for 45 days this notification shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed engine generator set. The notification must contain the following: 
+
+i. Engine information including make model, engine family, serial number, model year, maximum engine power; 
+
+ii. Installation date; and 
+
+iii. Integration operational period start and end dates. 
+
+For the purpose of this notification the integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. In no case shall this period exceed 30 days. 
+
+(9VAC5-50-50) [10/16/2024] 
+
+GENERAL CONDITIONS 
+
+22. Permit Invalidation – This permit to construct the emergency diesel engine gen-sets shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the 
+
+“Original Permit Date” listed in the Equipment List .Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 24 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time, except for a DEQ approved period between phases of the phased construction of a new stationary source or project. 
+
+(9VAC5-80-1210) 
+
+23. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+24. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 25 
+
+25. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated monitoring devices and air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+26. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shut-down or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+27. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Regional Air Compliance Manager of the DEQ ’s NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Regional Air Compliance Manager of the DEQ ’s NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) Iron Mountain Information Management, LLC Registration Number: 74112 April 18, 2026 Page 26 
+
+28. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) 
+
+29. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the Northern Regional Office of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+30. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT 
+
+Report Cover  
+
+> 1.
+
+Plant name and location  
+
+> 2.
+
+Units tested at source (indicate Ref. No. used by source in permit or registration)  
+
+> 3.
+
+Test Dates.  
+
+> 4.
+
+Tester; name, address and report date 
+
+Certification  
+
+> 1.
+
+Signed by team leader/certified observer (include certification date)  
+
+> 2.
+
+Signed by responsible company official  
+
+> 3.
+
+*Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity 
+
+4. *For each emission unit, a table showing:  
+
+> a.
+
+Operating rate  
+
+> b.
+
+Test Methods  
+
+> c.
+
+Pollutants tested  
+
+> d.
+
+Test results for each run and the run average  
+
+> e.
+
+Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7. Any other important information 
+
+Source Operation  
+
+> 1.
+
+Description of process and control devices  
+
+> 2.
+
+Process and control equipment flow diagram  
+
+> 3.
+
+Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results  
+
+> 1.
+
+Detailed test results for each run  
+
+> 2.
+
+*Sample calculations  
+
+> 3.
+
+*Description of collected samples, to include audits when applicable 
+
+Appendix  
+
+> 1.
+
+*Raw production data  
+
+> 2.
+
+*Raw field data  
+
+> 3.
+
+*Laboratory reports  
+
+> 4.
+
+*Chain of custody records for lab samples  
+
+> 5.
+
+*Calibration procedures and results  
+
+> 6.
+
+Project participants and titles  
+
+> 7.
+
+Observers' names (industry and agency)  
+
+> 8.
+
+Related correspondence  
+
+> 9.
+
+Standard procedures 
+
+* Not applicable to visible emission evaluations

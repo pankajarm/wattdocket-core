@@ -1,0 +1,19 @@
+{
+ "id": "us-avg-2023.1",
+ "published_by": "WattDocket (compiled from EPA/EIA national averages)",
+ "effective_date": "2023-12-31",
+ "url": "https://www.epa.gov/egrid",
+ "sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+ "lb_per_mwh": {
+  "coal": 2249.0,
+  "gas": 1135.0,
+  "oil": 1672.0,
+  "nuclear": 0.0,
+  "wind": 0.0,
+  "solar": 0.0,
+  "hydro": 0.0,
+  "other": 0.0
+ },
+ "canonical_json": "{\"coal\":2249.0,\"gas\":1135.0,\"hydro\":0.0,\"nuclear\":0.0,\"oil\":1672.0,\"other\":0.0,\"solar\":0.0,\"wind\":0.0}",
+ "note": "PROVISIONAL until settled by CEMS or Open Grid Emissions; three plausible tables move the level ~20% while the hourly ratio stays ~1.75x"
+}

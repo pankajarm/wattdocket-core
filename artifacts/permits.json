@@ -1,0 +1,196 @@
+{
+  "source": "state air permits, text-extracted; page numbers derived from search",
+  "records": [
+    {
+      "file": "tceq_amazon_ale60_pbr164110.pdf",
+      "sha256": "017f85b531cf2d0792c49a16e8d9fd4accc5228aaf78edee11c72bb0d474371b",
+      "pages": 2,
+      "identity": {
+        "company": "Amazon Data Services, Inc.",
+        "registration": "164110",
+        "county": "Bexar",
+        "city": "San Antonio",
+        "address": "7400 Potranco Road"
+      },
+      "street_key": "7400 potranco",
+      "equipment": []
+    },
+    {
+      "file": "tceq_compass_dfr3_o4679.pdf",
+      "sha256": "7a94476e920f5ec974992422b12954eb33f79d17309c1a72fdc01f0e2817c2ad",
+      "pages": 214,
+      "identity": {
+        "permit_no": "O4679"
+      },
+      "street_key": null,
+      "equipment": [
+        {
+          "metric": "backup_generator_count",
+          "value": 2,
+          "unit": "generators",
+          "citation": {
+            "document_sha256": "7a94476e920f5ec974992422b12954eb33f79d17309c1a72fdc01f0e2817c2ad",
+            "document": "tceq_compass_dfr3_o4679.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 31,
+            "line": 16,
+            "quote": "EMGEN1 OP-UA2 Emergency Generator 1 Group ENG1a 106.511/9/",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        }
+      ]
+    },
+    {
+      "file": "tceq_notice_38600sob.pdf",
+      "sha256": "a865790be4eaecaf880e658cb613a98ca84c20651d82f9406e78d8aa130dd063",
+      "pages": 14,
+      "identity": {
+        "permit_no": "O4790",
+        "county": "Bexar",
+        "city": "San Antonio",
+        "address": "5207 Rogers Road"
+      },
+      "street_key": "5207 rogers",
+      "equipment": [
+        {
+          "metric": "generator_unit_rating_kw",
+          "value": 2237.0,
+          "unit": "kW per unit (lower bound \u2014 the permit says 'greater than')",
+          "citation": {
+            "document_sha256": "a865790be4eaecaf880e658cb613a98ca84c20651d82f9406e78d8aa130dd063",
+            "document": "tceq_notice_38600sob.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 9,
+            "line": 27,
+            "quote": "Kilowatts = Power rating is greater than 2237 KW. AECD = The CI ICE is no",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        }
+      ]
+    },
+    {
+      "file": "tceq_notice_38602sob.pdf",
+      "sha256": "54df19e97269de647a16841a876978a3dec944ff14a5a3fef4f28e22cbe13cf0",
+      "pages": 14,
+      "identity": {
+        "permit_no": "O4791",
+        "county": "Bexar",
+        "city": "San Antonio",
+        "address": "14720 Omicron Dr"
+      },
+      "street_key": "14720 omicron",
+      "equipment": [
+        {
+          "metric": "backup_generator_count",
+          "value": 86,
+          "unit": "generators",
+          "citation": {
+            "document_sha256": "54df19e97269de647a16841a876978a3dec944ff14a5a3fef4f28e22cbe13cf0",
+            "document": "tceq_notice_38602sob.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 2,
+            "line": 8,
+            "quote": "At full build-out, the facility features 86 diesel emergency generators to provide backup electr",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        },
+        {
+          "metric": "generator_unit_rating_kw",
+          "value": 2237.0,
+          "unit": "kW per unit (lower bound \u2014 the permit says 'greater than')",
+          "citation": {
+            "document_sha256": "54df19e97269de647a16841a876978a3dec944ff14a5a3fef4f28e22cbe13cf0",
+            "document": "tceq_notice_38602sob.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 9,
+            "line": 27,
+            "quote": "Kilowatts = Power rating is greater than 2237 KW. AECD = The CI ICE is no",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        }
+      ]
+    }
+  ],
+  "matches": {
+    "echo_110071655854": {
+      "file": "tceq_notice_38602sob.pdf",
+      "sha256": "54df19e97269de647a16841a876978a3dec944ff14a5a3fef4f28e22cbe13cf0",
+      "identity": {
+        "permit_no": "O4791",
+        "county": "Bexar",
+        "city": "San Antonio",
+        "address": "14720 Omicron Dr"
+      },
+      "equipment": [
+        {
+          "metric": "backup_generator_count",
+          "value": 86,
+          "unit": "generators",
+          "citation": {
+            "document_sha256": "54df19e97269de647a16841a876978a3dec944ff14a5a3fef4f28e22cbe13cf0",
+            "document": "tceq_notice_38602sob.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 2,
+            "line": 8,
+            "quote": "At full build-out, the facility features 86 diesel emergency generators to provide backup electr",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        },
+        {
+          "metric": "generator_unit_rating_kw",
+          "value": 2237.0,
+          "unit": "kW per unit (lower bound \u2014 the permit says 'greater than')",
+          "citation": {
+            "document_sha256": "54df19e97269de647a16841a876978a3dec944ff14a5a3fef4f28e22cbe13cf0",
+            "document": "tceq_notice_38602sob.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 9,
+            "line": 27,
+            "quote": "Kilowatts = Power rating is greater than 2237 KW. AECD = The CI ICE is no",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        }
+      ]
+    },
+    "echo_110072155814": {
+      "file": "tceq_notice_38600sob.pdf",
+      "sha256": "a865790be4eaecaf880e658cb613a98ca84c20651d82f9406e78d8aa130dd063",
+      "identity": {
+        "permit_no": "O4790",
+        "county": "Bexar",
+        "city": "San Antonio",
+        "address": "5207 Rogers Road"
+      },
+      "equipment": [
+        {
+          "metric": "generator_unit_rating_kw",
+          "value": 2237.0,
+          "unit": "kW per unit (lower bound \u2014 the permit says 'greater than')",
+          "citation": {
+            "document_sha256": "a865790be4eaecaf880e658cb613a98ca84c20651d82f9406e78d8aa130dd063",
+            "document": "tceq_notice_38600sob.pdf",
+            "publisher": "Texas Commission on Environmental Quality",
+            "page": 9,
+            "line": 27,
+            "quote": "Kilowatts = Power rating is greater than 2237 KW. AECD = The CI ICE is no",
+            "label": "",
+            "page_derivation": "text search over extracted page text",
+            "verified": true
+          }
+        }
+      ]
+    }
+  }
+}

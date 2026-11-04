@@ -1,0 +1,601 @@
+Title: Cardinal Energy Corporation
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/32400/638989963108100000
+
+Published Time: Mon, 17 Nov 2025 17:11:50 GMT
+
+Number of Pages: 14
+
+Markdown Content:
+October 2, 2025 
+
+Mr. William Cridlin 
+
+Manager 
+
+Middletown Data Center 
+
+8209 Valley Pike 
+
+Middletown, Virginia 22665 
+
+Bill_cridlin@cardinalenergycorp.com 
+
+Location: Frederick County 
+
+Registration No.: 80941 
+
+Dear Mr. Cridlin: 
+
+Attached is a permit document to construct and operate a project involving one natural gas-fired engine-generator set in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. This permit document combines the terms and conditions from and supersedes your minor New Source Review (NSR) permit dated July 11, 2019. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on August 22, 2025. 
+
+This permit document contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and civil penalty. Please read all permit conditions carefully. 
+
+This permit document approval to construct and operate shall not relieve Cardinal Energy Corporation of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The generator authorized by this permit is subject to 40 CFR 60, New Source Performance Standards (NSPS), Subpart JJJJ and 40 CFR 63, Maximum Achievable Control Technology Standards (MACT), Subpart ZZZZ. Virginia has not accepted delegation of these rules. The unit is required to comply with certain federal emission standards and operating limitations. 
+
+# Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+Mr. William Cridlin 
+
+October 2, 2025 
+
+Page 2 
+
+DEQ advises you to review the referenced NSPS and MACT to ensure compliance with applicable emissions standards and operational limitations. As the owner/operator you are also responsible for any monitoring, testing, notification, reporting and recordkeeping requirements of the NSPS and MACT. Notifications and reports shall be sent to the EPA. 
+
+The Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the DEQ within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit document or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit document was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit document, please contact Debbie Medlin at 540-217-7071 or  debbie.medlin@deq.virginia.gov .
+
+Sincerely, 
+
+Trevor H. Wallace, P.E. 
+
+Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+(540) 217-7185 
+
+trevor.wallace@deq.virginia.gov 
+
+Valley Regional Office 
+
+4411 Early Road 
+
+Rockingham, Virginia 22801 
+
+(540) 574-7800 
+
+Attachment: Permit document 
+
+cc: File DEQ-VRO 
+
+Arthur B. Nunn, III – CTN, LLC (art.nunn@ctn-online.com) 
+
+Kasey Agee, DEQ, Senior Air Compliance Inspector (via email) Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes your minor New Source Review (NSR) permit dated 
+
+July 11, 2019. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Cardinal Energy Corporation 
+
+8209 Valley Pike 
+
+Middletown, Virginia 22665 
+
+Registration No.: 80941 
+
+is authorized to construct and operate a project for: 
+
+one natural gas-fired engine-generator set 
+
+located at 
+
+8209 Valley Pike 
+
+Middletown, Virginia 
+
+in accordance with the Conditions of this permit document. 
+
+Approved on October 2, 2025 
+
+Trevor H. Wallace, P.E. 
+
+Air Permit Manager, Valley Region 
+
+Permit document consists of  11  pages. 
+
+Permit Conditions 1 to  27 .
+
+Source Testing Report Format (1 page) Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 2 
+
+INTRODUCTION 
+
+This permit document is based on and combines permit terms and conditions in accordance with 9VAC5-80-1255 from the following permit approvals and the respective permit applications:     
+
+> Permit Program: Approval/Amendment Date
+> Application Signature Date
+> Application
+> Amendment Date
+> Application
+> Additional Information Received Date
+> Minor NSR: October 2, 2025 August 1, 2025 --August 22, 2025
+> August 13, 2025
+> Minor NSR: July 11, 2019 January 29, 2019
+> February 28, 2019
+> March 1, 2019
+> May 10, 2019
+> February 5, 2019
+> April 15, 2019
+> April 30, 2019
+> NSR = New Source Review Permit
+
+Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. 
+
+Words or terms used in this permit document shall have meanings as provided in 9VAC5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 
+
+Limits in this permit document referencing “Particulate Matter”, “Particulate Matter (PM)” or “PM” include only the filterable portion of particulates determined via Method 5 of 40CFR60 Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 3 
+
+Appendix A. Unless otherwise noted in a specific limit, limits in this permit document referring to “PM10,” “PM2.5,” “Particulate Matter (PM10),” “Particulate Matter (PM2.5)” or any such variation include both the filterable and condensable fraction of the particulate size. 
+
+Equipment List - Equipment at this facility covered by this permit document consists of the following:    
+
+> Equipment to be Constructed that is included in the project
+> Reference No .Equipment Description Rated Capacity Referenced Federal Requirements
+
+Gen7 
+
+Caterpillar G3520 Natural Gas-Fired Engine-Generator set 
+
+3629 bhp/ 
+
+2500 kW  ---   
+
+> Other Permitted Equipment
+> Reference No. Equipment Description Rated Capacity Referenced Federal Requirements
+
+Gen1 
+
+Caterpillar G3520H Natural Gas-Fired Engine-Generator set 
+
+3448 bhp/ 
+
+2485 kW  ---
+
+Gen2 
+
+Caterpillar G3520H Natural Gas-Fired Engine-Generator set 
+
+3448 bhp/ 
+
+2485 kW  ---
+
+Gen3 
+
+Caterpillar G3520H Natural Gas-Fired Engine-Generator set 
+
+3448 bhp/ 
+
+2485 kW  ---
+
+Gen4 
+
+Caterpillar 3520H Natural Gas-Fired Engine-Generator set 
+
+3448 bhp/ 
+
+2485 kW  ---
+
+Gen5 
+
+Caterpillar 3520H Natural Gas-Fired Engine-Generator set 
+
+3448 bhp/ 
+
+2485 kW  ---
+
+Gen6 
+
+Caterpillar 3520H Natural Gas-Fired Engine-Generator set 
+
+3448 bhp/ 
+
+2485 kW  ---Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 4    
+
+> Equipment Previously Exempted from Permitting
+> Reference No .Equipment Description Rated Capacity Exemption Date
+
+RENT2 
+
+Caterpillar Model 3516 diesel-fired engine-generator set (emergency use only) 
+
+2722 bhp/ 
+
+2000 kW  February 20, 2025 
+
+EM1 
+
+Caterpillar Model 3512 diesel-fired engine-generator set (emergency use only) 
+
+2206 bhp/ 
+
+1500 kW  --
+
+-- Lochinvar FTX850, package natural gas-fired boiler  0.85 MMBtu/hr  --
+
+-- Lochinvar FTX850, package natural gas-fired boiler  0.85 MMBtu/hr  --
+
+Specifications provided above are for informational purposes only and do not form enforceable terms or conditions of the permit document. 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Carbon monoxide (CO) and volatile organic compounds (VOC) emissions from each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) shall be controlled by the use of an engine oxidation catalyst and good operating practices. Each engine oxidation catalyst shall be provided with adequate access for inspection and shall be in operation when the associated engine-generator set is operating. (9VAC5-80-1180 and 9VAC5-50-260) [October 2, 2025] 
+
+2. Emission Controls – Nitrogen oxides (NOx) from each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) shall be controlled by proper engine operation in accordance with the manufacturer’s written instructions or procedures developed by the permittee or the manufacturer over the life of the engine. In addition, the permittee may only change those settings that are approved by the manufacturer and that do not increase air emissions, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [October 2, 2025] 
+
+3. Monitoring Devices (Nonresettable Hour Meter) – Each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) shall be equipped with a nonresettable hour metering device to monitor the operating hours. The non-resettable hour meter used to continuously measure the hours of operation for each engine-generator set shall be observed by the permittee with a frequency of not less than once each day the engine-generator set is operated. If the nonresettable hour meter is found to be operating in a manner inconsistent with the manufacturer’s written requirements or recommendations, timely corrective action shall be taken. The permittee shall keep a log of these observations, including details of any corrective actions taken. Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 5 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the associated engine-generator set is operating 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [October 2, 2025] 
+
+4. Monitoring Devices (Oxidation Catalyst Bed Temperature) – Each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) shall be equipped with a device to continuously measure and record the oxidation catalyst bed temperature at a minimum frequency of once every fifteen minutes during the operation of each engine-generator set. The information shall be correlated to run date, engine load / kilowatt output, and engine operating hours. If the monitoring device is found to be operating in a manner inconsistent with the manufacturer’s written requirements or recommendations, timely corrective action shall be taken. The permittee shall keep a log of these observations. The permittee shall also keep a log of all corrective actions taken. 
+
+Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the associated engine-generator set is operating. 
+
+(9VAC 5-80-1180 D) [October 2, 2025] 
+
+OPERATING LIMITATIONS 
+
+5. Fuel - The approved fuel for each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) is natural gas. A change in the fuel shall be considered a change in the method of operation and may require a new or amended permit. However, if a change in the fuel is not subject to new source review permitting requirements, this condition should not be construed to prohibit such a change. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [October 2, 2025] 
+
+6. Operating Hours – Each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) shall not operate for more than 1,800 hours per year, calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months for each engine-generator set. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [October 2, 2025] 
+
+7. Emission Unit Usage Restriction – The engine-generator set (Ref. RENT2) shall be permanently shutdown prior to the start-up of the engine-generator set (Ref. Gen7). Reactivation of the engine-generator set (Ref. RENT2) may require a permit. 
+
+(9VAC5-80-1180) [October 2, 2025] Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 6 
+
+EMISSION LIMITS 
+
+8. Emission Limits (Gen1, Gen2, Gen3, Gen4, Gen5, and Gen6) - Emissions from the operation of each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, and Gen6) 
+
+shall not exceed the limits specified below: 
+
+Nitrogen Oxides (as NO 2) 5.32  lbs/hr  4.8  tons/yr 
+
+Carbon Monoxide  0.99  lbs/hr  0.9  tons/yr 
+
+VOC  1.22  lbs/hr  1.1  tons/yr 
+
+Annual emissions shall be calculated monthly as the sum of each consecutive 12-month period. These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1 through  6.
+
+(9VAC5-80-1180 and 9VAC5-50-260) [July 10, 2019] 
+
+9. Emission Limits (Ref. Gen7) - Emissions from the operation of the engine-generator set (Ref. Gen7) shall not exceed the limits specified below: 
+
+Nitrogen Oxides (as NO 2) 5.6  lbs/hr  5.0  tons/yr 
+
+Carbon Monoxide  0.8  lbs/hr  0.7  tons/yr 
+
+VOC  0.8  lbs/hr  0.7  tons/yr 
+
+Annual emissions shall be calculated monthly as the sum of each consecutive 12-month period. These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1 through  6.
+
+(9VAC5-80-1180 and 9VAC5-50-260) [October 2, 2025] 
+
+10. Visible Emission Limit - Visible emissions from each engine-generator set exhaust (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) shall not exceed five percent opacity as determined by 40 CFR 60, Appendix A, Method 9. This condition applies at all times except during startup and shutdown. 
+
+(9VAC5-80-1180 and 9VAC5-50-80) [October 2, 2025] 
+
+11. Emissions Testing – The facility shall be constructed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. Sampling ports, safe sampling platforms, and access at the appropriate locations shall be provided when requested. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [October 2, 2025] Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 7 
+
+RECORDS 
+
+12. On Site Records – The permittee shall maintain records of emissions data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the DEQ. These records shall include, but are not limited to: 
+
+a. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the engine/device manufacturer for each engine-generator set, as required by Condition  2.
+
+b. Logs of observations and any corrective actions taken for each nonresettable hour meter, as required by Condition  3.
+
+c. Logs of observations and any corrective actions taken for devices to continuously measure and record the oxidation catalyst bed temperature, as required by Condition  5.
+
+d. Monthly and annual hours of operation of each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7), calculated monthly as required by Condition  6.
+
+e. Monthly and annual emissions from each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7), calculated monthly as required by Conditions  8 and  9.
+
+f. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7). 
+
+g. Results of all stack tests and VEE, as required by Conditions  13 , 14 , 15 , 16 , and  17 .
+
+h. Rec ords of maintenance, operating procedures, and training as required by Condition  22 .
+
+i. Records of bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment, as required by Condition  23 .
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years. 
+
+(9VAC5-80-1180 and 9VAC-50-50) [October 2, 2025] 
+
+INTIAL COMPLIANCE DETERMINATION 
+
+13. Stack Test (Ref. Gen7) – An initial performance test shall be conducted on the stack for the engine-generator set (Ref. Gen7) to determine compliance with the emission limits for NOx, CO, and VOC contained in Condition  9.
+
+The test shall be performed, reported and demonstrate compliance within 60 days after achieving the maximum production rate at which the facility will be operated but in no event later than 180 days after start-up of the permitted facility. The tests shall be conducted and Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 8 
+
+reported and data reduced as set forth in 9VAC5-50-30, and also shall be consistent with the test methods and procedures contained in 40 CFR 60, Subpart JJJJ. The details of the tests are to be arranged with the DEQ. The permittee shall submit a test protocol at least 30 days prior to testing. One copy of the test results shall be submitted to the DEQ within 45 days after test completion and shall conform to the test report format enclosed with the permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [October 2, 2025] 
+
+14. Visible Emissions Evaluation (Ref. Gen7) – Concurrently with the initial performance test, the permittee shall also conduct a Visible Emission Evaluation (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9 on the engine-generator set (Ref. Gen7). The test shall consist of ten sets of 24 consecutive observations (at 15 second intervals) to yield a six minute average. The details of the tests are to be arranged with the DEQ. The permittee shall submit a test protocol at least 30 days prior to testing. The evaluation shall be performed within 60 days after achieving the maximum production rate at which the engine-generator set (Ref. Gen7) will be operated but in no event later than 180 days after start-up of the permitted engine-generator set (Ref. Gen7). One copy of the test results shall be submitted to the DEQ within 45 days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [October 2, 2025] 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+15. Stack Tests (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, and Gen6) – The permittee shall repeat the performance tests last conducted on July 19, 2023 on the stack for each of the engine-generator sets (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, and Gen6) to determine compliance with the emission limits for NOx, CO, and VOC contained in Condition  8. The tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30, and also shall be consistent with the test methods and procedures contained in 40 CFR 60, Subpart JJJJ. The tests shall be repeated every three years or 8,760 hours of operation of each engine-generator set (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, and Gen6), whichever is earliest. 
+
+The permittee shall submit a test protocol at least 30 days prior to testing. Testing shall conform to the test report format enclosed with this permit. One copy of the test results shall be submitted to the DEQ within 60 days after completion of the testing. Other details of the test shall be arranged with the DEQ. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [October 2, 2025] 
+
+16. Stack Test (Ref. Gen7) – The permittee shall repeat the performance test contained in Condition  13  every three years or 8,760 hours of operation of the engine-generator set (Ref. Gen7), whichever is earliest. 
+
+The permittee shall submit a test protocol at least 30 days prior to testing. Testing shall conform to the test report format enclosed with this permit. One copy of the test results shall be submitted to the DEQ within 60 days after completion of the testing. Other details of the test shall be arranged with the DEQ. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [October 2, 2025] Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 9 
+
+17. Visible Emissions Evaluation (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) -Upon request by the DEQ, the permittee shall conduct visible emission evaluations from the engine-generator sets (Ref. Gen1, Gen2, Gen3, Gen4, Gen5, Gen6, and Gen7) to demonstrate compliance with the visible emission limits contained in this permit. The details of the tests shall be arranged with the DEQ. 
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [October 2, 2025] 
+
+NOTIFICATIONS 
+
+18. Initial Notification (Ref. Gen7) – The permittee shall furnish written notifications to the DEQ of: 
+
+a. The actual date on which construction of the engine-generator set (Ref. Gen7) commenced within 30 days after such date. This notification must also include the anticipated start-up date of the engine-generator set (Ref. Gen7). 
+
+b. The anticipated start-up date of the engine-generator set (Ref. Gen7) postmarked not more than 60 days nor less than 30 days prior to such date. 
+
+c. The actual start-up date of the engine-generator set (Ref. Gen7) within 15 days after such date. The actual start-up date shall be the date on which the engine completes the manufacturer’s trials but shall be no later than thirty days after the initial start-up for manufacturer’s trials. 
+
+d. The anticipated date of the performance test of the engine-generator set (Ref. Gen7) postmarked at least 30 days prior to such date. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) [October 2, 2025] 
+
+GENERAL CONDITIONS 
+
+19. Permit Invalidation (Ref. Gen7) – The portions of this permit document to construct the engine-generator set (Ref. Gen7) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the date of this permit; or 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time, except for a DEQ approved period between phases of a phased construction project. 
+
+(9VAC5-80-1210) 
+
+20. Permit Suspension/Revocation – These permits may be suspended or revoked if the permittee: Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 10 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of these permits; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interferes with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emission limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+21. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of these permits; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of these permits or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of these permits or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+22. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions, with respect to air pollution control equipment and process equipment which affect such emissions: Cardinal Energy Corporation 
+
+Registration Number: 80941 
+
+Page 11 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance; 
+
+b. Maintain an inventory of spare parts; 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum; and 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+23. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) 
+
+24. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the DEQ of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made as soon as practicable but no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within two weeks of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the DEQ. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+25. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) 
+
+26. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the DEQ of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+27. Permit Copy – The permittee shall keep a copy of this permit document on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test Dates. 
+
+4. Tester; name, address and report date 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity 
+
+4. *For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test Methods 
+
+c. Pollutants tested 
+
+d. Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7. Any other important information 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section - Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1. Detailed test results for each run 
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1. *Raw production data 
+
+2. *Raw field data 
+
+3. *Laboratory reports 
+
+4. *Chain of custody records for lab samples 
+
+5. *Calibration procedures and results 
+
+6. Project participants and titles 
+
+7. Observers’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures 
+
+_____ 
+
+* Not applicable to visible emission evaluations

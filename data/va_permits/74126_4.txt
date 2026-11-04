@@ -1,0 +1,953 @@
+Title: 74126_DC_Permit.pdf
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25839/638628759087230000
+
+Published Time: Wed, 25 Sep 2024 14:45:08 GMT
+
+Number of Pages: 30
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703)583-3800 FAX (804) 698-4178 www.deq.virginia.gov
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Acting Secretary of Natural and Historic Resources Director (804) 698-4020 Thomas A. Faha Regional Director
+
+October 12, 2022 
+
+Mr. Jim Zografos 
+
+Sr Director, Portfolio Management Group 
+
+Digital Realty 
+
+10 Post Office Square, Suite 500 
+
+Boston, MA 02109 
+
+Location: Loudoun County 
+
+Registration No.: 74126 
+
+Dear Mr. Zografos: 
+
+Attached is a permit to construct and operate emission units at a data center in accordance with the provisions of the Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. This permit combines the terms and conditions from, and supersedes your permit document dated June 14, 2021. 
+
+The Department of Environmental Quality (DEQ) deemed the application complete on September 22, 2022. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Digital Realty of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed engine generator-sets (gen-sets) may be subject to 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The Department of Environmental Quality (DEQ) advises you to review Mr. Jim Zografos October 12, 2022 Page 2 
+
+the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you may be also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and/or 63. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Katie DeVoss at (571) 866-6048 or  katie.devoss@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+JAW/KD/74126 mNSR (2022-10-12) 
+
+Attachment: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703)583-3800 FAX (804) 698-4178 www.deq.virginia.gov   
+
+> Travis A. Voyles Michael S. Rolband, PE, PWD, PWS Emeritus Acting Secretary of Natural and Historic Resources Director (804) 698-4020 Thomas A. Faha Regional Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes the permit document dated June 14, 2021. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Digital Realty 
+
+10 Post Office Square, Suite 500 
+
+Boston, Massachusetts 02109 
+
+Registration No.: 74126 
+
+is authorized to construct and operate 
+
+emergency diesel engine generator sets (gen-sets) 
+
+located at 
+
+IAD 39, IAD 40, IAD 41 & IAD 73: 44274, 44372, 44751, and 
+
+44540 Round Table Plaza, Ashburn, Virginia 20147 and 
+
+IAD 42 & IAD 43: 22125 Broderick Drive and 44820 Prentice 
+
+Drive, Sterling, Virginia 20166 
+
+(Loudoun County) 
+
+in accordance with the Conditions of this permit. 
+
+Approved on: October 12, 2022. 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Permit consists of  26  pages (w/o the attachment). 
+
+Permit Conditions 1 to  35 .
+
+Attachment A – Source Testing Report Format (1 page) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 2 
+
+INTRODUCTION 
+
+This permit approval is based on the permit application dated July 7, 2017, including amendment information dated August 3, 2017, August 4, 2017, and August 16, 2017; and an application dated May 10, 2018 with additional information received on July 25, 2018 and September 4, 2018; an application dated March 4, 2021 with additional information received on March 26, 2021, April 27, 2021, May 4, 2021, May 6, 2021, May 10, 2021, May 11, 2021, May 17, 2021, June 2, 2021, and June 7, 2021; and an application dated August 3, 2022 with additional information received on September 22, 2022. 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1110 and 9VAC5-10-10 of the Commonwealth of Virginia State Air Pollution Control Board’s (Board’s) Regulations (Regulations) for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the Board’s Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. 
+
+Equipment List – Equipment at this facility consists of: 
+
+Equipment to be constructed: 
+
+Reference No.  Equipment Description 
+
+Maximum Rated Capacity 
+
+Add-On Control Technology 
+
+Original Permit Date 
+
+PBB600-4 and PBB600-5 
+
+Two (2) emergency diesel engine gen-sets, Caterpillar Model C18 DITA 
+
+900 bhp 
+
+600 ekW 
+
+(each unit) 
+
+- October 12, 2022 
+
+Equipment permitted prior to the date of this permit 
+
+Reference No.  Equipment Description 
+
+Maximum Rated Capacity 
+
+Add-On Control Technology 
+
+Original Permit Date 
+
+3.0-1 through 3.0-24 
+
+Twenty four (24) emergency diesel engine gen-sets  4,423 bhp  January 18, 2018 Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 3 
+
+consisting of Cummins Model C3000 D6e, and/or Caterpillar Model C175 DITA units 
+
+3,000 ekW (each unit) 
+
+3.0-25 through 3.0-70 
+
+Forty six (46) emergency diesel engine gen-sets consisting of Cummins Model C3000 D6e, and/or Caterpillar Model C175 DITA units 
+
+4,423 bhp 
+
+3,000 ekW (each unit) 
+
+September 25, 2018 
+
+3.0C-1 through 3.0C-48 
+
+Forty-eight (48) emergency diesel engine gen-sets consisting of Cummins Model C3000 D6e, and/or Caterpillar Model C175 DITA units 
+
+4,423 bhp 
+
+3,000 ekW (each unit) 
+
+SCR*  September 25, 2018 
+
+3.0C-49 through 3.0C-167 
+
+One hundred nineteen (119) emergency diesel engine gen-sets consisting of Cummins Model C3000 D6e, and/or Caterpillar Model C175 DITA and/or Caterpillar 3516E units 
+
+4,423 bhp 
+
+3,000 ekW (each unit) 
+
+SCR*  September 25, 2018 
+
+PBB600-1 through PBB600-3
+
+Three (3) emergency diesel engine gen-sets consisting of Caterpillar Model C18 DITA 
+
+900 bhp 
+
+600 ekW 
+
+(each unit) 
+
+January 18, 2018 
+
+PBB300 
+
+One (1) Cummins 300 kW emergency diesel engine gen-set, Model 300DQDAC 
+
+455 bhp 
+
+300 ekW 
+
+September 25, 2018 
+
+PBB800 
+
+One (1) Caterpillar 800 kW emergency diesel engine gen-set, Model C27 
+
+1,214 bhp 800 ekW 
+
+September 25, 2018 
+
+PBB750-1 
+
+One (1) emergency diesel engine gen-set consisting of Caterpillar Model C18 and/or Cummins 750DQCB 
+
+1,112 bhp 
+
+750 ekW  June 14, 2021 
+
+* Selective Catalytic Reduction 
+
+Specifications included in the above tables are for informational purposes only and do not form enforceable terms or conditions of the permit. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 4 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from the emergency diesel engine gen-sets shall be controlled as follows: 
+
+a. Nitrogen oxides (NO X) emissions from each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) shall be controlled by electronic fuel injection, turbocharged engines, and aftercoolers. The permittee shall maintain documentation that demonstrates the control devices have been installed on each emergency diesel engine gen-set. 
+
+b. Nitrogen oxides (NO x) emissions from each emergency diesel engine gen-set (Ref. Nos. PBB600-4 and PBB600-5) shall be controlled by engine design. 
+
+c. Nitrogen oxide (NO X) emissions from the emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-167) shall be controlled by electronic fuel injection, turbocharged engines, aftercoolers, and Selective Catalytic Reduction (SCR). Each SCR system shall be equipped with a temperature probe, which continuously monitors the catalyst bed exhaust temperature while the emergency diesel engine gen-set is operational. Engine exhaust gas shall be treated with urea when the catalyst bed exhaust temperature of 570 °F is achieved. The SCR shall be provided with adequate access for inspection and shall be in operation when the emergency diesel engine gen-sets are operating as stated above. The permittee shall maintain documentation that demonstrates the control devices have been installed on each emergency diesel engine gen-set. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+2. Emission Controls – 
+
+a. Visible emissions, particulate matter emissions (PM 10 and PM 2.5 ), carbon monoxide (CO) emissions, volatile organic compound (VOC) emissions, and nitrogen oxides (NO X) emissions from the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. 
+
+b. Carbon monoxide (CO) emissions, particulate matter (PM 10 /PM 2.5 ) emissions, volatile organic compounds (VOC) emissions, nitrogen oxide (NO X) emissions (as NO 2), and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. PBB600-4 and PBB600-5) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the emergency diesel engine gen-sets. 
+
+(9VAC5-80-1180) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 5 
+
+3. Monitoring Devices – 
+
+a. Each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall be equipped with a non-resettable hour metering device to indicate the engine elapsed operating time (hours). 
+
+The non-resettable hour meter used to continuously measure the hours of operation for each emergency diesel engine gen-set, as required above, shall be observed by the permittee with a frequency of not less than once each day the emergency diesel engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+b. Each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall also be equipped with a device/system to monitor and record the emergency diesel engine gen-sets kilowatt output at a minimum frequency of once every fifteen minutes. 
+
+c. Each emergency diesel engine gen-set (Ref. Nos. 3.0C-1 through 3.0C-167) shall be equipped with a temperature probe continuously monitoring the catalyst-bed exhaust temperature while the emergency diesel engine gen-set is operational. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the emergency diesel engine gen-sets are operating. 
+
+(9VAC5-80-1180 D) 
+
+OPERATING LIMITATIONS 
+
+4. Operation of the Emergency Diesel Engine Gen-Sets – The permittee shall operate and maintain each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings permitted by the manufacturer and that do not increase air emissions. 
+
+(9VAC5-80-1180) 
+
+5. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall only be operated in the following modes: Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 6 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an Independent System Operator (ISO) declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+d. For unscheduled maintenance, testing, and operational training. 
+
+e. For the integration operational period, which is the period of time beginning with the first time the affected units are started on-site and ending when the affected unit is fully integrated with the source’s electrical system. 
+
+Total emissions for any annual period, calculated as the sum of all emissions from operations under the scenarios above, shall not exceed the limits stated in Conditions  14 
+
+and  15 .
+
+(9VAC5-80-1180) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 7 
+
+6. Operating Limitations (Ozone Season) – No emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing or operational training (that involves fuel combustion) during the ozone season (May 1 through September 30) between the hours of 7 a.m. to 5 p.m. The permittee may petition the Air Compliance Manager of the DEQ NRO for exceptions to this requirement, with approvals made on a case-by-case basis. 
+
+(9VAC5-80-1180) 
+
+7. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website ( https://airnow.gov ) for Northern Virginia for that day is less than or equal to 100. In the event that AirNow-EnviroFlash ( http://www.enviroflash.info ) issues an Air Alert for Metropolitan Washington, D.C. for a day which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) 
+
+8. Operating Limitations – Operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70 and 3.0C-1 through 3.0C-167) shall be limited to an average load of 2,625 ekW (limited rated load) on an hourly basis. Should the permittee, at a later date, request to relax this limitation, these emergency diesel engine gen-sets shall require an application and be subject to permit review as if construction has not yet begun. 
+
+(9VAC5-80-1180) 
+
+9. Operating Hours – The Periodic Maintenance/Readiness Testing/Training Mode is defined as the operation of an emergency diesel engine gen-set at less than or equal to ten percent (≤ 10 %) limited rated load and the Emergency/Load Test Mode is defined as the operation of an emergency diesel engine gen-set at greater than ten percent (> 10 %) of limited rated load. The facility’s emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) are limited to the following: 
+
+a. No single unit (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167) shall operate more than 100 hours per year, calculated monthly as the sum of each consecutive 12-month period in the Periodic Maintenance/Readiness Testing/Training Mode; 
+
+b. No single unit shall operate more than 500 hours per year, calculated monthly as the sum of each consecutive 12-month period for all purposes; Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 8 
+
+c. No single unit (Ref. Nos. PBB600-4 and PBB600-5) shall operate more than 20 hours per year, calculated monthly as the sum of each consecutive 12-month period for scheduled maintenance checks and readiness testing (Scheduled MCRT, as provided in Condition  5.c ); 
+
+d. The emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall not operate more than: 
+
+i. Periodic Maintenance/Readiness Testing/Training Mode 1
+
+(1) The emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70) (combined) shall not operate more than 1400 hr/yr when the emergency diesel engine gen-sets are operating in the periodic maintenance/readiness testing/training mode, calculated monthly as the sum of each consecutive 12-month period; 
+
+(2) The emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-48), (combined) shall not operate more than 960 hr/yr when the emergency diesel engine gen-sets are operating in the periodic maintenance/readiness testing/training mode, calculated monthly as the sum of each consecutive 12-month period; 
+
+(3) The emergency diesel engine gen-sets (Ref. Nos. 3.0C-49 through 3.0C-167), (combined) shall not operate more than 2,380 hr/yr when the emergency diesel engine gen-sets are operating in the periodic maintenance/readiness testing/training mode, calculated monthly as the sum of each consecutive 12-month period; and 
+
+(4) Each emergency diesel engine gen-set (Ref. Nos. PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall not operate more than 20 hr/yr when the emergency diesel engine gen-set is operating in the periodic maintenance/readiness testing/training mode, calculated monthly as the sum of each consecutive 12-month period. 
+
+ii. Emergency/Load Testing Mode 
+
+(1) The emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70) (combined) shall not operate more than 2,450 hr/yr when the emergency diesel engine gen-sets are operating in the emergency/load testing mode, calculated monthly as the sum of each consecutive 12-month period;  
+
+> 1This limit does not include initial (one-time) commissioning or unplanned maintenance, manufacturer recall updates and repairs. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 9
+
+(2) The emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-48), (combined) shall not operate more than 1,680 hr/yr when the emergency diesel engine gen-sets are operating in the emergency/load testing mode, calculated monthly as the sum of each consecutive 12-month period; 
+
+(3) The emergency diesel engine gen-sets (Ref. Nos. 3.0C-49 through 3.0C-167), (combined) shall not operate more than 4,165 hr/yr when the emergency diesel engine gen-sets are operating in the emergency/load testing mode, calculated monthly as the sum of each consecutive 12-month period; and 
+
+(4) Each emergency diesel engine gen-set (Ref. Nos. PBB600-1 through PBB6005, PBB300, PBB800, and PBB750-1) shall not operate more than 35 hr/yr when the emergency diesel engine gen-set is operating in the emergency/load testing mode, calculated monthly as the sum of each consecutive 12-month period. 
+
+Compliance for each consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) 
+
+10. Fuel Specifications – The approved fuel for the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) is diesel fuel. The diesel fuel shall meet the American Society for Testing and Materials (ASTM) D975 specification for Grade No. 1-D S15 or Grade No. 2-D S15 and have a maximum sulfur content of 15 ppm, per shipment. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. A change in the fuel may require a permit to modify and operate. 
+
+(9VAC5-80-1180) 
+
+11. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; 
+
+b. The date on which the diesel fuel was received; 
+
+c. The quantity of diesel fuel delivered in the shipment; 
+
+d. A statement that the diesel fuel conforms to the applicable fuel specification requirements of Condition  10 ; and Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 10 
+
+i. Complies with the ASTM specifications for Grade No. 1-D S15 or Grade No. 2-D S15 (also known as ultra-low sulfur diesel (ULSD)); or 
+
+ii. Has a sulfur content per shipment not to exceed 0.0015% by weight (15 ppm) and either a minimum cetane number of forty or maximum aromatic content of thirty-five percent by volume. 
+
+Alternatively, the permittee shall obtain approval from the Air Compliance Manager of the DEQ’s NRO, if other documentation will be used to certify the diesel fuel oil type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition  10 .
+
+(9VAC5-80-1180) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 11 
+
+EMISSION LIMITS 
+
+12. Emission Limits (Hourly) 2 – Periodic Maintenance/Readiness Testing/Training Mode (< 10 percent Limited Rated Load) – Emissions from the operation of each emergency diesel engine gen-set while operating in the Maintenance/Readiness Testing/Training Mode shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0-1 through 3.0-70 and 3.0C-1 through 3.0C-48) 
+
+Caterpillar C175 DITA, Cummins C3000 D6e, and/or Caterpillar 3516E (Ref. Nos. 3.0C-49 through 3.0C-167) 
+
+Nitrogen Oxides (NO x as NO 2) 6.16 lb/hr  9.92 lb/hr 
+
+Carbon Monoxide (CO)  4.23 lb/hr  2.71 lb/hr 
+
+Volatile Organic Compounds (VOC)  0.88 lb/hr  0.88 lb/hr 
+
+Particulate Matter (PM 10 ) 0.53 lb/hr  0.77 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.53 lb/hr  0.77 lb/hr 
+
+Pollutant 
+
+Caterpillar C18 DITA (Ref. Nos. PBB600-1 through PBB600-5) 
+
+Cummins 300DQDAC (Ref. No. PBB300) 
+
+Caterpillar C27 (Ref. No. PBB800) 
+
+Caterpillar C18 and/or Cummins DQCB (Ref. No. PBB750-1) 
+
+Nitrogen Oxides (NO x as NO 2) 2.36 lb/hr  0.40 lb/hr  2.18 lb/hr  1.85 lb/hr 
+
+Carbon Monoxide (CO)  0.42 lb/hr  0.80 lb/hr  1.44 lb/hr  4.73 lb/hr 
+
+Volatile Organic Compounds (VOC)  0.04 lb/hr  0.60 lb/hr  0.21 lb/hr  1.91 lb/hr 
+
+Particulate Matter (PM 10 ) 0.02 lb/hr  0.05 lb/hr  0.23 lb/hr  0.32 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.02 lb/hr  0.05 lb/hr  0.23 lb/hr  0.32 lb/hr 
+
+Compliance with these pollutant limits shall be based on the proper operation and maintenance of the diesel engines or by testing, if required. 
+
+(9VAC5-80-1180)  
+
+> 2These limits do not include initial (one-time) commissioning or unplanned maintenance, manufacturer recall updates and repairs. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 12
+
+13. Emission Limits (Hourly) – Emergency and Load Testing Mode (> 10 percent) – Limited Rated Load – Emissions from the operation of each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) while operating in the Emergency/Load Testing Mode shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0-1 through 3.0-70) 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0C-1 through 3.0C-48) 
+
+Caterpillar C175 DITA, Cummins C3000 D6e, and/or Caterpillar 3516E (Ref. Nos. 3.0C-49 through 3.0C-167) 
+
+Nitrogen Oxides (NO x as NO 2) 49.29 lb/hr  4.93 lb/hr  4.93 lb/hr 
+
+Carbon Monoxide (CO)  4.23 lb/hr  5.73 lb/hr  7.89 lb/hr 
+
+Volatile Organic Compounds (VOC) 
+
+0.88 lb/hr  0.88 lb/hr  0.88 lb/hr 
+
+Particulate Matter (PM 10 ) 0.53 lb/hr  0.53 lb/hr  0.77 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.53 lb/hr  0.53 lb/hr  0.77 lb/hr 
+
+Pollutant 
+
+Caterpillar C18 DITA 
+
+(Ref. Nos. PBB600-1 through PBB600-5) 
+
+Cummins 300DQDAC (Ref. No. PBB300) 
+
+Caterpillar C27 (Ref. No. PBB800) 
+
+Caterpillar C18 and/or Cummins DQCB (Ref. No. PBB750-1) 
+
+Nitrogen Oxides 
+
+(NO x as NO 2) 11.58 lb/hr  5.27 lb/hr  15.89 lb/hr  14.34 lb/hr 
+
+Carbon Monoxide (CO)  0.95 lb/hr  1.6 lb/hr  1.44 lb/hr  1.28 lb/hr 
+
+Volatile Organic Compounds (VOC)  0.02 lb/hr  0.06 lb/gal  0.20 lb/hr  0.47 lb/hr 
+
+Particulate Matter (PM 10 ) 0.09 lb/hr  0.07 lb/hr  0.23 lb/hr  0.16 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.09 lb/hr  0.07 lb/hr  0.23 lb/hr  0.16 lb/hr 
+
+Compliance with these pollutant limits shall be based on the proper operation and maintenance of the diesel engines or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 13 
+
+14. Emission Limits (Annual) 3 – Periodic Maintenance/Readiness Testing/Training Mode (< 10 percent Limited Rated Load) – Emissions from the operation of the emergency diesel engine gen-sets (Ref. No. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) while operating in the periodic Maintenance/Readiness Testing/Training Mode shall not exceed the limits specified below: 
+
+Pollutant 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0-1 through 3.0-70) (70 units combined) 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0C-1 through 3.0C-48) (48 units combined) 
+
+Caterpillar C175 DITA, Cummins C3000 D6e, and/or Caterpillar 3516E (Ref. Nos. 3.0C-49 through 3.0C-167) (119 units combined) 
+
+Caterpillar C18 DITA 
+
+(Ref. Nos. PBB600-1 through PBB600-5), Cummins 300DQDAC (Ref. No. PBB300), Caterpillar C27 (Ref. No. PBB800), Caterpillar C18 and/or Cummins 750DQCB (Ref. No. PBB750-1) (all units combined) 
+
+Nitrogen Oxides 
+
+(NO x as NO 2)
+
+4.4 tpy  2.96 tpy  11.80 tpy  0.16 tpy 
+
+Carbon Monoxide (CO) 
+
+3.0 tpy  2.03 tpy  3.22 tpy  0.09 tpy 
+
+Volatile Organic Compounds (VOC) 
+
+0.7 tpy  0.42 tpy  1.04 tpy  0.03 tpy 
+
+Particulate Matter (PM 10 ) 0.4 tpy  0.25 tpy  0.92 tpy  0.01 tpy 
+
+Particulate Matter (PM 2.5 ) 0.4 tpy  0.25 tpy  0.92 tpy  0.01 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1, 2, and  9.
+
+(9VAC5-80-1180)  
+
+> 3These limits do not include initial (one-time) commissioning or unplanned maintenance, manufacturer recall updates and repairs. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 14
+
+15. Emission Limits (Annual) – Emergency and Load Testing Mode (>10 percent Limited Rated Load) – Emissions from the operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) while operating in the Emergency/Load Testing Mode shall not exceed the emission limits specified below: 
+
+Pollutant 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0-1 through 3.0-70) (70 units combined) 
+
+Caterpillar C175 DITA and/or Cummins C3000 D6e (Ref. Nos. 3.0C-1 through 3.0C-48) 
+
+(48 units combined) 
+
+Caterpillar C175 DITA, Cummins C3000 D6e, and/or Caterpillar 3516E (Ref. Nos. 3.0C-49 through 3.0C-167) (119 units combined) 
+
+Caterpillar C18 DITA 
+
+(Ref. Nos. PBB600-1 through PBB600-5), Cummins 300DQDAC (Ref. No. PBB300), Caterpillar C27 (Ref. No. PBB800), Caterpillar C18 and/or Cummins 750DQCB (Ref. Nos. PBB750-1) 
+
+(all units combined) 
+
+Nitrogen Oxides (NO x
+
+as NO 2)
+
+60.40 tpy  4.14 tpy  10.26 tpy  1.63 tpy 
+
+Carbon Monoxide (CO) 
+
+5.20 tpy  4.81 tpy  16.44 tpy  0.16 tpy 
+
+Volatile Organic Compounds (VOC) 
+
+1.10 tpy  0.74 tpy  1.82 tpy  0.02 tpy 
+
+Particulate Matter (PM 10 )
+
+0.70 tpy  0.44 tpy  1.60 tpy  0.02 tpy 
+
+Particulate Matter (PM 2.5 )
+
+0.70 tpy  0.44 tpy  1.60 tpy  0.02 tpy 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions  1, 2, and  9.
+
+(9VAC5-80-1180) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 15 
+
+16. Annual Emissions Calculations Method – The total annual emissions of NO x (as NO 2), CO, PM 10 , PM 2.5 , and VOC from the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall be calculated monthly as the sum of each consecutive 12-month period using the emission factors in Conditions  12  and  13  above. Refer to Condition 
+
+24  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+17. Visible Emission Limit – Visible emissions from each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall not exceed five percent opacity except during one six-minute period in any one hour in which visible emissions shall not exceed 10 percent opacity, except during startup and shutdown, as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+During startup and shutdown, visible emissions from each emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) shall not exceed 10 percent opacity except during one six-minute period in any one-hour in which visible emissions shall not exceed 20 percent opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180 and 9VAC5-50-260) 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+18. Performance Test (Ref. Nos. 3.0-1 through 3.0-70) – Initial performance tests shall be conducted on four (4) of the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70) for nitrogen oxides (as NO 2) using EPA Reference Method 7 or 7E and carbon monoxide (CO) using EPA Reference Method 10 or 10A to determine compliance with the emission limits contained in Condition  13 . If the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70) consist of both Cummins and Caterpillar engines, then testing of at least one unit of each engine manufacturer shall be conducted to satisfy the testing requirements of this Condition. The facility shall: 
+
+a. Arrange the details of the testing with the Air Compliance Manager of the DEQ NRO. 
+
+b. Submit a test protocol at least 30 days prior to testing. 
+
+c. Perform testing to demonstrate compliance within 60 days after achieving the maximum power demand rate at which the unit will be operated (>90 percent limited rated load) but in no event later than 180 days after startup of that unit. 
+
+d. Determine compliance with the emission limits in Condition  13  using the average of three test runs. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 16 
+
+e. Conduct, report, and perform data reduction as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5-50-410. 
+
+f. Submit two copies (one hard copy and one electronic media) of the test results shall be submitted to the Air Compliance Manager of the DEQ NRO within 60 days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) 
+
+19. Performance Test (Ref. Nos. 3.0C-1 through 3.0C-167) – Initial performance tests shall be conducted on eight (8) of the emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-167) for nitrogen oxides (as NO 2) and carbon monoxide (CO) from the exhaust of the units, such that four (4) of the units tested are from the emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-80), and the other four (4) units tested are from the emergency diesel engine gen-sets (Ref. Nos. 3.0C-81 through 3.0C-167) to determine compliance with the emission limits contained in Condition  13 . If the emergency diesel engine gen-sets in the above consist of all Caterpillar C175 DITA, Cummins C3000 D6e, and Caterpillar 3516E, then testing of at least one unit of each engine manufacture shall be conducted to satisfy the testing requirements of this Condition. 
+
+a. Arrange the details of the testing with the Air Compliance Manager of the DEQ NRO. 
+
+b. Submit a test protocol at least 30 days prior to testing. 
+
+c. Perform testing to demonstrate compliance within 60 days after the actual start up of the unit. If this deadline falls within the ozone season (May 1 through September 30) the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. 
+
+d. Testing shall be performed on the exhaust stack of the emergency diesel engine gen-sets to demonstrate compliance with the NOx and CO emission limits specified in Condition  13 . Testing shall be conducted with the emergency diesel engine gen-set operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is approved by DEQ; 
+
+e. Determine compliance with the emission limits in Condition  13  using the average of three test runs. 
+
+f. Conduct, report, and perform data reduction as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5-50-410. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 17 
+
+g. Submit two copies (one hard copy and one electronic media) of the test results shall be submitted to the Air Compliance Manager of the DEQ NRO within sixty days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) 
+
+20. Visible Emissions Evaluation (VEE) – Concurrent with the initial performance tests required in Conditions  18  and  19  Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the selected emergency diesel engine gen-sets selected for initial performance testing in Conditions  18  and  19 . The details of the tests shall be arranged with the Air Compliance Manager of the DEQ NRO. The permittee shall submit a VEE protocol in conjunction with the initial stack test protocol required by Conditions  18  and  19  at least 30 days prior to testing. 
+
+a. Should conditions prevent concurrent opacity observations, the Air Compliance Manager of the DEQ NRO shall be notified in writing, within seven (7) days, and visible emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be conducted under the same conditions (as possible) as the initial performance tests. 
+
+b. Two copies of the test result (one hard copy and one on electronic media) shall be submitted to the Air Compliance Manager of the DEQ NRO within sixty days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+21. Emission Testing and Visible Emission Evaluation – Annually within 60 days of the anniversary of the original permit date in the equipment table, the permittee shall perform performance testing of two (2) of the installed emergency diesel engine gen-sets that have not previously been tested. If there are emergency diesel engine gen-sets of Caterpillar C175 DITA, Cummins C3000 D6e, and Caterpillar 3516E engines, then testing of at least one unit of each engine manufacture shall be conducted to satisfy the testing requirements of this Condition. Additionally, if the emergency diesel engine gen-sets controlled by SCR are among the installed emergency diesel engine gen-sets, at least one (1) of the unit’s tested shall be a unit with SCR. The facility shall: 
+
+a. Arrange the details of the testing with the Air Compliance Manager of the DEQ NRO. 
+
+b. Submit a test protocol at least 30 days prior to testing. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 18 
+
+c. Perform testing to demonstrate compliance at >90 percent limited rated load at which the unit will be operated within 60 days of the anniversary of the original permit date in the equipment table. 
+
+d. For nitrogen oxides (as NO 2) using EPA Reference Method 7 or 7E and carbon monoxide (CO) using EPA Reference Method 10 or 10A to determine compliance with the emission limits contained in Condition  13 , depending on which of the gen-sets are tested, using the average of three test runs. 
+
+e. Conduct, report, and perform data reduction as set forth in 9VAC5-50-30, and the test methods and procedures contained in each applicable section or subpart listed in 9VAC5-50-410. 
+
+f. Submit two copies (one hard copy and one electronic media) of the test results shall be submitted to the Air Compliance Manager of the DEQ NRO within sixty days after test completion and shall conform to the test report format enclosed with this permit (Attachment A). 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) 
+
+22. Emissions Testing and VEE – Upon request by the DEQ, the permittee shall conduct additional stack tests and/or visible emission evaluations of the emergency diesel engine gen-sets (Ref. No. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1 through PBB750-3) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Air Compliance Manager of the DEQ NRO. 
+
+(9VAC5-50-30 G and 9VAC5-80-1200) 
+
+23. Facility Construction – The emergency diesel engine gen-sets shall be constructed to allow emissions testing upon reasonable notice, using appropriate methods. Sampling ports shall be provided when requested at the appropriate locations in accordance with EPA Reference Method 1 (reference 40 CFR Part 60, Appendix A). In addition, safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1200) 
+
+RECORDS 
+
+24. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Air Compliance Manager of the DEQ NRO. These records shall include, but are not limited to: 
+
+a. The monthly log of the monitoring device observations as required by Condition  3.
+
+b. The fifteen-minute kilowatt readings for the periods in which the units operate. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 19 
+
+c. Records of the reasons for operation for each emergency diesel engine gen-set (Ref. Nos. PBB600-4 and PBB600-5), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+d. To verify compliance with Condition  7, maintain records of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the days that an emergency diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for that operating day, as determined by Airnow-EnviroFlash; and 
+
+iv. Details of commissioning activities, to include, but not limited to, clock hours, and duration. 
+
+e. The average hourly load for each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70 and 3.0C-1 through 3.0C-167) during the Emergency and Load-Testing Mode. 
+
+f. The average hourly load for each emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70 and 3.0C-1 through 3.0C-167) during the Periodic Maintenance/Readiness Testing/Training Mode. 
+
+g. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1), for purposes of Periodic Maintenance/Readiness Testing/Training Mode as provided in Conditions  9.a  and  9.d.i , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+h. Monthly and annual hours of operation (all purposes) of each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) as provided in Condition  9.b , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+i. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. PBB600-4 and PBB600-5), for purposes of Scheduled MCRT as provided in Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 20 
+
+Condition  9.c , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+j. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70) combined, for purposes of Periodic Maintenance/Readiness Testing/Training Mode as provided in Condition  9.d.i(1)  with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+k. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-48) combined, for purposes of Periodic Maintenance/Readiness Testing/Training Mode as provided in Condition  9.d.i(2) , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+l. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0C-49 through 3.0C-167) combined, for purposes of Periodic Maintenance/Readiness Testing/Training Mode as provided in Condition  9.d.i(3) , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+m. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) combined, for purposes of Periodic Maintenance/Readiness Testing/Training Mode as provided in Condition  9.d.i(4) , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+n. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1), for purposes of Emergency and Load Testing Mode as provided in Condition  9.d.ii , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+o. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70) combined, for purposes of Emergency and Load Testing Mode as provided in Condition  9.d.ii(1) , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+p. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0C-1 through 3.0C-48) combined, for purposes of Emergency and Load Testing Mode as provided in Condition  9.d.ii(2) , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+q. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. 3.0C-49 through 3.0C-167) combined, for purposes of Emergency and Load Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 21 
+
+Testing Mode as provided in Condition  9.d.ii(3) , with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+r. Monthly and annual hours of operation of the emergency diesel engine gen-sets (Ref. Nos. PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1) combined, for purposes of Emergency and Load Testing Mode as provided in Condition  9.d.ii(4) ,with annual hours of operation calculated monthly as the sum of each consecutive 12-month period. 
+
+s. A monthly summary table for each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) for purposes of emergency and load testing to include: 
+
+i. Reasons for operating as defined in Condition  5 and 
+
+ii. Emergency diesel engine gen-set hours – total and subtotals for each reason for operation. 
+
+t. All fuel supplier certifications, as required per Condition  11 .
+
+u. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each emergency diesel engine gen-set (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-5, PBB300, PBB800, and PBB750-1); 
+
+v. Results of all stack tests and visible emission evaluations, and monitoring device certifications/calibrations. 
+
+w. Records of scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+x. Records of unscheduled maintenance and operator training. 
+
+y. Records as required by Condition  30 .
+
+z. Records of the manufacturer’s written instructions or procedures developed by the owner or operator that are approved by the engine manufacturer for each emergency diesel engine gen-set. 
+
+aa. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets. 
+
+bb. For emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1), maintain documentation from the manufacturer that the emergency diesel engine gen-sets are certified to meet the EPA emission standards. Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 22 
+
+cc. Documentation from the manufacturer that each emergency diesel engine gen-set (Ref. Nos. PBB600-4 and PBB600-5) is certified to meet the EPA Tier 2 emission standards. 
+
+dd. Records, as necessary, to demonstrate compliance with the operating limitations of Condition  6, which includes, but is not limited to, the times, dates and reasons for operation of each diesel engine gen-set that was operating between May 1 and September 30. 
+
+Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years, unless otherwise noted. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) 
+
+NOTIFICATIONS 
+
+25. Initial Notifications – The permittee shall furnish written notification to the Air Compliance Manager of the DEQ NRO for the following events: 
+
+a. The actual date on which construction of each emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) commenced within 30 days after such date. Along with this notification, the information below shall be included (this notification may be in the form of a monthly summary of the previous month’s construction): 
+
+i. Name and address of the permittee; 
+
+ii. The address of the affected source; 
+
+iii. Engine information, including make, model, engine family, serial number, model, year, maximum engine power and engine displacement; 
+
+iv. Engine control equipment; and 
+
+v. Fuel used. 
+
+b. The actual start-up date of each emergency diesel engine gen-sets (Ref. Nos. 3.0-1 through 3.0-70, 3.0C-1 through 3.0C-167, PBB600-1 through PBB600-3, PBB300, PBB800, and PBB750-1) within fifteen (15) days after such date. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 23 
+
+26. Initial Notifications – The permittee shall furnish written notification of the items below to the Regional Air Compliance Manager of the DEQ’s NRO at the following address: 
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+The permittee shall submit notification(s) for each building containing the information as described below: 
+
+a. The actual date on which installation of the emergency diesel engine gen-sets (Ref. Nos. PBB600-4 and PBB600-5) commenced in each building, within thirty (30) days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and 
+
+iv. The date installation commenced. 
+
+b. The start and end dates of the integration operational period for each emergency diesel engine gen-set (Ref. Nos. PBB600-4 and PBB600-5) within fifteen (15) days after the last engine gen-set at each building completes its integration operational period. If a period of construction is paused or halted for ≥45 days, this notification shall be provided to the DEQ within fifteen (15) days after completion of the integration operational period for the most recently installed engine gen-set. The notification must contain the following: 
+
+i. Unit reference number; 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification, the integration operational period is defined as the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source’s electrical system. 
+
+(9VAC5-50-20) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 24 
+
+GENERAL CONDITIONS 
+
+27. Permit Invalidation – This permit to construct the emergency diesel engine gen-sets shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction is not commenced within 18 months from the date of this permit, or if 
+
+b. A program of construction is discontinued for a period of 18 months or more, or is not completed within a reasonable time, except for a DEQ approved period between phases of the phased construction of a new stationary source or project. 
+
+(9VAC5-80-1210) 
+
+28. Permit Suspension/Revocation – This permit may be suspended or revoked if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or 
+
+e. Fails to operate in conformance with any applicable control strategy, including any emission standards or emissions limitations, in the State Implementation Plan in effect at the time an application for this permit is submitted. 
+
+(9VAC5-80-1210 G) 
+
+29. Right of Entry – The permittee shall, allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 25 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+30. Maintenance/Operating Procedures – At all times, including periods of start-up, shutdown, soot blowing, and malfunction, the permittee shall, to the extent practicable, maintain and operate the affected source, including associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to the DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+31. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shutdown or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) Digital Loudoun 3 and 4, LLC Registration Number: 74126 October 12, 2022 Page 26 
+
+32. Notification for Facility or Control Equipment Malfunction – The permittee shall furnish notification to the Air Compliance Manager of the DEQ NRO of malfunctions of the affected facility or related air pollution control equipment that may cause excess emissions for more than one hour. Such notification shall be made no later than four daytime business hours after the malfunction is discovered. The permittee shall provide a written statement giving all pertinent facts, including the estimated duration of the breakdown, within 14 days of discovery of the malfunction. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the permittee shall notify the Air Compliance Manager of the DEQ NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+33. Violation of Ambient Air Quality Standard – The permittee shall, upon request of the DEQ, reduce the level of operation or shut down a facility, as necessary to avoid violating any primary ambient air quality standard and shall not return to normal operation until such time as the ambient air quality standard will not be violated. 
+
+(9VAC5-20-180 I and 9VAC5-80-1180) 
+
+34. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current minor NSR permit issued to the previous owner. The new owner shall notify the Air Compliance Manager of the DEQ NRO of the change of ownership within 30 days of the transfer. 
+
+(9VAC5-80-1240) 
+
+35. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Attachment A 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1. Plant name and location 
+
+2. Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3. Test Dates 
+
+4. Tester; name, address and report date 
+
+Certification 
+
+1. Signed by team leader/certified observer (include certification date) 
+
+2. Signed by responsible company official 
+
+3. *Signed by reviewer 
+
+Copy of Approved Test Protocol 
+
+Summary 
+
+1. Reason for testing 
+
+2. Test dates 
+
+3. Identification of unit tested & the maximum rated capacity 
+
+4. *For each emission unit, a table showing: 
+
+a. Operating rate 
+
+b. Test Methods 
+
+c. Pollutants tested 
+
+d. Test results for each run and the run average 
+
+e. Pollutant standard or limit 
+
+5. Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6. A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7. Any other important information 
+
+Source Operation 
+
+1. Description of process and control devices 
+
+2. Process and control equipment flow diagram 
+
+3. Sampling port location and dimensioned cross section. Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1. Detailed test results for each run 
+
+2. *Sample calculations 
+
+3. *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1. *Raw production data 
+
+2. *Raw field data 
+
+3. *Laboratory reports 
+
+4. *Chain of custody records for lab samples 
+
+5. *Calibration procedures and results 
+
+6. Project participants and titles 
+
+7. Observers’ names (industry and agency) 
+
+8. Related correspondence 
+
+9. Standard procedures 
+
+* Not applicable to visible emission evaluations

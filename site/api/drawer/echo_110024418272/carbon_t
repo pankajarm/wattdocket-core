@@ -1,0 +1,95 @@
+{
+ "claim_id": "carbon-t",
+ "metric": "carbon_t",
+ "label": "Carbon T",
+ "headline": "22,412",
+ "unit": "t CO2e/yr",
+ "badge": "MODELED",
+ "provisional": true,
+ "p10": 15515.7,
+ "p50": 22411.6,
+ "p90": 27583.5,
+ "as_of_utc": "2026-10-29T02:39:29Z",
+ "receipt_count": 1,
+ "citation": {
+  "id": "carbon-t-cit-0",
+  "claim_id": "carbon-t",
+  "document_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+  "publisher": "US EPA",
+  "document_id": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+  "page": 1,
+  "line": "176",
+  "quote": "\"co2e_rate_lb_per_mwh\": 867.74",
+  "matched_text": "867.74",
+  "verified": true,
+  "verified_at_utc": "2026-10-29T02:39:29Z",
+  "verifier_version": "substring-1",
+  "url": null
+ },
+ "extra_citations": [],
+ "chain": {
+  "calc_id": "carbon@UNKNOWN@egrid2023rev2:8665e8cf9c7e",
+  "name": "wattdocket.carbon",
+  "version": "0.1.0",
+  "code_sha256": "",
+  "steps": [
+   {
+    "line": "10 MW reference capacity x 8760 h x 0.65 utilisation",
+    "kind": "call"
+   },
+   {
+    "line": "= 56,940 MWh/yr",
+    "kind": "compute"
+   },
+   {
+    "line": "x 867.7 lb CO2e/MWh (eGRID2023, SPNO)",
+    "kind": "compute"
+   },
+   {
+    "line": "/ 2204.6226 lb per metric tonne = 22,412 t CO2e/yr",
+    "kind": "compute"
+   }
+  ]
+ },
+ "transforms": [
+  {
+   "label": "lb -> metric tonnes",
+   "value": "divide by 2204.6226 (never 2000)"
+  },
+  {
+   "label": "PUE not applied",
+   "value": "capacity basis is not stated"
+  },
+  {
+   "label": "storage excluded from the grid-intensity denominator",
+   "value": ""
+  },
+  {
+   "label": "timestamps stored UTC; hour labels kept as published",
+   "value": ""
+  }
+ ],
+ "sensitivity": [
+  {
+   "label": "utilization 0.45",
+   "delta": "-31%",
+   "tone": "down"
+  },
+  {
+   "label": "utilization 0.80",
+   "delta": "+23%",
+   "tone": "up"
+  },
+  {
+   "label": "if IT basis, PUE 1.25",
+   "delta": "+25%",
+   "tone": "up"
+  },
+  {
+   "label": "marginal instead of average",
+   "delta": "+38%",
+   "tone": "up"
+  }
+ ],
+ "drivers": []
+}

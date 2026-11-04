@@ -1,0 +1,1866 @@
+Title: 73670 Title V Permit
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/25746/638778906125130000
+
+Published Time: Tue, 18 Mar 2025 10:30:12 GMT
+
+Number of Pages: 37
+
+Markdown Content:
+Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus
+> Acting Secretary of Natural and Historic Resources Director
+
+March 14, 2025 
+
+Mr. Jim Zografos 
+
+Vice President, Portfolio Management Group 
+
+Digital Realty 
+
+10 Post Office Square, Suite 500 
+
+Boston, MA 02109 
+
+Location: Loudoun County 
+
+Registration No.: 73670 
+
+Dear Mr. Zografos: 
+
+Attached is a renewal Title V permit to operate your facility pursuant to 9VAC5 Chapter 80 Article 1 of the Virginia Regulations for the Control and Abatement of Air Pollution. The attached permit will be in effect beginning March 14, 2025. 
+
+In the course of evaluating the application and arriving at a final decision to issue this permit, the Department of Environmental Quality (DEQ) deemed the application complete on December 13, 2024 and solicited written public comments by placing a newspaper advertisement in the Washington Times Newspaper on January 27, 2025. The thirty-day required comment period, provided for in 9VAC5-80-270 expired on February 26, 2025. 
+
+This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to operate shall not relieve Digital Realty Trust of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the DEQ within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: Mr. Jim Zografos 
+
+March 14, 2025 
+
+Page 2 
+
+Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Olajumoke Kayode at (571) 866-6491 or olajumoke.kayode@deq.virginia.gov. 
+
+Sincerely, 
+
+Justin A. Wilkinson 
+
+Regional Air Permit Manager 
+
+Northern Regional Office 
+
+Virginia Department of Environmental Quality 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/OFK/73670-TV (2025-03-14) 
+
+Attachment: Permit 
+
+cc: Jonathan Buford, Regional Manager, Northern Virginia, Digital Realty Trust (via email) 
+
+Susan Stewart, Senior Project Manager, ATC Group Services LLC. (via email) 
+
+Yongtian (Tom) He, PhD, U.S. EPA, Region III (electronic file submission) 
+
+Maya Whitaker, DEQ Office of Air Permit Programs (electronic file submission) 
+
+David Hartshorn, DEQ NRO Air Compliance Manager (electronic file submission) Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY 
+
+www.deq.virginia.gov   
+
+> Stefanie K. Taillon Michael S. Rolband, PE, PWD, PWS Emeritus
+> Acting Secretary of Natural and Historic Resources Director
+
+Federal Operating Permit 
+
+Article 1 
+
+This permit is based upon the requirements of Title V of the Federal Clean Air Act and Chapter 80, Article 1, of the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution. Until such time as this permit is reopened and revised, modified, revoked, terminated or expires, the permittee is authorized to operate in accordance with the terms and conditions contained herein. This permit is issued under the authority of Title 10.1, Chapter 13, §10.1-1322 of the Air Pollution Control Law of Virginia. This permit is issued consistent with the Administrative Process Act, and 9VAC5-80-50 through 9VAC5-80-300, of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution of the Commonwealth of Virginia. 
+
+Authorization to operate a Stationary Source of Air Pollution as described in this permit is hereby granted to: 
+
+Permittee Name: Digital Realty Trust 
+
+Facility Name: Digital Loudoun Parkway Center N LLC 
+
+Facility Location: 43940 Digital Loudoun Plaza 
+
+Ashburn, Virginia 20147 
+
+Registration Number: 73670 
+
+Permit Number: NRO-73670 
+
+This permit includes the following programs: 
+
+Federally Enforceable Requirements - Clean Air Act 
+
+March 14, 2025 March 13, 2030 
+
+Effective Date Expiration Date 
+
+______________________ March 14, 2024 
+
+Justin A. Wilkinson Signature Date 
+
+Regional Air Permit Manager 
+
+Table of Contents, page  1
+
+Permit Conditions, pages 15 through 34 Digital Loudoun Parkway Center N LLC 
+
+Permit Registration Number: NRO-73670 
+
+March 14, 2025 
+
+Page 1of 37 Pages 
+
+# Table of Contents 
+
+FACILITY INFORMATION ................................................................................................................ 2 
+
+EMISSION UNITS ............................................................................................................................. 3 
+
+FUEL BURNING EQUIPMENT REQUIREMENTS – (A LL DIESEL ENGINE GENERATOR SETS ) ........ 15 
+
+LIMITATIONS .............................................................................................................................. 15 
+
+MONITORING ............................................................................................................................. 19 
+
+RECORDKEEPING ........................................................................................................................ 20 
+
+TESTING ..................................................................................................................................... 21 
+
+COMPLIANCE REQUIREMENTS .................................................................................................... 21 
+
+NSPS SUBPART IIII – STANDARDS OF PERFORMANCE FOR STATIONARY COMPRESSION IGNITION 
+
+INTERNAL COMBUSTION ENGINES ............................................................................................. 21 
+
+MACT SUBPART ZZZZ – NATIONAL EMISSION STANDARDS FOR HAZARDOUS AIR POLLUTANTS FOR STATIONARY RECIPROCATING INTERNAL COMBUSTION ENGINES ...................................... 22 
+
+FACILITY WIDE CONDITIONS ..................................................................................................... 23 
+
+INSIGNIFICANT EMISSION UNITS ................................................................................................. 24 
+
+PERMIT SHIELD & INAPPLICABLE REQUIREMENTS ................................................................... 25 
+
+GENERAL CONDITIONS ................................................................................................................ 26 Digital Loudoun Parkway Center N LLC 
+
+> Permit Registration Number: NRO-73670
+> March 14, 2025
+> Page 2 of 37 Pages
+
+# Facility Information 
+
+Permittee 
+
+Digital Realty Trust 
+
+10 Post Office Square, Suite 500 
+
+Boston, MA 02109 
+
+Responsible Official 
+
+Mr. Jim Zografos 
+
+Vice President, Portfolio Management Group 
+
+Facility 
+
+Digital Loudoun Parkway Center N LLC. 
+
+43940 Digital Loudoun Plaza 
+
+Ashburn, VA 20147 
+
+Contact Person 
+
+Mr. Jonathan Buford 
+
+Regional Manager, Northern Virginia, Digital Realty 
+
+(703) 885-3665 
+
+County-Plant Identification Number: 107-00890 
+
+Facility Description: NAICS 541513 - Data processing facilities (i.e. clients’ facilities) management and operation services. 
+
+Digital Loudoun Parkway Center N LLC is a data center that provides data hosting services for multiple clients. The affected emissions units are several diesel engine generator sets (gen-sets) that provide electrical power to the data hosting equipment in the event of inadequate power being available via the connection to the electric utility grid to maintain normal operation. 
+
+Nitrogen oxides (NO x), carbon monoxide (CO), volatile organic compounds (VOC), sulfur dioxide, and particulate matter (PM) are emitted from the fuel burning equipment. This facility, located in a nonattainment area for ozone is designated as a Title V major source of NO x, and an area source for hazardous air pollutants. The facility is currently permitted under a minor New Source Review (mNSR) Permit issued on October 4, 2017. Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 3 of 37 Pages
+
+# Emission Units 
+
+Process Equipment to be operated consists of: 
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+Digital Loudoun Pkwy Center N, LLC Building A 
+
+A110-EG1  A110-B  Cummins 2000DQKAB 
+
+(2008) 
+
+2,000 ekW, 
+
+(2,919 bhp), Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+A110-EG2  A110-D  Cummins 2000DQKAB 
+
+(2008) 
+
+A110-EG3  A110-R  Cummins 2000DQKAB 
+
+(2009) 
+
+A120-EG1  A120-B  Cummins 2000DQKAB 
+
+(2008) 
+
+A120-EG2  A120-D  Cummins 2000DQKAB 
+
+(2009) 
+
+A120-EG3  A120-R  Cummins 2000DQKAB 
+
+(2009) 
+
+A130-EG1  A130-B  Cummins 2000DQKAB 
+
+(2008) 
+
+A130-EG2  A130/140-R  Cummins 2000DQKAB 
+
+(2009) 
+
+A140-EG1  A140-B  Cummins 2000DQKAB 
+
+(2008) 
+
+A150-EG1  A150-B  Cummins 2000DQKAB 
+
+(2009) 
+
+A150-EG2  A150-D  Cummins 2000DQKAB 
+
+(2009) 
+
+A150-EG3  A150-R  Cummins 2000DQKAB 
+
+(2009) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 4 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+A Base EG 
+
+(A105)  A-PBB  Cummins 275DQHAA 
+
+(2009) 
+
+275 ekW, 
+
+(470 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 
+
+GIP Stoughton Building B 
+
+B110-EG1  B110-B  Cummins 2000DQKAB 
+
+(2007) 
+
+2,000 ekW, 
+
+(2,919 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+B110-EG2  B110-D  Cummins 2000DQKAB 
+
+(2007) 
+
+B110-EG3  B110-R  Cummins 2000DQKAB 
+
+(2007) 
+
+B120-EG1  B120-B  Cummins 2000DQKAB 
+
+(2009) 
+
+B120-EG2  B120-D  Cummins 2000DQKAB 
+
+(2009) 
+
+B120-EG3  B120-R  Cummins 2000DQKAB 
+
+(2009) 
+
+B130-EG1  B130-B  Cummins 2000DQKAB 
+
+(2007) 
+
+B130-EG2  B130-D  Cummins 2000DQKAB 
+
+(2007) 
+
+B130-EG3  B130-R  Cummins 2000DQKAB 
+
+(2007) 
+
+B140-EG1  B140-B  Cummins 2000DQKAB 
+
+(2007) 
+
+B140-EG2  B140-D  Cummins 2000DQKAB 
+
+(2007) 
+
+B140-EG3R  B140-R  Cummins 2000DQKAB 
+
+(2007) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 5 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+B Base EG 
+
+(B105)  B-PBB  Cummins 500DFEK 
+
+(2008) 
+
+500 ekW 
+
+(732 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 
+
+GIP Stoughton Building D 
+
+D110-EG1  D110-B  Cummins 2000DQKAB 
+
+(2008) 
+
+2,000 ekW, 
+
+(2,919 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+D110-EG2  D110-R  Cummins 2000DQKAB 
+
+(2008) 
+
+D120-EG1  D120-B  Cummins 2000DQKAB 
+
+(2007) 
+
+D120-EG2  D120-D  Cummins 2000DQKAB 
+
+(2007) 
+
+D120-EG3  D120-R  Cummins 2000DQKAB 
+
+(2007) 
+
+D130-B  D130-A  Cummins 2000DQKAB 
+
+(2013) 
+
+D130-D  D130-B  Cummins 2000DQKAB 
+
+(2013) 
+
+D130-R  D130-C  Cummins 2000DQKAB 
+
+(2013) 
+
+D140-B  D130-D  Cummins 2000DQKAB 
+
+(2013) 
+
+D Base EG 
+
+(D105)  D-PBB  Cummins 350DFEG 
+
+(2007) 
+
+350 ekW, 
+
+(520 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 6 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+Digital Loudon II LLC Building F 
+
+F130-EG1  F130-B  Cummins Model 2000DQKAB 
+
+(2010) 
+
+2,000 ekW, 
+
+(2,919 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+F130 EG2  F130/140-R  Cummins Model 2000DQKAB 
+
+(2010) 
+
+F140-EG1  F140-B  Cummins Model 2000DQKAB 
+
+(2011) 
+
+F150-EG1  F150-B  Cummins Model 2000DQKAB 
+
+(2008) 
+
+F150-EG2  F150-D  Cummins Model 2000DQKAB 
+
+(2009) 
+
+F150-EG3  F150-R  Cummins Model 2000DQKAB 
+
+(2008) 
+
+F160-EG1  F160-B  Cummins Model 2000DQKAB 
+
+(2011) 
+
+F160-EG2  F160-D  Cummins Model 2000DQKAB 
+
+(2011) 
+
+F160-EG3  F160/170-R  Cummins Model 2000DQKAB 
+
+(2010) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 7 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+F Base EG 
+
+(F105)  F-PBB  Cummins Model 350DFEG 
+
+(2011) 
+
+350 ekW, 
+
+(520 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 
+
+Digital Loudoun Pkwy Center N, LLC Building G1 
+
+G1-150-R  G-GR1 108/208 
+
+Fourteen (14) Caterpillar Model 3516C Diesel Engine-Generator Sets 
+
+(2012) 
+
+2,000 ekW, 
+
+(2,937 bhp), Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+G1-150-D  G208 
+
+G1-150-B  G108 
+
+G1-140-R  G-GR2 106/206 
+
+G1-140-D  G206 
+
+G1-130-B  G104 
+
+G1-130-D  G204 
+
+G1-130-R  G-GR3 104/204/200 
+
+G1-140-B  G106 
+
+G1-110-B  G100 
+
+G1-110-D  G102 
+
+G1-120-B  G200 Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 8 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+G1-120-D  G202 
+
+G1-110/120-R  G-GR4 100/102/202 
+
+G1-Base EG 
+
+(G-PBB1)  HG2 East  Caterpillar Model C18 DITA (2012) 
+
+600 ekW, 
+
+(900 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 
+
+Digital Loudoun Pkwy Center N, LLC Building G2 
+
+GEN 1  G210  Caterpillar Model 3516C 
+
+(2013) 
+
+2,000 ekW, 
+
+(2,937 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+GEN 2  G212  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 3  G-GR5  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 4  G214  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 5  G218  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 6  G-GR9  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 7  G114  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 8  G114R  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 17  G216  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 18  G110 GD  Caterpillar Model 3516C 
+
+(2013) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 9 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+GEN 19  G110R GD  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 20  G110 GB  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 21  G110R AB  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 25  G220  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 44  G2-G120A  Caterpillar Model 3516C 
+
+(2015) 
+
+PBB 6 
+
+(HG1 West)  G-PBB2  Caterpillar Model C9 ATAAC 
+
+(2013) 
+
+300 ekW, 
+
+(480 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 
+
+Digital Loudoun Pkwy Center N, LLC Building K 
+
+GEN 9  K200  Caterpillar Model 3516C 
+
+(2013) 
+
+2,000 ekW, 
+
+(2,937 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+GEN 10  K200-GR1  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 11  K100  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 12  K202  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 13  K102-GR2  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 14  K102  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 15  K104  Caterpillar Model 3516C 
+
+(2013) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 10 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+GEN 16  K204  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 22  K206  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 23  K206-GR3  Caterpillar Model 3516C 
+
+(2013) 
+
+GEN 24  K106  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 26  K108  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 27  K208  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 28  K210  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 29  K110-210-GR4  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 30  K110  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 31  K112  Caterpillar Model 3516C 
+
+(2014) 
+
+GEN 32  K114  Caterpillar Model 3516C 
+
+(2014) 
+
+PBB 7  K-PBB  Caterpillar Model C18 DITA (2014) 
+
+600 ekW, 
+
+(900 bhp) 
+
+Output  None  N/A  N/A  October 4, 2017 Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 11 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+Digital Loudoun Pkwy Center N, LLC Building J 
+
+Gen 33 
+
+Gen 34 
+
+Gen 35 
+
+J200 
+
+J100/200R 
+
+J100 
+
+Three (3) Caterpillar Model 3516C Diesel Engine-Generator Sets 
+
+(2015) 
+
+2,000 ekW, 
+
+(2,937 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+Gen 46  J106A  Cummins Model DQKAE 
+
+(2015) 
+
+2,000 ekW, 
+
+(2,922 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+Gen 47  J106B  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 48  J106C  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 49  J106D  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 50  J206A  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 51  J206B  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 52  J206C  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 53  J206D  Cummins Model DQKAE 
+
+(2015) 
+
+Gen 54  J206E  Cummins Model DQKAE 
+
+(2015) 
+
+PBB 8  J-PBB  Caterpillar Model C18 DITA (2015)  600 ekW, 
+
+(900 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 12 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+Digital Loudoun Pkwy Center N, LLC Building H 
+
+Gen 36  H106A  Caterpillar Model 3516C 
+
+(2016) 
+
+2,000 ekW, 
+
+(2,937 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+Gen 37  H106B  Caterpillar Model 3516C 
+
+(2016) 
+
+Gen 38  H106C  Caterpillar Model 3516C 
+
+(2016) 
+
+Gen 39  H106D  Caterpillar Model 3516C 
+
+(2016) 
+
+Gen 40  H206A  Caterpillar Model 3516C 
+
+(2015) 
+
+Gen 41  H206B  Caterpillar Model 3516C 
+
+(2015) 
+
+Gen 42  H206C  Caterpillar Model 3516C 
+
+(2016) 
+
+Gen 43  H206D  Caterpillar Model 3516C 
+
+(2016) 
+
+PBB 9  H-PBB  Caterpillar Model C18 DITA (2016) 
+
+600 ekW, 
+
+(900 bhp) 
+
+Output 
+
+None  N/A  N/A  October 4, 2017 
+
+Digital Loudoun Pkwy Center N, LLC Buildings G2, H, J, and K 
+
+Gen2.5-1  G116GR  Caterpillar Model 3516C-HD 
+
+(2014) 
+
+Gen2.5-2  G116GA  Caterpillar Model 3516C-HD 
+
+(2014) 
+
+Gen2.5-3  G118GA  Caterpillar Model 3516C-HD 
+
+(2014) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 13 of 37 Pages
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+Gen2.5-4  G118GR  Caterpillar Model 3516C-HD 
+
+(2014) 
+
+2,500 ekW, 
+
+(3,633 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+Gen2.5-5  K212GA  Caterpillar Model 3516C-HD 
+
+(2016) 
+
+Gen2.5-6  K212GB  Caterpillar Model 3516C-HD 
+
+(2016) 
+
+Gen2.5-7  K212GC  Caterpillar Model 3516C-HD 
+
+(2016) 
+
+Gen2.5-8  J102A  Caterpillar Model 3516C-HD 
+
+(2016) 
+
+Gen2.5-9  J102B  Caterpillar Model 3516C-HD 
+
+(2016) 
+
+Gen2.5-10  J102C  Caterpillar Model 3516C-HD 
+
+(2016) 
+
+Gen2.5-11  H100A  Caterpillar Model 3516C-HD 
+
+(2017) 
+
+Gen2.5-12  H100D  Caterpillar Model 3516C-HD 
+
+(2017) 
+
+Gen2.5-13  H100C  Caterpillar Model 3516C-HD 
+
+(2017) 
+
+Gen2.5-14  H100B  Caterpillar Model 3516C-HD 
+
+(2017) 
+
+Gen2.5-15  H200A  Caterpillar Model 3516C-HD 
+
+(2017) 
+
+Gen2.5-16  H200B  Caterpillar Model 3516C-HD 
+
+(2017) 
+
+Gen2.5-17  H200C  Caterpillar Model 3516C-HD 
+
+(2018) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 14 of 37 Pages
+
+*The Size/Rated capacity and PCD efficiency is provided for informational purposes only, and is not an applicable requirement. 
+
+Emission Unit ID  Stack ID  Emission Unit Description  Size/Rated Capacity* 
+
+Pollution Control Device (PCD) Description 
+
+*
+
+PCD ID  Pollutant Controlled 
+
+Applicable Permit Date 
+
+Gen2.5-18  H200D  Caterpillar Model 3516C-HD 
+
+(2018) 
+
+Gen2.5-20  J202A  Cummins Model DQKAN 
+
+(2015)  2,500 ekW, 
+
+(3,640 bhp), 
+
+Output, each 
+
+None  N/A  N/A  October 4, 2017 
+
+Gen2.5-21  J202B  Cummins Model DQKAN 
+
+(2015) 
+
+Gen2.5-22  J202C  Cummins Model DQKAN 
+
+(2015) Fuel Burning Equipment Requirements – (All diesel engine generator sets) 
+
+Limitations 
+
+1. Fuel Burning Equipment Requirements - All of the diesel engine generator sets identified in this permit shall control emissions as follows: 
+
+a. Nitrogen oxides (as NO 2) emissions from the diesel engine generator sets shall be controlled by use of electronic fuel injection, turbocharged engines and low temperature after coolers. 
+
+b. Sulfur dioxide (SO 2) emissions from the diesel engine generator sets shall be controlled by the use of ultra-low sulfur diesel fuel with a sulfur content not to exceed 0.0015% by weight. 
+
+c. Carbon monoxide (CO), NO x, particulate matter less than 10 microns (PM-10) and PM-2.5, and volatile organic compounds (VOC) emissions from the diesel engine generator sets shall be controlled by good combustion practices. 
+
+d. Proper combustion for and visible emissions from the emergency engine-generators shall be controlled by the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the engines. 
+
+(9VAC5-80-110, 9VAC5-50-260 and Condition 1 of mNSR permit dated October 4, 2017) 
+
+2. Fuel Burning Equipment Requirements - The diesel engine generator sets shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+1) A failure of the electrical grid; 
+
+2) On-site disaster or equipment failure; or 
+
+3) Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+1) An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+2) Capacity deficiency or capacity excess conditions; Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 16 of 37 Pages
+
+3) A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+4) Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+5) An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For periodic maintenance, testing, and operational training. 
+
+(9VAC5-80-110, 40 CFR 63.6640(f) and Condition 4 of mNSR permit dated October 4, 2017) 
+
+3. Fuel Burning Equipment Requirements - The diesel engine generator sets in Building A, Building B, Building D, and Building F (Ref. Nos. A110-B, A110-D, A110-R, A120-B, A120-D, A120-R, A130-B, A130/140-R, A140-B, A150-B, A150-D, A150-R, B110-B, B110-D, B110-R, B120-B, B120-D, B120-R, B130-B, B130-D, B130-R, B140-B, B140-D, B140-R, D110-B, D110-R, D120-B, D120-D, D120-R, D130-A, D130-B, D130-C, D130-D, F130-B, F130/140-R, F140-B, F150-B, F150-D, F150-R, F160-B, F170-D, and F160/170-R) shall not operate more than 3,360 hours combined per year, calculated monthly as the sum of each consecutive 12 month period. Refer to Condition  17  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-110 and Condition 5 of mNSR permit dated October 4, 2017) 
+
+4. Fuel Burning Equipment Requirements - The diesel engine generator sets in Building G1 (Ref. Nos. G100, G102, G202 & G-GR4; G104, G204, G200 & G-GR3; G106, G206 & G-GR2; G108, G208 & G-GR1) shall not operate more than 1,050 hours combined per year, calculated monthly as the sum of each consecutive 12-month period. Refer to Condition  17  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-110 and Condition 6 of mNSR permit dated October 4, 2017) 
+
+5. Fuel Burning Equipment Requirements - The base diesel engine generator sets (Ref. Nos. G1 Base EG (GPBB1), A Base EG (A105), B Base EG (B105), D Base EG (D105), F Base EG (F105), and PBB 6 through 9) shall not operate more than 75 hours each per year, calculated monthly as the sum of each consecutive 12-month period. Refer to Condition  17  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-110 and Condition 7 of mNSR permit dated October 4, 2017) 
+
+6. Fuel Burning Equipment Requirements - The fifty-three 2,000 kW diesel engine generator sets in Building G2, H, J & K (Ref. Nos. Gen1 through Gen 44, and Gen 46 through Gen 54) shall not operate more than 2,700 hours combined per year, calculated monthly as the sum of each consecutive 12-month period. Refer to Condition  17  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-110 and Condition 8 of mNSR permit dated October 4, 2017) 
+
+7. Fuel Burning Equipment Requirements - The twenty-one 2,500 kW diesel engine generator sets in Building G2, H, J & K (Ref. Nos. Gen2.5-1 through Gen2.5-18 and Gen2.5-20 through Gen2.5-22) shall not operate more than 1,100 hours combined per year, calculated monthly as the Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 17 of 37 Pages
+
+sum of each consecutive 12-month period. Refer to Condition  17  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-110 and Condition 9 of mNSR permit dated October 4, 2017) 
+
+8. Fuel Burning Equipment Requirements - In addition to the operating hours contained in permit Conditions  3, 4, 5, 6, and  7, no single diesel engine generator set shall operate more than 500 hours per year, calculated monthly as the sum of each consecutive 12-month period. Refer to Condition  17  for record keeping requirements to demonstrate compliance with this condition. 
+
+(9VAC5-80-110 and Condition 10 of mNSR permit dated October 4, 2017) 
+
+9. Fuel Burning Equipment Requirements - The permittee shall operate and maintain each engine-generator set and control device according to the manufacturer’s written instructions or procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not impact air emissions. 
+
+(9VAC5-80-110, 40 CFR 60.4211(a)(1)(2), and Condition 11 of mNSR permit dated October 4, 2017) 
+
+10. Fuel Burning Equipment Requirements - The approved fuel for the diesel engine generator sets shall be diesel fuel oil that meets the specifications below: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for grade ultra-low sulfur 2-D or grade 2-D S15, or 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of forty or a maximum aromatic content of thirty-five percent by volume. 
+
+Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. A change in the fuel may require a permit to modify and operate. 
+
+(9VAC5-80-110, 9VAC5-50-260, 40 CFR 60.4207, 40 CFR 63.6604(b) and Condition 12 of mNSR permit dated October 4, 2017) 
+
+11. Fuel Burning Equipment Requirements - Emissions from the operation of each engine-generator set shall not exceed the limits specified below:         
+
+> Engine-Generator Sets
+> Nitrogen Oxides
+> (as NO 2)*
+> lbs/hr
+> Carbon Monoxide
+> lbs/hr
+> Volatile Organic Compounds
+> lbs/hr
+> PM 10 &PM2.5
+> lbs/hr
+> Buildings G2, H, J and K: Gen2.5-1 through Gen2.5-18, and Gen2.5-20 through Gen2.5-22
+> 48.1 6.02 1.20 0.80
+> Buildings G2, H, J and K: Gen 1 38.86 3.95 1.13 0.57 Digital Loudoun Parkway Center N LLC.
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 18 of 37 Pages
+
+Engine-Generator Sets 
+
+Nitrogen Oxides 
+
+(as NO 2)* 
+
+lbs/hr 
+
+Carbon Monoxide 
+
+lbs/hr 
+
+Volatile Organic Compounds 
+
+lbs/hr 
+
+PM 10 &PM2.5 
+
+lbs/hr 
+
+through Gen 44 and Gen 46 through Gen 54 
+
+Base Unit PBB 6  4.47  0.47  0.11  0.06 
+
+Base Units PBB 7 through PBB 9  11.58  0.95  0.02  0.07 
+
+Building A engines (except A Base EG)  38.61  4.81  2.81  0.26 
+
+Building B engines (except B Base EG)  38.61  4.81  2.81  0.26 
+
+Building D engines (except D Base EG)  38.61  4.81  2.81  0.26 
+
+Building F engines (except F Base EG)  38.61  4.81  2.81  0.26 
+
+Building G1 engines  38.86  3.95  1.13  0.57 
+
+A Base EG (A105)  7.83  0.50  0.13  0.08 
+
+B Base EG (B105)  7.83  0.50  0.13  0.08 
+
+D Base EG (D105)  4.99  0.62  0.07  0.06 
+
+F Base EG (F105)  4.99  0.62  0.07  0.06 
+
+* NO 2 – Upon DEQ verification of a performance (stack) test, the facility has the option of using a lower emission rate (average of three one-hour test runs x 120%) by undergoing a permit amendment to incorporate the new lower rate. 
+
+The hourly NO X emissions are based upon the current BACT limit of 6.0 g/bhp-hr at greater than 90% of the maximum design capacity of the diesel engine generator sets. Compliance with the hourly NO X emission limit may be based on testing, if required by DEQ. 
+
+(9VAC5-80-110, 9VAC5-50-260 and Condition 14 of mNSR permit dated October 4, 2017) 
+
+12. Fuel Burning Equipment Requirements - Annual Emergency Engine-Generator Emission Limits -Combined emissions from all the diesel engine generator sets shown in the Emission Units Tables section shall not exceed the limits specified below: 
+
+Pollutant 
+
+Buildings A, B, D, F and G1 
+
+(tons/year) 
+
+Buildings G2, H, J and K 
+
+(tons/year) 
+
+Nitrogen Oxides (as NO 2) 86.7  80.4 
+
+Carbon Monoxide (CO)  4.5  8.8 
+
+Volatile Organic Compounds (VOC)  3.2  2.2 
+
+PM-10 (Total)  0.8  1.2 
+
+PM-2.5 (Total)  0.8  1.2 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 19 of 37 Pages
+
+exceedance of emission limits. Compliance with these emission limits shall be determined by complying with permit Conditions  3, 4, 5, 6, 7, and  8.
+
+(9VAC5 5-80-110, 9VAC5-50-260 and Condition 15 of mNSR permit dated October 4, 2017) 
+
+13. Fuel Burning Equipment Requirements - Visible emissions from each diesel engine generator set shall not exceed five percent opacity except during one six-minute period in any one hour in which visible emissions shall not exceed ten percent opacity as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies at all times except during start-up, shut-down and malfunction. During start-up and shut-down times, visible emissions from each diesel engine generator set shall not exceed ten percent opacity except during one six-minute period in any one hour in which visible emissions shall not exceed twenty percent opacity as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-110, 9VAC5-50-260, 9VAC5-50-80 and Condition 16 of mNSR permit dated October 4, 2017 )
+
+Monitoring 
+
+14. Fuel Burning Equipment Requirements - Each diesel engine generator set shall be equipped with a non-resettable hour meter to continuously measure the operating hours for each unit. Each monitoring device shall be installed, maintained, calibrated and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the engines are operating. 
+
+(9VAC5-80-110, 9VAC5-50-20 C, 9VAC5-50-260, 40 CFR 60.4209(a) and Condition 2 of mNSR permit dated October 4, 2017) 
+
+15. Fuel Burning Equipment Requirements - To ensure good performance, the monitoring devices used to continuously measure operating hours shall be observed by the permittee during each test firing and at a frequency of not less than once per day during days in which the respective engine generator sets are called into service. 
+
+(9VAC5-80-110 and Condition 3 of mNSR permit dated October 4, 2017) 
+
+16. Fuel Burning Equipment Requirements - The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; and 
+
+b. The date on which the diesel fuel oil was received; and 
+
+c. The quantity of diesel fuel oil delivered in the shipment; and 
+
+d. A statement that the diesel fuel oil conforms to the requirements of Condition  10  – Fuel Specifications, or Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 20 of 37 Pages
+
+e. Alternatively, the permittee must obtain approval from the Regional Air Compliance Manager of the DEQ’s NRO (Northern Regional Office) if other documentation will be used to certify the diesel fuel oil type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition  10 .
+
+(9VAC5-80-110 and Condition 13 of mNSR permit dated October 4, 2017) 
+
+Recordkeeping 
+
+17. Fuel Burning Equipment Requirements - Recordkeeping - The permittee shall maintain records of all emission data and operating parameters necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Northern Regional Office. These records shall include, but are not limited to: 
+
+a. Documentation from the manufacturer that each emergency engine-generator set is certified to meet the EPA Tier 2 emission standards. 
+
+b. A monthly log of the monitoring device data required by Condition  15 . The log shall include the dates, engine run times, and the reason for operation as defined in Condition  2.
+
+c. Monthly and annual hours of operation for each diesel engine generator set to verify compliance with the operating limits in Conditions  3, 4, 5, 6, 7, and  8.
+
+d. All fuel supplier certifications. 
+
+e. Fuel sampling analyses or certifications indicating the sulfur content of the diesel fuel oil. 
+
+f. All VEE and emission stack test reports for each engine-generator set. 
+
+g. A copy of the maintenance schedule and records of scheduled and unscheduled maintenance and operating training as required by permit Condition  29 .
+
+h. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for each engine-generator set. 
+
+i. The manufacturer’s written operating instructions or procedures developed by the owner/operator that are approved by the engine manufacturer for each emergency engine-generator set. 
+
+j. Records of changes in settings that are permitted by the manufacturer of the engine-generator sets. 
+
+k. Record of the time of operation of each engine-generator set and the reason the engine was in operation during that time. Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 21 of 37 Pages
+
+l. Records of the hours of operation of each engine-generator set that is recorded through the hour meter, including how many hours are spent for emergency and non-emergency operation. 
+
+Annual compliance shall be determined monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding eleven months. 
+
+These records shall be available on site for inspection by the DEQ and shall be current for the most recent five (5) years. 
+
+(9VAC5 5-80-10, 40 CFR 60.4214(b), 40 CFR 63.6655(f) and Condition 24 of mNSR permit dated October 4, 2017) 
+
+Testing 
+
+18. Fuel Burning Equipment Requirements - The permitted facility shall be constructed so as to allow for emissions testing at any time using appropriate methods. Upon request from the DEQ, test ports shall be provided at the appropriate locations. 
+
+(9VAC5-80-110, 9VAC5-50-30 and Condition 20 of mNSR permit dated October 4, 2017) 
+
+19. Facility Wide Requirement - Upon request by the DEQ, the permittee shall conduct additional performance tests of the emergency engine-generators to demonstrate compliance with the emission limits requirements contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-110, 9VAC5-50-30 G and Condition 18 of mNSR permit dated October 4, 2017) 
+
+20. Facility Wide Requirement - Upon request by the DEQ, the permittee shall conduct additional visible emission evaluations of the emergency engine-generators to demonstrate compliance with the visible emission limits contained in this permit. The details of the VEE shall be arranged with the Regional Air Compliance Manager of the DEQ’s NRO. 
+
+(9VAC5-80-110, 9VAC5-50-30 G and Condition 19 of mNSR permit dated October 4, 2017) 
+
+21. Fuel Burning Equipment Requirements - If testing is conducted in addition to the monitoring specified in this permit, the permittee shall use the appropriate method(s) in accordance with procedures approved by the DEQ. 
+
+(9VAC5-80-110) 
+
+Compliance Requirements 
+
+NSPS Subpart IIII – Standards of Performance for Stationary Compression Ignition Internal Combustion Engines 
+
+22. NSPS IIII – Limitations – The permittee shall operate and maintain each diesel engine generator set according to the emission standards as required in 40 CFR 60.4202 over the entire life of the engine. These emissions shall be equal to or less than the applicable emissions limits contained in 40 CFR 1039. 
+
+(9VAC5-80-110 and 40 CFR 4206) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 22 of 37 Pages
+
+23. NSPS IIII – Limitations – Except where this permit is more restrictive than the applicable requirement, each diesel engine generator set shall be operated in compliance with the requirements of 40 CFR Part 60, Subpart IIII. 
+
+(9VAC5-80-110 and 40 CFR Part 60 Subpart IIII) 
+
+24. NSPS IIII – Limitations – The permittee shall comply with the applicable General Provisions (40 CFR 60 Subpart A) as indicated in Table 8 to 40 CFR 60 Subpart IIII. 
+
+(9VAC5-80-110 and 40 CFR 60.4218) 
+
+25. NSPS IIII – Monitoring – If the permittee does not install, configure, operate, and maintain the engine and control device according to the manufacturer’s emission-related written instructions, or the permittee changes emission-related settings in a way that is not permitted by the manufacturer, the permittee shall demonstrate compliance according to 40 CFR 60.4211(g) (1) through (3). 
+
+(9VAC5-80-110 and 40 CFR 60.4211(g)) 
+
+26. NSPS IIII – Reporting – The permittee shall submit an annual report in accordance with 40 CFR 60.4214(d) if the emergency stationary CI ICE operate for the purposes specified in 40 CFR 60.4211(f)(3)(i). Annual reports for each calendar year must be submitted no later than March 31 of the following calendar year. The annual report must be submitted electronically using the subpart specific reporting form in the Compliance and Emissions Data Reporting Interface (CEDRI) that is accessed through EPA’s Central Data Exchange (CDX) (www. cdx.epa.gov). However, if the reporting is not available in CEDRI at the time that the report is due, the written report must be submitted to the Administrator at the appropriate address listed in 40 CFR 60.4. The report must include the following information: 
+
+a. Company name and address where the engine is located. 
+
+b. Date of the report and beginning and ending dates of the reporting period. 
+
+c. Engine site rating and model year. 
+
+d. Latitude and longitude of the engine in decimal degrees reported to the fifth decimal place. 
+
+e. Hours spent for operation for the purposes specified in 40 CFR 60.4211(f)(3)(i), including the date, start time, and end time for engine operation for the purposes specified in 40 CFR 60.4211(f)(3)(i). The report must also identify the entity that dispatched the engine and the situation that necessitated the dispatch of the engine. 
+
+f. Beginning on February 26, 2025, submit the annual report electronically according to 40 CFR 60.4214(g). 
+
+Within fifteen (15) business days of submitting the annual report to EPA, the facility shall submit notification to the Air Compliance Manager of DEQ’s Northern Regional Office of the date that the annual report was submitted to EPA. 
+
+(9VAC5-80-110 and 40 CFR 60.4214(d)) 
+
+MACT Subpart ZZZZ – National Emission Standards for Hazardous Air Pollutants for Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 23 of 37 Pages
+
+Stationary Reciprocating Internal Combustion Engines 
+
+27. MACT ZZZZ – The diesel engine generator sets shall demonstrate compliance with 40 CFR Part 63 Subpart ZZZZ by demonstrating compliance with 40 CFR Part 60 Subpart IIII, with “emergency” being defined as stated in 40 CFR 63.6675. 
+
+(9VAC5-80-110 and 40 CFR 63.6590(c)(1)) 
+
+28. MACT ZZZZ – Except where this permit is more restrictive than the applicable requirement, each diesel engine generator set shall be operated in compliance with the requirements of 40 CFR Part 63, Subpart ZZZZ. 
+
+(9VAC5-80-110 and 40 CFR Part 63 Subpart ZZZZ) 
+
+Facility Wide Conditions 
+
+29. Facility-Wide Requirement - Maintenance/Operating Procedures - At all times, including periods of startup, shutdown, and malfunction, owners shall, to the extent practicable, maintain and operate any affected facility, including associated air pollution control equipment, in a manner consistent with air pollution control practices for minimizing emissions. Determination of whether acceptable operating and maintenance procedures are being used will be based on information available to the Regional Air Compliance Manager of the DEQ’s NRO, which may include, but is not limited to, monitoring results, opacity observations, review of operating and maintenance procedures, and inspection of the source. 
+
+The permittee shall take the following measures in order to minimize the duration and frequency of excess emissions, with respect to air pollution control equipment and process equipment which affect such emissions: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer’s recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with written procedures, prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on-site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-80-110, 9VAC5-50-20 E and Condition 28 of mNSR permit dated October 4, 2017) 
+
+30. Facility Wide Requirement - Reporting- All correspondence concerning this permit should be submitted to the following address: Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 24 of 37 Pages
+
+Regional Air Compliance Manager 
+
+Department of Environmental Quality 
+
+Northern Regional Office 
+
+13901 Crown Court 
+
+Woodbridge, VA 22193 
+
+(9VAC5-80-110 , 9VAC5-50-50, 9VAC5-50-410 and Condition 21 of mNSR permit dated October 4, 2017) 
+
+31. Facility Wide Requirement - Reporting - The owner of a stationary source emitting twenty-five tons per year or more of volatile organic compounds or nitrogen oxides shall submit a completed emission statement to the Regional Air Compliance Manager of the DEQ’s NRO by April 15 th of each year for the emissions discharged during the previous calendar year. The emission statement shall be prepared and submitted in the appropriate format. 
+
+(9VAC5-80-110 and Condition 23 of mNSR permit dated October 4, 2017) 
+
+# Insignificant Emission Units 
+
+32. Insignificant Emission Units - The following emission units at the facility are identified in the application as insignificant emission units under 9VAC5-80-720: 
+
+Emission Unit No. 
+
+Emission Unit Description 
+
+Citation 
+
+(9 VAC_) 
+
+Pollutant(s) Emitted 
+
+(9VAC5-80-720B) 
+
+Rated Capacity 
+
+(9VAC5-80-720C)             
+
+> Tanks Diesel fuel storage – belly tank under 2000 kw emergency generators (112 total)
+> 5-80-720 B VOC 4,000 gallons
+> Tanks Diesel fuel storage – belly tank under 2500 kw emergency generators (21 total)
+> 5-80-720 B VOC 4,800 gallons
+> Gen A105 Diesel fuel storage – belly tank under 275 kw emergency generators
+> 5-80-720 B VOC 660 gallons
+> Gen B105 Diesel fuel storage – belly tank under 500 kw emergency generators
+> 5-80-720 B VOC 840 gallons
+
+Digital Loudoun Parkway Center N LLC. 
+
+Permit Number: NRO-73670 
+
+March 14, 2025 
+
+Page 25 of 37 Pages 
+
+Emission Unit No. 
+
+Emission Unit Description 
+
+Citation 
+
+(9 VAC_) 
+
+Pollutant(s) Emitted 
+
+(9VAC5-80-720B) 
+
+Rated Capacity 
+
+(9VAC5-80-720C) 
+
+Gen D105  Diesel fuel storage – belly tank under 350 kw emergency generators 
+
+5-80-720 B  VOC  563 gallons 
+
+Gen F105  Diesel fuel storage – belly tank under 350 kw emergency generators 
+
+5-80-720 B  VOC  660 gallons 
+
+Gen HG1 West 
+
+Diesel fuel storage – belly tank under 600 kw emergency generators 
+
+5-80-720 B  VOC  1,200 gallons 
+
+Gen HG2 West 
+
+Diesel fuel storage – belly tank under 300 kw emergency generators 
+
+5-80-720 B  VOC  720 gallons 
+
+Gen K-House 
+
+Diesel fuel storage – belly tank under 600 kw emergency generators 
+
+5-80-720 B  VOC  1,200 gallons 
+
+Gen J-House 
+
+Diesel fuel storage – belly tank under 600 kw emergency generators 
+
+5-80-720 B  VOC  1,025 gallons 
+
+Gen H-House 
+
+Diesel fuel storage – belly tank under 600 kw emergency generators 
+
+5-80-720 B  VOC  1,000 gallons 
+
+> 1
+
+The citation criteria for insignificant activities are as follows: 
+
+9VAC5-80-720 A - Listed Insignificant Activity, Not Included in Permit Application 
+
+9VAC5-80-720 B - Insignificant due to emission levels 
+
+9VAC5-80-720 C - Insignificant due to size or production rate 
+
+These emission units are presumed to be in compliance with all requirements of the federal Clean Air Act as may apply. Based on this presumption, no monitoring, recordkeeping, or reporting shall be required for these emission units in accordance with 9VAC5-80-110. 
+
+(9VAC5-80-110) 
+
+# Permit Shield & Inapplicable Requirements 
+
+33. Permit Shield & Inapplicable Requirements - Compliance with the provisions of this permit shall be deemed compliance with all applicable requirements in effect as of the permit issuance date as identified in this permit. This permit shield covers only those applicable requirements covered by Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 26 of 37 Pages
+
+terms and conditions in this permit and the following requirements which have been specifically identified as being not applicable to this permitted facility: 
+
+Citation  Title of Citation  Description of Applicability  
+
+> 40 CFR 64 Compliance Assurance Monitoring (CAM)
+> CAM is not applicable to the facility. The facility does not have any emissions units that meet all three of the CAM applicability criteria. None of the emission units have a potential to emit any regulated pollutant that exceeds major source thresholds.
+
+Nothing in this permit shield shall alter the provisions of §303 of the federal Clean Air Act, including the authority of the administrator under that section, the liability of the owner for any violation of applicable requirements prior to or at the time of permit issuance, or the ability to obtain information by (i) the administrator pursuant to §114 of the federal Clean Air Act or (ii) the DEQ pursuant to §10.1-1307.3 or §10.1-1315 of the Virginia Air Pollution Control Law. 
+
+(9VAC5-80-110 and 9VAC5-80-140) 
+
+# General Conditions 
+
+34. General Conditions - Federal Enforceability - All terms and conditions in this permit are enforceable by the administrator and citizens under the federal Clean Air Act, except those that have been designated as only state-enforceable. 
+
+(9VAC5-80-110) 
+
+35. General Conditions - Permit Expiration 
+
+a. This permit has a fixed term of five years. The expiration date shall be the date five years from the date of issuance. Unless the owner submits a timely and complete application for renewal to the Department consistent with the requirements of 9VAC5-80-80, the right of the facility to operate shall be terminated upon permit expiration. 
+
+b. The owner shall submit an application for renewal at least six months but no earlier than eighteen months prior to the date of permit expiration. 
+
+c. If an applicant submits a timely and complete application for an initial permit or renewal under 9VAC5-80-80 F, the failure of the source to have a permit or the operation of the source without a permit shall not be a violation of Article 1, Part II of 9VAC5 Chapter 80, until the DEQ takes final action on the application under 9VAC5-80-150. 
+
+d. No source shall operate after the time that it is required to submit a timely and complete application under subsections C and D of 9VAC5-80-80 for a renewal permit, except in compliance with a permit issued under Article 1, Part II of 9VAC5 Chapter 80. Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 27 of 37 Pages
+
+e. If an applicant submits a timely and complete application under section 9VAC5-80-80 for a permit renewal but the DEQ fails to issue or deny the renewal permit before the end of the term of the previous permit, (i) the previous permit shall not expire until the renewal permit has been issued or denied and (ii) all the terms and conditions of the previous permit, including any permit shield granted pursuant to 9VAC5-80-140, shall remain in effect from the date the application is determined to be complete until the renewal permit is issued or denied. 
+
+f. The protection under subsections F 1 and F 5 (ii) of section 9VAC5-80-80 F shall cease to apply if, subsequent to the completeness determination made pursuant section 9VAC5-80-80 D, the applicant fails to submit by the deadline specified in writing by the DEQ any additional information identified as being needed to process the application. 
+
+(9VAC5-80-80, 9VAC5-80-110 and 9VAC5-80-170) 
+
+36. General Conditions -Recordkeeping and Reporting - All records of monitoring information maintained to demonstrate compliance with the terms and conditions of this permit shall contain, where applicable, the following: 
+
+a. The date, place as defined in the permit, and time of sampling or measurements; 
+
+b. The date(s) analyses were performed; 
+
+c. The company or entity that performed the analyses; 
+
+d. The analytical techniques or methods used; 
+
+e. The results of such analyses; and 
+
+f. The operating conditions existing at the time of sampling or measurement. 
+
+(9VAC5-80-110) 
+
+37. General Conditions -Recordkeeping and Reporting - Records of all monitoring data and support information shall be retained for at least five years from the date of the monitoring sample, measurement, report, or application. Support information includes all calibration and maintenance records and all original strip-chart recordings for continuous monitoring instrumentation, and copies of all reports required by the permit. 
+
+(9VAC5-80-110) 
+
+38. General Conditions -Recordkeeping and Reporting - The permittee shall submit the results of monitoring contained in any applicable requirement to the DEQ no later than March 1 and September 1 of each calendar year. This report must be signed by a responsible official, consistent with 9VAC5-80-80 G, and shall include: 
+
+a. The time period included in the report. The time periods to be addressed are January 1 to June 30 and July 1 to December 31; and Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 28 of 37 Pages
+
+b. All deviations from permit requirements. For purpose of this permit, deviations include, but are not limited to: 
+
+i. Exceedances of emissions limitations or operational restrictions; 
+
+ii. Excursions from control device operating parameter requirements, as documented by continuous emission monitoring or periodic monitoring, or Compliance Assurance Monitoring (CAM) which indicates an exceedance of emission limitations or operational restrictions; or, 
+
+iii. Failure to meet monitoring, recordkeeping, or reporting requirements contained in this permit. 
+
+c. If there were no deviations from permit conditions during the time period, the permittee shall include a statement in the report that "no deviations from permit requirements occurred during this semiannual reporting period." 
+
+(9VAC5-80-110) 
+
+39. General Conditions - Annual Compliance Certification - Exclusive of any reporting required to assure compliance with the terms and conditions of this permit or as part of a schedule of compliance contained in this permit, the permittee shall submit to the Environmental Protection Agency (EPA) and the DEQ no later than March 1 each calendar year a certification of compliance with all terms and conditions of this permit including emission limitation standards or work practices for the period ending December 31 . The compliance certification shall comply with such additional requirements that may be specified pursuant to §114(a) (3) and §504(b) of the federal Clean Air Act. The permittee shall maintain a copy of the certification for five (5) years after submittal of the certification. This certification shall be signed by a responsible official, consistent with 9VAC5-80-80 G, and shall include: 
+
+a. The time period included in the certification. The time period to be addressed is January 1 to December 31; 
+
+b. The identification of each term or condition of the permit that is the basis of the certification; 
+
+c. The compliance status; 
+
+d. Whether compliance was continuous or intermittent, and if not continuous, documentation of each incident of non-compliance; 
+
+e. Consistent with subsection 9VAC5-80-110, the method or methods used for determining the compliance status of the source at the time of certification and over the reporting period; 
+
+f. Such other facts as the permit may require to determine the compliance status of the source; and Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 29 of 37 Pages
+
+g. One copy of the annual compliance certification shall be submitted to the EPA in electronic format only. The certification document should be sent to the following electronic mailing address: 
+
+R3_APD_Permits@epa.gov 
+
+(9VAC5-80-110) 
+
+40. General Conditions - Permit Deviation Reporting - The permittee shall notify the Northern Regional Office within four daytime business hours after discovery of any deviations from permit requirements which may cause excess emissions for more than one hour, including those attributable to upset conditions as may be defined in this permit. In addition, within 14 days of the discovery, the permittee shall provide a written statement explaining the problem, any corrective actions or preventative measures taken, and the estimated duration of the permit deviation. The occurrence should also be reported in the next semiannual compliance monitoring report pursuant to Condition  38  of this permit. 
+
+(9VAC5-80-110 F. 2) 
+
+41. General Conditions - Failure/Malfunction Reporting - In the event that any affected facility or related air pollution control equipment fails or malfunctions in such a manner that may cause excess emissions for more than one hour, the owner shall no later than four daytime business hours after the malfunction is discovered, notify the Northern Regional Office of such failure or malfunction and within 14 days provide a written statement giving all pertinent facts, including the estimated duration of the breakdown. When the condition causing the failure or malfunction has been corrected and the equipment is again in operation, the owner shall notify the Northern Regional Office at the following address: 
+
+Regional Air Compliance Manager 
+
+Northern Regional Office 
+
+Department of Environmental Quality 
+
+13901 Crown Court Woodbridge, 
+
+Virginia 22193 
+
+(9VAC5-80-110 and 9VAC5-20-180) 
+
+42. General Conditions - Severability - The terms of this permit are severable. If any condition, requirement or portion of the permit is held invalid or inapplicable under any circumstance, such invalidity or inapplicability shall not affect or impair the remaining conditions, requirements, or portions of the permit. 
+
+(9VAC5-80-110) 
+
+43. General Conditions - Duty to Comply - The permittee shall comply with all terms and conditions of this permit. Any permit noncompliance constitutes a violation of the federal Clean Air Act or the Virginia Air Pollution Control Law or both and is ground for enforcement action; for permit termination, revocation and reissuance, or modification; or, for denial of a permit renewal application. 
+
+(9VAC5-80-110) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 30 of 37 Pages
+
+44. General Conditions - Need to Halt or Reduce Activity not a Defense - It shall not be a defense for a permittee in an enforcement action that it would have been necessary to halt or reduce the permitted activity in order to maintain compliance with the conditions of this permit. 
+
+(9VAC5-80-110) 
+
+45. General Conditions - Permit Modification - A physical change in, or change in the method of operation of, this stationary source may be subject to permitting under State Regulations 9VAC5-80-50, 9VAC5-80-1100, 9VAC5-80-1605, or 9VAC5-80-2000 and may require a permit modification and/or revisions except as may be authorized in any approved alternative operating scenarios. 
+
+(9VAC80-110, 9VAC5-80-190, and 9VAC5-80-260) 
+
+46. General Conditions - Property Rights - The permit does not convey any property rights of any sort, or any exclusive privilege. 
+
+(9VAC5-80-110) 
+
+47. General Conditions - Duty to Submit Information - The permittee shall furnish to the DEQ, within a reasonable time, any information that the DEQ may request in writing to determine whether cause exists for modifying, revoking and reissuing, or terminating the permit or to determine compliance with the permit. Upon request, the permittee shall also furnish to the DEQ copies of records required to be kept by the permit and, for information claimed to be confidential, the permittee shall furnish such records to the DEQ along with a claim of confidentiality. 
+
+(9VAC5-80-110) 
+
+48. General Conditions - Duty to Submit Information - Any document (including reports) required in a permit condition to be submitted to the DEQ shall contain a certification by a responsible official that meets the requirements of 9VAC5-80-80 G. 
+
+(9VAC5-80-110) 
+
+49. General Conditions - Duty to Pay Permit Fees - The owner of any source for which a permit was issued under 9VAC5-80-50 through 9VAC5-80-300 shall pay annual emissions fees, as applicable, consistent with the requirements of 9VAC5-80-310 through 9VAC5-80-350 and annual maintenance fees, as applicable, consistent with the requirements of 9VAC5-80-2310 through 9VAC5-80-2350. 
+
+(9VAC5-80-110, 9VAC5-80-310 et seq., and 9VAC5-80-2310 et seq.) 
+
+50. General Conditions - Fugitive Dust Emission Standards - During the operation of a stationary source or any other building, structure, facility, or installation, no owner or other person shall cause or permit any materials or property to be handled, transported, stored, used, constructed, altered, repaired, or demolished without taking reasonable precautions to prevent particulate matter from becoming airborne. Such reasonable precautions may include, but are not limited to, the following: 
+
+a. Use, where possible, of water or chemicals for control of dust in the demolition of existing buildings or structures, construction operations, the grading of roads, or the clearing of land; Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 31 of 37 Pages
+
+b. Application of asphalt, water, or suitable chemicals on dirt roads, materials stockpiles, and other surfaces which may create airborne dust; the paving of roadways and the maintaining of them in a clean condition; 
+
+c. Installation and use of hoods, fans, and fabric filters to enclose and vent the handling of dusty material. Adequate containment methods shall be employed during sandblasting or similar operations; 
+
+d. Open equipment for conveying or transporting material likely to create objectionable air pollution when airborne shall be covered or treated in an equally effective manner at all times when in motion; and, 
+
+e. The prompt removal of spilled or tracked dirt or other materials from paved streets and of dried sediments resulting from soil erosion. 
+
+(9VAC5-80-110 and 9VAC5-50-90) 
+
+51. General Conditions - Startup, Shutdown, and Malfunction - At all times, including periods of startup, shutdown, and soot blowing, and malfunction, owners shall, to the extent practicable, maintain and operate any affected facility including associated air pollution control equipment in a manner consistent with air pollution control practices for minimizing emissions. Determination of whether acceptable operating and maintenance procedures are being used will be based on information available to the DEQ, which may include, but is not limited to, monitoring results, opacity observations, review of operating and maintenance procedures, and inspection of the source. 
+
+(9VAC5-80-110 and 9VAC5-50-20 E) 
+
+52. General Conditions - Alternative Operating Scenarios - Contemporaneously with making a change between reasonably anticipated operating scenarios identified in this permit, the permittee shall record in a log at the permitted facility a record of the scenario under which it is operating. The permit shield described in 9VAC5-80-140 shall extend to all terms and conditions under each such operating scenario. The terms and conditions of each such alternative scenario shall meet all applicable requirements including the requirements of 9VAC5 Chapter 80, Article 1. 
+
+(9VAC5-80-110) 
+
+53. General Conditions - Inspection and Entry Requirements - The permittee shall allow the DEQ, upon presentation of credentials and other documents as may be required by law, to perform the following: 
+
+a. Enter upon the premises where the source is located or emissions-related activity is conducted, or where records must be kept under the terms and conditions of the permit. 
+
+b. Have access to and copy, at reasonable times, any records that must be kept under the terms and conditions of the permit. 
+
+c. Inspect at reasonable times any facilities, equipment (including monitoring and air pollution control equipment), practices, or operations regulated or required under the permit. Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 32 of 37 Pages
+
+d. Sample or monitor at reasonable times' substances or parameters for the purpose of assuring compliance with the permit or applicable requirements. 
+
+(9VAC5-80-110) 
+
+54. General Conditions - Reopening for Cause - The permit shall be reopened by the DEQ if additional federal requirements become applicable to a major source with a remaining permit term of three years or more. Such reopening shall be completed no later than 18 months after promulgation of the applicable requirement. No such reopening is required if the effective date of the requirement is later than the date on which the permit is due to expire, unless the original permit or any of its terms and conditions has been extended pursuant to 9VAC5-80-80 F. The conditions for reopening a permit are as follows: 
+
+a. The permit shall be reopened if the DEQ or the administrator determines that the permit contains a material mistake or that inaccurate statements were made in establishing the emissions standards or other terms or conditions of the permit. 
+
+b. The permit shall be reopened if the administrator or the DEQ determines that the permit must be revised or revoked to assure compliance with the applicable requirements. 
+
+c. The permit shall not be reopened by the DEQ if additional applicable state requirements become applicable to a major source prior to the expiration date established under 9VAC5-80-110 D. 
+
+(9VAC5-80-110) 
+
+55. General Conditions - Permit Availability - Within five days after receipt of the issued permit, the permittee shall maintain the permit on the premises for which the permit has been issued and shall make the permit immediately available to the DEQ upon request. 
+
+(9VAC5-80-110 and 9VAC5-80-150) 
+
+56. General Conditions - Transfer of Permits 
+
+a. No person shall transfer a permit from one location to another, unless authorized under 9VAC5-80-130, or from one piece of equipment to another. 
+
+b. In the case of a transfer of ownership of a stationary source, the new owner shall comply with any current permit issued to the previous owner. The new owner shall notify the DEQ of the change in ownership within 30 days of the transfer and shall comply with the requirements of 9VAC5-80-200. 
+
+c. In the case of a name change of a stationary source, the owner shall comply with any current permit issued under the previous source name. The owner shall notify the DEQ of the change in source name within 30 days of the name change and shall comply with the requirements of 9VAC5-80-200. 
+
+(9VAC5-80-110 and 9VAC5-80-160) Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 33 of 37 Pages
+
+57. General Conditions - Permit Revocation or Termination for Cause - A permit may be revoked or terminated prior to its expiration date if the owner knowingly makes material misstatements in the permit application or any amendments thereto or if the permittee violates, fails, neglects or refuses to comply with the terms or conditions of the permit, any applicable requirements, or the applicable provisions of 9VAC5 Chapter 80 Article 1. The DEQ may suspend, under such conditions and for such period of time as the DEQ may prescribe any permit for any grounds for revocation or termination or for any other violations of these regulations. 
+
+(9VAC5-80-110, 9VAC5-80-190 C and 9VAC5-80-260) 
+
+58. General Conditions - Duty to Supplement or Correct Application - Any applicant who fails to submit any relevant facts or who has submitted incorrect information in a permit application shall, upon becoming aware of such failure or incorrect submittal, promptly submit such supplementary facts or corrections. An applicant shall also provide additional information as necessary to address any requirements that become applicable to the source after the date a complete application was filed but prior to release of a draft permit. 
+
+(9VAC5-80-110 and 9VAC5-80-80 E) 
+
+59. General Conditions - Stratospheric Ozone Protection - If the permittee handles or emits one or more Class I or II substances subject to a standard promulgated under or established by Title VI (Stratospheric Ozone Protection) of the federal Clean Air Act, the permittee shall comply with all applicable sections of 40 CFR Part 82, Subparts A to F. 
+
+(9VAC5-80-110 and 40 CFR Part 82) 
+
+60. General Conditions - Asbestos Requirements - The permittee shall comply with the requirements of National Emissions Standards for Hazardous Air Pollutants (40 CFR 61) Subpart M, National Emission Standards for Asbestos as it applies to the following: Standards for Demolition and Renovation (40 CFR 61.145), Standards for Insulating Materials (40 CFR 61.148), and Standards for Waste Disposal (40 CFR 61.150). 
+
+(9VAC5-60-70 and 9VAC5-80-110) 
+
+61. General Conditions - Accidental Release Prevention - If the permittee has more, or will have more than a threshold quantity of a regulated substance in a process, as determined by 40 CFR 68.115, the permittee shall comply with the requirements of 40 CFR Part 68. 
+
+(9VAC5-80-110 and 40 CFR Part 68) 
+
+62. General Conditions - Changes to Permits for Emissions Trading - No permit revision shall be required under any federally approved economic incentives, marketable permits, emissions trading and other similar programs or processes for changes that are provided for in this permit. 
+
+(9VAC5-80-110) 
+
+63. General Conditions - Emissions Trading - Where the trading of emissions increases and decreases within the permitted facility is to occur within the context of this permit and to the extent that the regulations provide for trading such increases and decreases without a case-by-case approval of each emissions trade: 
+
+a. All terms and conditions required under 9VAC5-80-110, except subsection N, shall be included to determine compliance. Digital Loudoun Parkway Center N LLC. 
+
+> Permit Number: NRO-73670
+> March 14, 2025
+> Page 34 of 37 Pages
+
+b. The permit shield described in 9VAC5-80-140 shall extend to all terms and conditions that allow such increases and decreases in emissions. 
+
+c. The owner shall meet all applicable requirements including the requirements of 9VAC5-80-50 through 9VAC5-80-300. 
+
+(9VAC5-80-110)

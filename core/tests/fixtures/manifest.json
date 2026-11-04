@@ -1,0 +1,26 @@
+{
+ "entries": [
+  {
+   "url": "https://echodata.epa.gov/echo/air_rest_services.get_facility_info?output=JSON&p_ncs=518210&p_pt=Y",
+   "file": "echo_naics518210_fields.json",
+   "sha256_source": "1d65b2c1017ad0809acbbc29499f84b10376e66171cee8e5bb4bf572d1ddd459",
+   "note": "get_facility_info response reduced to parser fields; all rows kept"
+  },
+  {
+   "match": "fuel-mix.json",
+   "file": "ercot_fuel_mix.json",
+   "sha256_source": "0d46c90f530a9f2609af3ecc854dfbd3e491172e44dcd9878c7c41d3eff29922",
+   "note": "ERCOT dashboard day 2026-10-26, reduced to per-fuel 'gen' MW"
+  },
+  {
+   "match": "egrid2023_data_rev2.xlsx",
+   "file": "egrid_srl23.xlsx",
+   "note": "SRL23 sheet copied verbatim from egrid2023.xlsx"
+  },
+  {
+   "urls_file": "geo_queries.json",
+   "note": "Census geocoder + eGRID polygon responses for the five test cities"
+  }
+ ],
+ "captured_at_utc": "2026-10-28T03:32:14Z"
+}

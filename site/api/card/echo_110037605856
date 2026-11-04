@@ -1,0 +1,252 @@
+{
+ "schema_version": "1.0",
+ "generated_by": "wattdocket.cards@0.1.0",
+ "as_of": "2026-10-29T02:39:29Z",
+ "facility": {
+  "id": "echo_110037605856",
+  "site_id": "echo:110037605856",
+  "name": "ZAYO GROUP, LLC",
+  "operator": null,
+  "address": "1764A OLD MEADOW LANE",
+  "city": "MCLEAN",
+  "state": "VA",
+  "zip": "22102",
+  "lat": 38.9195,
+  "lon": -77.21393,
+  "naics": "518210",
+  "status": "unknown",
+  "class_label": "Virginia DEQ air-permitted data center (permit 73717-1, 73717-3, 73743-7)",
+  "class_verified": true,
+  "class_evidence": "Virginia DEQ, 'Issued Air Permits for Data Centers' registry \u2014 exact name match; permit document not text-extracted",
+  "site_permit_count": 1,
+  "sibling_ids": [],
+  "class_match_method": "exact_normalised_name",
+  "class_match_confidence": "registry_statement",
+  "permit_registrations": [
+   "73717-1",
+   "73717-3",
+   "73743-7"
+  ],
+  "permit_issued": "01/15/2009",
+  "permit_county": "Fairfax Co.",
+  "permit_program": "Article 5 - SOP",
+  "permit_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25754/638628573243030000",
+  "permit_limits": [
+   {
+    "metric": "fuel_throughput_limit",
+    "value": 46000.0,
+    "unit": "gallons/year",
+    "page": 4,
+    "quote": "In addition, the permittee may only ohange those settings that are permitted by the manufacturer and do not degrade air emissions (9VAO 5-80-850) 6 Fuel Throughput-The engine-generator sets shall consume no more than 46,000 gallons of diesel fuel oil peryear,calculated monthly as the sum of each consecutive twelve-month period Oompliahce forthe consecutive twelve month period shall he demonstrated monthly by adding the total forthe most recently completed calendar month to the individual monthlytotals forthe preceding eleven months (9VAO 5-80-850) 7 Fuel Specification The approved fuel forthe engine-generatorsets is diesel fuel oil and shall meet the specifications below: DIESEL FOEL OIL: a. Does notexceedtheAmericanSocietyforTesting and Materials (ASTM) specification,D975,for grade low sulfur2-D or grade2-DS500,or, o.^lasa maximum sulfur content notto exceed 0.05% byweight (500 ppm),and eitheraminimumcetane number offorty or maximum aromatic content of thirty-five volume percent Exceedance ofthese specifications may be considered credible evidence ofthe exceedance of emission limits A change in the fuel may requireapermit to modify and operate (9VAO 5-80-850) Visa,Inc. Registration Number: 73717 Januarys,2009 Page6 8 Fuel C e ^ c a t i o o - T h e permittee shall obtainacertification from the with each shipment of diesel fuel oil. Each fuel supplier certification shall include the l o w i n g : ^ The name ofthe fuel suppliers and b. The date on which the diesel fuel oil was received^ and o The quantity of diesel fuel oil delivered in the shipments and d. A statementthatthe diesel fuel oil conforms to the requirements ofthe Condition 7-Fuel Specifications or e. Alternatively,the permittee shall obtain approval from the RegionalAir Compliance ManageroftheOEQ's Northern Regional Office (NRO), atthe address in Condition 16, ifotherdocumentation will be used to certifythe diesel fuel oil type. Fuel sampling and analysis, independent ofthat used for certification,as may he periodically required or conducted bytheOEO, may be used to determine compliance with the fuel specifications stipulated in Conditions Exceedance of these specifications may he considered credible evidence ofthe exceedance of emission limits Achange in the fuel type orthe fuel sulfur contentmayrequirea permit to modify and operate. (9VAC5-60^50) EMISSION LIMITS 9 m i s s i o n l i m i t s : E n ^ l n e ^ ^ each engine-generatorset (Ref. ^ s E 0 1 - E 0 4 and LS1)shallnotexceed the limits specified below: Engine Generator Sets EG1, EG2, and EG4 Pollutant Emission Rate Nitrogen Oxides (as N0 2 ) 37.5 Ibs/hr Carbon Monoxide (CO) 9.95 Ibs/hr Volatile Organic Compounds (VOC) 1.05 Ibs/hr Sulfur Dioxide (S0 2 ) 0.60 Ibs/hr Particulate Matter (PM10) 1.20 Ibs/hr Visa, Inc. Registration Number: 73717 January 15, 2009",
+    "registration": "73717-1",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25754/638628573243030000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   },
+   {
+    "metric": "mcrt_hours_limit",
+    "value": 100.0,
+    "unit": "hours/year per generator",
+    "page": 8,
+    "quote": "Each individual emergency diesel engine gen-set (Ref. Nos. 2C, 3A, 3B, 3C, 3D, 3S) shall not operate more than 100 hour per year for scheduled maintenance checks and readiness testing, unscheduled maintenance, testing, and operational training (as provided in Conditions 4.c and 4.d ), calculated monthly as the sum of each consecutive 12 month period. c.",
+    "registration": "73743-7",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25760/638900633355070000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   },
+   {
+    "metric": "generator_hours_limit",
+    "value": 500.0,
+    "unit": "hours/year per generator",
+    "page": 8,
+    "quote": "Each individual emergency diesel engine gen-set (Ref. Nos. 1A, 1C, 1D, 1E, 1S, 2A, 2B, 2C, 2S, 3A, 3B, 3C, 3D, 3S, EG2-1 through EG2-26, EG2BB, EG4-1 through EG4-12, EG4BB1, and EG4BB2) shall not operate more than 500 hours per year for all purposes (as provided in Condition 4), calculated monthly as the sum of each consecutive 12 month period. b.",
+    "registration": "73743-7",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25760/638900633355070000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   },
+   {
+    "metric": "fuel_throughput_limit",
+    "value": 1234.0,
+    "unit": "gallons/year",
+    "page": 9,
+    "quote": "The emergency diesel engine gen-set (Ref. No. EG2BB) shall consume no more than 1,234 gallons of diesel fuel, calculated daily as the sum of each consecutive 365-day period (all uses). b.",
+    "registration": "73743-7",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25760/638900633355070000",
+    "retrieved_via": "https://r.jina.ai/",
+    "is_permitted_limit": true
+   }
+  ],
+  "permit_equipment": {
+   "units": 41,
+   "mw_total": 106.8,
+   "rated_ekw": 106750.0,
+   "ratings_ekw": [
+    750.0,
+    2000.0,
+    3000.0
+   ],
+   "page": 4,
+   "quote": "iginal Permit Date EG2-1 through EG2-26 (26) Caterpillar 3516E emergency diesel engine gen-sets 4,393 bhp 3,000 ekW None June",
+   "registration": "73743-7"
+  }
+ },
+ "grid": {
+  "subregion": "SRVC",
+  "subregion_name": "SERC Virginia/Carolina",
+  "utility": null,
+  "balancing_authority": null,
+  "rate_lb_per_mwh": 596.326,
+  "intensity_state": "PROVISIONAL",
+  "factor_set_id": "us-avg-2023.1",
+  "factor_set_sha256": "0d6119a2e5c132fcb6999d9eb6935b1404db4aa7cb9d6da9e33050aa42577fc7",
+  "binding_method": "point_in_polygon"
+ },
+ "verdict": {
+  "sentence": "A modelled reference-size electrical load at this address: 15,402 t CO2e a year, with the range and the reason shown.",
+  "source": "template",
+  "degraded": false
+ },
+ "claims": [
+  {
+   "id": "power-mw",
+   "metric": "power_mw",
+   "value": 10.0,
+   "unit": "MW",
+   "badge": "ESTIMATED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10.0,
+    "p50": 10.0,
+    "p90": 10.0
+   },
+   "drivers": [],
+   "citations": [],
+   "calc_id": "reference_size@0.1.0",
+   "sources": 0,
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "carbon-t",
+   "metric": "carbon_t",
+   "value": 15401.639,
+   "unit": "t CO2e/yr",
+   "badge": "MODELED",
+   "provisional": true,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": {
+    "p10": 10662.7,
+    "p50": 15401.6,
+    "p90": 18955.9
+   },
+   "drivers": [],
+   "citations": [
+    {
+     "doc_sha256": "8665e8cf9c7ed6291ce6bd76e94045dad65fb2306b3ae8f8c434a2dff5a9d182",
+     "page": 1,
+     "line": 224,
+     "quote": "\"co2e_rate_lb_per_mwh\": 596.326",
+     "publisher": "US EPA",
+     "dataset": "eGRID 2023 rev2, sheet SRL23 (frozen extract)",
+     "field": "SRCO2EQA (short tons/yr) x 2000 / SRNGENAN (MWh); workbook sha256 895cd81dd8662406",
+     "verified": true,
+     "verifier_version": "substring-1"
+    }
+   ],
+   "calc_id": "carbon@UNKNOWN@egrid2023rev2:8665e8cf9c7e",
+   "sources": 1,
+   "renderable": true,
+   "render_block_reason": "",
+   "chain": [
+    "10 MW reference capacity x 8760 h x 0.65 utilisation",
+    "= 56,940 MWh/yr",
+    "x 596.3 lb CO2e/MWh (eGRID2023, SRVC)",
+    "/ 2204.6226 lb per metric tonne = 15,402 t CO2e/yr"
+   ],
+   "transforms": [
+    "lb -> metric tonnes: divide by 2204.6226 (never 2000)",
+    "PUE not applied: capacity basis is not stated",
+    "storage excluded from the grid-intensity denominator",
+    "timestamps stored UTC; hour labels kept as published"
+   ],
+   "sensitivity": [
+    {
+     "label": "utilization 0.45",
+     "delta": "-31%"
+    },
+    {
+     "label": "utilization 0.80",
+     "delta": "+23%"
+    },
+    {
+     "label": "if IT basis, PUE 1.25",
+     "delta": "+25%"
+    },
+    {
+     "label": "marginal instead of average",
+     "delta": "+38%"
+    }
+   ]
+  },
+  {
+   "id": "diesel-mw",
+   "metric": "diesel_mw",
+   "unit": "MW",
+   "value": 106.8,
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [
+    "41 generators in the Virginia DEQ equipment table"
+   ],
+   "citations": [
+    {
+     "doc_sha256": "",
+     "page": 4,
+     "line": null,
+     "quote": "iginal Permit Date EG2-1 through EG2-26 (26) Caterpillar 3516E emergency diesel engine gen-sets 4,393 bhp 3,000 ekW None June",
+     "publisher": "Virginia Department of Environmental Quality",
+     "dataset": "VA DEQ registration 73743-7",
+     "field": "equipment table",
+     "verified": true,
+     "verifier_version": "va-equipment-1"
+    }
+   ],
+   "calc_id": "calc:diesel:va:73743-7",
+   "chain": [
+    "41 generators summed from the permit's equipment table (p.4)",
+    "= 106.8 MW of installed backup capacity",
+    "nameplate capacity, not run hours: it is not an emission"
+   ],
+   "transforms": [
+    "sum of unit ekW ratings -> MW: divide by 1000"
+   ],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": ""
+  },
+  {
+   "id": "water-gal",
+   "metric": "water_gal",
+   "unit": "gal/day",
+   "value": "NOT_PUBLISHED",
+   "badge": "REPORTED",
+   "provisional": false,
+   "as_of": "2026-10-29T02:39:29Z",
+   "range": null,
+   "drivers": [],
+   "citations": [],
+   "calc_id": null,
+   "chain": [],
+   "transforms": [],
+   "sensitivity": [],
+   "renderable": true,
+   "render_block_reason": "",
+   "note": "no US state requires facility-level operational water reporting"
+  }
+ ],
+ "hourly": null
+}

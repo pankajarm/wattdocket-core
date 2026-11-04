@@ -1,0 +1,830 @@
+Title: Chantilly Technology Partners, LLC/H5 VA - Stationary Source Permit to Construct and Operate
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/35474/639105417624930000
+
+Published Time: Tue, 31 Mar 2026 07:16:02 GMT
+
+Number of Pages: 23
+
+Markdown Content:
+Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+March 10, 2026 
+
+Mr. Jeremiah Williams 
+
+Chief Engineer Operations 
+
+Chantilly Technology Partners, LLC/H5 VA 
+
+4030 Lafayette Center Drive 
+
+Chantilly, VA 20151 
+
+Location: Fairfax County 
+
+Registration No.: 72375 
+
+Dear Mr. Williams: 
+
+Attached is a permit to construct and operate emissions units at the Chantilly Technology Partners, LLC/H5 VA data center facility located in Chantilly, Virginia, in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. This 
+
+permit document supersedes your permit document dated April 4, 2014. 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on March 3, 2026. 
+
+This permit contains legally enforceable conditions. Please read all permit conditions carefully as failure to comply may result in appropriate enforcement and civil penalties. 
+
+This permit approval to construct and operate shall not relieve Chantilly Technology Partners, LLC/H5 VA of the responsibility to comply with all other local, state, and federal permit regulations. 
+
+The proposed diesel fired emergency engine generator sets (engine gen-sets) may be subject to 40 CFR 63, Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of these rules. In summary, the units may be required to comply with certain federal emission standards and operating limitations. The Department of Environmental Quality (DEQ) advises you to review the referenced MACT and NSPS to ensure compliance with applicable emission and operational limitations. As the owner/operator you may be also responsible for any monitoring, notification, reporting and recordkeeping requirements of the MACT and NSPS. Notifications shall only be sent to EPA, Region III. Mr. Jeremiah Williams Chantilly Technology Partners, LLC/H5 VA March 10, 2026 Page 2 
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US Government Publishing Office maintains the text of these rules at www.ecfr.gov, Title 40, Part 60 and 63. 
+
+The Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the DEQ within 30 days after this case decision notice was mailed or delivered to you. Please consult the relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have thirty days from the date you actually received this permit or the date on which it was mailed to you, whichever occurred first, within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Michael S. Rolband, Director 
+
+Department of Environmental Quality 
+
+P. O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for information on the required content of the Notice of Appeal and for additional requirements governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact Ms. Cameron Stewart at (571) 866-6093 or at  cameron.stewart@deq.virginia.gov .
+
+Sincerely, 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+justin.wilkinson@deq.virginia.gov 
+
+Northern Regional Office 
+
+13901 Crown Court, Woodbridge, VA 22193 
+
+(703) 583-3800 
+
+JAW/CLS/72375 mNSR (2026-03-10) 
+
+Attachment: Permit Commonwealth of Virginia VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY   
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+This permit document supersedes your permit document dated April 4, 2014. 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, 
+
+Chantilly Technology Partners, LLC/H5 VA 
+
+4030 Lafayette Center Drive 
+
+Chantilly, VA 20151 
+
+Registration No.: 72375 
+
+is authorized to construct and operate 
+
+Emergency Diesel Engine Generator Sets (Gen-Sets) 
+
+located at 
+
+Building IAD30: 4030 Lafayette Center Drive 
+
+Building IAD31:  4050 Lafayette Center Drive 
+
+Building IAD32:  4040 Lafayette Center Drive 
+
+Chantilly, Virginia 20151 
+
+in accordance with the Conditions of this permit. 
+
+Approved on: March 10, 2026. 
+
+Justin A. Wilkinson, Regional Air Permit Manager 
+
+Virginia Department of Environmental Quality 
+
+Permit consists of  19  pages. 
+
+Permit Conditions 1 to  31 .
+
+Appendix A, 1 page Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 2 
+
+INTRODUCTION 
+
+This permit document is based on the following permit approval and the respective permit application: 
+
+• mNSR permit dated March 10, 2026, based on the permit application dated September 19, 2025, including supplemental information dated October 22, 2025, November 18, 2025, February 6, 2026, February 24, 2026, and March 3, 2026. 
+
+• mNSR permit dated April 4, 2014, based on the permit applications dated April 25, 2005, March 11, 2006, October 16, 2008 (and supplemental information dated December 28, 2008), December 4, 2010, and March 11, 2014 (and supplemental information dated March 25, 2014). 
+
+Words or terms used in this permit shall have meanings as provided in 9VAC5-80-1110 and 9VAC5-10-10 of the Commonwealth of Virginia State Air Pollution Control Board (Board’s) 
+
+Regulations (Regulations) for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. The enabling permit program, or permit programs is provided below each permit condition in the regulatory authority parenthetical as follows: 9VAC5-80-850 for Article 5, 9VAC5-80-1180 for Article 6, 9VAC5-80-1985 for Article 8, and 9VAC5-80-2050 for Article 9. The most recent effective date for a term or condition is listed in brackets [ ]. When identical conditions for one or more emission units are combined, the effective date listed in this permit does not alter the prior effective date(s) for any such conditions as issued in a previous permit action. In accordance with 9VAC5-80-1120F, any condition not marked as state-only enforceable (SOE) is state and federally enforceable. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9VAC5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 3 
+
+Equipment List – Equipment at this facility consists of the following: 
+
+Equipment to be Constructed: 
+
+Reference No . Equipment Description 
+
+Rated Capacity (each) 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+IAD30-EG4 through IAD30-EG7 
+
+Four (4) Rehlko KD2250/KD62V12A emergency diesel engine gen-sets 
+
+2,250 ekW 
+
+3,352 bhp  None  3/10/2026 
+
+IAD30-EG8 through IAD30-EG12 
+
+Five (5) Rehlko KD3000/KD83V16 (Low NO X)emergency diesel engine gen-sets 
+
+3,000 ekW 
+
+4,332 bhp  None  3/10/2026 
+
+IAD32-Gen4 and IAD32-Gen5 
+
+Two (2) Rehlko 2000REOZMD/Mitsubishi, S16R-Y2PTAW2-1 emergency diesel engine gen-sets 
+
+2,000 ekW 
+
+2,923 bhp  None  3/10/2026 
+
+Previously Permitted Equipment: 
+
+Reference No . Equipment Description 
+
+Rated Capacity 
+
+(each) 
+
+Delegated Federal Requirements 
+
+Original Permit Date 
+
+A-G1 through 
+
+A-G3 
+
+Three (3) Caterpillar 3516B Diesel Driven Emergency Engine Generator Sets 
+
+2,000 kW  None  1/31/2006 
+
+B-EG1 through 
+
+B-EG4 
+
+Four (4) Cummins model 2,000DQKAB Diesel Driven Emergency Engine Generator Sets 
+
+2,000 kW 2,919 bhp  None  2/11/2011 
+
+B-EG105 
+
+One (1) Cummins model 275DQHAA Diesel Driven Emergency Engine Generator Set 
+
+275 kW 
+
+470 bhp  None  2/11/2011 
+
+C110-GB, C120-GB, and C-GR 
+
+Three (3) Cummins model 2000DQKAB diesel engine-driven emergency generators 
+
+2,000 kW 2,639 bhp  None  4/4/2014 
+
+C-House Gen 
+
+One (1) Cummins model 275DQHAA diesel engine-driven emergency generator 
+
+275 kW 418 bhp  None  4/4/2014 
+
+Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 4 
+
+PROCESS REQUIREMENTS 
+
+1. Emission Controls – Emissions from the emergency diesel engine gen-sets shall be controlled by the following: 
+
+a. Nitrogen oxides (NO X) emissions from the emergency diesel engine gen-sets (Ref. Nos. C110-GB, C120-GB, C-GR and C-House Gen) shall be controlled by electronic fuel injection and turbocharged engines. The permittee shall maintain documentation that demonstrates the control devices have been installed on the engine-generator sets. 
+
+b. Carbon Monoxide (CO), volatile organic compounds (VOCs), and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. C110-GB, C120-GB, C-GR and C-House Gen) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the engines. 
+
+c. Combustion and visible emissions from the emergency diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4 and B-EG105) shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the engines. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/10/2026] 
+
+2. Emission Controls – Emissions from the emergency diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall be controlled by the following: 
+
+a. Nitrogen oxides (NO X) emissions from each emergency diesel engine gen-sets shall be controlled by engine design. 
+
+b. Carbon monoxide (CO), particulates (PM/PM 10 /PM 2.5 ), volatile organic compounds (VOCs), and visible emissions from the emergency diesel engine gen-sets shall be controlled by the use of good operating practices and performing maintenance in accordance with the manufacturer recommendations. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not degrade the air emissions from the engines. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/10/2026] Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 5 
+
+3. Monitoring – Engine Operating Hours – Each emergency diesel engine gen-set (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall be equipped with a non-resettable hour meter which measures the duration of time that each engine is operated. 
+
+Each monitoring device shall be observed by the permittee with a frequency of not less than once each day the engine gen-set is operated. The permittee shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate), and operated in accordance with approved procedures which shall include, as a minimum, the manufacturer's written requirements or recommendations. The details of the monitoring device calibrations are to be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s NRO. 
+
+Each monitoring device shall be provided with adequate access for inspection and shall be in operation when the engines are operating. 
+
+(9VAC5-80-1180 D) [3/10/2026] 
+
+OPERATING/EMISSION LIMITATIONS 
+
+4. Emergency Power Generation – The emergency diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall only be operated in the following modes: 
+
+a. In situations that arise from sudden and reasonably unforeseeable events where the primary energy or power source is disrupted or disconnected due to conditions beyond the control of an owner or operator of a facility including: 
+
+i. A failure of the electrical grid; 
+
+ii. On-site disaster or equipment failure; or 
+
+iii. Public service emergencies such as flood, fire, natural disaster, or severe weather conditions. 
+
+b. For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i. An abnormal system condition requiring manual or automatic action to maintain system frequency, to prevent loss of firm load, equipment damage, or tripping of system elements that could adversely affect the reliability of an electric system or the safety of persons or property; 
+
+ii. Capacity deficiency or capacity excess conditions; Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 6 
+
+iii. A fuel shortage requiring departure from normal operating procedures in order to minimize the use of such scarce fuel; 
+
+iv. Abnormal natural events or man-made threats that would require conservative operations to posture the system in a more reliable state; or 
+
+v. An abnormal event external to the ISO service territory that may require ISO action. 
+
+c. For scheduled maintenance checks and readiness testing (Scheduled MCRT). 
+
+d. For unscheduled maintenance, testing, and operational training. 
+
+e. For the integration operational period which is the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully 
+
+integrated with the source’s electrical system. 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+5. Operating Hours –
+
+a. The emergency diesel engine gen-sets (Ref. Nos. A-G1 through A-G3), combined, shall not operate more than 240 hours per year for all purposes (as provided in Condition  4). 
+
+b. The emergency diesel engine gen-sets (Ref. Nos. B-EG1 through B-EG4), combined, shall not operate more than 320 hours per year for all purposes (as provided in Condition  4). 
+
+c. The emergency diesel engine gen-set (Ref. No. B-EG105) shall not operate more than 80 hours per year for all purposes (as provided in Condition  4). 
+
+d. The emergency diesel engine gen-sets (Ref. Nos. C110-GB, C120-GB, and C-GR) combined, shall not operate more than 240 hours per year for all purposes (as provided in Condition  4). 
+
+e. The emergency diesel engine gen-set (Ref. No. C-House Gen) shall not operate more than 80 hours per year for all purposes (as provided in Condition  4). 
+
+f. The emergency diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG7) combined, shall not operate more than 1,280 hours per year and each emergency diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG7) shall not operate more than 500 hours per year for all purposes as provided for all purposes (as provided in Condition  4). Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 7 
+
+g. The emergency diesel engine gen-sets (Ref. Nos. IAD30-EG8 through IAD30-EG12) combined, shall not operate more than 2,000 hours per year and each emergency diesel engine gen-set (Ref. Nos. IAD30-EG8 through IAD30-EG12) shall not operate more than 500 hours per year for all purposes (as provided in Condition  4). 
+
+h. The emergency diesel engine gen-sets (Ref. Nos. IAD32-Gen4 and IAD32-Gen5) combined, shall not operate more than 320 hours per year for all purposes (as provided in Condition  4). 
+
+i. Each emergency diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall not operate more than 22 hours per year for Scheduled MCRT (as provided in Condition  4.c ). 
+
+The annual limits for hours of operation shall be calculated monthly as the sum of each consecutive 12-month period. Compliance for the consecutive 12-month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+6. Operation of the Engine Gen-Sets – The permittee shall operate and maintain the diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5 ) and control devices according to the manufacturer’s written instructions or 
+
+procedures developed by the permittee that are approved by the engine manufacturer. In addition, the permittee may only change those settings that are permitted by the manufacturer and do not increase air emissions. 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+7. Operating Limitations (Ozone Season) – Except for during the integration operational period, no diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall be operated for scheduled maintenance checks and readiness testing (Scheduled MCRT), stack testing, or operational training (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during May 1 through September 30. The permittee may petition the Regional Air Compliance Manager of 
+
+DEQ’s NRO for exceptions to this requirement, with ap provals made on a case by-case basis. 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+8. Operating Limitations (Ozone Season) – Integration Operational Period – During the integration operational period of the diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5), any operation of the unit (that involves fuel combustion) between the hours of 7 a.m. to 5 p.m. any day during the ozone season of May 1 through September 30 shall only occur if the forecast Air Quality Index (AQI) for ozone as published on the AirNow website ( https://airnow.gov ) for Northern Virginia for that day is less than or equal to 100. In the event that AirNow-EnviroFlash (www.enviroflash.info ) issues an Air Alert for Metropolitan Washington, D.C. for a day Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 8 
+
+which the forecasted AQI for ozone was less than or equal to 100, operation of each unit (which involves fuel combustion) shall be minimized to the maximum extent practical. 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+9. Fuel Specification – The approved fuel for the emergency diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) is ultra low sulfur diesel fuel oil, and shall meet the specifications below: 
+
+ULTRA LOW SULFUR DIESEL FUEL OIL: 
+
+a. Does not exceed the American Society for Testing and Materials (ASTM) specification, D975, for grade ultra low sulfur 1-D S15 or grade 2-D S15, or, 
+
+b. Has a maximum sulfur content not to exceed 0.0015% by weight (15 ppm), and either a minimum cetane number of forty (40) or maximum aromatic content of thirty-five (35) volume percent. 
+
+Exceedance of these specifications may be considered credible evidence of an exceedance of emission limits. A change in the fuel type or the fuel sulfur content may require a permit to modify and operate. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/10/2026] 
+
+10. Fuel Certification – The permittee shall obtain a certification from the fuel supplier with each shipment of diesel fuel oil. Each fuel supplier certification shall include the following: 
+
+a. The name of the fuel supplier; and 
+
+b. The date on which the diesel fuel oil was received; and 
+
+c. The quantity of diesel fuel oil delivered in the shipment; and 
+
+d. A statement that the diesel fuel oil conforms to the requirements of the Condition  9 -Fuel Specification; or 
+
+e. Alternatively, the permittee shall obtain approval from the Regional Air Compliance Manager of the DEQs Northern Regional Office (NRO) if other documentation will be used to certify the diesel fuel oil type. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by the DEQ, may be used to determine compliance with the fuel specifications stipulated in Condition  9.
+
+(9VAC5-80-1180) [3/10/2026] Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 9 
+
+EMISSION LIMITS 
+
+11. Emission Limits: Engine-generator sets – Hourly emissions from the operation of each emergency diesel engine gen-set shall not exceed the limits specified below: 
+
+Nitrogen Oxides (as NO 2) Carbon Monoxide  Volatile Organic Compounds 
+
+Ref. Nos. A-G1 through A-G3  41.1 lbs/hr  4.0 lbs/hr  1.1 lbs/hr 
+
+Ref. Nos. B-EG1 through B-EG4  38.5 lbs/hr*  1.6 lbs/hr  1.8 lbs/hr 
+
+Ref. Nos. C110-GB, C120-GB and C-GR 
+
+38.6 lbs/hr  1.6 lbs/hr  1.8 lbs/hr 
+
+Ref. Nos. C-House Gen  3.3 lbs/hr  0.1 lbs/hr  0.1 lbs/hr 
+
+* NO 2 – Upon DEQ verification of the initial performance test, the facility has the option of using a lower emission rate (average of three one-hour test runs x 120%) by undergoing a permit amendment to incorporate the new lower rate. 
+
+Compliance with these pollutant limits shall be based on the proper operation and maintenance of the diesel engines or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [4/4/2014] 
+
+12. Emission Limits (Hourly - Emergency) – Emissions from the operation of each emergency diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall not exceed the limits specified below: 
+
+Compliance with these pollutant limits shall be based on the proper operation and maintenance of the diesel engines or by testing, if required. 
+
+(9VAC5-80-1180 and 9VAC5-50-260) [3/10/2026] 
+
+Pollutant 
+
+Rehlko KD2250 
+
+Ref. Nos. IAD30-EG4 through IAD30-EG7 
+
+Rehlko KD3000 
+
+Ref. Nos. IAD30-EG8 through IAD30-EG12 
+
+Rehlko 2000REOZMD 
+
+Ref. Nos. IAD32-Gen4 and IAD32-Gen5 
+
+Nitrogen Oxides 
+
+(NO X as NO 2) 44.09 lb/hr  49.85 lb/hr  26.43 lb/hr 
+
+Particulate Matter (PM)  0.74 lb/hr  0.93 lb/hr  0.50 lb/hr 
+
+Particulate Matter (PM 10 ) 0.89 lb/hr  1.00 lb/hr  0.65 lb/hr 
+
+Particulate Matter (PM 2.5 ) 0.89 lb/hr  1.00 lb/hr  0.65 lb/hr 
+
+Carbon Monoxide (CO)  2.48 lb/hr  13.72 lb/hr  4.81 lb/hr 
+
+Volatile Organic Compounds (VOC)  1.74 lb/hr  2.85 lb/hr  1.77 lb/hr Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 10 
+
+13. Annual Engine-Generator Emission Limits – Emissions from the combined operation of the emergency diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR and C-House Gen) shall not exceed the limits specified below: 
+
+Nitrogen Oxides (as NO 2) 15.99 tons/yr 
+
+Carbon Monoxide (CO) 0.94 tons/yr 
+
+Volatile Organic Compounds (VOC) 0.64 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+14. Emission Limits (Annual) – Emissions from the operation of the diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) combined, shall not exceed the limits specified below for all operations: 
+
+Pollutant 
+
+Rehlko KD2250 
+
+Ref. Nos. IAD30-EG4 through IAD30-EG7 
+
+Rehlko KD3000 
+
+Ref. Nos. IAD30-EG8 through IAD30-EG12 
+
+Rehlko 2000REOZMD 
+
+Ref. Nos. IAD32-Gen4 and IAD32-Gen5 
+
+Nitrogen Oxides 
+
+(NO X as NO 2) 28.22 tpy  49.85 tpy  4.23 tpy 
+
+Particulate Matter (PM)  0.48 tpy  0.93 tpy  0.08 tpy 
+
+Particulate Matter (PM 10 ) 0.57 tpy  1.00 tpy  0.10 tpy 
+
+Particulate Matter (PM 2.5 ) 0.57 tpy  1.00 tpy  0.10 tpy 
+
+Carbon Monoxide (CO)  1.59 tpy  13.72 tpy  0.77 tpy 
+
+Volatile Organic Compounds (VOC)  1.11 tpy  2.85 tpy  0.28 tpy 
+
+Pollutant 
+
+Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5 
+
+(All Units Combined) 
+
+Nitrogen Oxides (NO X as NO 2) 82.30 tpy 
+
+Particulate Matter (PM)  1.49 tpy 
+
+Particulate Matter (PM 10 ) 1.68 tpy 
+
+Particulate Matter (PM 2.5 ) 1.68 tpy 
+
+Carbon Monoxide (CO)  16.08 tpy 
+
+Volatile Organic Compounds (VOC)  4.25 tpy Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 11 
+
+These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits may be considered credible evidence of the exceedance of emission limits. Compliance with the annual emission limits may be determined as stated in Conditions  2, 5, and  12 .
+
+(9VAC5-80-1180) [3/10/2026] 
+
+15. Visible Emission Limit – Visible emissions from each emergency diesel engine gen-set (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall not exceed five percent (5%) opacity except during one six-minute period in any one hour in which visible emissions shall not exceed ten percent (10%) opacity as determined by the EPA Method 9 (reference 40 CFR 60, Appendix A). This requirement applies at all times except during startup, shutdown and malfunction. 
+
+During startup and shutdown, visible emissions shall not exceed ten percent (10%) opacity, except for one (1) six-minute interval not to exceed twenty percent (20%) opacity as determined by EPA Method 9 (reference 40 CFR 60, Appendix A). 
+
+(9VAC5-80-1180) [3/10/2026] 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+16. Stack Test – Initial performance tests shall be conducted on two (2) of the Rehlko KD2250 emergency diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG7), two (2) of the Rehlko KD3000 emergency diesel engine gen-sets (Ref. Nos. IAD30-EG8 through IAD30-EG12) and two (2) of the Rehlko 2000REOZMD emergency diesel engine gen-sets (Ref. Nos. IAD32-Gen4 and IAD32-Gen5) for NO X (as NO 2) and CO using appropriate EPA reference methods as approved by the Regional Air Compliance Manager of the 
+
+DEQ’s NRO to determine compliance with the emission limits contained in Condition  12 .
+
+a. Emissions testing of each pollutant for each selected emergency diesel engine gen-set shall consist of three (3) one-hour test runs under load. The average of the three (3) runs shall be reported as the short-term emission rate for that emergency diesel engine gen-set; 
+
+b. Testing shall be performed on the exhaust stack of the emergency diesel engine gen-set to demonstrate compliance with the NO X and CO emission limits specified in Condition  12 . Testing shall be conducted with the emergency diesel engine gen-set 
+
+operating at ≥ 90 percent of its rated capacity, unless multiple load band testing is 
+
+approved by DEQ; 
+
+c. Recorded emergency diesel engine gen-set operational information shall include, but not be limited to: 
+
+i. Generator load/kilowatt output; 
+
+ii. Fuel consumption and fuel sulfur content of the diesel fuel oil; Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 12 
+
+d. Perform testing to demonstrate compliance within 120 days after the integration operational period has commenced. The integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the source electrical system. If this deadline falls within the ozone season (May 1 through September 30), the facility shall perform testing to demonstrate compliance within 30 days after the end of the ozone season. Tests shall be conducted and reported and data reduced as set forth in 9VAC5-50-30; 
+
+e. The details of the tests are to be arranged with the Regional Air Compliance Manager 
+
+of DEQ’s NRO. The permittee shall submit the test protocol to the Regional Air 
+
+Compliance Manager of DEQ’s NRO, at least 30 days prior to testing to ensure 
+
+adequate time for DEQ approval. If the test protocol is received by the DEQ with less than 30 days for review and acceptance, DEQ approval may not be issued in a timely manner to allow for testing to take place according to the permittee’s schedule; 
+
+f. Should conditions occur which would require rescheduling the testing, the permittee 
+
+shall notify the Regional Air Compliance Manager of DEQ’s NRO, in writing, within 
+
+seven (7) days of the scheduled test date or as soon as the rescheduling is deemed necessary; and 
+
+g. Two (2) copies (one (1) paper copy and one (1) electronic copy) of the test results shall be submitted to the Regional Air Compliance Manager, DEQ’s NRO within 60 
+
+days after test completion and shall conform to the test report format enclosed with this permit. 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [3/10/2026] 
+
+17. Visible Emissions Evaluation – Concurrently with the initial performance tests required in Condition  16 . Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, Appendix A, Method 9, shall also be conducted by the permittee on the diesel engine gen-sets selected for initial performance testing. The details of the tests shall be arranged with 
+
+the Regional Air Compliance Manager of the DEQ’s NRO. The permittee shall submit a 
+
+VEE protocol in conjunction with the initial stack test protocol required by Condition  16  at least 30 days prior to testing. 
+
+Should conditions prevent concurrent opacity observations, the Regional Air Compliance 
+
+Manager of the DEQ’s NRO shall be notified in writing, within seven (7) days, and visible 
+
+emissions testing shall be rescheduled within thirty-days. Rescheduled testing shall be conducted under the same conditions (as possible) as the initial performance tests. 
+
+Two copies of the test result (one hard copy and one on electronic media) shall be 
+
+submitted to the Regional Air Compliance Manager of the DEQ’s NRO within sixty (60) 
+
+days after test completion and shall conform to the test report format enclosed with this permit (Attachment B). 
+
+(9VAC5-50-30 and 9VAC5-80-1200) [3/10/2026] Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 13 
+
+CONTINUING COMPLIANCE DETERMINATION 
+
+18. Facility Construction – The diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall be constructed so as to allow for emissions testing upon reasonable notice, using appropriate methods. Sampling ports shall be provided when requested at the appropriate locations in accordance with EPA Reference Method 1 (reference 40 CFR Part 60, Appendix A). In addition, safe sampling platforms and access shall be provided. 
+
+(9VAC5-50-30 F and 9VAC5-80-1180) [3/10/2026] 
+
+19. Emission Testing/Visible Emissions Evaluation – Upon request by the DEQ, the permittee shall conduct stack tests and/or visible emission evaluations of the diesel engine gen-sets (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) to demonstrate compliance with the emission limits contained in this permit. The details of the tests shall be arranged with the Regional Air Compliance Manager of the 
+
+DEQ’s NRO .
+
+(9VAC5-80-1200 and 9VAC5-50-30 G) [3/10/2026] 
+
+RECORDS 
+
+20. On Site Records – The permittee shall maintain records of emission data and operating parameters as necessary to demonstrate compliance with this permit. The content and format of such records shall be arranged with the Regional Air Compliance Manager of the DEQs NRO. 
+
+These records shall include, but are not limited to: 
+
+a. A monthly log of the monitoring device data required by Condition  3.
+
+b. Records of the reasons for operation for each emergency diesel engine gen-set (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR, C-House Gen, IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5), including, but not limited to, the date, cause of operation, cause of the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+c. Annual hours of operation for each emergency diesel engine gen-set (Ref. Nos. A-G1 through A-G3, B-EG1 through B-EG4, B-EG105, C110-GB, C120-GB, C-GR and C-House Gen), calculated monthly as the sum of each consecutive 12-month period. 
+
+d. Monthly and annual hours of operation (all purposes) of each emergency diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5), calculated monthly as the sum of each consecutive rolling 12-month period, as required by Condition  5.Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 14 
+
+e. Monthly and annual hours of operation of each emergency diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5), for purposes of Scheduled MCRT, with annual hours of operation calculated monthly as the sum of each consecutive 12-month period, as required by Condition  5.i .
+
+f. Monthly and annual emissions calculations for NO X (as NO 2), CO, VOC, PM, PM 10 ,and PM 2.5 from the emergency diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) for all operations, to verify compliance with the annual emissions limitations in Condition  14 , with annual emissions calculated monthly as the sum of each consecutive 12-month period. 
+
+g. All fuel supplier certifications per Condition  10 .
+
+h. All VEE, emission stack test reports for each emergency diesel engine gen-set. 
+
+i. A copy of the maintenance schedule and records of scheduled and unscheduled maintenance in accordance with Condition  26 .
+
+j. Operator training in accordance with Condition  26 .
+
+k. Records of the manufacturer’s written instructions or procedures developed by the 
+
+owner or operator that are approved by the engine manufacturer. 
+
+l. Records of changes in settings that are permitted by the manufacturer of the emergency diesel engine gen-sets. 
+
+m. Records for diesel engine gen-set operations, as necessary, to demonstrate compliance with the operating limitations of Condition  7, which includes but is not limited to: times, dates, and reasons for operation of the diesel engine gen-set that was operating between May 1 and September 30. 
+
+n. Engine information including make, model, serial number, model year, maximum engine power (bhp), and engine displacement for the diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5). 
+
+o. Documentation from the manufacturer that the emergency diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) are certified 
+
+to meet the EPA’s Tier 2 emission standards. 
+
+p. To verify compliance with Condition  8, maintain records of: 
+
+i. The forecasted AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that a diesel engine gen-set operated during the integration operational period; Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 15 
+
+ii. The measured AQI, as determined by the AirNow website for Northern Virginia, for ozone for the day(s) that the diesel engine gen-set operated during the integration operational period; 
+
+iii. Documentation recording any Air Alerts issued for the operating day, as determined by AirNow-EnviroFlash; and 
+
+iv. Details of IOP activities, to include, but not limited to, clock hours and duration. 
+
+Compliance for the consecutive 12-month period (as applicable for the items above) shall be demonstrated monthly by adding the total for the most recently completed month to the individual monthly totals for the preceding 11 months. 
+
+These records shall be available for inspection by the DEQ and shall be current for the most recent five years, unless otherwise noted. 
+
+(9VAC5-80-1180 and 9VAC5-50-50) [3/10/2026] 
+
+NOTIFICATIONS 
+
+21. Initial Notifications – The permittee shall furnish written notification of the items below to 
+
+the Air Compliance Manager of the DEQ’s Northern Regional Office. 
+
+The permittee shall submit one notification for each building containing information on each diesel engine gen-set as described below: 
+
+a. The actual date on which installation of the diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) commenced in the building within 30 days after such date. The notification must contain the following: 
+
+i. Name and address of the permittee; 
+
+ii. The building; 
+
+iii. Unit reference number of the initial unit installed; and 
+
+iv. The date installation commenced. 
+
+b. The date that the integration operational period started for each diesel engine gen-set (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) within 15 days after the last generator at each building completes its integration operational peri od. If a period of construction is paused or halted for ≥45 days this notification 
+
+shall be provided to the DEQ within 15 days after completion of the integration operational period for the most recently installed engine-generator set. The notification must contain the following: 
+
+i. Unit reference number; Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 16 
+
+ii. Engine information including make, model, engine family, serial number, model year, maximum engine power, engine displacement, fuel used; 
+
+iii. Installation date; and 
+
+iv. Integration operational period start and end dates. 
+
+For the purpose of this notification the integration operational period is defined as: the period of time beginning with the first time the affected unit is started on-site and ending when the affected unit is fully integrated with the sources electrical system. 
+
+(9VAC5-50-50 and 9VAC5-80-1180) [3/10/2026] 
+
+GENERAL CONDITIONS 
+
+22. Permit Invalidation – This permit to construct the stationary diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction or modification of the stationary diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-
+
+Gen5) is not commenced within 18 months from the ‘Original Permit Date’ specified 
+
+in the equipment list in the Introduction section of this permit; or if. 
+
+b. A program of construction of the stationary diesel engine gen-sets (Ref. Nos. IAD30-EG4 through IAD30-EG12, IAD32-Gen4, and IAD32-Gen5is discontinued for a period of eighteen months or more, or is not completed within a reasonable time. 
+
+(9VAC5-80-1210) 
+
+23. Permit Invalidation – The portions of this permit that pertain to the construction of the emergency diesel engine gen-sets (Ref. Nos. C110-GB, C120-GB, C-GR and C-House Gen) shall become invalid, unless an extension is granted by the DEQ, if: 
+
+a. A program of continuous construction, reconstruction, or modification is not commenced within the latest of the following: 
+
+i.  Eighteen months from 4/4/2014; 
+
+ii.  Nine months from the date that the last permit or other authorization was issued from any other governmental entity; 
+
+iii.  Nine months from the date of the last resolution of any litigation concerning any such permits or authorization; or Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 17 
+
+b. A program of construction, reconstruction, or modification is discontinued for a period of eighteen months or more, or is not completed within a reasonable time, except for a DEQ approved period between phases of a phased construction project. 
+
+(9VAC5-80-1210) 
+
+24. Permit Suspension/Revocation – The Board may suspend or revoke any permit if the permittee: 
+
+a. Knowingly makes material misstatements in the permit application or any amendments to it; 
+
+b. Fails to comply with the terms or conditions of this permit; 
+
+c. Fails to comply with any emission standards applicable to an emissions unit included in this permit; 
+
+d. Causes emissions from the stationary source which result in violations of, or interfere with the attainment and maintenance of, any ambient air quality standard; or fails to operate in conformance with any applicable control strategy, including any emission standards or emission limitations, in the implementation plan in effect at the time that an application is submitted; or 
+
+e. Fails to comply with the applicable provisions of 9VAC5-80-1100 et seq. 
+
+(9VAC5-80-1210 F and 9VAC5-80-1210 G) 
+
+25. Right of Entry – The permittee shall allow authorized local, state, and federal representatives, upon the presentation of credentials: 
+
+a. To enter upon the permittee's premises on which the facility is located or in which any records are required to be kept under the terms and conditions of this permit; 
+
+b. To have access to and copy at reasonable times any records required to be kept under the terms and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+c. To inspect at reasonable times any facility, equipment, or process subject to the terms and conditions of this permit or the State Air Pollution Control Board Regulations; and 
+
+d. To sample or test at reasonable times. Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 18 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during regular business hours or whenever the facility is in operation. Nothing contained herein shall make an inspection time unreasonable during an emergency. 
+
+(9VAC5-170-130 and 9VAC5-80-1180) 
+
+26. Maintenance/Operating Procedures – At all times, including periods of startup, shutdown, and malfunction, owners shall, to the extent practicable, maintain and operate any affected facility, including associated air pollution control equipment, in a manner consistent with air pollution control practices for minimizing emissions. Determination of whether acceptable operating and maintenance procedures are being used will be based on information available to the Regional Air Compliance Manager of the DEQs NRO, which may include, but is not limited to, monitoring results, opacity observations, review of operating and maintenance procedures, and inspection of the source. 
+
+The permittee shall take measures in order to minimize the duration and frequency of excess emissions, including the following: 
+
+a. Develop a maintenance schedule and maintain records of all scheduled and non-scheduled maintenance. 
+
+b. Maintain an inventory of spare parts. 
+
+c. Have available written operating procedures for equipment. These procedures shall be based on the manufacturer's recommendations, at a minimum. 
+
+d. Train operators in the proper operation of all such equipment and familiarize the operators with the written operating procedures prior to their first operation of such equipment. The permittee shall maintain records of the training provided including the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years and shall be made available to DEQ personnel upon request. 
+
+(9VAC5-50-20 E and 9VAC5-80-1180 D) 
+
+27. Record of Malfunctions – The permittee shall maintain records of the occurrence and duration of any bypass, malfunction, shut-down or failure of the facility or its associated air pollution control equipment that results in excess emissions for more than one hour. The records shall be maintained in a form suitable for inspection and maintained for at least two years (unless a longer period is specified in the applicable emission standard) following the date of occurrence. Records shall include the date, time, duration, description (emission unit, pollutant affected, cause of malfunction), corrective action, preventive measures taken and name of person generating the record. 
+
+(9VAC5-20-180 J and 9VAC5-80-1180 D) Chantilly Technology Partners, LLC Registration Number: 72375 March 10, 2026 Page 19 
+
+28. Notification for Facility or Control Equipment Malfunction – In the event that any affected facility or related air pollution control equipment fails or malfunctions in such a manner that may cause excess emissions for more than one hour, the owner shall, as soon as practicable but no later than four daytime business hours after the malfunction is discovered, notify the Regional Air Compliance Manager of the DEQs NRO by facsimile transmission, telephone, email, or telegraph of such failure or malfunction and shall within two weeks provide a written statement giving all pertinent facts, including the estimated duration of the breakdown. When the Condition causing the failure or malfunction has been corrected and the facility or control equipment is again in operation, the owner shall notify the Regional Air Compliance Manager of the DEQs NRO. 
+
+(9VAC5-20-180 C and 9VAC5-80-1180) 
+
+29. Violation of Ambient Air Quality Standard – Regardless of any other provision of this permit, the permittee shall, upon request of the DEQ, reduce the level of operation of the facility if the DEQ determines that is necessary to prevent a violation of any primary ambient air quality standard. Under worst case conditions, the DEQ may order that the permittee shut down the facility, if there is no other method of operation to avoid a violation of the ambient air quality standard. The DEQ reserves the right to prescribe the method of determining if a facility will cause such a violation. In such cases, the facility shall not be returned to operation until it and the associated air pollution control equipment are able to operate without violation of any primary ambient air quality standard. 
+
+(9VAC5-20-180 I) 
+
+30. Change of Ownership – In the case of a transfer of ownership of a stationary source, the new owner shall abide by any current permit issued to the previous owner. The new owner shall notify the Regional Air Compliance Manager of the DEQs NRO of the change of ownership within thirty days of the transfer. 
+
+(9VAC5-80-1240 B) 
+
+31. Permit Copy – The permittee shall keep a copy of this permit on the premises of the facility to which it applies. 
+
+(9VAC5-80-1180) Appendix A: 
+
+Source Testing Report Format SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1.  Plant name and location 
+
+2.  Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3.  Test dates 
+
+4.  Tester; name, address and report date 
+
+Certification 
+
+1.  Signed by team leader/certified observer (include certification date) 
+
+2.  Signed by responsible company official 
+
+3.  *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1.  Reason for testing 
+
+2.  Test dates 
+
+3.  Identification of unit tested & the maximum rated capacity 
+
+4.  *For each emission unit, a table showing: 
+
+a.  Operating rate 
+
+b.  Test Methods 
+
+c.  Pollutants tested 
+
+d.  Test results for each run and the run average 
+
+e.  Pollutant standard or limit 
+
+5.  Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6.  A statement that test was conducted in accordance with the test protocol or identification & discussion of deviations, including the likely impact on results 
+
+7.  Any other important information 
+
+Source Operation 
+
+1.  Description of process and control devices 
+
+2.  Process and control equipment flow diagram 
+
+3.  Sampling port location and dimensioned cross section. Attached protocol includes: sketch of stack (elevation view) showing sampling port locations, upstream and downstream flow disturbances and their distances from ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or dimensions 
+
+Test Results 
+
+1.  Detailed test results for each run 
+
+2.  *Sample calculations 
+
+3.  *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1.  *Raw production data 
+
+2.  *Raw field data 
+
+3.  *Laboratory reports 
+
+4.  *Chain of custody records for lab samples 
+
+5.  *Calibration procedures and results 
+
+6.  Project participants and titles 
+
+7.  Observers’ names (industry and agency) 
+
+8.  Related correspondence 
+
+9.  Standard procedures 
+
+* Not applicable to visible emission evaluations

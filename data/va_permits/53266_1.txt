@@ -1,0 +1,978 @@
+Title: Iron Mountain Information Management, LLC - Permit to Construct and Operate
+
+URL Source: https://www.deq.virginia.gov/home/showpublisheddocument/36251/639149773966430000
+
+Published Time: Thu, 21 May 2026 15:23:16 GMT
+
+Number of Pages: 15
+
+Markdown Content:
+Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY                
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus
+> Secretary of Natural and Historic Resources Director
+
+May 7, 2026 
+
+Mr. Reuben McClelland, P.E. 
+
+Director of Design, North America 
+
+Iron Mountain Information Management, LLC 
+
+6110 Technology Creek Drive 
+
+Sandston, VA 23150 
+
+Location: Henrico County 
+
+Registration No.: 53266 
+
+Dear Mr. McClelland: 
+
+Attached is a permit approval to construct and operate a data center in accordance with the 
+
+provisions of the Virginia Regulations for the Control and Abatement of Air Pollution 
+
+In the course of evaluating the application and arriving at a final decision to approve the project, 
+
+the Department of Environmental Quality (DEQ) deemed the application complete on March 26, 
+
+2026 
+
+This permit document contains legally enforceable conditions. Failure to comply may result in a
+
+Notice of Violation and/or civil charges. Please read all permit conditions carefully. 
+
+This permit approval to construct and operate shall not relieve Iron Mountain Information 
+
+Management LLC of the responsibility to comply with all other local, state, and federal permit 
+
+regulations. 
+
+The proposed diesel fired emergency engine generator sets may be subject to 40 CFR 63, 
+
+Maximum Achievable Control Technology, (MACT) Subpart ZZZZ and 40 CFR 60, New 
+
+Source Performance Standard (NSPS), Subpart IIII. Virginia has not accepted delegation of this 
+
+rule. In summary, the unit may be required to comply with certain federal emission standards 
+
+and operating limitations. DEQ advises you to review the referenced MACT and NSPS to 
+
+ensure compliance with applicable emission and operational limitations. As the owner/operator 
+
+you may be also responsible for any monitoring, testing, notification, reporting and 
+
+recordkeeping requirements of the MACT and NSPS. Notifications and reports shall only be 
+
+sent to EPA, Region III. Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 2
+
+To review any federal rules referenced in the above paragraph or in the attached permit, the US 
+
+Government Publishing Office maintains the text of these rules at  www.ecfr.gov , Title 40, Part 
+
+60 and 63. 
+
+The Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide 
+
+that you may request a formal hearing from this case decision by filing a petition with the DEQ 
+
+within 30 days after this case decision notice was mailed or delivered to you. Please consult the 
+
+relevant regulations for additional requirements for such requests. 
+
+As provided by Rule 2A:2 of the Supreme Court of Virginia, you have 30 days from the date you 
+
+actually received this permit or the date on which it was mailed to you, whichever occurred first, 
+
+within which to initiate an appeal of this decision by filing a Notice of Appeal with: 
+
+Director 
+
+Department of Environmental Quality 
+
+P.  O. Box 1105 
+
+Richmond, VA 23218 
+
+If this permit was delivered to you by mail, three days are added to the thirty-day period in which 
+
+to file an appeal. Please refer to Part Two A of the Rules of the Supreme Court of Virginia for 
+
+information on the required content of the Notice of Appeal and for additional requirements 
+
+governing appeals from decisions of administrative agencies. 
+
+If you have any questions concerning this permit, please contact the the regional office at 804 -
+
+527-5020. 
+
+Sincerely, 
+
+James E. Kyle, P.E. 
+
+Regional Air Permit Manager 
+
+Attachments: Permit 
+
+Source Testing Report Format Commonwealth of Virginia 
+
+# VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY                
+
+> www.deq.virginia.gov
+> David L. Bulova Michael S. Rolband, PE, PWD, PWS Emeritus
+> Secretary of Natural and Historic Resources Director
+
+STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE 
+
+In compliance with the Federal Clean Air Act and the Commonwealth of Virginia 
+
+Regulations for the Control and Abatement of Air Pollution, 
+
+Iron Mountain Information Management, LLC 
+
+1101 Enterprise Drive 
+
+Royersford, PA 19468 
+
+Registration No.: 53266 
+
+is authorized to construct and operate 
+
+a Data Center 
+
+located at 
+
+6110 Technology Creek Drive, Henrico, VA 23150 
+
+in accordance with the Conditions of this permit. 
+
+Approved on May 7, 2026. 
+
+_____________________________________ 
+
+James E. Kyle 
+
+Air Permit Manager 
+
+Permit consists of 12 pages. 
+
+Permit Conditions 1 to 26. Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 2
+
+INTRODUCTION 
+
+This permit approval is based on the permit application dated March 19, 2026. Any changes in 
+
+the permit application specifications or any existing facilities which alter the impact of the 
+
+facility on air quality may require a permit. Failure to obtain such a permit prior to construction 
+
+may result in enforcement action. In addition, this facility may be subject to additional 
+
+applicable requirements not listed in this permit. 
+
+Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-10 of the 
+
+State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. 
+
+The regulatory reference or authority for each condition is listed in parentheses () after each 
+
+condition. 
+
+Annual requirements to fulfill legal obligations to maintain current stationary source emissions 
+
+data will necessitate a prompt response by the permittee to requests by the DEQ for information 
+
+to include, as appropriate: process and production data; changes in control equipment; and 
+
+operating schedules. Such requests for information from the DEQ will either be in writing or by 
+
+personal contact. 
+
+The availability of information submitted to the DEQ or the Board will be governed by 
+
+applicable provisions of the Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 of the 
+
+Code of Virginia, § 10.1-1314 (addressing information provided to the DEQ) of the Code of 
+
+Virginia, and 9 VAC 5-170-60 of the State Air Pollution Control Board Regulations. 
+
+Information provided to federal officials is subject to appropriate federal law and regulations 
+
+governing confidentiality of such information. 
+
+Equipment List - Equipment at this facility covered by this permit consists of: 
+
+Equipment to be Constructed:                         
+
+> Reference
+> No.
+> LS1-LS4
+> Equipment Description
+> Four CAT 3512C Emergency Generator
+> Rated Capacity
+> 2,206 bhp
+> 1,500 kW
+> (each unit)
+> Delegated Federal
+> Requirements
+> None
+> EG1-EG126 One Hundred and Twenty-Six CAT C175-16
+> OR Cummins C3000 D6e
+> 4,423 bhp
+> 3,000 kW
+> OR
+> 4,309 bhp
+> 3,000 kW
+> (each unit)
+> None
+
+Specifications included in the above tables are for informational purposes only and do not form 
+
+enforceable terms or conditions of the permit. 
+
+PROCESS REQUIREMENTS 
+
+1.  Emission Controls - Nitrogen oxides (NOx) emissions from the engine-generator sets (Ref. 
+
+Nos. LS1-LS4 and EG1-EG126) shall be controlled by electronic fuel injection, Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 3
+
+turbocharged engine and aftercooler. The permittee shall maintain documentation that 
+
+demonstrates the control devices have been installed on the engine-generator sets. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+2.  Emission Controls - Visible emissions particulate emissions carbon monoxide (CO) 
+
+emissions volatile organic compound (VOC) emissions and nitrogen oxide (NOx) 
+
+emissions shall be controlled by the use of good operating practices and performing 
+
+appropriate maintenance in accordance with the manufacturer recommendations. In 
+
+addition, the permittee may only change those settings that are permitted by the 
+
+manufacturer and do not increase air emissions. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+3.  Monitoring Devices - Each engine-generator set shall be equipped with a non-resettable 
+
+hour metering device to monitor the operating hours. The non-resettable hour meter used to 
+
+continuously measure the hours of operation for each engine-generator set shall be observed 
+
+by the owner with a frequency of not less than once each day the engine-generator set is 
+
+operated. The owner shall keep a log of these observations. 
+
+Each monitoring device shall be installed, maintained, calibrated (as appropriate) and 
+
+operated in accordance with approved procedures which shall include, as a minimum, the 
+
+manufacturer's written requirements or recommendations. Each monitoring device shall be 
+
+provided with adequate access for inspection and shall be in operation when the engine-generator sets are operating. 
+
+(9 VAC 5-80-1180 D) 
+
+OPERATING/EMISSION LIMITATIONS 
+
+4.  Operation of the Engine-Generator Set - The permittee shall operate and maintain each 
+
+engine-generator set and control device according to the manufacturer's written instructions 
+
+or procedures developed by the permittee that are approved by the engine manufacturer. In 
+
+addition, the permittee may only change those settings that are permitted by the 
+
+manufacturer and do not increase air emissions. 
+
+(9 VAC 5-80-1180) 
+
+5.  Emergency Power Generation - The engine-generator sets (Ref. Nos. LS1-LS4 and EG1 -
+
+EG126) shall only be operated in the following modes: 
+
+a.  In situations that arise from sudden and reasonably unforeseeable events where the 
+
+primary energy or power source is disrupted or disconnected due to conditions beyond 
+
+the control of an owner or operator of a facility including: 
+
+i.  A failure of the electrical grid; 
+
+ii.  On-site disaster or equipment failure; or Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 4
+
+iii.  Public service emergencies such as flood, fire, natural disaster, or severe weather 
+
+conditions. 
+
+b.  For participation in an ISO-declared emergency, where an ISO emergency is: 
+
+i.  An abnormal system condition requiring manual or automatic action to maintain 
+
+system frequency, to prevent loss of firm load, equipment damage, or tripping of 
+
+system elements that could adversely affect the reliability of an electric system or 
+
+the safety of persons or property; 
+
+ii.  Capacity deficiency or capacity excess conditions; 
+
+iii.  A fuel shortage requiring departure from normal operating procedures in order to 
+
+minimize the use of such scarce fuel; 
+
+iv.  Abnormal natural events or man-made threats that would require conservative 
+
+operations to posture the system in a more reliable state; or 
+
+v.  An abnormal event external to the ISO service territory that may require ISO 
+
+action. 
+
+c.  For periodic maintenance, testing, and operational training. 
+
+When changing from Emergency Power Generation to Non-Emergency (Alternate) Power 
+
+Generation, the permittee shall submit appropriate documentation to the Department of 
+
+Environmental Quality (DEQ) and receive DEQ approval for the change in the method of 
+
+operation of the engine-generator set to ensure that the facility remains in compliance with 
+
+the appropriate permitting requirements. Total emissions for any 12 month period, 
+
+calculated as the sum of all emissions from operations under the scenarios above, shall not 
+
+exceed the limits stated in Conditions 10 and 11 
+
+(9 VAC 5-80-1180) 
+
+6.  Operating Hours – Each engine-generator set (Ref. Nos. LS1-LS4) shall not operate more 
+
+than 36 hours per year, calculated monthly as the sum of each consecutive 12-month period. 
+
+Compliance for the consecutive 12-month period shall be demonstrated monthly by adding 
+
+the total for the most recently completed calendar month to the individual monthly totals for 
+
+the preceding 11 months. 
+
+(9 VAC 5-80-1180) 
+
+7.  Operating Hours –Each engine-generator set (Ref. Nos. EG1-EG126) shall not operate 
+
+more than 26 hours per year, calculated monthly as the sum of each consecutive 12-month 
+
+period. Compliance for the consecutive 12-month period shall be demonstrated monthly by 
+
+adding the total for the most recently completed calendar month to the individual monthly 
+
+totals for the preceding 11 months. 
+
+(9 VAC 5-80-1180) Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 5
+
+8.  Fuel - The approved fuel for the engine-generator sets (Ref. Nos. LS1-LS4, and EG1 -
+
+EG161) is diesel fuel. The diesel fuel shall meet the ASTM D975 specification for S15 
+
+diesel fuel oil with a maximum sulfur content per shipment of 0.0015%. A change in the 
+
+fuel shall be considered a change in the method of operation of the engine-generator sets 
+
+and may require a new or amended permit. However, if a change in the fuel is not subject 
+
+to new source review permitting requirements, this condition should not be construed to 
+
+prohibit such a change. 
+
+(9 VAC 5-80-1180) 
+
+9.  Fuel Certification - The permittee shall obtain a certification from the fuel supplier with 
+
+each shipment of diesel fuel. Each fuel supplier certification shall include the following: 
+
+a.  The name of the fuel supplier; 
+
+b.  The date on which the diesel fuel was received; 
+
+c.  The quantity of diesel fuel delivered in the shipment; 
+
+d.  A statement that the diesel fuel complies with the American Society for Testing and 
+
+Materials specifications (ASTM D975) for S15 diesel fuel oil; and 
+
+e.  The sulfur content of the diesel fuel. 
+
+Fuel sampling and analysis, independent of that used for certification, as may be 
+
+periodically required or conducted by DEQ may be used to determine compliance with the 
+
+fuel specifications stipulated in Condition 8. Exceedance of these specifications may be 
+
+considered credible evidence of the exceedance of emission limits. 
+
+(9 VAC 5-80-1180) 
+
+EMISSION LIMITS 
+
+10.  Emission Limits - Emissions from the operation of the engine-generator sets (Ref. Nos. 
+
+LS1-LS4) shall not exceed the limits specified below: 
+
+Each  Total 
+
+PM 0.4 lbs/hr 0.1 tons/yr 
+
+PM10 0.5 lbs/hr 0.1 tons/yr 
+
+PM2.5 0.5 lbs/hr 0.1 tons/yr 
+
+Nitrogen Oxides (as NO 2) 29.2 lbs/hr 2.1 tons/yr 
+
+Carbon Monoxide 4.3 lbs/hr 0.3 tons/yr Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 6
+
+Volatile Organic Compounds 0.8 bs/hr 0.1 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from 
+
+operating limits. Exceedance of the operating limits may be considered credible evidence 
+
+of the exceedance of emission limits. Compliance with these emission limits may be 
+
+determined as stated in Condition(s) 1, 2, 4, 6, 7, and 8. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+11.  Emission Limits - Emissions from the operation of the engine-generator sets (Ref. Nos. 
+
+EG1-EG126) shall not exceed the limits specified below: 
+
+Each  Total 
+
+PM 1.3 lbs/hr 2.1 tons/yr 
+
+PM10 1.5 lbs/hr 2.4 tons/yr 
+
+PM2.5 1.5 lbs/hr 2.4 tons/yr 
+
+Nitrogen Oxides (as NO 2) 58.4 lbs/hr 95.7 tons/yr 
+
+Carbon Monoxide 6.1 lbs/hr 9.9 tons/yr 
+
+Volatile Organic Compounds 2.9 lbs/hr 4.7 tons/yr 
+
+These emissions are derived from the estimated overall emission contribution from 
+
+operating limits. Exceedance of the operating limits may be considered credible evidence 
+
+of the exceedance of emission limits. Compliance with these emission limits may be 
+
+determined as stated in Condition(s) 1, 2, 4, 6, 7, and 8. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+12.  Visible Emission Limit - Visible emissions from each engine-generator set exhaust (Ref. 
+
+Nos. LS1-LS4 and EG1-EG126) shall not exceed 10% opacity except during one 6-minute 
+
+period in any one hour in which visible emissions shall not exceed 20% opacity as 
+
+determined by EPA Method 9 (reference 40 CFR 60, Appendix A). This condition applies 
+
+at all times except during startup, shutdown and malfunction. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-260) 
+
+INITIAL COMPLIANCE DETERMINATION 
+
+13.  Stack Test - Initial performance tests shall be conducted on at least twenty percent (20%) of 
+
+the units installed for each type of engine model (Caterpillar 3512C, Caterpillar C175-16, 
+
+and Cummins C3000 D6e) of the 130 engine-generator sets (Ref. No. LS1-LS4 and EG1 -
+
+EG126) for NOx and CO using appropriate EPA reference methods to determine 
+
+compliance with the emission limits contained in Conditions 10 and 11. The tests shall be 
+
+performed, reported, and demonstrate compliance within 60 days after achieving the Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 7
+
+maximum production rate at which the facility will be operated but in no event later than 
+
+180 days after start-up of the permitted facility. Tests shall be conducted and reported and 
+
+data reduced as set forth in 9 VAC 5-50-30. The details of the tests are to be arranged with 
+
+the Piedmont Regional Office. The permittee shall submit a test protocol at least 30 days 
+
+prior to testing. One copy of the test results shall be submitted to the Piedmont Regional 
+
+Office within 45 days after test completion and shall conform to the test report format 
+
+enclosed with this permit. 
+
+a.  Emissions testing of each pollutant for each selected engine-generator set shall consist 
+
+of three one-hour test runs under load. The average of the three runs shall be reported 
+
+as the short-term emission rate for that engine-generator. 
+
+b.  Testing shall be conducted with the engine(s) operating at greater than 90% electrical 
+
+capacity, unless multiple load band testing is approved by DEQ. 
+
+c.  Recorded information shall include, but not be limited to: 
+
+i.  Generator load/kilowatt output. 
+
+ii.  Fuel consumption and fuel sulfur content of the diesel fuel oil. 
+
+(9 VAC 5-50-30 and 9 VAC 5-80-1200) 
+
+14.  Visible Emissions Evaluation – Concurrent with the initial performance test required in 
+
+Condition 13, Visible Emission Evaluations (VEE) in accordance with 40 CFR Part 60, 
+
+Appendix A, Method 9, shall be conducted by the permittee on the engine-generator sets 
+
+selected for initial performance testing. The evaluation shall be performed, reported, and 
+
+demonstrate compliance within 60 days after achieving the maximum production rate at 
+
+which the facility will be operated but in no event later than 180 days after start-up of the 
+
+permitted facility. Should conditions prevent concurrent opacity observations, the 
+
+Piedmont Regional Office shall be notified in writing within seven days, and visible 
+
+emissions testing shall be rescheduled within 30 days. Rescheduled testing shall be 
+
+conducted under the same conditions (as possible) as the initial performance tests. The 
+
+details of the tests are to be arranged with the Piedmont Regional Office. The permittee 
+
+shall submit a test protocol at least 30 days prior to testing. One copy of the test result shall 
+
+be submitted to the Piedmont Regional Office within 45 days after test completion and shall 
+
+conform to the test report format enclosed with this permit. 
+
+a.  Each test shall consist of 30 sets of 24 consecutive observations (at 15 second 
+
+intervals) to yield a six-minute average. Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 8
+
+b.  Testing shall be conducted with the engine(s) operating at greater than 90% electrical 
+
+capacity, unless multiple load band testing is approved by DEQ. 
+
+(9 VAC 5-50-30 and 9 VAC 5-80-1200) 
+
+15.  Emissions Testing - The facility shall be constructed so as to allow for emissions testing 
+
+upon reasonable notice at any time, using appropriate methods. This includes constructing 
+
+the facility/equipment such that volumetric flow rates and pollutant emission rates can be 
+
+accurately determined by applicable test methods and providing a stack or duct that is free 
+
+from cyclonic flow. Sampling ports shall be provided when requested at the appropriate 
+
+locations and safe sampling platforms and access shall be provided. 
+
+(9 VAC 5-50-30 F and 9 VAC 5-80-1180) 
+
+RECORDS 
+
+16.  On Site Records - The permittee shall maintain records of emission data and operating 
+
+parameters as necessary to demonstrate compliance with this permit. The content and 
+
+format of such records shall be arranged with the Piedmont Regional Office. These records 
+
+shall include, but are not limited to: 
+
+a.  Annual hours of operation of each engine-generator set, calculated monthly as the sum 
+
+of each consecutive 12-month period. Compliance for the consecutive 12-month 
+
+period shall be demonstrated monthly by adding the total for the most recently 
+
+completed calendar month to the individual monthly totals for the preceding 11 
+
+months. 
+
+b.  All fuel supplier certifications. 
+
+c.  Engine information including make, model, serial number, model year, maximum 
+
+engine power (bhp), and engine displacement for each engine-generator set. 
+
+d.  The manufacturer's written operating instructions or procedures developed by the 
+
+owner/operator that are approved by the engine manufacturer for each engine-generator set. 
+
+e.  Records of the reasons for operation for each engine-generator set (Ref. Nos. LS1-LS4 
+
+and EG1-EG126) including, but not limited to, the date, cause of operation, cause of 
+
+the emergency, the ISO-declared emergency notification, and the hours of operation. 
+
+f.  Results of all stack tests and visible emission evaluations. 
+
+g.  Scheduled and unscheduled maintenance and operator training. Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 9
+
+These records shall be available for inspection by DEQ and shall be current for the most 
+
+recent five years. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-50) 
+
+NOTIFICATIONS 
+
+17.  Initial Notifications - The permittee shall furnish written notification to the Piedmont 
+
+Regional Office of: 
+
+a.  The actual date on which construction of the engine-generator sets (Ref. Nos. LS1 -
+
+LS4 and EG1-EG126) commenced within 30 days after such date. 
+
+b.  The anticipated start-up date of the engine-generator sets (Ref. Nos. LS1-LS4 and 
+
+EG1-EG126) postmarked not more than 60 days nor less than 30 days prior to such 
+
+date. 
+
+c.  The actual start-up date of the engine-generator sets (Ref. Nos. LS1-LS4 and EG1 -
+
+EG126) within 15 days after such date. The actual start-up date shall be the date on 
+
+which each engine completes manufacturer's trials but shall be no later than thirty days 
+
+after the initial startup for manufacturer's trials. 
+
+d.  The anticipated date of the performance tests and visible emissions evaluation of the 
+
+engine-generator sets (Ref. Nos. LS1-LS4 and EG1-EG126) postmarked at least 30 
+
+days prior to such date. 
+
+(9 VAC 5-80-1180 and 9 VAC 5-50-50) 
+
+GENERAL CONDITIONS 
+
+18.  Permit Invalidation - This permit to construct the new stationary source shall become 
+
+invalid, unless an extension is granted by the DEQ, if: 
+
+a.  A program of continuous construction is not commenced within 18 months from the 
+
+date of this permit. 
+
+b.  A program of construction is discontinued for a period of 18 months or more, or is not 
+
+completed within a reasonable time, except for a DEQ approved period between 
+
+phases of the phased construction of a new stationary source or project. 
+
+(9 VAC 5-80-1210) 
+
+19.  Permit Suspension/Revocation - This permit may be suspended or revoked if the permittee: 
+
+a.  Knowingly makes material misstatements in the permit application or any 
+
+amendments to it; Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 10
+
+b.  Fails to comply with the conditions of this permit; 
+
+c.  Fails to comply with any emission standards applicable to a permitted emissions unit; 
+
+d.  Causes emissions from the stationary source which result in violations of, or interfere 
+
+with the attainment and maintenance of, any ambient air quality standard; or 
+
+e.  Fails to operate in conformance with any applicable control strategy, including any 
+
+emission standards or emissions limitations, in the State Implementation Plan in effect 
+
+at the time an application for this permit is submitted. 
+
+(9 VAC 5-80-1210 G) 
+
+20.  Right of Entry - The permittee shall allow authorized local, state, and federal 
+
+representatives, upon the presentation of credentials: 
+
+a.  To enter upon the permittee's premises on which the facility is located or in which any 
+
+records are required to be kept under the terms and conditions of this permit; 
+
+b.  To have access to and copy at reasonable times any records required to be kept under 
+
+the terms and conditions of this permit or the State Air Pollution Control Board 
+
+Regulations; 
+
+c.  To inspect at reasonable times any facility, equipment, or process subject to the terms 
+
+and conditions of this permit or the State Air Pollution Control Board Regulations; 
+
+and 
+
+d.  To sample or test at reasonable times. 
+
+For purposes of this condition, the time for inspection shall be deemed reasonable during 
+
+regular business hours or whenever the facility is in operation. Nothing contained herein 
+
+shall make an inspection time unreasonable during an emergency. 
+
+(9 VAC 5-170-130 and 9 VAC 5-80-1180) 
+
+21.  Maintenance/Operating Procedures - At all times, including periods of start-up, shutdown, 
+
+and malfunction, the permittee shall, to the extent practicable, maintain and operate the 
+
+affected source, including associated air pollution control equipment, in a manner 
+
+consistent with good air pollution control practices for minimizing emissions. 
+
+The permittee shall take the following measures in order to minimize the duration and 
+
+frequency of excess emissions, with respect to air pollution control equipment and process 
+
+equipment which affect such emissions: 
+
+a.  Develop a maintenance schedule and maintain records of all scheduled and non -
+
+scheduled maintenance. Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 11
+
+b.  Maintain an inventory of spare parts. 
+
+c.  Have available written operating procedures for equipment. These procedures shall be 
+
+based on the manufacturer's recommendations, at a minimum. 
+
+d.  Train operators in the proper operation of all such equipment and familiarize the 
+
+operators with the written operating procedures, prior to their first operation of such 
+
+equipment. The permittee shall maintain records of the training provided including 
+
+the names of trainees, the date of training and the nature of the training. 
+
+Records of maintenance and training shall be maintained on site for a period of five years 
+
+and shall be made available to DEQ personnel upon request. 
+
+(9 VAC 5-50-20 E and 9 VAC 5-80-1180 D) 
+
+22.  Record of Malfunctions - The permittee shall maintain records of the occurrence and 
+
+duration of any bypass, malfunction, shutdown or failure of the facility or its associated air 
+
+pollution control equipment that results in excess emissions for more than one hour. 
+
+Records shall include the date, time, duration, description (emission unit, pollutant affected, 
+
+cause), corrective action, preventive measures taken and name of person generating the 
+
+record. 
+
+(9 VAC 5-20-180 J and 9 VAC 5-80-1180 D) 
+
+23.  Notification for Facility or Control Equipment Malfunction - The permittee shall furnish 
+
+notification to the Piedmont Regional Office of malfunctions of the affected facility or 
+
+related air pollution control equipment that may cause excess emissions for more than one 
+
+hour. Such notification shall be made no later than four daytime business hours after the 
+
+malfunction is discovered. The permittee shall provide a written statement giving all 
+
+pertinent facts, including the estimated duration of the breakdown, within 14 days of 
+
+discovery of the malfunction. When the condition causing the failure or malfunction has 
+
+been corrected and the equipment is again in operation, the permittee shall notify the 
+
+Piedmont Regional Office. 
+
+(9 VAC 5-20-180 C and 9 VAC 5-80-1180) 
+
+24.  Violation of Ambient Air Quality Standard - The permittee shall, upon request of the DEQ, 
+
+reduce the level of operation or shut down a facility, as necessary to avoid violating any 
+
+primary ambient air quality standard and shall not return to normal operation until such 
+
+time as the ambient air quality standard will not be violated. 
+
+(9 VAC 5-20-180 I and 9 VAC 5-80-1180) 
+
+25.  Change of Ownership - In the case of a transfer of ownership of a stationary source, the 
+
+new owner shall abide by any current permit issued to the previous owner. The new owner 
+
+shall notify the Piedmont Regional Office of the change of ownership within 30 days of the 
+
+transfer. 
+
+(9 VAC 5-80-1240) Iron Mountain Information Management, LLC      
+
+> Registration Number: 53266
+> May 7, 2026
+> Page 12
+
+26.  Permit Copy - The permittee shall keep a copy of this permit on the premises of the facility 
+
+to which it applies. 
+
+(9 VAC 5-80-1180) _____ 
+
+SOURCE TESTING REPORT FORMAT 
+
+Report Cover 
+
+1.  Plant name and location 
+
+2.  Units tested at source (indicate Ref. No. used by source in permit or registration) 
+
+3.  Test Dates. 
+
+4.  Tester; name, address and report date 
+
+Certification 
+
+1.  Signed by team leader/certified observer (include certification date) 
+
+2.  Signed by responsible company official 
+
+3.  *Signed by reviewer 
+
+Copy of approved test protocol 
+
+Summary 
+
+1.  Reason for testing 
+
+2.  Test dates 
+
+3.  Identification of unit tested & the maximum rated capacity 
+
+4.  *For each emission unit, a table showing: 
+
+a.  Operating rate 
+
+b.  Test Methods 
+
+c.  Pollutants tested 
+
+d.  Test results for each run and the run average 
+
+e.  Pollutant standard or limit 
+
+5.  Summarized process and control equipment data for each run and the average, as required by the test protocol 
+
+6.  A statement that test was conducted in accordance with the test protocol or identification & discussion of 
+
+deviations, including the likely impact on results 
+
+7.  Any other important information 
+
+Source Operation 
+
+1.  Description of process and control devices 
+
+2.  Process and control equipment flow diagram 
+
+3.  Sampling port location and dimensioned cross section Attached protocol includes: sketch of stack (elevation 
+
+view) showing sampling port locations, upstream and downstream flow disturbances and their distances from 
+
+ports; and a sketch of stack (plan view) showing sampling ports, ducts entering the stack and stack diameter or 
+
+dimensions 
+
+Test Results 
+
+1.  Detailed test results for each run 
+
+2.  *Sample calculations 
+
+3.  *Description of collected samples, to include audits when applicable 
+
+Appendix 
+
+1.  *Raw production data 
+
+2.  *Raw field data 
+
+3.  *Laboratory reports 
+
+4.  *Chain of custody records for lab samples 
+
+5.  *Calibration procedures and results 
+
+6.  Project participants and titles 
+
+7.  Observers’ names (industry and agency) 
+
+8.  Related correspondence 
+
+9.  Standard procedures 
+
+* Not applicable to visible emission evaluations

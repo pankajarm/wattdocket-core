@@ -1,0 +1,57 @@
+{
+ "as_of": "2026-10-29T02:39:27Z",
+ "calc_version": "wattdocket@0.1.0",
+ "receipts": [
+  {
+   "publisher": "US EPA",
+   "dataset": "eGRID 2023 rev2",
+   "url": "https://www.epa.gov/system/files/documents/2025-06/egrid2023_data_rev2.xlsx",
+   "sha256": "895cd81dd8662406189ad8adf5a2578dcb362cdb5cff7cca81b10ee6bd2447c6"
+  }
+ ],
+ "basis": "UNKNOWN",
+ "utilization": "national prior",
+ "cap_mw": [
+  10,
+  25,
+  50,
+  100,
+  200,
+  300,
+  500,
+  1000
+ ],
+ "subregions": {
+  "AKGD": "ASCC Alaska Grid",
+  "AKMS": "ASCC Miscellaneous",
+  "AZNM": "WECC Southwest",
+  "CAMX": "WECC California",
+  "ERCT": "ERCOT All",
+  "FRCC": "FRCC All",
+  "HIMS": "HICC Miscellaneous",
+  "HIOA": "HICC Oahu",
+  "MROE": "MRO East",
+  "MROW": "MRO West",
+  "NEWE": "NPCC New England",
+  "NWPP": "WECC Northwest",
+  "NYCW": "NPCC NYC/Westchester",
+  "NYLI": "NPCC Long Island",
+  "NYUP": "NPCC Upstate NY",
+  "PRMS": "Puerto Rico Miscellaneous",
+  "RFCE": "RFC East",
+  "RFCM": "RFC Michigan",
+  "RFCW": "RFC West",
+  "RMPA": "WECC Rockies",
+  "SPNO": "SPP North",
+  "SPSO": "SPP South",
+  "SRMV": "SERC Mississippi Valley",
+  "SRMW": "SERC Midwest",
+  "SRSO": "SERC South",
+  "SRTV": "SERC Tennessee Valley",
+  "SRVC": "SERC Virginia/Carolina"
+ },
+ "usage": [
+  "/api/v1/estimator?subregion=<eGRID code>&cap_mw=<one of cap_mw>",
+  "/api/v1/estimator?facility_id=<id>"
+ ]
+}
