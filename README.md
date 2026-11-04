@@ -112,7 +112,7 @@ The live site and this repository share the same application code base, but the 
 
 ## Development timeline
 
-Development started **October 27, 2026**, after the hackathon kickoff. The public release history was **squashed into a single initial commit** for the open-source submission; earlier development history is not part of this repository.
+Development started **October 27, 2026**, after the hackathon kickoff. The public release history was **squashed into a single initial commit** for the open-source submission; later sync commits record subsequent public updates. Earlier development history is not part of this repository.
 
 ## License
 
