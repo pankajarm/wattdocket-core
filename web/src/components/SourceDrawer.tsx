@@ -18,7 +18,7 @@ function Quote({ quote, matched, notPublished }: { quote: string; matched: strin
     return (
       <span className="quote--none">
         {notPublished
-          ? 'No citation. The sources used do not publish this metric for this facility.'
+          ? 'No citation is available for this metric and record in this dataset.'
           : 'No citation was supplied for this figure.'}
       </span>
     );
@@ -87,7 +87,7 @@ export function SourceDrawer({ facilityId, claim, onClose, onOperator }: Props) 
   const drawer = state.status === 'ready' ? state.drawer : null;
   const blocked = claim != null && !claim.renderable;
   // Older snapshots include these two literal sensitivities even though no
-  // calculation or source supports them (found in the number audit; see ROADMAP §7a).
+  // calculation or source supports them (see docs/board/HK6-number-audit.md).
   const sensitivities = drawer?.sensitivity.filter((item) => !(
     (item.label === 'marginal instead of average' && item.delta === '+38%') ||
     (item.label === 'at 100 hr/yr per unit (TCEQ emergency limit)' && /0\.7% of annual grid MWh/.test(item.delta))
@@ -123,7 +123,7 @@ export function SourceDrawer({ facilityId, claim, onClose, onOperator }: Props) 
             {drawer && (
               <>
                 <div className="drawer__num">
-                  {drawer.headline}
+                  {claim.value.kind === 'NOT_PUBLISHED' ? 'Not available in this dataset' : drawer.headline}
                   {drawer.unit && claim.value.kind !== 'NOT_PUBLISHED' && <> <small>{drawer.unit}</small></>}
                 </div>
                 <div className="drawer__meta">
@@ -145,7 +145,7 @@ export function SourceDrawer({ facilityId, claim, onClose, onOperator }: Props) 
                   {drawer.provisional && <span className="badge badge--provisional">provisional</span>}
                   <span className="drawer__metatext">
                     {claim.value.kind === 'NOT_PUBLISHED'
-                      ? 'no published value'
+                      ? 'no value available in this dataset'
                       : drawer.p10 != null && drawer.p90 != null && drawer.p10 !== drawer.p90
                         ? `${claim.range_kind === 'confidence' ? 'p10–p90' : claim.scope === 'scenario' || claim.range_kind === 'scenario' ? 'Scenario range' : 'Range'} ${fmt(drawer.p10)}–${fmt(drawer.p90)}`
                         : claim.value.kind === 'BAND'
@@ -207,7 +207,7 @@ export function SourceDrawer({ facilityId, claim, onClose, onOperator }: Props) 
                   {drawer.chain.steps.length === 0 && (
                     <p className="chain__empty">
                       {claim.value.kind === 'NOT_PUBLISHED'
-                        ? 'No calculation: the value is not published in the sources used.'
+                        ? 'No calculation: the required value is not available in this dataset.'
                         : 'No calculation steps were supplied for this figure.'}
                     </p>
                   )}

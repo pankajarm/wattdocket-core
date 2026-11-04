@@ -53,6 +53,29 @@ def test_new_adapters_are_real_registered_callables_with_weekly_optional_bounds(
         assert policy["max_normalized_bytes"] <= 5_000_000
 
 
+def test_job_deadline_persists_a_failed_attempt_without_starting_another_upstream_call(tmp_path):
+    import time
+    store = LocalStore(tmp_path)
+    old = prior_state('meta_actuals2024')
+    store.put('state/sources/meta_actuals2024.json', json_bytes(old))
+    def unreachable(*args, **kwargs):
+        raise AssertionError('Expired job must not start upstream work')
+    actual = pipeline.collect_one('meta_actuals2024', unreachable, store, NOW,
+        force=True, fetcher_factory=unreachable, deadline=time.monotonic() - 1)
+    assert actual['status'] == 'stale' and 'Job collection deadline' in actual['error']
+    assert actual['result'] == old['result'] and actual['last_success_at'] == old['last_success_at']
+    assert actual['last_attempt_at'] == stamp(NOW)
+    assert read_json(store, 'state/sources/meta_actuals2024.json') == actual
+
+
+def test_worker_fetch_budget_is_limited_by_remaining_job_time(tmp_path):
+    import time
+    store = LocalStore(tmp_path)
+    pipeline.collect_one('meta_actuals2024', lambda *a, **kw: source('meta_actuals2024'), store, NOW,
+        fetcher_factory=RecordingFetcher, deadline=time.monotonic() + 20)
+    assert 0 < RecordingFetcher.calls[-1]['source_budget_seconds'] <= 20
+
+
 @pytest.mark.parametrize("sid", COUNTS)
 def test_historical_disclosures_run_weekly_and_keep_observation_year(tmp_path, sid):
     store = LocalStore(tmp_path)

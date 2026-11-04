@@ -173,7 +173,7 @@ def validate_disclosure_publication(payload: dict, cards: dict, coverage: dict) 
             _require(isinstance(item.get("page"), int) and not isinstance(item.get("page"), bool) and item["page"] > 0,
                      eid, "Identity PDF page missing")
         evidence[eid] = item
-    valid_metrics = {"electricity_consumption", "water_withdrawal", "water_consumption", "water_discharge",
+    valid_metrics = {"electricity_consumption", "water_withdrawal", "water_use_reported", "water_consumption", "water_discharge",
                      "emissions_scope1", "emissions_scope2_location", "emissions_scope2_market",
                      "emissions_scope1_and2_market", "reported_ghg_total"}
     valid_scopes = {"campus", "building", "regulatory_facility", "operator_location"}
@@ -219,6 +219,11 @@ def validate_disclosure_publication(payload: dict, cards: dict, coverage: dict) 
                      oid, "Observation retrieval or source bytes differ from the immutable capture receipt")
             _require(row.get("inventory_allocation") is False and row.get("facility_binding_verified") is False
                      and row.get("value_origin") == "reported_disclosure", oid, "Source observation allocated to an inventory record")
+            from .municipal_quality import validate_municipal_observation, MunicipalEvidenceError
+            try:
+                validate_municipal_observation(location, row)
+            except MunicipalEvidenceError as exc:
+                _require(False, oid, str(exc))
             observations[oid] = row
         seen_records = set()
         for link in location["record_links"]:
@@ -246,7 +251,15 @@ def validate_disclosure_publication(payload: dict, cards: dict, coverage: dict) 
                 _require(relation != "candidate" and fid in by_card, fid, "Verified identity points to an absent record or candidate")
                 expected, actual = link.get("expected_record") or {}, by_card[fid]["facility"]
                 _require(expected.get("id") == fid and actual.get("id") == fid, fid, "Reviewed stable record identity changed")
-                for key in ("registry_id", "name", "city", "state"):
+                if re.fullmatch(r"osm:(node|way|relation):\d+", fid):
+                    _require(expected.get("registry_id") is None and actual.get("registry_id") is None
+                             and expected.get("program_id") is None,
+                             fid, "OSM coverage link falsely claims an EPA registry/program identity")
+                else:
+                    _require(expected.get("registry_id") and fid == "echo:" + str(expected["registry_id"])
+                             and str(actual.get("registry_id")) == str(expected["registry_id"]),
+                             fid, "Reviewed registry identity differs from emitted card")
+                for key in ("name", "city", "state"):
                     _require(expected.get(key) and _disclosure_words(expected[key]) == _disclosure_words(actual.get(key)),
                              fid, f"Reviewed {key} differs from emitted card")
                 _require(expected.get("address") and _disclosure_address(expected["address"]) == _disclosure_address(actual.get("address")),

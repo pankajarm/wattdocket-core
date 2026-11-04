@@ -67,8 +67,9 @@ test('carbon drawer omits unsupported marginal sensitivity and does not deny its
   assert.match(text, /No additional uncertainty drivers were supplied/);
 });
 
-test('unpublished water remains explicitly unavailable', async () => {
+test('missing water remains a dataset gap rather than a claim about publication', async () => {
   const text = await drawerText('water_gal');
-  assert.match(text, /not publish this metric|do not publish this metric/);
-  assert.match(text, /no published value/);
+  assert.match(text, /No citation is available for this metric and record in this dataset/);
+  assert.match(text, /no value available in this dataset/);
+  assert.doesNotMatch(text, /not publish this metric|do not publish this metric|no published value/);
 });

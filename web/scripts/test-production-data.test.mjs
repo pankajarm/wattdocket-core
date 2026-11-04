@@ -98,19 +98,27 @@ test('mismatched releases and external bundle paths are rejected', async () => {
   await assert.rejects(client.getFacilityIndex(), /invalid bundle path/);
 });
 
-test('production explanation sends only the normalized facility identity', async () => {
-  const sent = [];
+test('production explanation calls the guarded model endpoint with only the facility id', async () => {
+  const calls = [];
   const client = api(async (url, init) => {
-    sent.push({ url, body: JSON.parse(init.body) });
-    return response({ text: 'Muse sentence.', source: 'model', degraded: false });
+    calls.push({ url, body: init?.body });
+    return response({ text: 'A guarded model sentence.', source: 'model', degraded: false });
   }, { VITE_EXPLAIN_URL: 'https://explain.example/' });
   const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
-  assert.equal(result.source, 'model');
-  assert.deepEqual(sent, [{ url: 'https://explain.example/', body: { payload: { facility_id: 'osm_123' } } }]);
+  assert.equal(calls.length, 1);
+  assert.equal(calls[0].url, 'https://explain.example/');
+  assert.deepEqual(JSON.parse(calls[0].body), { payload: { facility_id: 'osm_123' } });
+  assert.deepEqual(result, { text: 'A guarded model sentence.', source: 'model', degraded: false });
 });
 
 test('production explanation keeps the evidence summary when no function is configured', async () => {
   const client = api(async () => { throw new Error('No network request should be sent'); });
+  const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
+  assert.deepEqual(result, { text: 'Evidence summary', source: 'template', degraded: true, reason: 'unreachable' });
+});
+
+test('a failed explanation call falls back to the deterministic template', async () => {
+  const client = api(async () => { throw new Error('network down'); }, { VITE_EXPLAIN_URL: 'https://explain.example/' });
   const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
   assert.deepEqual(result, { text: 'Evidence summary', source: 'template', degraded: true, reason: 'unreachable' });
 });

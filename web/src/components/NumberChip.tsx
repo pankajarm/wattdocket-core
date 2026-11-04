@@ -27,7 +27,7 @@ const METRIC_LABEL: Record<Metric, string> = {
  *
  * A claim that cannot render (INV-7) shows the blocked state and its reason in
  * the value slot instead of a number. A missing value keeps the numeric
- * typeface: "Not published", never blank.
+ * typeface with an explicit collection gap, never blank.
  */
 export function NumberChip({ claim, onOpen, active }: Props) {
   const ref = useRef<HTMLButtonElement>(null);
@@ -91,9 +91,9 @@ export function NumberChip({ claim, onOpen, active }: Props) {
     unitNode = <small className="chip__unit">{claim.value.unit}</small>;
     rangeNode = <span className="chip__range">modelled band · no published scalar</span>;
   } else {
-    valueNode = <span className="chip__num chip__num--missing">Not published</span>;
+    valueNode = <span className="chip__num chip__num--missing">Not available in our sources</span>;
     unitNode = (
-      <small className="chip__unit chip__unit--none" title="no unit: no published value">
+      <small className="chip__unit chip__unit--none" title="No unit: no value available in our sources">
         —
       </small>
     );

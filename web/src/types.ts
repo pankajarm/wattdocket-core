@@ -1,5 +1,5 @@
 /**
- * Wire types — these mirror the published JSON contract exactly, field for field, in snake_case.
+ * Wire types — these mirror SPEC.md §2 exactly, field for field, in snake_case.
  * The fixtures in public/data/ have this shape, and so does the real API, so
  * nothing has to be remapped between the two.
  */
@@ -772,6 +772,7 @@ export interface DisclosureRecordLink {
   inventory_allocation: boolean;
   reason?: string;
   note?: string;
+  expected_record?: {name?: string; address?: string; city?: string; state?: string};
   evidence?: {url?: string; source_url?: string; excerpt?: string; excerpts?: string[]; quote?: string; page?: number; title?: string; publisher?: string}[];
 }
 export interface DisclosureLocation {
@@ -780,6 +781,8 @@ export interface DisclosureLocation {
   location_label: string;
   reporting_scope: ReportedObservation['reporting_scope'];
   scope_note?: string;
+  address?: {street?: string; city?: string; state?: string; postal_code?: string; country?: string};
+  missing_metrics?: string[];
   source_id: string;
   source_status?: string;
   retrieved_at?: string | null;

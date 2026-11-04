@@ -21,7 +21,7 @@ from pathlib import Path
 
 import pytest
 
-from wattdocket import cards as card_rules
+from wattdocket import cards as chair_cards
 from wattdocket.grid import DEFAULT_FACTOR_SET, factor_set_hash
 from wattdocket.ingest import cards, echo, egrid, ercot, geo, ledger
 from wattdocket.ingest.net import FixtureFetcher, IngestionError
@@ -225,7 +225,7 @@ def test_pip_agrees_with_the_state_default_table_only_where_it_should(polygons):
     for row in rows:
         pip = geo.subregion_for_point_local(float(row["FacLat"]), float(row["FacLong"]),
                                            polygons)
-        if pip != card_rules.STATE_DEFAULT.get(row["AIRState"]):
+        if pip != chair_cards.STATE_DEFAULT.get(row["AIRState"]):
             disagreements += 1
     assert disagreements == 76
 

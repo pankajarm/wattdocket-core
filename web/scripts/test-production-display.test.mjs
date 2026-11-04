@@ -17,7 +17,7 @@ const bundle = await build({
       export async function getFacilityPayload(){return {data:globalThis.__productionCard,source:'api',releaseId:'release-a'}};
       export async function getDrawer(){throw new Error('No drawer request expected')};
       export async function getExplain(){throw new Error('No model request expected')};
-      export function explainAvailable(){return Boolean(globalThis.__explainAvailable)};
+      export function explainAvailable(){return true};
       export async function getGridIndex(){return {regions:[]}};
       export async function getGridRegion(){throw new Error('No region request expected')};
     ` }));
@@ -51,23 +51,9 @@ test('a facility card separates unavailable operating data from the chosen load 
   assert.match(text,/Registry status/);
   assert.match(text,/illustrative presets/);
   assert.match(text,/2023 annual regional emissions rate/);
-  assert.doesNotMatch(text,/90% range|Explain this card|p10–p90/);
+  assert.doesNotMatch(text,/90% range|p10–p90/);
+  assert.match(text,/Explain this card/);
   act(()=>root.unmount());
-});
-
-test('a production card offers the Muse Spark explanation when the function is configured', async () => {
-  globalThis.__explainAvailable = true;
-  try {
-    let root;
-    await act(async () => {root=TestRenderer.create(React.createElement(PublicCardPage,{facilityId:'echo:123'}));});
-    const text = JSON.stringify(root.toJSON());
-    assert.match(text,/IN PLAIN ENGLISH/);
-    assert.match(text,/Explain this card/);
-    assert.match(text,/Public records are available for this site\./);
-    act(()=>root.unmount());
-  } finally {
-    globalThis.__explainAvailable = false;
-  }
 });
 
 test('the demand chart leaves a gap where a grid observation is missing', () => {

@@ -49,7 +49,7 @@ export function OperatorSignIn({ loading, error }: { loading: boolean; error: st
           </button>)}
         </div>
         <p className="operator-access__fine">You'll complete sign-in securely with your chosen provider. If you already have an account, use the same sign-in method.</p>
-        <a href="#/">← Return to the evidence atlas</a>
+        <a href="#/map">← Return to the records map</a>
       </section>
     </main>
   );

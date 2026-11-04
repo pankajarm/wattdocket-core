@@ -1,0 +1,149 @@
+/* Public understanding is the first experience; evidence remains one click away. */
+:root { --header-height:80px; }
+body { caret-color:var(--teal); }
+a { text-underline-offset:4px; }
+button,input,select,textarea { font-family:var(--sans); }
+.app-content { flex:1; width:100%; min-width:0; }
+.app-content:focus { outline:none; }
+.skip-link { position:fixed; top:-100px; left:16px; z-index:1000; padding:12px 20px; background:var(--action); color:var(--on-action); border-radius:8px; }
+.skip-link:focus { top:12px; }
+.top.awareness-header { height:80px; min-height:80px; flex-basis:80px; padding-inline:clamp(20px,3vw,48px); gap:28px; display:flex; }
+.awareness-header .brand { font-size:25px; line-height:1.1; }
+.brand__purpose { display:block; margin-top:7px; font:12px/1.2 var(--sans); color:var(--muted); letter-spacing:0; }
+.awareness-header .nav { gap:22px; font-size:14px; display:flex; height:100%; align-items:stretch; }
+.awareness-header .nav > a { padding-inline:0; padding-top:3px; white-space:nowrap; }
+.awareness-header .nav a { text-decoration:none; }
+.awareness-header .top__actions { margin-left:0; }
+.nav-tools { position:relative; align-self:center; font:14px/1.5 var(--sans); }
+.nav-tools > summary { padding:12px 2px; cursor:pointer; color:var(--text-2); }
+.nav-tools[data-active='true'] > summary { color:var(--blue); text-decoration:underline; text-underline-offset:8px; }
+.nav-tools__menu { position:absolute; right:0; top:48px; width:260px; padding:12px; border-radius:12px; background:var(--panel); box-shadow:var(--shadow); z-index:40; }
+.awareness-header .nav .nav-tools__menu a,.nav-tools__menu button { display:flex; align-items:center; min-height:44px; padding:10px 12px; width:100%; border:0; background:transparent; font:14px/1.5 var(--sans); color:var(--blue); text-align:left; }
+.nav-tools__menu a:hover,.nav-tools__menu button:hover { background:var(--hover); }
+.nav-tools__menu span { display:block; padding:10px; font-size:14px; white-space:normal; line-height:1.6; color:var(--muted); }
+.awareness-home { max-width:1280px; margin:auto; padding:0 40px 72px; }
+.awareness-home h1,.awareness-home h2,.awareness-home h3 { font-family:var(--display); text-wrap:balance; font-weight:500; }
+.awareness-home h2 { margin:0 0 18px; font-size:clamp(28px,3vw,38px); line-height:1.18; letter-spacing:-.025em; }
+.awareness-home p { margin:0 0 20px; font-size:18px; line-height:1.75; color:var(--muted); max-width:70ch; }
+.awareness-home svg { flex:none; }
+.awareness-intro { display:grid; grid-template-columns:1.14fr 1fr; gap:clamp(44px,6vw,90px); padding:76px 0 64px; border-bottom:1px solid var(--line); }
+.awareness-intro h1 { font-size:clamp(42px,4.45vw,64px); letter-spacing:-.035em; line-height:1.06; margin:0 0 28px; max-width:18ch; }
+.awareness-intro h1 em { color:var(--teal); font-style:normal; }
+.awareness-intro__copy > p { font-size:19px; max-width:48ch; }
+.awareness-actions { display:flex; flex-wrap:wrap; align-items:center; gap:16px 26px; margin-top:30px; }
+.awareness-button,.awareness-link { display:inline-flex; align-items:center; gap:14px; min-height:48px; font:600 16px/1.4 var(--sans); text-decoration:none; }
+.awareness-button { background:var(--action); color:var(--on-action); padding:15px 20px; border-radius:8px; }
+.awareness-button:hover { color:var(--on-action); background:var(--action-hover); }
+.awareness-link { color:var(--blue); }
+.awareness-link:hover { text-decoration:underline; }
+.awareness-questions { padding-top:10px; }
+.awareness-questions h2 { font-size:25px; margin-bottom:14px; }
+.awareness-question { display:flex; align-items:center; justify-content:space-between; gap:18px; text-decoration:none; padding:22px 0; border-bottom:1px solid var(--line); color:var(--text); }
+.awareness-question strong { display:block; font:500 21px/1.4 var(--display); letter-spacing:-.015em; }
+.awareness-question small { display:block; font-size:15px; line-height:1.6; margin-top:7px; color:var(--muted); }
+.awareness-question svg { color:var(--teal); transition:transform .2s ease-out; }
+.awareness-question:hover strong { color:var(--blue); }
+.awareness-question:hover svg { transform:translateX(4px); }
+.awareness-all { display:inline-flex; align-items:center; gap:12px; margin-top:18px; min-height:44px; font-size:15px; color:var(--blue); text-decoration:none; }
+.awareness-reports { padding:60px 0; }
+.awareness-section-heading { display:flex; align-items:flex-start; justify-content:space-between; gap:32px; }
+.awareness-section-heading > div { max-width:720px; }
+.awareness-section-heading > a { flex:none; }
+.awareness-report-layout { display:grid; grid-template-columns:1fr 1fr; gap:60px; margin-top:18px; }
+.awareness-report-index > a { display:grid; grid-template-columns:1fr auto 22px; gap:18px; align-items:center; border-bottom:1px solid var(--line); min-height:64px; text-decoration:none; font-size:16px; }
+.awareness-report-index > a > span:first-child { color:var(--text); font-weight:600; font-size:19px; }
+.awareness-report-index > a > span:nth-child(2) { color:var(--muted); font-variant-numeric:tabular-nums; }
+.awareness-report-index > a:hover > span:first-child { color:var(--blue); }
+.awareness-report-index p { margin:16px 0 0; font-size:14px; line-height:1.7; }
+.awareness-example { padding:30px 34px; border-radius:12px; background:var(--panel-3); align-self:start; }
+.awareness-example h3 { font-size:25px; line-height:1.3; margin:0 0 18px; letter-spacing:-.02em; }
+.awareness-example p { font-size:17px; margin-bottom:18px; }
+.awareness-example strong { color:var(--text); font-weight:600; font-variant-numeric:tabular-nums; }
+.awareness-local { display:grid; grid-template-columns:1fr 1fr; gap:60px; padding:44px; background:var(--accent-soft); border-radius:12px; margin-block:4px 60px; }
+.awareness-local p { color:var(--text-2); }
+.awareness-local__notes h3 { font-size:21px; margin:0 0 12px; }
+.awareness-local__notes p { font-size:16px; }
+.awareness-local__notes > a { display:flex; align-items:center; gap:20px; border-top:1px solid var(--accent-border); padding-top:20px; text-decoration:none; }
+.awareness-local__notes strong { display:block; font-size:17px; color:var(--blue); }
+.awareness-local__notes small { display:block; font-size:15px; line-height:1.6; color:var(--text-2); margin-top:6px; }
+.awareness-community { display:grid; grid-template-columns:1fr 1fr; gap:60px; padding:0 0 56px; }
+.awareness-community__links a { display:flex; justify-content:space-between; gap:16px; padding:16px 0; border-bottom:1px solid var(--line); font-size:17px; line-height:1.5; text-decoration:none; }
+.awareness-community__links a:hover { text-decoration:underline; }
+.awareness-method { border-top:1px solid var(--line); padding-top:48px; }
+.awareness-method h2 { font-size:28px; max-width:32ch; }
+.awareness-method dl { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:28px; margin:30px 0; }
+.awareness-method dt { color:var(--text); font-size:16px; line-height:1.4; font-weight:600; }
+.awareness-method dd { color:var(--muted); margin:12px 0 0; font-size:15px; line-height:1.7; }
+.awareness-method__foot { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:20px; }
+.awareness-method__foot span { max-width:52ch; font-size:13px; line-height:1.7; color:var(--muted); }
+.awareness-status { padding:24px 0; font-size:16px; line-height:1.7; }
+.site-footer { display:grid; grid-template-columns:1.5fr 1fr 1fr; gap:24px 60px; padding:40px max(24px,calc((100vw - 1200px)/2)); }
+.site-footer__about p { max-width:34ch; margin:14px 0 0; font-size:15px; }
+.site-footer__about p + p { font-size:14px; margin-top:8px; }
+.site-footer > nav { display:flex; flex-direction:column; gap:0; align-items:flex-start; }
+.site-footer a { font-size:14px; }
+.site-footer a.brand { font-size:24px; text-decoration:none; min-height:0; }
+.site-footer__bottom { display:flex; align-items:center; flex-wrap:wrap; justify-content:space-between; gap:20px; grid-column:1/-1; padding-top:22px; margin-top:12px; border-top:1px solid var(--line); font-size:13px; }
+.site-footer__bottom nav { display:flex; flex-wrap:wrap; gap:24px; }
+@media(max-width:1220px) {
+  .awareness-header .nav { gap:14px; font-size:13px; }
+  .top.awareness-header { gap:20px; padding-inline:24px; }
+  .brand__purpose { font-size:11px; }
+  .awareness-header .brand { font-size:23px; }
+}
+@media(max-width:1000px) {
+  :root { --header-height:64px; }
+  .top.awareness-header { height:64px; min-height:64px; flex-basis:64px; display:grid; grid-template-columns:1fr auto auto; grid-template-rows:64px; gap:0; padding-inline:20px; }
+  .brand__purpose { display:none; }
+  .awareness-header .nav { display:none; }
+  .awareness-header[data-menu-open='true'] .nav { display:grid; grid-template-columns:1fr 1fr; grid-row:auto; top:64px; height:auto; padding:12px 20px; font-size:16px; }
+  .awareness-header .nav > a { padding:12px; }
+  .awareness-header .nav-tools { grid-column:1/-1; margin:0; padding:0 12px; width:100%; font-size:16px; }
+  .nav-tools__menu { position:static; width:100%; box-shadow:none; padding:0 0 8px; }
+  .awareness-intro { gap:36px; padding-block:48px; }
+  .awareness-intro h1 { font-size:48px; }
+  .awareness-question strong { font-size:19px; }
+  .awareness-question { padding-block:18px; }
+  .awareness-home { padding-inline:28px; }
+  .awareness-section-heading { display:block; }
+  .awareness-section-heading > a { margin:0 0 16px; }
+  .awareness-report-layout,.awareness-local,.awareness-community { gap:36px; }
+  .awareness-local { padding:32px; }
+  .awareness-method dl { grid-template-columns:1fr 1fr; }
+  .site-footer { gap:28px; }
+}
+@media(max-width:700px) {
+  .awareness-home { padding:0 20px 44px; }
+  .awareness-intro { grid-template-columns:1fr; gap:40px; padding:38px 0 36px; }
+  .awareness-intro h1 { font-size:43px; max-width:19ch; margin-bottom:22px; }
+  .awareness-intro__copy > p { font-size:18px; }
+  .awareness-actions { margin-top:22px; gap:8px 20px; }
+  .awareness-questions { padding-top:0; }
+  .awareness-question strong { font-size:21px; }
+  .awareness-home h2 { font-size:30px; }
+  .awareness-questions h2 { font-size:24px; }
+  .awareness-report-layout,.awareness-local,.awareness-community { grid-template-columns:1fr; gap:28px; }
+  .awareness-reports { padding-block:38px; }
+  .awareness-report-layout { margin-top:0; }
+  .awareness-report-index > a { gap:12px; font-size:14px; }
+  .awareness-report-index > a > span:first-child { font-size:18px; }
+  .awareness-example { padding:24px; }
+  .awareness-local { margin-bottom:40px; padding:28px 24px; }
+  .awareness-community { padding-bottom:36px; gap:10px; }
+  .awareness-method { padding-top:36px; }
+  .awareness-method h2 { font-size:27px; }
+  .awareness-method dl { gap:24px; }
+  .site-footer { grid-template-columns:1fr 1fr; padding:32px 20px; gap:24px; }
+  .site-footer__about { grid-column:1/-1; }
+  .site-footer__bottom { display:block; }
+  .site-footer__bottom nav { margin-top:12px; gap:18px; }
+}
+@media(max-width:380px) {
+  .awareness-intro h1 { font-size:38px; }
+  .awareness-home { padding-inline:16px; }
+  .top.awareness-header { padding-inline:12px; }
+  .awareness-report-index > a { grid-template-columns:1fr auto; }
+  .awareness-report-index > a svg { display:none; }
+  .awareness-method dl { grid-template-columns:1fr; }
+}
+

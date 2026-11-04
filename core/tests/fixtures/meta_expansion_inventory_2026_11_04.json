@@ -1,0 +1,151 @@
+{
+  "source": "Retained production source states; selected identity fields only",
+  "facilities": [
+    {
+      "id": "echo:110070156253",
+      "registry_id": "110070156253",
+      "source_id": null,
+      "source_record_id": "110070156253",
+      "name": "MORNING HORNET, LLC",
+      "address_line": "100 MOVE FAST WAY",
+      "city": "SOCIAL CIRCLE",
+      "state": "GA",
+      "program_ids": {
+        "air": "GA0000001321700072",
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      },
+      "osm_element_type": null,
+      "osm_type": null
+    },
+    {
+      "id": "echo:110070253862",
+      "registry_id": "110070253862",
+      "source_id": null,
+      "source_record_id": "110070253862",
+      "name": "SICULUS, INC",
+      "address_line": "100 SHARE WAY NW",
+      "city": "ALTOONA",
+      "state": "IA",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": "17928311",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      },
+      "osm_element_type": null,
+      "osm_type": null
+    },
+    {
+      "id": "echo:110070887474",
+      "registry_id": "110070887474",
+      "source_id": null,
+      "source_record_id": "110070887474",
+      "name": "SIDECAT LLC (0145000554)",
+      "address_line": "1300 -1700 BEECH RD SW",
+      "city": "NEW ALBANY",
+      "state": "OH",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": "17964911",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      },
+      "osm_element_type": null,
+      "osm_type": null
+    },
+    {
+      "id": "echo:110071150094",
+      "registry_id": "110071150094",
+      "source_id": null,
+      "source_record_id": "110071150094",
+      "name": "RAVEN NORTHBROOK LLC",
+      "address_line": "14734 FRIEND PLZ",
+      "city": "SPRINGFIELD",
+      "state": "NE",
+      "program_ids": {
+        "air": "NE0000003115300182",
+        "cwa": null,
+        "eis": "19042511",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      },
+      "osm_element_type": null,
+      "osm_type": null
+    },
+    {
+      "id": "echo:110071163236",
+      "registry_id": "110071163236",
+      "source_id": null,
+      "source_record_id": "110071163236",
+      "name": "ALLIANCE SITE",
+      "address_line": "4500 LIKE WAY",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "program_ids": {
+        "air": "TX0000004843901764",
+        "cwa": null,
+        "eis": "19129211",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      },
+      "osm_element_type": null,
+      "osm_type": null
+    },
+    {
+      "id": "echo:110071909956",
+      "registry_id": "110071909956",
+      "source_id": null,
+      "source_record_id": "110071909956",
+      "name": "VELVET TECH SERVICES",
+      "address_line": "1800 NW 128TH ST",
+      "city": "KANSAS CITY",
+      "state": "MO",
+      "program_ids": {
+        "air": "MO0000002904700211",
+        "cwa": null,
+        "eis": "23006911",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      },
+      "osm_element_type": null,
+      "osm_type": null
+    },
+    {
+      "id": "osm:way:578412815",
+      "registry_id": null,
+      "source_id": null,
+      "source_record_id": null,
+      "name": "Meta Los Lunas Data Center",
+      "address_line": "4250 Messenger Loop Northwest",
+      "city": "Los Lunas",
+      "state": "NM",
+      "program_ids": null,
+      "osm_element_type": null,
+      "osm_type": "way"
+    },
+    {
+      "id": "osm:way:1035123482",
+      "registry_id": null,
+      "source_id": null,
+      "source_record_id": null,
+      "name": "Meta Eagle Mountain Data Center",
+      "address_line": "1275 North Community Circle",
+      "city": "Eagle Mountain",
+      "state": "UT",
+      "program_ids": null,
+      "osm_element_type": null,
+      "osm_type": "way"
+    }
+  ]
+}

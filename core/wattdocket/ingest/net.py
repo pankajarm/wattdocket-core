@@ -21,7 +21,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any, Protocol
 
-USER_AGENT = "WattDocket/0.1 (data ingestion; +https://github.com/pankajarm/wattdocket-core)"
+USER_AGENT = "WattDocket/0.1 (data ingestion; +https://github.com/pankajarm/wattdocket)"
 DEFAULT_TIMEOUT_SECONDS = 90
 
 

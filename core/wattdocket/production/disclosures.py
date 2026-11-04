@@ -15,6 +15,7 @@ from urllib.parse import urlparse
 METRICS = {
     'electricity_consumption': 'Reported annual electricity',
     'water_withdrawal': 'Water withdrawal',
+    'water_use_reported': 'Reported water use',
     'water_consumption': 'Water consumption',
     'water_discharge': 'Water discharge',
     'emissions_scope1': 'Scope 1 emissions',
@@ -115,8 +116,11 @@ def build_disclosures(states, records, release_id, built_at):
             key = location.get('disclosure_location_id')
             if not safe_id(key) or key in locations or not location.get('location_label') or location.get('reporting_scope') not in SCOPES:
                 raise ValueError('Invalid or duplicate disclosure entity: ' + str(key))
+            location_receipt = next((r for r in state.get('receipts', []) if r.get('url') == location.get('source_url')
+                                     and r.get('sha256') == location.get('source_sha256')), None)
             location.update(source_id=sid, observations=[], record_links=[], source_status=state.get('status'),
-                            retrieved_at=state.get('retrieved_at') or state.get('last_success_at'))
+                            retrieved_at=location_receipt.get('retrieved_at') if location_receipt else None,
+                            checked_at=state.get('last_success_at'))
             locations[key] = location
         for original in raw_observations:
             row = dict(original)
@@ -137,11 +141,28 @@ def build_disclosures(states, records, release_id, built_at):
                        inventory_allocation=False, value_origin='reported_disclosure')
             observations[oid] = row
             locations[key]['observations'].append(row)
-    identity = (states.get('disclosure_identity', {}).get('result') or {}).get('data') or {}
-    links = []
-    if identity:
-        from .facility_disclosure_identity import resolve_disclosure_links
-        links = resolve_disclosure_links(records, identity)
+    identity = {'evidence': [], 'failed_documents': []}
+    links, evidence_ids, link_ids = [], set(), set()
+    from .facility_disclosure_identity import resolve_disclosure_links
+    for sid, state in sorted(states.items()):
+        if sid != 'disclosure_identity' and not sid.endswith('_disclosure_identity'):
+            continue
+        data = (state.get('result') or {}).get('data') or {}
+        if not data:
+            continue
+        for item in data.get('evidence', []):
+            if item.get('id') in evidence_ids:
+                raise ValueError('Repeated identity evidence across source partitions')
+            evidence_ids.add(item.get('id'))
+            identity['evidence'].append(item)
+        identity['failed_documents'].extend({**row, 'source_id': sid} for row in data.get('failed_documents', []))
+        for link in resolve_disclosure_links(records, data):
+            pair = (link.get('disclosure_location_id'), link.get('record_id'))
+            if pair in link_ids:
+                raise ValueError('Repeated record/disclosure link across source partitions')
+            link_ids.add(pair)
+            links.append({**link, 'identity_source_id': sid, 'source_status': state.get('status'),
+                          'identity_last_success_at': state.get('last_success_at')})
     by_record = defaultdict(list)
     for link in links:
         key = link.get('disclosure_location_id') or link.get('disclosure_entity_id')
@@ -151,8 +172,8 @@ def build_disclosures(states, records, release_id, built_at):
         if relation not in RELATIONSHIPS:
             raise ValueError('Unknown disclosure relationship')
         normalized = {**link, 'disclosure_location_id': key,
-                      'source_status': states.get('disclosure_identity', {}).get('status'),
-                      'identity_last_success_at': states.get('disclosure_identity', {}).get('last_success_at'),
+                      'source_status': link.get('source_status'),
+                      'identity_last_success_at': link.get('identity_last_success_at'),
                       'inventory_allocation': relation == 'same_physical_scope' and link.get('verification_status') == 'verified'
                       and link.get('allocation_allowed') is True and link.get('same_physical_scope_verified') is True}
         locations[key]['record_links'].append(normalized)
@@ -179,5 +200,6 @@ def build_disclosures(states, records, release_id, built_at):
     payload = {'release_id': release_id, 'built_at': built_at, 'schema_version': '1',
                'locations': list(locations.values()), 'observation_count': len(observations), 'metric_counts': dict(metric_counts),
                'coverage': coverage, 'identity_evidence': identity.get('evidence', []),
+               'identity_failed_documents': identity['failed_documents'],
                'note': 'Reported annual values retain their source boundary. Related campus totals are not allocated to individual records; overlapping sources must not be added.'}
     return payload, dict(by_record), coverage, source_ids

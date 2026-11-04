@@ -1,7 +1,7 @@
-"""The ten invariants, one test each.
+"""The ten invariants from SPEC.md, one test each.
 
-These tests exist because every one of them caught a real defect in our
-own working code during design review. They are not coverage
+These tests exist because every one of them caught a real defect in the
+chair's own working code during the board rounds. They are not coverage
 theatre: each one fails if the corresponding bug is reintroduced.
 """
 

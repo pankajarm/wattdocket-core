@@ -48,6 +48,7 @@ const METRIC_LABEL: Record<string, string> = {
 };
 
 const BADGES: Badge[] = ['MEASURED', 'REPORTED', 'MODELED', 'ESTIMATED'];
+const DATASET_GAP = 'Not available in this dataset';
 
 function obj(v: unknown): Json | null {
   return v && typeof v === 'object' && !Array.isArray(v) ? (v as Json) : null;
@@ -61,13 +62,19 @@ function str(v: unknown, fallback = ''): string {
   return typeof v === 'string' ? v : fallback;
 }
 
+// A missing-data sentinel describes this collection, not whether a publisher
+// has ever disclosed the quantity. Preserve substantive supplied evidence.
+function availabilityLabel(note: string): string {
+  return /^(?:not[ _]published|not[ _]reported|unpublished)\.?$/i.test(note.trim()) ? DATASET_GAP : note;
+}
+
 // Older static cards contain an unsupported nationwide legal claim. Correct
 // only that known legacy wording; retain other notes and all source data.
 function missingWaterNote(metric: Metric, note: string): string {
   if (metric === 'water_gal' && /no (?:US|U\.S\.) state (?:effectively )?requires (?:facility|site)-level operational water reporting/i.test(note)) {
     return 'No facility-level water figure was found in the public sources used for this card.';
   }
-  return note;
+  return availabilityLabel(note);
 }
 
 function num(v: unknown): number | null {
@@ -203,13 +210,13 @@ export function normaliseClaim(raw: unknown, facilityId: string): Claim | null {
   }
 
   const MISSING_REASON: Record<string, string> = {
-    NOT_PUBLISHED: 'not published',
-    NOT_REPORTED: 'not reported',
+    NOT_PUBLISHED: DATASET_GAP,
+    NOT_REPORTED: DATASET_GAP,
     BELOW_THRESHOLD: 'below the reporting threshold',
   };
 
   if (typeof value === 'string') {
-    const note = missingWaterNote(metric, str(c['note'], value.replace(/_/g, ' ').toLowerCase()));
+    const note = missingWaterNote(metric, str(c['note'], MISSING_REASON[value.toUpperCase()] ?? value.replace(/_/g, ' ').toLowerCase()));
     const missing: NotPublishedClaim = {
       ...base,
       value: {
@@ -227,7 +234,7 @@ export function normaliseClaim(raw: unknown, facilityId: string): Claim | null {
   const v = obj(value);
   if (!v) return null;
 
-  // The API's not-published union is {state, reason}: a dict with no number.
+  // The API's missing-data union is {state, reason}: a dict with no number.
   const state = str(v['state']).toUpperCase();
   if (state && state in MISSING_REASON) {
     const note = missingWaterNote(metric, str(v['reason'], str(v['note'], str(c['note'], ''))));
@@ -235,7 +242,7 @@ export function normaliseClaim(raw: unknown, facilityId: string): Claim | null {
       ...base,
       value: {
         kind: 'NOT_PUBLISHED',
-        reason: note || (MISSING_REASON[state] ?? 'not published'),
+        reason: note || (MISSING_REASON[state] ?? DATASET_GAP),
         method_note: note,
       },
       p10: null,
@@ -289,7 +296,7 @@ export function normaliseClaim(raw: unknown, facilityId: string): Claim | null {
       ...base,
       value: {
         kind: 'NOT_PUBLISHED',
-        reason: missingWaterNote(metric, str(v['reason'], 'not published')),
+        reason: missingWaterNote(metric, str(v['reason'], DATASET_GAP)),
         method_note: missingWaterNote(metric, str(v['method_note'], '')),
       },
       p10: null,
@@ -305,8 +312,8 @@ function normaliseGrid(raw: unknown, facilityId: string, rateFallback: number | 
   const g = obj(raw) ?? {};
   return {
     facility_id: facilityId,
-    utility: str(g['utility'], 'not published'),
-    balancing_authority: str(g['balancing_authority'], 'not published'),
+    utility: availabilityLabel(str(g['utility'], DATASET_GAP)),
+    balancing_authority: availabilityLabel(str(g['balancing_authority'], DATASET_GAP)),
     egrid_subregion: str(g['egrid_subregion'], str(g['subregion'], '—')),
     subregion_label: str(g['subregion_label'], str(g['subregion_name'])),
     method: (str(g['method'], str(g['binding_method'], 'point_in_polygon')) as GridBinding['method']),
@@ -498,7 +505,7 @@ export function normaliseFacilityPayload(raw: unknown): FacilityPayload | null {
       })(),
       lat: num(facilityRaw['lat']),
       lon: num(facilityRaw['lon']),
-      address_line: str(facilityRaw['address_line'], str(facilityRaw['address'], 'Address not published')),
+      address_line: str(facilityRaw['address_line'], str(facilityRaw['address'], 'Address not available in this dataset')),
       city: str(facilityRaw['city']),
       state: str(facilityRaw['state']),
       zip: str(facilityRaw['zip']),
@@ -554,6 +561,7 @@ export function normaliseDrawer(raw: unknown, facilityId: string, claimId: strin
     };
     return {
       ...(d as unknown as DrawerPayload),
+      headline: availabilityLabel(str(d['headline'], DATASET_GAP)),
       p10: num(d['low']) ?? num(d['p10']), p50: num(d['base']) ?? num(d['p50']), p90: num(d['high']) ?? num(d['p90']),
       citation: citationFor(d['citation'], claimId) ?? emptyCitation,
       extra_citations: arr(d['extra_citations'])
@@ -568,7 +576,7 @@ export function normaliseDrawer(raw: unknown, facilityId: string, claimId: strin
   const citations = arr(d['receipts'])
     .map((c) => citationFor(c, claimId))
     .filter((c): c is Citation => c != null);
-  // A not-published claim legitimately has no receipt. The drawer still opens
+  // A missing-data claim can have no receipt. The drawer still opens
   // and says so, rather than 404-ing on the majority of a real card's chips.
   const primary: Citation =
     citations[0] ??
@@ -618,7 +626,7 @@ export function normaliseDrawer(raw: unknown, facilityId: string, claimId: strin
         ? new Intl.NumberFormat('en-US', { maximumFractionDigits: 1 }).format(numeric.value.value)
         : band
           ? `${band.value.low}–${band.value.high}`
-          : 'Not published',
+          : DATASET_GAP,
     unit: numeric?.value.unit ?? band?.value.unit ?? '',
     badge: claim.badge,
     provisional: claim.provisional,
@@ -675,7 +683,7 @@ export function normaliseFacilityIndex(raw: unknown): FacilityIndexEntry[] | nul
       source_label: str(f['source_label'], id.startsWith('echo') ? 'EPA ECHO' : 'Public listing'),
       source_url: typeof f['source_url'] === 'string' ? f['source_url'] : null,
       name: str(f['name'], 'Unnamed facility'),
-      address_line: str(f['address_line'], str(f['address'], 'Address not published')),
+      address_line: str(f['address_line'], str(f['address'], 'Address not available in this dataset')),
       city: str(f['city']),
       state: str(f['state']),
       zip: str(f['zip']),

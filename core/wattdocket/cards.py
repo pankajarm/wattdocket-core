@@ -4,7 +4,7 @@ No database, no network at render time, no model. Reads the frozen ECHO CSV
 and the pinned eGRID subregion rates, resolves each facility to a subregion,
 runs the core estimator, and writes one card per facility.
 
-This exists because the build order was changed: the hero path must not wait
+This exists because the board reordered the plan: the hero path must not wait
 on an ingestion pipeline. Frozen data, live math.
 
     python -m wattdocket.cards --csv ../data/echo_datacenters_naics518210.csv \

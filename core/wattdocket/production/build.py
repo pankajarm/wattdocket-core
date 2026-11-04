@@ -412,7 +412,7 @@ def build_release(states: dict, release_id: str, built_at: str):
         disclosed = record_disclosures.get(fid, [])
         if disclosed:
             supporting_sources.update(group["location"]["source_id"] for group in disclosed)
-            supporting_sources.add("disclosure_identity")
+            supporting_sources.update(group["link"].get("identity_source_id", "disclosure_identity") for group in disclosed)
         if matches or match_review["candidate_matches"]:
             supporting_sources.add("virginia_permits")
         if facility["documents"]:

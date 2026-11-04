@@ -2,8 +2,8 @@
 
 The bug this exists to prevent: eGRID publishes emission *rates* in
 lb CO2/MWh. Dividing by 2000 gives US short tons, which is ~9.2% higher
-than a metric tonne. Review caught the resulting error in an early
-draft. There is exactly one conversion factor in
+than a metric tonne. Four independent board seats caught the resulting
+error in the chair's own deck. There is exactly one conversion factor in
 this codebase and it lives here.
 """
 

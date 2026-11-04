@@ -663,6 +663,10 @@ def parse_ercot(payload: object, *, now: datetime) -> dict:
     by_time = {}
     days = []
     local_zone = ZoneInfo("America/Chicago")
+    publisher_day = published_at.astimezone(local_zone).date()
+    allowed_days = {publisher_day.isoformat(), (publisher_day - timedelta(days=1)).isoformat()}
+    if len(payload["data"]) > 2 or not set(payload["data"]) <= allowed_days:
+        raise GridSourceError("ERCOT data exceed the current and previous operating-day window")
     for day, intervals in sorted(payload["data"].items()):
         if not isinstance(intervals, dict) or not intervals:
             raise GridSourceError(f"ERCOT day {day} has no intervals")
@@ -672,10 +676,17 @@ def parse_ercot(payload: object, *, now: datetime) -> dict:
             raise GridSourceError(f"invalid ERCOT day {day}") from exc
         day_start = midnight.astimezone(UTC)
         next_day = (midnight + timedelta(days=1)).astimezone(UTC)
+        day_capacity = int((next_day - day_start).total_seconds() / 300)
+        if len(intervals) > day_capacity:
+            raise GridSourceError(f"ERCOT day {day} exceeds its five-minute interval capacity")
         day_rows = {}
         for label, body in intervals.items():
             start = parse_offset_iso(label)
-            if start.astimezone(local_zone).date() != midnight.date() or start.second or start.minute % 5:
+            local_start = start.astimezone(local_zone)
+            supplied_offset = datetime.fromisoformat(label.strip()).utcoffset()
+            if supplied_offset != local_start.utcoffset():
+                raise GridSourceError(f"ERCOT interval uses an invalid local UTC offset: {label}")
+            if local_start.date() != midnight.date() or start.second or start.microsecond or start.minute % 5:
                 raise GridSourceError(f"ERCOT interval label does not belong to its day or five-minute grid: {label}")
             if start > published_at or start > now + timedelta(minutes=5):
                 raise GridSourceError("ERCOT measurement is later than its publisher update")
@@ -705,8 +716,8 @@ def parse_ercot(payload: object, *, now: datetime) -> dict:
                    "quality": "reported" if not missing else "partial", "hour_convention": "START",
                    "source_timestamp": label, "intensity_lb_co2e_per_mwh": None}
             key = row["interval_start_utc"]
-            if key in by_time and by_time[key] != row:
-                raise GridSourceError(f"conflicting duplicate ERCOT timestamp {key}")
+            if key in by_time:
+                raise GridSourceError(f"duplicate ERCOT timestamp {key}")
             day_rows[key] = row
             by_time[key] = row
         latest = max(parse_offset_iso(row["source_timestamp"]) for row in day_rows.values())
@@ -724,6 +735,8 @@ def parse_ercot(payload: object, *, now: datetime) -> dict:
                                 "storage_mw": None, "quality": "missing", "hour_convention": "START",
                                 "intensity_lb_co2e_per_mwh": None}
         days.append({"day": day, "expected_intervals": expected, "reported_intervals": len(day_rows),
+                     "day_capacity_intervals": day_capacity,
+                     "complete_fuel_intervals": sum(not row["missing_fuels"] for row in day_rows.values()),
                      "missing_intervals_utc": missing_stamps, "day_complete": next_day <= published_at,
                      "data_complete": len(missing_stamps) == 0 and all(not row["missing_fuels"] for row in day_rows.values())})
     readings = [row for _, row in sorted(by_time.items())]
@@ -741,11 +754,49 @@ def parse_ercot(payload: object, *, now: datetime) -> dict:
             "note": "Five-minute MW telemetry, not MWh. Hourly carbon is not calculated from unsupported fuel factors."}
 
 
+def _ercot_window_validation(region: dict, *, now: datetime) -> dict:
+    """A rolling telemetry window may shrink without losing source coverage.
+
+    This exemption is deliberately stricter than the missing-data parser: a
+    sparse or old response remains inspectable, but cannot explain a count
+    drop. Local-day capacities include both DST transitions.
+    """
+    local_zone = ZoneInfo("America/Chicago")
+    now = _utc(now)
+    published_at = parse_offset_iso(region["published_at"])
+    latest = parse_offset_iso(region["observation_end"])
+    publisher_day = published_at.astimezone(local_zone).date()
+    expected_days = sorted([publisher_day.isoformat(), (publisher_day - timedelta(days=1)).isoformat()])
+    operating_days = [day["day"] for day in region["days"]]
+    coverage = [{"day": day["day"], "expected_intervals": day["expected_intervals"],
+                 "reported_intervals": day["reported_intervals"],
+                 "complete_fuel_intervals": day["complete_fuel_intervals"],
+                 "complete_fraction": day["complete_fuel_intervals"] / day["expected_intervals"]}
+                for day in region["days"]]
+    observation_age = (now - latest).total_seconds()
+    publisher_lag = (published_at - latest).total_seconds()
+    checks = {
+        "two_expected_operating_days": operating_days == expected_days,
+        "per_day_coverage_at_least_95_percent": all(day["complete_fraction"] >= .95 for day in coverage),
+        "latest_operating_date_is_current": latest.astimezone(local_zone).date() == publisher_day == now.astimezone(local_zone).date(),
+        "latest_within_15_minutes_of_publisher": 0 <= publisher_lag <= 15 * 60,
+        "observation_within_two_hours": -5 * 60 <= observation_age <= 2 * 3600,
+    }
+    return {"record_count_semantics": "rolling_operating_days",
+            "rolling_window_count_change_safe": all(checks.values()),
+            "checks": checks, "expected_operating_days": expected_days,
+            "operating_days": operating_days, "daily_coverage": coverage,
+            "observation_age_seconds": observation_age,
+            "publisher_lag_seconds": publisher_lag,
+            "unique_utc_intervals": True, "bounded_local_day_intervals": True}
+
+
 def collect_ercot(fetcher: Fetcher, *, now: datetime) -> SourceResult:
     region = parse_ercot(fetcher.get_json(ERCOT_URL), now=now)
     return SourceResult(
         source_id="ercot", label="ERCOT five-minute fuel mix", url=ERCOT_URL,
-        data={"regions": [region], "intensity_available": False}, record_count=region["reported_readings_count"],
+        data={"regions": [region], "intensity_available": False,
+              "validation": _ercot_window_validation(region, now=now)}, record_count=region["reported_readings_count"],
         observation_start=region["observation_start"], observation_end=region["observation_end"],
         published_at=region["published_at"], data_vintage="Current and previous ERCOT operating days",
         coverage="Texas ERCOT grid; five-minute reported generation by fuel",

@@ -1,0 +1,141 @@
+.page.learn-page { max-width:1280px; padding:52px 40px 80px; }
+.learn-page h1,.learn-page h2,.learn-page h3,.learn-page h4 { color:var(--text); font-family:var(--display); letter-spacing:-.025em; text-wrap:balance; }
+.learn-page p,.learn-page li,.learn-page dd { font-size:18px; line-height:1.7; color:var(--text-2); }
+.learn-page p { margin:0 0 18px; }
+.learn-page a { color:var(--blue); text-underline-offset:4px; }
+.learn-page a:hover { text-decoration:underline; }
+.learn-page a:focus-visible,.learn-page summary:focus-visible { outline:3px solid var(--focus); outline-offset:5px; }
+.learn-index-head { max-width:830px; margin-bottom:48px; }
+.learn-index-head h1 { font-size:clamp(36px,4.5vw,58px); line-height:1.08; font-weight:550; margin:0 0 24px; }
+.learn-index-head > p { max-width:66ch; font-size:20px; line-height:1.6; }
+.learn-index-layout { display:grid; grid-template-columns:minmax(0,1fr) 300px; gap:64px; align-items:start; }
+.learn-question-list { border-top:1px solid var(--line); }
+.learn-question-list > a { display:flex; gap:24px; justify-content:space-between; align-items:center; padding:26px 4px; border-bottom:1px solid var(--line); text-decoration:none; }
+.learn-question-list > a:hover { text-decoration:none; background:var(--hover); }
+.learn-question-list > a h2 { margin:0 0 8px; font-size:25px; line-height:1.3; font-weight:550; }
+.learn-question-list > a p { margin:0; font-size:16px; color:var(--muted); max-width:60ch; }
+.learn-arrow { display:inline-block; width:20px; height:20px; flex:0 0 20px; vertical-align:middle; fill:none; stroke:currentColor; stroke-width:1.5; }
+.learn-external { display:inline-block; width:14px; height:14px; margin-left:5px; fill:none; stroke:currentColor; stroke-width:1.4; vertical-align:baseline; }
+.learn-primer { background:var(--panel-3); padding:26px; border-radius:12px; }
+.learn-primer h2 { margin:0 0 16px; font-size:25px; }
+.learn-primer h3 { margin:0 0 14px; font-size:20px; }
+.learn-primer p,.learn-primer li,.learn-primer > a { font-size:16px; }
+.learn-primer ul { padding-left:20px; margin:0 0 24px; }
+.learn-primer li { padding-bottom:5px; }
+.learn-primer hr { margin:28px 0; border:0; border-top:1px solid var(--line); }
+.learn-layout { display:grid; grid-template-columns:205px minmax(0,1fr); gap:70px; align-items:start; }
+.learn-sidebar { position:sticky; top:calc(var(--header-height) + 28px); }
+.learn-back { display:inline-flex; min-height:44px; align-items:center; margin-bottom:16px; font-size:15px; font-weight:600; }
+.learn-sidebar nav { display:flex; flex-direction:column; gap:4px; border-top:1px solid var(--line); padding-top:16px; }
+.learn-sidebar nav a { min-height:44px; display:flex; align-items:center; padding:8px 12px; margin-left:-12px; font-size:16px; line-height:1.4; color:var(--text-2); border-radius:6px; }
+.learn-sidebar nav a:hover { background:var(--hover); text-decoration:none; }
+.learn-sidebar nav a[aria-current='page'] { background:var(--accent-soft); color:var(--teal); font-weight:650; }
+.learn-sidebar > p { margin:28px 0 0; font-size:14px; color:var(--muted); }
+.learn-article { min-width:0; max-width:810px; }
+.learn-article-head h1 { margin:0 0 26px; font-size:clamp(34px,3.7vw,50px); line-height:1.13; font-weight:550; max-width:23ch; }
+.learn-article .learn-answer { font-size:21px; line-height:1.6; max-width:66ch; margin-bottom:42px; color:var(--text); }
+.learn-section { margin:44px 0; }
+.learn-section h2,.learn-example > h2 { margin:0 0 20px; font-size:28px; line-height:1.25; font-weight:550; }
+.learn-section ul { padding-left:22px; margin:0 0 24px; }
+.learn-section li { padding:5px 0 5px 3px; }
+.learn-definitions { margin:22px 0 26px; border-top:1px solid var(--line); }
+.learn-definitions > div { display:grid; grid-template-columns:175px minmax(0,1fr); gap:24px; padding:22px 0; border-bottom:1px solid var(--line); }
+.learn-definitions dt { color:var(--text); font-weight:650; font-size:18px; line-height:1.6; }
+.learn-definitions dd { margin:0; }
+.learn-example { padding:30px; margin:44px 0; border:1px solid var(--line); border-radius:14px; background:var(--panel); }
+.learn-example > p { max-width:65ch; }
+.learn-energy-row { display:grid; grid-template-columns:minmax(0,1fr) 150px; gap:24px; padding:20px 0; margin:24px 0 14px; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.learn-energy-row dt { color:var(--muted); font-size:15px; margin-bottom:10px; }
+.learn-energy-row dd { margin:0; font-family:var(--display); font-size:29px; line-height:1.3; font-variant-numeric:tabular-nums; color:var(--text); }
+.learn-energy-row dd span { font-size:18px; }
+.learn-example .learn-example-source { font-size:15px; margin:14px 0 24px; }
+.learn-example-notes { border-top:1px solid var(--line); padding-top:20px; }
+.learn-example-notes p { font-size:15px; line-height:1.65; }
+.learn-example-notes details { margin:14px 0; }
+.learn-example-notes summary { padding:8px 0; min-height:44px; cursor:pointer; font-size:15px; font-weight:550; color:var(--blue); }
+.learn-example-notes .learn-retained { color:var(--amber); }
+.learn-method { padding:18px 0 4px; border-bottom:1px solid var(--line-soft); }
+.learn-method h4 { font-family:var(--sans); font-size:16px; letter-spacing:0; margin:0 0 8px; }
+.learn-text-link { display:inline-flex; gap:10px; min-height:44px; align-items:center; font-size:16px; font-weight:600; }
+.learn-example-notes .learn-text-link { margin-top:4px; }
+.learn-reading-note { margin:44px 0; padding:26px 28px 10px; background:var(--accent-soft); border-radius:12px; }
+.learn-reading-note h3 { color:var(--teal); font-size:23px; margin:0 0 14px; line-height:1.3; font-weight:600; }
+.learn-reading-note p { color:var(--text-2); font-size:16px; }
+.learn-water { margin:24px 0 0; }
+.learn-water figcaption { margin-bottom:20px; color:var(--muted); font-size:15px; }
+.learn-water-values { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; margin:0; }
+.learn-water-values > div { min-width:0; }
+.learn-water-values dt { font-size:16px; font-weight:650; margin-bottom:10px; color:var(--text); }
+.learn-water-values dd { font-family:var(--display); font-size:28px; line-height:1.25; margin:0 0 14px; color:var(--text); font-variant-numeric:tabular-nums; }
+.learn-water-values dd span { font-family:var(--sans); display:block; font-size:14px; font-weight:400; color:var(--muted); margin-top:6px; }
+.learn-water-values p { font-size:14px; line-height:1.55; }
+.learn-water-values > div[data-water='water_discharge'] dt::before,.learn-water-values > div[data-water='water_consumption'] dt::before { content:''; display:inline-block; width:10px; height:10px; margin-right:8px; background:var(--blue); }
+.learn-water-values > div[data-water='water_consumption'] dt::before { background:var(--teal); }
+.learn-water-bar { display:flex; height:24px; width:100%; gap:2px; margin:8px 0 14px; overflow:hidden; border-radius:4px; background:var(--track); }
+.learn-water-bar__discharged { background:var(--blue); }
+.learn-water-bar__consumed { background:var(--teal); }
+.learn-water .learn-water-key { font-size:14px; line-height:1.55; color:var(--muted); }
+.learn-accounting { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); margin:24px 0 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.learn-accounting > section { padding:24px 24px 10px 0; }
+.learn-accounting > section + section { padding-left:24px; padding-right:0; border-left:1px solid var(--line); }
+.learn-accounting h3 { font-family:var(--sans); letter-spacing:0; font-size:17px; margin:0 0 16px; line-height:1.4; }
+.learn-accounting .learn-accounting-number { font-family:var(--display); font-size:32px; color:var(--text); line-height:1.2; font-variant-numeric:tabular-nums; }
+.learn-accounting-number span { display:block; font-family:var(--sans); font-size:14px; color:var(--muted); line-height:1.5; margin-top:8px; }
+.learn-accounting p { font-size:15px; }
+.learn-steps { padding-left:24px; margin:0; }
+.learn-steps li { padding:0 0 22px 7px; }
+.learn-steps li::marker { color:var(--teal); font-weight:600; }
+.learn-actions { display:flex; gap:16px 32px; flex-wrap:wrap; }
+.learn-load { padding:24px 0; margin:32px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.learn-load .ghostbtn { min-height:44px; font-size:16px; }
+.learn-article-footer { border-top:1px solid var(--line); padding-top:24px; margin-top:56px; }
+.learn-article-footer p,.learn-article-footer a { font-size:14px; color:var(--muted); }
+.learn-not-found { max-width:700px; padding:40px 0; }
+.learn-not-found h1 { font-size:36px; }
+@media(max-width:1000px) {
+  .page.learn-page { padding:40px 26px 64px; }
+  .learn-index-layout { grid-template-columns:minmax(0,1fr) 260px; gap:32px; }
+  .learn-layout { grid-template-columns:170px minmax(0,1fr); gap:36px; }
+  .learn-example { padding:24px; }
+  .learn-water-values { gap:16px; }
+}
+@media(max-width:760px) {
+  .page.learn-page { padding:30px 20px 54px; }
+  .learn-index-head { margin-bottom:30px; }
+  .learn-index-head > p { font-size:18px; }
+  .learn-index-layout,.learn-layout { display:block; }
+  .learn-primer { margin-top:36px; }
+  .learn-question-list > a { padding:22px 0; }
+  .learn-question-list > a h2 { font-size:23px; }
+  .learn-sidebar { position:static; margin:0 0 28px; }
+  .learn-back { margin-bottom:8px; }
+  .learn-sidebar nav { flex-direction:row; flex-wrap:wrap; gap:4px 8px; padding-top:12px; }
+  .learn-sidebar nav a { margin:0; padding:8px 10px; font-size:15px; }
+  .learn-sidebar > p { display:none; }
+  .learn-article-head h1 { font-size:36px; max-width:25ch; }
+  .learn-article .learn-answer { font-size:19px; margin-bottom:32px; }
+  .learn-page p,.learn-page li,.learn-page dd { font-size:18px; }
+  .learn-section { margin:34px 0; }
+  .learn-section h2,.learn-example > h2 { font-size:26px; }
+  .learn-example { margin:34px 0; padding:22px 18px; }
+  .learn-definitions > div { display:block; }
+  .learn-definitions dt { margin-bottom:8px; }
+  .learn-energy-row { grid-template-columns:minmax(0,1fr); gap:18px; }
+  .learn-energy-row dd { font-size:28px; }
+  .learn-example-notes p,.learn-example-notes summary,.learn-example .learn-example-source { font-size:16px; }
+  .learn-water-values { grid-template-columns:minmax(0,1fr); gap:16px; }
+  .learn-water-values > div { display:grid; grid-template-columns:105px minmax(0,1fr); gap:0 10px; padding-bottom:14px; border-bottom:1px solid var(--line-soft); }
+  .learn-water-values dd { font-size:28px; }
+  .learn-water-values p { grid-column:1/-1; margin:0; font-size:16px; }
+  .learn-water-values dt { font-size:16px; padding-top:3px; }
+  .learn-water-values dd span { font-size:14px; }
+  .learn-water .learn-water-key { font-size:15px; }
+  .learn-accounting { grid-template-columns:minmax(0,1fr); }
+  .learn-accounting > section,.learn-accounting > section + section { padding:24px 0 8px; border-left:0; }
+  .learn-accounting > section + section { border-top:1px solid var(--line); }
+  .learn-accounting p { font-size:16px; }
+  .learn-accounting .learn-accounting-number { font-size:32px; }
+  .learn-reading-note { padding:22px 20px 8px; margin:34px 0; }
+  .learn-reading-note p,.learn-primer p,.learn-primer li,.learn-question-list > a p { font-size:16px; }
+  .learn-article-footer p { font-size:14px; }
+}

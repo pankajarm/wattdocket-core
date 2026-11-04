@@ -3,7 +3,10 @@ import type { RefObject } from 'react';
 
 /** Hash route: "#/public/echo:123" → { name: 'public', param: 'echo:123' } */
 export type Route =
+  | { name: 'home' }
   | { name: 'search'; query: string }
+  | { name: 'learn'; topic?: string }
+  | { name: 'reported'; query: string; family: string; locationId?: string }
   | { name: 'address'; query: string }
   | { name: 'public'; facilityId: string }
   | { name: 'operator'; facilityId: string }
@@ -18,9 +21,12 @@ function parse(hash: string): Route {
   const params = new URLSearchParams(queryPart ?? '');
   const segments = path.split('/').filter(Boolean);
 
-  if (segments.length === 0) return { name: 'search', query: params.get('q') ?? '' };
+  if (segments.length === 0) return params.has('q') ? { name: 'search', query: params.get('q') ?? '' } : { name: 'home' };
 
   const [head, id] = segments;
+  if (head === 'map' && segments.length === 1) return { name: 'search', query: params.get('q') ?? '' };
+  if (head === 'learn' && segments.length <= 2) return { name: 'learn', topic: id };
+  if (head === 'reported' && segments.length === 1) return { name: 'reported', query: params.get('q') ?? '', family: params.get('family') ?? params.get('measure') ?? 'all', locationId: params.get('location') ?? undefined };
   if (head === 'data' && segments.length === 1) return { name: 'data' };
   if (head === 'grid' && segments.length === 1) return { name: 'grid' };
   if (head === 'address') return { name: 'address', query: params.get('q') ?? '' };

@@ -79,7 +79,7 @@ export function HonestyBar({
             ? `Modelled band ${fmt(low!)} to ${fmt(high!)}, no single value`
             : resolvedState === 'blocked'
               ? 'Blocked — no renderable range'
-              : 'Not published — no range'
+              : 'Not available in our sources — no range'
       }
     >
       <svg

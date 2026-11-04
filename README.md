@@ -16,6 +16,7 @@ WattDocket does **not** claim to know a facility's actual electricity demand, wa
 - **Grid context.** Official EPA eGRID annual factors, a separate independent regional comparison, EIA-930 reported hourly demand and generation, and ERCOT five-minute fuel generation. Regional data never pretends to be a facility meter.
 - **Reference scenarios.** An editable historical-grid calculator with a 10 MW starting preset and low/base/high utilization. The inputs and results are hypothetical.
 - **Operator view.** The same public evidence with CSV and JSON exports. An account adds no private data; all application data is public.
+- **Learning and reported data.** Guided explainers (Understand) cover electricity, water, emissions, generator permits, the regional grid, electricity bills, community evidence and a Virginia research guide, each tied to cited examples. The Reported data explorer searches operator and municipal disclosures by measure, year, publisher and reporting scope, and facility cards link to the matching disclosure locations with scope and gaps labeled. Reported totals describe the named campus, building or reporting location for their year; they are not allocated to individual inventory records.
 
 ## How WattDocket uses Meta Muse Spark
 

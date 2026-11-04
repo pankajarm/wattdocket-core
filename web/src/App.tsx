@@ -9,9 +9,13 @@ import { SiteFooter } from './components/SiteFooter';
 import { OperatorSignIn } from './components/OperatorSignIn';
 import { DataStatusPage } from './pages/DataStatusPage';
 import { GridPage } from './pages/GridPage';
+import { AwarenessHomePage } from './pages/AwarenessHomePage';
+import { ReportedDataPage } from './pages/ReportedDataPage';
+import { LearnPage } from './pages/LearnPage';
 import { initializeAuth, signOut } from './auth';
 import type { User } from 'oidc-client-ts';
 import './atlas.css';
+import './pages/evidence-pages.css';
 
 // Snapshot cards use an underscore in their internal IDs; the index uses a
 // colon. Keep the index form as the selected identity across views.
@@ -52,7 +56,10 @@ export default function App() {
 
   const active = route.name === 'search' ? 'map' : route.name === 'notFound' ? null : route.name;
   let content;
-  if (route.name === 'public') content = <PublicCardPage key={route.facilityId} facilityId={route.facilityId} />;
+  if (route.name === 'home') content = <AwarenessHomePage />;
+  else if (route.name === 'learn') content = <LearnPage key={route.topic ?? 'index'} topic={route.topic} />;
+  else if (route.name === 'reported') content = <ReportedDataPage key={`${route.query}:${route.family}:${route.locationId}`} query={route.query} family={route.family} locationId={route.locationId} />;
+  else if (route.name === 'public') content = <PublicCardPage key={route.facilityId} facilityId={route.facilityId} />;
   else if (route.name === 'operator') content = user && !user.expired
     ? <OperatorBenchPage key={route.facilityId} facilityId={route.facilityId} />
     : <OperatorSignIn loading={authLoading} error={authError} />;
@@ -66,10 +73,10 @@ export default function App() {
         <div className="state__k">404</div>
         <h1 className="state__h">That route does not exist.</h1>
         <p className="state__p">
-          Explore the facility map, address lookup, regional grid observations, data coverage, or a facility’s public card.
+          Explore reported data, public records, regional grid observations, or the questions these sources can answer.
         </p>
         <div className="state__links">
-          <a className="ghostbtn" href="#/">← Evidence atlas</a>
+          <a className="ghostbtn" href="#/">Return to WattDocket</a>
         </div>
       </div>
     </main>
@@ -78,8 +85,8 @@ export default function App() {
   return (
     <>
       <TopBar active={active} facilityId={routeFacility ?? selectedId ?? null} signedIn={Boolean(user && !user.expired)} onSignOut={() => void signOut()} />
-      {content}
-      <SiteFooter />
+      <div className="app-content" id="page-content" tabIndex={-1}>{content}</div>
+      <SiteFooter facilityId={routeFacility ?? selectedId ?? null} />
     </>
   );
 }

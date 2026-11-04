@@ -56,9 +56,9 @@ function place(entry: FacilityIndexEntry): string {
 }
 
 function claimValue(claim: Claim | undefined): string {
-  if (!claim) return 'Not available';
+  if (!claim) return 'Not available in our sources';
   if (!claim.renderable) return 'Evidence unavailable';
-  if (claim.value.kind === 'NOT_PUBLISHED') return 'Not published';
+  if (claim.value.kind === 'NOT_PUBLISHED') return 'Not available in our sources';
   if (claim.value.kind === 'BAND') {
     return `${compact(claim.value.low, claim.metric)}–${compact(claim.value.high, claim.metric)} ${claim.value.unit}`;
   }
@@ -92,8 +92,9 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
       if (!cancelled) {
         setLoad({ status: 'ready', entries: res.data, fixture: res.source === 'fixture', truncated: res.truncated === true, indexAsOf: res.indexAsOf ?? null });
         if (selectedId === undefined) {
-          const first = !initialQuery.trim() ? res.data.find((entry) => entry.hero) ?? res.data[0] : undefined;
-          onSelectFacility(first?.id ?? null);
+          // Let the reader choose a record. The first source row is not a
+          // representative or independently verified example of a data center.
+          onSelectFacility(null);
         }
       }
     }).catch((err: unknown) => {
@@ -160,10 +161,10 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
       </div>
 
       <main className={`atlas-layout atlas-layout--mobile-${mobileView}`}>
-        <aside className="atlas-sidebar" aria-label="Explore facilities">
+        <aside className="atlas-sidebar" aria-label="Explore public records">
           <div className="atlas-sidebar__head">
-            <h1 className="atlas-sidebar__title">Explore the record.</h1>
-            <p className="atlas-sidebar__description">Explore facility listings and see what the public record can tell us about each place.</p>
+            <h1 className="atlas-sidebar__title">Explore data center records.</h1>
+            <p className="atlas-sidebar__description">Find public listings and follow their evidence. Some listings have not been verified as data center sites.</p>
             <label className="atlas-search">
               <span className="atlas-sr-only">Search by name, address, city, state or source ID</span>
               <input type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search name, address or city" />
@@ -189,14 +190,14 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
             {load.status === 'ready' && load.truncated && <p className="atlas-results__caption" role="status">The source returned a partial index; more records may exist.</p>}
             <div className="atlas-results__list">
               {load.status === 'error' && <div className="atlas-empty" role="alert">The facility index is unavailable. Please reload and try again.</div>}
-              {load.status === 'ready' && filtered.length === 0 && <div className="atlas-empty">No records match these filters. Try a different place or clear your search.{query.trim() && <p><a href={`#/address?q=${encodeURIComponent(query.trim())}`}>Look up this as a US street address →</a></p>}</div>}
+              {load.status === 'ready' && filtered.length === 0 && <div className="atlas-empty">No records match these filters. Our collection is incomplete; this does not mean no data center exists here. Try another place or clear your search.{query.trim() && <p><a href={`#/address?q=${encodeURIComponent(query.trim())}`}>Look up this as a US street address →</a></p>}</div>}
               {filtered.slice(0, visibleCount).map(({ representative: entry, records }) => (
                 <button type="button" key={entry.id} onClick={() => selectSite(entry.id)}
                   className={`atlas-result${filteredSelected?.representative.id === entry.id ? ' atlas-result--selected' : ''}`}
                   aria-pressed={filteredSelected?.representative.id === entry.id}>
                   <span className="atlas-result__marker" aria-hidden="true" />
                   <span className="atlas-result__body"><span className="atlas-result__name">{entry.name}</span>
-                    <span className="atlas-result__place">{place(entry) || 'Location not published'}</span>
+                    <span className="atlas-result__place">{place(entry) || 'Location unavailable in our sources'}</span>
                     <span className="atlas-result__id">{records.length > 1 ? `${records.length} source records` : `${entry.source_label || 'Source'} ${entry.registry_id}`}</span></span>
                   <span className="atlas-result__arrow" aria-hidden="true">›</span>
                 </button>
@@ -207,7 +208,7 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
           <details className="atlas-about">
             <summary>About this map</summary>
             <p>The directory joins public facility listings. EPA computing-industry records alone do not establish that a site is a data center. Each listing keeps its source and any regulator-confirmed classification.</p>
-            <p>Locations are approximate. A point does not show a site boundary or an electrical connection.</p>
+            <p>Locations are approximate. A point does not show a site boundary or an electrical connection. Some records have no map point because their coordinates need review. An empty area does not establish that no data center exists.</p>
             <a href="#/data">Sources, coverage and latest collection</a>
           </details>
         </aside>
@@ -226,13 +227,14 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
                 <p>Clear the filters to see it again, or choose another result. The public card remains available in the navigation.</p>
                 <button className="atlas-clear" type="button" onClick={() => { setQuery(''); setState('ALL'); }}>Clear filters</button>
               </> : <>
-                <h2>Every place has a story. Start with the record.</h2>
+                <h2>What can public records tell us about this place?</h2>
                 <p>Choose a point on the map or a result in the list to explore the evidence available for that place.</p>
               </>}
               <div className="atlas-detail__intro-divider" />
               <h3>What you’ll find</h3>
-              <ul><li>Publicly listed facility records</li><li>Historical grid context and an optional calculator</li><li>Permit information, where available</li></ul>
-              <p className="atlas-detail__intro-foot">Where a figure isn’t published, we say so.</p>
+              <ul><li>Public listings and identity evidence</li><li>Related annual electricity, water and emissions disclosures, where available</li><li>Permit documents and regional grid context</li></ul>
+              <p className="atlas-detail__intro-foot">We show what our sources report and where our evidence is missing.</p>
+              <a className="atlas-address-link" href="#/reported">Browse reported electricity and water</a>
             </div>
           ) : (
             <>
@@ -240,7 +242,7 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
               <h2 className="atlas-detail__title">{selectedRecord?.name}</h2>
               <p className="atlas-detail__place">{selectedRecord && [selectedRecord.address_line, place(selectedRecord), selectedRecord.zip].filter(Boolean).join(' · ')}</p>
               <p className="atlas-detail__class">{currentCard && !currentCard.fixture ? (currentCard.payload.facility.class_label || 'Public facility listing') : selectedRecord?.source_label || 'Public facility listing'}</p>
-              {selected.records.length > 1 && <p className="atlas-detail__source">{selected.records.length} source records share this site. The card below covers the selected record.</p>}
+              {selected.records.length > 1 && <p className="atlas-detail__source">{selected.records.length} records share a source identifier. Their physical boundaries may differ. The card below covers the selected record.</p>}
               <div className="atlas-detail__actions">
                 <a className="atlas-primary-link" href={publicHref(selectedId!)}>Open full public card <span aria-hidden="true">→</span></a>
                 <a className="atlas-secondary-link" href={operatorHref(selectedId!)}>View operator bench</a>
@@ -249,7 +251,7 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
               {card.status === 'error' && <div className="atlas-status" role="status">A detailed card is unavailable for this record. The map listing remains available.</div>}
               {currentCard && currentCard.fixture && <div className="atlas-status" role="status">Demo fixture only: estimates are withheld here because the source is synthetic. Connect the public card API to view evidence.</div>}
               {currentCard && !currentCard.fixture && <FacilityDetails payload={currentCard.payload} />}
-              {selected.records.length > 1 && <section className="atlas-detail__section"><h3 className="atlas-detail__heading">Other records at this site</h3><ul className="atlas-detail__siblings">{selected.records.filter((record) => record.id !== selectedId).map((record) => <li key={record.id}><button type="button" onClick={() => selectSite(record.id)}>{record.name} · {record.source_label} {record.registry_id}</button></li>)}</ul></section>}
+              {selected.records.length > 1 && <section className="atlas-detail__section"><h3 className="atlas-detail__heading">Records with a shared identifier</h3><ul className="atlas-detail__siblings">{selected.records.filter((record) => record.id !== selectedId).map((record) => <li key={record.id}><button type="button" onClick={() => selectSite(record.id)}>{record.name} · {record.source_label} {record.registry_id}</button></li>)}</ul></section>}
             </>
           )}
         </aside>
@@ -258,7 +260,7 @@ export function AtlasPage({ initialQuery, selectedId, onSelectFacility }: {
   );
 }
 
-function FacilityDetails({ payload }: { payload: FacilityPayload }) {
+export function FacilityDetails({ payload }: { payload: FacilityPayload }) {
   const actual = (metric: Claim['metric']) => payload.claims.find((claim) => claim.metric === metric && claim.scope !== 'scenario');
   const power = actual('power_mw');
   const water = actual('water_gal');
@@ -266,12 +268,20 @@ function FacilityDetails({ payload }: { payload: FacilityPayload }) {
   const { grid, facility } = payload;
   const scenarios = payload.claims.filter((claim) => claim.scope === 'scenario');
   return <>
+    {(payload.disclosures ?? []).length > 0 && <section className="atlas-disclosure-preview" aria-label="Related annual disclosures">
+      <h3>Annual disclosures are available</h3>
+      <p>The figures belong to the reporting location named below. A related campus or building total is not automatically this record’s individual use.</p>
+      {payload.disclosures!.map(({ location, link }) => <div key={location.disclosure_location_id}>
+        <a href={`#/reported?location=${encodeURIComponent(location.disclosure_location_id)}`}>{location.location_label}</a>
+        <p>{[...new Set(location.observations.map(row => row.data_year))].join(', ') || 'No numeric observations'} · {location.reporting_scope.replace(/_/g, ' ')} · {link.inventory_allocation ? 'Same reporting boundary supported' : 'Related totals; no allocation to this record'}</p>
+      </div>)}
+    </section>}
     <RecordQuality facility={facility} />
     <section className="atlas-detail__section">
       <h3 className="atlas-detail__heading">What the record says</h3>
       {facility.record_summary && facility.record_summary.length > 0 && <dl className="record-summary record-summary--compact">{facility.record_summary.map((row, index) => <div key={`${row.label}-${index}`}><dt>{row.label}</dt><dd>{safeSourceUrl(row.source_url) ? <a href={safeSourceUrl(row.source_url)} target="_blank" rel="noreferrer">{row.value}</a> : row.value}</dd></div>)}</dl>}
       <div className="atlas-detail__metrics">
-        <div className="atlas-metric"><span className="atlas-metric__label">Facility electricity use</span><strong className="atlas-metric__value">{claimValue(power)}</strong><span className="atlas-metric__note">{power?.value.kind === 'NOT_PUBLISHED' ? power.value.reason : 'See the cited measurement and its period'}</span></div>
+        <div className="atlas-metric"><span className="atlas-metric__label">Facility electricity demand (MW)</span><strong className="atlas-metric__value">{claimValue(power)}</strong><span className="atlas-metric__note">{power?.value.kind === 'NOT_PUBLISHED' ? power.value.reason : 'See the cited figure and its period. Annual energy is reported separately.'}</span></div>
         <div className="atlas-metric"><span className="atlas-metric__label">Facility water use</span><strong className="atlas-metric__value">{claimValue(water)}</strong><span className="atlas-metric__note">{water?.value.kind === 'NOT_PUBLISHED' ? water.value.reason : 'See the public card for context'}</span></div>
         <div className="atlas-metric"><span className="atlas-metric__label">{diesel?.label || 'Reported generators'}</span><strong className="atlas-metric__value">{claimValue(diesel)}</strong><span className="atlas-metric__note">{diesel?.unit_note || 'Permit nameplate capacity, where available'}</span></div>
         <div className="atlas-metric"><span className="atlas-metric__label">Grid region</span><strong className="atlas-metric__value">{grid.egrid_subregion || 'Not established'}</strong><span className="atlas-metric__note">{grid.subregion_label || 'No verified geographic binding'}</span></div>

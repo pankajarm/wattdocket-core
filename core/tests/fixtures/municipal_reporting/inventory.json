@@ -1,0 +1,58 @@
+{
+  "captured_from": "AWS source state copied 2026-11-04; selected fields from exact records, no invented physical-site validation",
+  "facilities": [
+    {
+      "address_line": "250 LOCKE DR",
+      "city": "MARLBOROUGH",
+      "id": "echo:110009589267",
+      "name": "SUNGARD AVAILABILITY SERVICES LP",
+      "program_ids": {
+        "air": "MA0000002511900984",
+        "cwa": null,
+        "eis": "14520211",
+        "ghg": null,
+        "rcra": "MAD980522791",
+        "tri": null
+      },
+      "registry_id": "110009589267",
+      "review_context_air_status": [],
+      "state": "MA"
+    },
+    {
+      "address_line": "70 INNERBELT RD",
+      "city": "SOMERVILLE",
+      "id": "echo:110024314222",
+      "name": "INTERNAP NETWORK SERVICES",
+      "program_ids": {
+        "air": "MA0000002511903104",
+        "cwa": null,
+        "eis": "14502711",
+        "ghg": null,
+        "rcra": "MAR000545293",
+        "tri": null
+      },
+      "registry_id": "110024314222",
+      "review_context_air_status": [
+        "Permanently Closed"
+      ],
+      "state": "MA"
+    },
+    {
+      "address_line": "600 FRIBERG PKWY",
+      "city": "WESTBOROUGH",
+      "id": "echo:110070550595",
+      "name": "SSB REALTY WESTBOROUGH DATA CENTER",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "MAR000555656",
+        "tri": null
+      },
+      "registry_id": "110070550595",
+      "review_context_air_status": [],
+      "state": "MA"
+    }
+  ]
+}

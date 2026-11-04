@@ -1,0 +1,278 @@
+{
+  "captured_at": "2026-11-04",
+  "source": "EPA ECHO archived production source snapshot",
+  "facilities": [
+    {
+      "id": "echo:110028259480",
+      "registry_id": "110028259480",
+      "name": "TAPAHA DYNAMICS LLC",
+      "address_line": "708 LYNHAVEN DRIVE",
+      "city": "LENOIR",
+      "state": "NC",
+      "program_ids": {
+        "air": "NC0000003701400204",
+        "cwa": null,
+        "eis": "16852811",
+        "ghg": null,
+        "rcra": "NCR000148916",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110033138744",
+      "registry_id": "110033138744",
+      "name": "TETRA LLC",
+      "address_line": "1430 VETERANS MEMORIAL HWY",
+      "city": "COUNCIL BLUFFS",
+      "state": "IA",
+      "program_ids": {
+        "air": "IA0000001915500341",
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "IAR000514109",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110040447816",
+      "registry_id": "110040447816",
+      "name": "DESIGN LLC",
+      "address_line": "4200 COLUMBIA ROAD",
+      "city": "THE DALLES",
+      "state": "OR",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "ORQ000028604",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110040506119",
+      "registry_id": "110040506119",
+      "name": "MYALL LLC/PCO",
+      "address_line": "4581 WEBB ST",
+      "city": "PRYOR",
+      "state": "OK",
+      "program_ids": {
+        "air": "OK0000004009700040",
+        "cwa": "OK0100439",
+        "eis": null,
+        "ghg": null,
+        "rcra": "OKR000025809",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110040521771",
+      "registry_id": "110040521771",
+      "name": "MAGURO MNK",
+      "address_line": "1669 GARROTT AVENUE",
+      "city": "MONCKS CORNER",
+      "state": "SC",
+      "program_ids": {
+        "air": "SC00004200104",
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "SCR000771659",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110043192586",
+      "registry_id": "110043192586",
+      "name": "HEMLOCK SEMICONDUCTOR, L.L.C.",
+      "address_line": "1000 SOLAR WAY",
+      "city": "CLARKSVILLE",
+      "state": "TN",
+      "program_ids": {
+        "air": "TN0000004712500271",
+        "cwa": "TN0080845 TN0080888",
+        "eis": "16965311",
+        "ghg": "1004433",
+        "rcra": "TNR000030437",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110043614434",
+      "registry_id": "110043614434",
+      "name": "TETRA, LLC",
+      "address_line": "1430 W SOUTH OMAHA BRIDGE RD",
+      "city": "COUNCIL BLUFFS",
+      "state": "IA",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": "14998311",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110044930778",
+      "registry_id": "110044930778",
+      "name": "MYALL, LLC",
+      "address_line": "3500 MAIN STREET",
+      "city": "PRYOR",
+      "state": "OK",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "OKR000023069",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110062853416",
+      "registry_id": "110062853416",
+      "name": "PLATYPUS DEVELOPMENT",
+      "address_line": "3740 S SIGNAL BUTTE RD",
+      "city": "MESA",
+      "state": "AZ",
+      "program_ids": {
+        "air": "AZMCA000000F003392",
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "AZR000515718",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110070251348",
+      "registry_id": "110070251348",
+      "name": "JE DUNN CONSTRUCTION",
+      "address_line": "1000 SOLAR WAY",
+      "city": "CLARKSVILLE",
+      "state": "TN",
+      "program_ids": {
+        "air": "TN00004712500339",
+        "cwa": "TN0082058",
+        "eis": null,
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110070393662",
+      "registry_id": "110070393662",
+      "name": "PRY DATA STORAGE FACILITY",
+      "address_line": "4581 WEBB ST",
+      "city": "PRYOR",
+      "state": "OK",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": "18019211",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110070595478",
+      "registry_id": "110070595478",
+      "name": "DESIGN LLC",
+      "address_line": "4400 RIVER TRAIL WAY",
+      "city": "THE DALLES",
+      "state": "OR",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "ORQ000038318",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110070861733",
+      "registry_id": "110070861733",
+      "name": "MONTAUK INNOVATIONS LLC",
+      "address_line": "1101 BEECH RD SW",
+      "city": "NEW ALBANY",
+      "state": "OH",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "OHR000214254",
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110070866661",
+      "registry_id": "110070866661",
+      "name": "MONTAUK INNOVATIONS LLC (0145000570)",
+      "address_line": "INTERSECTION OF MORSE RD AND BEECH RD SW",
+      "city": "NEW ALBANY",
+      "state": "OH",
+      "program_ids": {
+        "air": "OH0000000145000570",
+        "cwa": null,
+        "eis": "18958211",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110070943304",
+      "registry_id": "110070943304",
+      "name": "MAGURO ENTERPRISES LLC",
+      "address_line": "1669 GARROTT AVE",
+      "city": "MONCKS CORNER",
+      "state": "SC",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": "16850611",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110071078889",
+      "registry_id": "110071078889",
+      "name": "FOXMAN LLC DBA FOXMAN - CLARKSVILLE DATA CENTER",
+      "address_line": "1000 BOOLEAN DRIVE",
+      "city": "CLARKSVILLE",
+      "state": "TN",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": "19018211",
+        "ghg": null,
+        "rcra": null,
+        "tri": null
+      }
+    },
+    {
+      "id": "echo:110072011959",
+      "registry_id": "110072011959",
+      "name": "STONE APPLICATIONS",
+      "address_line": "7232 E ELLIOT RD",
+      "city": "MESA",
+      "state": "AZ",
+      "program_ids": {
+        "air": null,
+        "cwa": null,
+        "eis": null,
+        "ghg": null,
+        "rcra": "AZR000532069",
+        "tri": null
+      }
+    }
+  ]
+}

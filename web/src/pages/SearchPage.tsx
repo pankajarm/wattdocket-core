@@ -79,7 +79,7 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
     });
   }, [entries, q, state]);
 
-  // The index is 479 ECHO rows. Any other US street address falls back to the
+  // Addresses outside the collected index can still receive approximate
   // regional context: geocode, point-in-polygon, and an optional calculator.
   const [lookup, setLookup] = useState<Lookup>({ status: 'idle' });
   const lookupSeq = useRef(0);
@@ -115,31 +115,15 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
   }, [initialQuery, load, runLookup]);
 
   const heroes = entries.filter((e) => e.hero);
-  const vaCount = entries.filter((e) => e.state === 'VA').length;
-  // One EPA facility can hold several air permits, and each permit is its own
-  // record here. Counting records as facilities overstates the number of
-  // buildings by 13, which is the sort of thing this product exists to stop.
 
   return (
     <>
-      <main className="page page--search">
+      <main className="page page--search evidence-address">
         <section className="hero">
           {load.status === 'ready' && load.fixture && <span className="demo">STATIC SNAPSHOT</span>}
-          <div className="eyebrow">
-            <span className="eyebrow__dot" /> PUBLIC RECORDS · US LOCATIONS
-          </div>
-          <h1 className="hero__h1">
-            Every number here
-            <br />
-            has a receipt,
-            <br />
-            and its assumptions.
-          </h1>
-          <p className="hero__sub">
-            Find a public facility listing or look up a US street address. Explore source records,
-            available permit evidence and geographic grid context. Missing operating measurements
-            stay unavailable; reference scenarios appear separately with their assumptions.
-          </p>
+          <h1 className="hero__h1">Search records or a US address.</h1>
+          <p className="hero__sub">Look for a name or address in our public-record collection. A US address lookup can also show geographic grid context. Neither a listing nor a geocoded address confirms an operating data center.</p>
+          <label className="address-search-label" htmlFor="address-search">Name, street address or source ID</label>
 
           <form
             className="bigsearch"
@@ -164,6 +148,7 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
             </svg>
             </span>
             <input
+              id="address-search"
               className="bigsearch__input"
               value={q}
               onChange={(e) => {
@@ -173,17 +158,17 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
                 setLookup({ status: 'idle' });
                 setQ(e.target.value);
               }}
-              placeholder="45901 Nokes Blvd, Sterling, VA — or a facility name, or a source ID"
-              aria-label="Search facilities by address, name or registry id"
+              placeholder="Street address, name or source ID"
+              aria-label="Search public records by address, name or source ID"
             />
             <button type="submit" className="bigsearch__btn">
-              Find the facility
+              Search records
             </button>
           </form>
           <div className="hero__meta">
             {load.status === 'ready' ? (
               <>
-                {entries.length} source records · {vaCount} records in Virginia
+                {entries.length.toLocaleString()} searchable source records. Coverage is incomplete.
               </>
             ) : (
               'Loading the published facility index…'
@@ -200,7 +185,7 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
 
         {heroes.length > 0 && (
           <section className="featured">
-            <div className="sectionhead">Start with a card that is built out</div>
+            <div className="sectionhead">Example records with additional evidence</div>
             <div className="featured__grid">
               {heroes.map((h) => (
                 <a className="fcard" key={h.id} href={publicHref(h.id)}>
@@ -261,8 +246,7 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
 
               {load.status === 'ready' && filtered.length === 0 && lookup.status === 'idle' && (
                 <div className="rlist__empty">
-                  Nothing in the index matches that. The index contains {entries.length} public records and does not cover every US
-                  campus — try a street name, a city, or a registry id.
+                  No collected record matches that search. This does not establish that no data center exists here. Try a street name, city or source ID.
                   {looksLikeStreetAddress(q.trim()) && (
                     <button
                       type="button"
@@ -294,55 +278,25 @@ export function SearchPage({ initialQuery }: { initialQuery: string }) {
             {lookup.status === 'ready' && <AddressFallback result={lookup.result} />}
           </section>
 
-          <aside className="rail">
+          <aside className="rail evidence-address-guide" aria-label="How to read a result">
             <div className="rail__block">
-              <div className="rail__k">WHAT EVERY CARD CARRIES</div>
-              <ol className="rail__list">
-                <li>
-                  <b>Value</b> with its unit and evidence basis
-                </li>
-                <li>
-                  <b>Range</b> — with the scenario or reported basis stated
-                </li>
-                <li>
-                  <b>Badge</b> — measured, reported, modeled or estimated
-                </li>
-                <li>
-                  <b>Source period</b>, retrieval date and evidence
-                </li>
-              </ol>
+              <h2>What will a result tell me?</h2>
+              <dl>
+                <div><dt>Reported figures</dt><dd>Annual quantities belong to the campus, building or reporting entity named by the source.</dd></div>
+                <div><dt>Document evidence</dt><dd>Permit quotations describe the cited document. They do not establish actual operation or current legal effect.</dd></div>
+                <div><dt>Regional context</dt><dd>A geographic grid region describes an area. It does not establish a facility's serving utility.</dd></div>
+                <div><dt>Illustrative calculations</dt><dd>A chosen load and historical grid factor explain a scenario, with the assumptions visible.</dd></div>
+              </dl>
             </div>
-
             <div className="rail__block">
-              <div className="rail__k">BADGES, IN ORDER OF EVIDENCE</div>
-              <div className="rail__badges">
-                <span className="badge badge--measured">measured</span>
-                <span className="badge badge--reported">reported</span>
-                <span className="badge badge--modeled">modeled</span>
-                <span className="badge badge--estimated">estimated</span>
-              </div>
-              <p className="rail__p">
-                Nothing else appears on a chip. A provisional factor set adds one orthogonal flag,
-                and never upgrades itself.
-              </p>
+              <h2>Start with a question</h2>
+              <ul className="evidence-guide-links"><li><a href="#/learn/electricity">How much electricity is reported?</a></li><li><a href="#/learn/water">What do water figures measure?</a></li><li><a href="#/learn/emissions">Why do emissions methods differ?</a></li></ul>
             </div>
-
             <div className="rail__block">
-              <div className="rail__k">NOT ON THIS SITE</div>
-              <ul className="rail__no">
-                <li>company rankings</li>
-                <li>an aggregate “AI is bad” score</li>
-                <li>offsets and REC marketing</li>
-                <li>generated imagery</li>
-                <li>legal conclusions</li>
-              </ul>
-            </div>
-
-            <div className="rail__block rail__block--quiet">
-              <div className="rail__k">ABOUT THE DATA</div>
-              <p className="rail__p">
-                Facility identity comes from attributed public listings. Coverage varies by source. Reference scenarios stay separate from facility measurements.
-              </p>
+              <h2>Keep the gaps visible</h2>
+              <p className="rail__p">Some records have coordinates that need review and are not placed on the map. A missing figure is unavailable in our collection, not zero.</p>
+              <a href="#/data">Review sources and coverage</a>
+              <a className="evidence-guide-map" href={`#/map?q=${encodeURIComponent(q.trim())}`}>Explore these records on the map</a>
             </div>
           </aside>
         </div>

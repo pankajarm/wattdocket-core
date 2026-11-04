@@ -159,52 +159,82 @@ def _evidence_text(spec, raw):
     return _space(" ".join(parser.parts))
 
 
-def collect_disclosure_identity(fetcher: Fetcher, *, now: datetime) -> SourceResult:
-    """Capture bounded primary sources. Missing/changed evidence fails closed.
+def _capture_identity_evidence(fetcher, spec, checked):
+    raw = fetcher.get_bytes(spec["url"])
+    sha = hashlib.sha256(raw).hexdigest()
+    if spec.get("expected_sha256") and sha != spec["expected_sha256"]:
+        raise DisclosureIdentityError(f"Reviewed identity document changed: {spec['id']}")
+    text = _evidence_text(spec, raw)
+    if not all(_space(excerpt).casefold() in text.casefold() for excerpt in spec["excerpts"]):
+        raise DisclosureIdentityError(f"Reviewed identity passage missing: {spec['id']}")
+    if spec["kind"] == "html" and spec.get("published_at") and spec["published_at"] not in raw.decode("utf-8-sig"):
+        raise DisclosureIdentityError(f"Reviewed publication date missing: {spec['id']}")
+    receipt_method = getattr(fetcher, "receipt", None)
+    receipt = receipt_method(spec["url"]) if receipt_method else None
+    receipt = receipt or getattr(fetcher, "receipts", {}).get(spec["url"])
+    if (not receipt or receipt.get("url") != spec["url"] or receipt.get("sha256") != sha or not receipt.get("retrieved_at") or
+            receipt.get("raw_key") != f"raw/{sha}.gz"):
+        raise DisclosureIdentityError("Identity evidence requires its matching immutable capture receipt")
+    return {
+        **{k: spec[k] for k in ("id", "url", "publisher", "published_at", "document_date", "document_period_end", "page") if k in spec},
+        "excerpts": spec["excerpts"], "content_sha256": sha, "verified": True,
+        "representation": {"html": "publisher_html", "pdf": "publisher_pdf", "json": "publisher_json", "arcgis": "publisher_json"}[spec["kind"]],
+        "retrieved_at": receipt["retrieved_at"],
+        "checked_at": checked, "receipt": receipt,
+    }
 
-    CaptureFetcher archives bytes and preserves cached original retrieval dates.
-    This adapter supplies narrow verified passages and their original page.
-    The builder must still call resolve_disclosure_links for current inventory.
+
+def collect_reviewed_identity(fetcher: Fetcher, *, now: datetime, source_id: str, label: str,
+                              evidence_specs, reviewed_links, review_version: str,
+                              reviewed_at: str, allow_partial: bool = False) -> SourceResult:
+    """Capture reviewed documents; optional partitions isolate per-document failures.
+
+    Missing/changed passages can never verify a link. Complete independent links
+    remain usable when another document is unavailable; omissions are explicit.
+    The release must still recheck every record against current inventory.
     """
+    if not 1 <= len(evidence_specs) <= 128 or not 1 <= len(reviewed_links) <= 512:
+        raise DisclosureIdentityError("Identity partition exceeds its bounded review size")
+    ids = [spec['id'] for spec in evidence_specs]
+    if len(ids) != len(set(ids)):
+        raise DisclosureIdentityError("Duplicate identity evidence ID")
+    pairs = [(rule['disclosure_location_id'], rule['record_id']) for rule in reviewed_links]
+    if len(pairs) != len(set(pairs)) or any(not rule.get('evidence_ids') or not set(rule['evidence_ids']) <= set(ids) for rule in reviewed_links):
+        raise DisclosureIdentityError("Duplicate link or missing reviewed evidence specification")
     checked = _stamp(_utc(now))
-    evidence = []
-    for spec in EVIDENCE:
-        raw = fetcher.get_bytes(spec["url"])
-        sha = hashlib.sha256(raw).hexdigest()
-        if spec.get("expected_sha256") and sha != spec["expected_sha256"]:
-            raise DisclosureIdentityError(f"Reviewed identity document changed: {spec['id']}")
-        text = _evidence_text(spec, raw)
-        if not all(_space(excerpt).casefold() in text.casefold() for excerpt in spec["excerpts"]):
-            raise DisclosureIdentityError(f"Reviewed identity passage missing: {spec['id']}")
-        if spec["kind"] == "html" and spec.get("published_at") and spec["published_at"] not in raw.decode("utf-8-sig"):
-            raise DisclosureIdentityError(f"Reviewed publication date missing: {spec['id']}")
-        receipt_method = getattr(fetcher, "receipt", None)
-        receipt = receipt_method(spec["url"]) if receipt_method else None
-        receipt = receipt or getattr(fetcher, "receipts", {}).get(spec["url"])
-        if (not receipt or receipt.get("sha256") != sha or not receipt.get("retrieved_at") or
-                receipt.get("raw_key") != f"raw/{sha}.gz"):
-            raise DisclosureIdentityError("Identity evidence requires its matching immutable capture receipt")
-        evidence.append({
-            **{k: spec[k] for k in ("id", "url", "publisher", "published_at", "document_date", "document_period_end", "page") if k in spec},
-            "excerpts": spec["excerpts"], "content_sha256": sha, "verified": True,
-            "representation": {"html": "publisher_html", "pdf": "publisher_pdf", "json": "publisher_json", "arcgis": "publisher_json"}[spec["kind"]],
-            "retrieved_at": receipt["retrieved_at"],
-            "checked_at": checked, "receipt": receipt,
-        })
-    links = [{**copy.deepcopy(rule), "review_version": REVIEW_VERSION, "reviewed_at": "2026-11-03",
-              "checked_at": checked, "verification_status": "pending_inventory_check"} for rule in REVIEWED_LINKS]
-    return SourceResult(
-        source_id=SOURCE_ID, label="Reviewed operator-disclosure identity evidence",
-        url="https://wattdocket.com/app/#/data", record_count=len(links),
-        data={"links": links, "evidence": evidence, "review_version": REVIEW_VERSION,
-              "validation": {"primary_documents": len(evidence), "reviewed_links": len(links),
-                             "disclosure_locations": len({x["disclosure_location_id"] for x in links}),
-                             "exact_scope_links": 0, "numeric_allocations": 0}},
-        data_vintage="Reviewed physical-location evidence; original document dates retained",
-        coverage="Five disclosure locations linked to six registry records by reviewed primary evidence; no numeric allocation",
-        note="A coverage relationship is not equality of reporting boundaries. Inventory changes require re-review; "
-             "unreviewed names and cities never create a link.",
-    )
+    evidence, failures = [], []
+    for spec in evidence_specs:
+        try:
+            evidence.append(_capture_identity_evidence(fetcher, spec, checked))
+        except Exception as exc:
+            if not allow_partial:
+                raise
+            failures.append({'id': spec['id'], 'url': spec['url'], 'error': f'{type(exc).__name__}: {exc}'[:1000],
+                             'checked_at': checked, 'verified': False})
+    captured = {item['id'] for item in evidence}
+    links = [{**copy.deepcopy(rule), 'identity_source_id': source_id, 'review_version': review_version,
+              'reviewed_at': reviewed_at, 'checked_at': checked,
+              'verification_status': 'pending_inventory_check'} for rule in reviewed_links]
+    complete = sum(set(link['evidence_ids']) <= captured for link in links)
+    if complete == 0:
+        raise DisclosureIdentityError("No reviewed link has complete captured primary evidence")
+    return SourceResult(source_id=source_id, label=label, url='https://wattdocket.com/app/#/data', record_count=complete,
+        data={'links': links, 'evidence': evidence, 'review_version': review_version,
+              'documents_failed': len(failures), 'failed_documents': failures,
+              'validation': {'primary_documents': len(evidence), 'reviewed_links': len(links),
+                             'links_with_complete_evidence': complete,
+                             'disclosure_locations': len({x['disclosure_location_id'] for x in links}),
+                             'exact_scope_links': 0, 'numeric_allocations': 0}},
+        data_vintage='Reviewed physical-location evidence; original document dates retained',
+        coverage=f'{complete}/{len(links)} reviewed record links have captured primary evidence; current inventory recheck required',
+        note='A coverage relationship is not equality of reporting boundaries. Inventory changes require re-review; '
+             'unreviewed names and cities never create a link. Failed document checks cannot verify dependent links.')
+
+
+def collect_disclosure_identity(fetcher: Fetcher, *, now: datetime) -> SourceResult:
+    return collect_reviewed_identity(fetcher, now=now, source_id=SOURCE_ID,
+        label='Reviewed operator-disclosure identity evidence', evidence_specs=EVIDENCE,
+        reviewed_links=REVIEWED_LINKS, review_version=REVIEW_VERSION, reviewed_at='2026-11-03')
 
 
 def _words(value):

@@ -68,14 +68,16 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
 
   const { payload, fixture } = load;
   const { facility, grid, claims, hourly, verdict } = payload;
-  // Fixed 2×2 order regardless of the order the payload arrives in, and only
-  // the four headline metrics: diesel hours is a second unit of the same fact.
+  // Keep the same metric order in numeric figures and collection gaps.
+  // Diesel hours is a second unit of the same fact, available in its drawer.
   const CHIP_ORDER: Metric[] = ['power_mw', 'carbon_t', 'water_gal', 'diesel_mw'];
   const chipClaims = CHIP_ORDER.map((m) => claims.find((c) => c.metric === m && c.scope !== 'scenario')).filter(
     (c): c is Claim => c != null,
   );
   const exactMetrics = new Set((payload.disclosures ?? []).filter(group => group.link.inventory_allocation).flatMap(group => group.location.observations.map(row => row.metric)));
   const visibleChipClaims = chipClaims.filter(claim => !(claim.metric === 'water_gal' && [...exactMetrics].some(metric => metric.startsWith('water_'))) && !(claim.metric === 'carbon_t' && [...exactMetrics].some(metric => metric.startsWith('emissions_') || metric === 'reported_ghg_total')));
+  const availableClaims = visibleChipClaims.filter(claim => claim.renderable && claim.value.kind !== 'NOT_PUBLISHED');
+  const unavailableClaims = visibleChipClaims.filter(claim => !claim.renderable || claim.value.kind === 'NOT_PUBLISHED');
   const scenarioClaims = claims.filter((claim) => claim.scope === 'scenario');
   const production = Boolean(payload.release_id || payload.data_status?.release_id);
   const factorSource = payload.data_status?.sources.find((source) => source.id === 'egrid');
@@ -92,6 +94,7 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
         data-hourly={hourly ? `series:${hourly.readings.length}` : 'none'}
       >
         <div className="page__inner">
+          <nav className="evidence-path" aria-label="Record navigation"><a href="#/map">Explore records</a><span aria-hidden="true">/</span><span>Public record</span></nav>
           {fixture && <span className="demo">FIXTURE DATA</span>}
           <div className="fachead">
             <div>
@@ -102,7 +105,7 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
               {facility.attribution && <p className="fachead__sub">{facility.attribution}{facility.license && <> · <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">{facility.license}</a></>}</p>}
               {(facility.site_permit_count ?? 1) > 1 ? (
                 <div className="fachead__multi">
-                  {facility.site_permit_count} source records share this site.
+                  {facility.site_permit_count} source records are associated with this listing.
                   This card covers the selected record; scenarios apply to a hypothetical load at this location.
                 </div>
               ) : null}
@@ -128,29 +131,24 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
             <div className="fachead__actions">
               <FacilityShare facilityId={facility.id} production={production} />
               <a className="ghostbtn" href={operatorHref(facility.id)}>
-                Operator bench →
+                Operator workspace →
               </a>
             </div>
           </div>
 
-          {/* The plain-English sentence lives here, in the verdict's place.
-              By default it is the deterministic template; when the model
-              answers and its numbers check out, its sentence replaces it. The
-              panel is the only component that can change this text, so the
-              two can never disagree on screen. */}
-          {production && !explainAvailable()
-            ? <p className="evidence-summary">{verdict.template}</p>
-            : <ExplainPanel payload={payload} template={verdict.template} enabled />}
-          <DataProvenance data={payload.data_status} />
-          <RecordQuality facility={facility} />
+          {/* Production introduces the evidence boundaries before quantities.
+              Development retains the opt-in explanation panel. */}
+          {production && !explainAvailable() ? <p className="evidence-summary">This page follows one public source record. Annual disclosures keep their own reporting boundaries; permit documents and regional grid conditions provide separate evidence.</p> : <ExplainPanel payload={payload} template={verdict.template} enabled />}
           <LinkedFacilityDisclosures groups={payload.disclosures} />
+          {!payload.disclosures?.length && <p className="record-disclosure-gap">No reviewed annual disclosure is linked to this record in our collection. <a href="#/reported">Browse the reported data we do have</a>.</p>}
 
           <section className="evidence-section" aria-labelledby="facility-evidence-title">
-          <h2 id="facility-evidence-title" className="evidence-section__heading">Facility evidence</h2>
-          <p className="evidence-section__note">Published observations and permit information. Missing operating data is shown explicitly.</p>
+          <h2 id="facility-evidence-title" className="evidence-section__heading">What does this record establish?</h2>
+          <p className="evidence-section__note">Read the listing and any cited quantities in their original scope. A source record does not establish a complete physical-site footprint.</p>
+          <details className="record-identity-details"><summary>Review facility type, identity and location</summary><RecordQuality facility={facility} /></details>
           {facility.record_summary && facility.record_summary.length > 0 && <dl className="record-summary">{facility.record_summary.map((row, index) => <div key={`${row.label}-${index}`}><dt>{row.label}</dt><dd>{safeSourceUrl(row.source_url) ? <a href={safeSourceUrl(row.source_url)} target="_blank" rel="noreferrer">{row.value}</a> : row.value}</dd></div>)}</dl>}
-          <div className="chipgrid">
-            {visibleChipClaims.map((claim) => (
+          {availableClaims.length > 0 && <div className="chipgrid">
+            {availableClaims.map((claim) => (
               <NumberChip
                 key={claim.id}
                 claim={claim}
@@ -158,7 +156,15 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
                 onOpen={setOpenClaim}
               />
             ))}
-          </div>
+          </div>}
+          {unavailableClaims.length > 0 && <details className="record-gaps"><summary>What remains unavailable for this record?</summary>
+            <p>Missing values mean our collected sources do not answer these questions. They are not zeros. Related campus figures, if shown above, keep their own reporting boundaries.</p>
+            <dl>{unavailableClaims.map(claim => <div key={claim.id}>
+              <dt><button type="button" data-metric={claim.metric} onClick={() => setOpenClaim(claim)} aria-label={`${claim.label || claim.metric}: open source drawer`}>{claim.label || claim.metric.replace(/_/g, ' ')}</button></dt>
+              <dd>{!claim.renderable ? claim.blocked_reason || 'Supporting evidence is unavailable.' : claim.value.kind === 'NOT_PUBLISHED' ? claim.value.reason : 'Not available in our sources.'}</dd>
+            </div>)}</dl>
+            <a href="#/learn">Understand these measures and their limits</a>
+          </details>}
           </section>
 
           <PermitPanel payload={payload} />
@@ -167,7 +173,7 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
           <SourceDocuments documents={facility.documents} />
 
           <section className="evidence-section" aria-labelledby="grid-context-title">
-            <h2 id="grid-context-title" className="evidence-section__heading">Grid context</h2>
+            <h2 id="grid-context-title" className="evidence-section__heading">What does the surrounding grid tell us?</h2>
             <p className="evidence-section__note">The region’s electricity background. A geographic grid region does not establish a facility’s utility connection. <a href="#/grid">Explore reported grid demand</a>.</p>
             <GridStrip grid={displayGrid} hourly={hourly} />
             {hourly && <IntensityChart hourly={hourly} />}
@@ -176,6 +182,7 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
           {grid.rate_lb_per_mwh != null && facility.location_quality?.map_eligible !== false && <details className="evidence-scenario"><summary>Open the historical grid calculator</summary>
             <ReferenceCalculator key={facility.id} rate={grid.rate_lb_per_mwh} year={grid.data_vintage} region={grid.subregion_label || grid.egrid_subregion} sourceUrl={displayGrid.source_url} evidenceUrl={displayGrid.evidence_url} />
           </details>}
+          <DataProvenance data={payload.data_status} />
           <details className="pagefoot"><summary>About this snapshot</summary><p>{citationCount} cited claim {citationCount === 1 ? 'passage' : 'passages'}. Document statements and registry links appear in their own sections.</p><p>WattDocket snapshot published {dateLabel(payload.data_status?.built_at ?? payload.as_of)}. Source reporting periods are shown separately.</p></details>
 
         </div>
@@ -225,8 +232,8 @@ function MissingCard({ facilityId, message }: { facilityId: string; message: str
       </p>
       <div className="state__links">
         <button className="ghostbtn" onClick={() => window.location.reload()}>Try again</button>
-        <a className="ghostbtn ghostbtn--quiet" href="#/">
-          ← Evidence atlas
+        <a className="ghostbtn ghostbtn--quiet" href="#/map">
+          Explore public records
         </a>
       </div>
     </div>

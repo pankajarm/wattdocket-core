@@ -13,15 +13,17 @@ const pageStub = {
   setup(builder) {
     builder.onResolve({ filter: /^\.\.?\/auth$/ }, () => ({ path: 'auth', namespace: 'auth-stub' }));
     builder.onLoad({ filter: /.*/, namespace: 'auth-stub' }, () => ({ contents: 'export const authConfigured = false; export const socialProviders = {Facebook: false, Google: false}; export const initializeAuth = async () => null; export const signIn = async () => {}; export const signOut = async () => {};', loader: 'js' }));
-    builder.onResolve({ filter: /^\.\/pages\// }, ({ path }) => ({ path, namespace: 'stub' }));
+    builder.onResolve({ filter: /^\.\/pages\/[^.]+$/ }, ({ path }) => ({ path, namespace: 'stub' }));
     builder.onLoad({ filter: /.*/, namespace: 'stub' }, ({ path }) => {
       const name = path.split('/').at(-1);
       const contents = name === 'AtlasPage'
-        ? `import React from 'react'; export function AtlasPage({onSelectFacility}) {
-            return React.createElement('button', {id:'select-nonhero', onClick:()=>onSelectFacility('echo:110072102042')}, 'Select');
+        ? `import React from 'react'; export function AtlasPage({onSelectFacility,initialQuery,selectedId}) {
+            return React.createElement('div', {id:'page-stub','data-page':'AtlasPage','data-query':initialQuery,'data-selected':selectedId},
+              React.createElement('button', {id:'select-nonhero', onClick:()=>onSelectFacility('echo:110072102042')}, 'Select'));
           }`
-        : `import React from 'react'; export function ${name}({facilityId}) {
-            return React.createElement('div', {id:'page-stub', 'data-id':facilityId || ''});
+        : `import React from 'react'; export function ${name}({facilityId,query,initialQuery,family,locationId,topic}) {
+            return React.createElement('div', {id:'page-stub','data-page':'${name}','data-id':facilityId || '',
+              'data-query':query ?? initialQuery,'data-family':family,'data-location':locationId,'data-topic':topic});
           }`;
       return { contents, loader: 'js' };
     });
@@ -52,21 +54,26 @@ function currentLabels(markup) {
     .map((match) => match[1].replace(/<[^>]*>/g, '').trim());
 }
 
-test('map, address, grid, and data share navigation and mark the current page', () => {
-  for (const [hash, label] of [['#/', 'Map'], ['#/address', 'Address'], ['#/grid', 'Grid'], ['#/data', 'Data']]) {
+test('overview, learning, reported data and investigative tools share navigation and mark their current route', () => {
+  for (const [hash, label] of [
+    ['#/', 'Overview'], ['#/learn', 'Understand'], ['#/learn/water', 'Understand'],
+    ['#/reported', 'Reported data'], ['#/map', 'Records map'], ['#/address', 'Address lookup'],
+    ['#/grid', 'Regional grid'], ['#/data', 'Sources'],
+  ]) {
     const nav = navigation(hash);
     assert.deepEqual(currentLabels(nav), [label]);
-    for (const text of ['Map', 'Address', 'Public card', 'Operator', 'Grid', 'Data']) {
+    for (const text of ['Overview', 'Understand', 'Reported data', 'Records map', 'Regional grid', 'Sources', 'Address lookup']) {
       assert.match(nav, new RegExp(text));
     }
-    assert.equal((nav.match(/aria-disabled="true"/g) ?? []).length, 2);
+    assert.match(nav, /Select a map record to open its operator workspace/);
+    assert.doesNotMatch(nav, /href="#\/(public|operator)\//);
   }
 });
 
 test('facility deep links retain their ID in both navigation destinations', () => {
   for (const [hash, label] of [
-    ['#/public/echo%3A110072102042', 'Public card'],
-    ['#/operator/echo%3A110072102042', 'Operator'],
+    ['#/public/echo%3A110072102042', 'Selected record'],
+    ['#/operator/echo%3A110072102042', 'Operator workspace'],
   ]) {
     const nav = navigation(hash);
     assert.deepEqual(currentLabels(nav), [label]);
@@ -85,15 +92,15 @@ test('snapshot underscore IDs are normalized consistently for navigation', () =>
 test('unknown routes retain the same navigation without claiming a current page', () => {
   const nav = navigation('#/not-a-route');
   assert.deepEqual(currentLabels(nav), []);
-  assert.match(nav, /Map/);
-  assert.match(nav, /Address/);
+  assert.match(nav, /Records map/);
+  assert.match(nav, /Address lookup/);
 });
 
 test('malformed facility links show the not-found view instead of crashing', () => {
   for (const hash of ['#/public/%ZZ', '#/operator/%E0%A4%A']) {
     const nav = navigation(hash);
     assert.deepEqual(currentLabels(nav), []);
-    assert.match(nav, /Map/);
+    assert.match(nav, /Records map/);
   }
 });
 
@@ -119,37 +126,76 @@ function mountApp(hash) {
   function nav() { return root.root.findByProps({'aria-label': 'Main navigation'}); }
   function link(label) { return nav().findAllByType('a').find((a) => a.children.join('') === label); }
   function active() { return nav().findAllByType('a').filter((a) => a.props['aria-current'] === 'page').map((a) => a.children.join('')); }
-  return {root, go, nav, link, active};
+  function page() { return root.root.findByProps({id:'page-stub'}); }
+  return {root, go, nav, link, active, page};
 }
 
-test('selected non-hero facility survives map, card, address, operator, and back navigation', () => {
-  const app = mountApp('#/');
+test('selected record survives overview, learn, reported data, map, card, address and operator navigation', () => {
+  const app = mountApp('#/map');
   act(() => app.root.root.findByProps({id:'select-nonhero'}).props.onClick());
-  assert.equal(app.link('Public card').props.href, '#/public/echo%3A110072102042');
-  app.go(app.link('Public card').props.href);
-  assert.deepEqual(app.active(), ['Public card']);
-  app.go(app.link('Address').props.href);
-  assert.deepEqual(app.active(), ['Address']);
-  assert.equal(app.link('Operator').props.href, '#/operator/echo%3A110072102042');
-  app.go(app.link('Operator').props.href);
-  assert.deepEqual(app.active(), ['Operator']);
+  assert.equal(app.link('Selected record').props.href, '#/public/echo%3A110072102042');
+  app.go(app.link('Selected record').props.href);
+  assert.deepEqual(app.active(), ['Selected record']);
+  for (const [hash,label] of [['#/','Overview'],['#/learn/water','Understand'],['#/reported?family=water','Reported data'],['#/address','Address lookup'],['#/grid','Regional grid']]) {
+    app.go(hash);
+    assert.deepEqual(app.active(), [label]);
+    assert.equal(app.link('Selected record').props.href, '#/public/echo%3A110072102042');
+    assert.equal(app.link('Operator workspace').props.href, '#/operator/echo%3A110072102042');
+  }
+  app.go(app.link('Operator workspace').props.href);
+  assert.deepEqual(app.active(), ['Operator workspace']);
   app.go('#/address'); // equivalent to browser history returning to address
-  app.go('#/');
-  assert.deepEqual(app.active(), ['Map']);
-  assert.equal(app.link('Public card').props.href, '#/public/echo%3A110072102042');
+  app.go('#/map');
+  assert.deepEqual(app.active(), ['Records map']);
+  assert.equal(app.page().props['data-selected'], 'echo:110072102042');
+  assert.equal(app.link('Selected record').props.href, '#/public/echo%3A110072102042');
   act(() => app.root.unmount());
 });
 
 test('direct record route preserves its navigation on other routes and on a simulated refresh', () => {
   const direct = '#/public/echo_110072102042';
   const app = mountApp(direct);
-  assert.deepEqual(app.active(), ['Public card']);
-  assert.equal(app.link('Operator').props.href, '#/operator/echo%3A110072102042');
+  assert.deepEqual(app.active(), ['Selected record']);
+  assert.equal(app.link('Operator workspace').props.href, '#/operator/echo%3A110072102042');
   app.go('#/address');
-  assert.equal(app.link('Public card').props.href, '#/public/echo%3A110072102042');
+  assert.equal(app.link('Selected record').props.href, '#/public/echo%3A110072102042');
   act(() => app.root.unmount());
   const refreshed = mountApp(direct);
-  assert.deepEqual(refreshed.active(), ['Public card']);
-  assert.equal(refreshed.link('Operator').props.href, '#/operator/echo%3A110072102042');
+  assert.deepEqual(refreshed.active(), ['Selected record']);
+  assert.equal(refreshed.link('Operator workspace').props.href, '#/operator/echo%3A110072102042');
   act(() => refreshed.root.unmount());
+});
+
+test('root opens the overview while legacy root searches still open the map with their query', () => {
+  const app=mountApp('#/');
+  assert.equal(app.page().props['data-page'],'AwarenessHomePage');
+  assert.deepEqual(app.active(),['Overview']);
+  for (const hash of ['#/?q=Henrico%20County','#/map?q=Henrico%20County']) {
+    app.go(hash);
+    assert.equal(app.page().props['data-page'],'AtlasPage');
+    assert.equal(app.page().props['data-query'],'Henrico County');
+    assert.deepEqual(app.active(),['Records map']);
+  }
+  app.go('#/?q=');
+  assert.equal(app.page().props['data-page'],'AtlasPage');
+  assert.equal(app.page().props['data-query'],'');
+  act(()=>app.root.unmount());
+});
+
+test('learning and reported links pass their topic, measure, search and location to the correct page', () => {
+  const app=mountApp('#/learn/emissions');
+  assert.equal(app.page().props['data-page'],'LearnPage');
+  assert.equal(app.page().props['data-topic'],'emissions');
+  app.go('#/reported?family=water&q=Douglas%20County&location=google%3Adouglas-county-ga');
+  assert.equal(app.page().props['data-page'],'ReportedDataPage');
+  assert.equal(app.page().props['data-family'],'water');
+  assert.equal(app.page().props['data-query'],'Douglas County');
+  assert.equal(app.page().props['data-location'],'google:douglas-county-ga');
+  app.go('#/reported?measure=electricity');
+  assert.equal(app.page().props['data-family'],'electricity');
+  app.go('#/reported');
+  assert.equal(app.page().props['data-family'],'all');
+  assert.equal(app.page().props['data-query'],'');
+  assert.equal(app.page().props['data-location'],undefined);
+  act(()=>app.root.unmount());
 });

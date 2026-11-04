@@ -5,6 +5,7 @@ import argparse
 import gzip
 import json
 import os
+import time
 import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -19,7 +20,8 @@ POLICIES = {
     "egrid": {"interval": 86400, "stale": 7 * 86400, "required": True, "minimum": 25},
     "egrid_geometry": {"interval": 30 * 86400, "stale": 45 * 86400, "required": True, "minimum": 25},
     "eia930": {"interval": 6 * 3600, "stale": 48 * 3600, "required": True, "minimum": 40},
-    "ercot": {"interval": 15 * 60, "stale": 2 * 3600, "required": True, "minimum": 10},
+    "ercot": {"interval": 15 * 60, "stale": 2 * 3600, "required": True, "minimum": 10,
+              "allow_rolling_window_count": True},
     "virginia_permits": {"interval": 86400, "stale": 3 * 86400, "required": True, "minimum": 150},
     "texas_permits": {"interval": 7 * 86400, "stale": 14 * 86400, "required": False, "minimum": 1},
     "osm": {"interval": 7 * 86400, "stale": 14 * 86400, "required": False, "minimum": 1},
@@ -43,7 +45,22 @@ POLICIES = {
                             "minimum": 6, "maximum": 6, "retry_interval": 86400,
                             "max_normalized_bytes": 1_000_000,
                             "fetcher": {"source_budget_seconds": 60, "max_bytes": 16_000_000}},
+    "nyc_benchmarking": {"interval": 7 * 86400, "stale": 30 * 86400, "required": False,
+                         "minimum": 1, "maximum": 3000, "retry_interval": 86400,
+                         "max_normalized_bytes": 8_000_000,
+                         "fetcher": {"source_budget_seconds": 60, "max_bytes": 4_000_000}},
+    "seattle_benchmarking": {"interval": 7 * 86400, "stale": 30 * 86400, "required": False,
+                             "minimum": 1, "maximum": 2000, "retry_interval": 86400,
+                             "max_normalized_bytes": 8_000_000,
+                             "fetcher": {"source_budget_seconds": 60, "max_bytes": 4_000_000}},
 }
+# Identity partitions isolate publisher outages. They can publish fewer complete
+# links only when the same reviewed rules identify the exact missing evidence.
+for _identity_source in ("google_disclosure_identity", "meta_disclosure_identity", "municipal_disclosure_identity"):
+    POLICIES[_identity_source] = {"interval": 7 * 86400, "stale": 30 * 86400, "required": False,
+        "minimum": 1, "maximum": 512, "retry_interval": 86400, "allow_partial_evidence": True,
+        "max_normalized_bytes": 2_000_000,
+        "fetcher": {"source_budget_seconds": 90, "max_bytes": 16_000_000}}
 LABELS = {"echo": "EPA ECHO", "egrid": "EPA eGRID", "egrid_geometry": "EPA eGRID boundaries",
           "eia930": "EIA-930", "ercot": "ERCOT fuel mix", "virginia_permits": "Virginia DEQ permits",
           "texas_permits": "Selected Texas permits", "osm": "OpenStreetMap",
@@ -52,11 +69,17 @@ LABELS = {"echo": "EPA ECHO", "egrid": "EPA eGRID", "egrid_geometry": "EPA eGRID
           "meta_actuals2024": "Meta 2024 reported campus electricity, water and emissions",
           "massachusetts_energy": "Massachusetts selected building energy disclosures",
           "ghgrp": "EPA GHGRP selected data-processing combustion reports",
-          "disclosure_identity": "Reviewed operator-disclosure identity evidence"}
+          "disclosure_identity": "Reviewed operator-disclosure identity evidence",
+          "nyc_benchmarking": "New York City reported building electricity, water and emissions",
+          "seattle_benchmarking": "Seattle reported building electricity and emissions",
+          "google_disclosure_identity": "Expanded Google campus identity evidence",
+          "meta_disclosure_identity": "Expanded Meta campus identity evidence",
+          "municipal_disclosure_identity": "Expanded municipal reporting identity evidence"}
 
 # Includes the immutable manifest object; the current.json pointer is separate.
 MAX_RELEASE_OBJECTS = 256
 MAX_RELEASE_GZIP_BYTES = 12_000_000
+MAX_COLLECTION_SECONDS = 360
 
 
 def adapters():
@@ -66,6 +89,10 @@ def adapters():
     from .sources_operator_actuals import collect_meta_actuals
     from .sources_facility_reporting import collect_massachusetts_reporting, collect_ghgrp_reporting
     from .facility_disclosure_identity import collect_disclosure_identity
+    from .sources_municipal_reporting import collect_nyc_benchmarking, collect_seattle_benchmarking
+    from .identity_google_expansion import collect_google_identity
+    from .identity_meta_expansion import collect_meta_identity
+    from .identity_municipal_expansion import collect_municipal_identity
     out = {"echo": f.collect_echo, "virginia_permits": f.collect_virginia,
            "osm": f.collect_osm, "egrid": g.collect_egrid, "eia930": g.collect_eia930,
            "ercot": g.collect_ercot, "cornerstone_egrid2024": collect_cornerstone_egrid2024,
@@ -73,7 +100,12 @@ def adapters():
            "meta_actuals2024": collect_meta_actuals,
            "massachusetts_energy": collect_massachusetts_reporting,
            "ghgrp": collect_ghgrp_reporting,
-           "disclosure_identity": collect_disclosure_identity}
+           "disclosure_identity": collect_disclosure_identity,
+           "nyc_benchmarking": collect_nyc_benchmarking,
+           "seattle_benchmarking": collect_seattle_benchmarking,
+           "google_disclosure_identity": collect_google_identity,
+           "meta_disclosure_identity": collect_meta_identity,
+           "municipal_disclosure_identity": collect_municipal_identity}
     if hasattr(g, "collect_egrid_geometry"):
         out["egrid_geometry"] = g.collect_egrid_geometry
     if hasattr(f, "collect_texas"):
@@ -147,7 +179,24 @@ def retain_virginia_document_evidence(result: dict, previous: dict, timestamp: s
                 documents_failed=stale + unavailable)
 
 
-def collect_one(source_id, adapter, store, now, *, force=False, fetcher_factory=CaptureFetcher):
+def explained_identity_drop(result, previous):
+    """An outage may demote its links, but cannot silently remove reviewed rules."""
+    data, old = result.get("data") or {}, previous.get("result", {}).get("data") or {}
+    links, evidence, failed = data.get("links", []), data.get("evidence", []), data.get("failed_documents", [])
+    if not links or not failed or len(failed) != data.get("documents_failed"):
+        return False
+    def rules(rows):
+        return {(r["disclosure_location_id"], r["record_id"]): (r.get("expected_record"), sorted(r.get("evidence_ids", []))) for r in rows}
+    if rules(links) != rules(old.get("links", [])):
+        return False
+    captured, missing = {r.get("id") for r in evidence}, {r.get("id") for r in failed}
+    referenced = {eid for r in links for eid in r.get("evidence_ids", [])}
+    if captured & missing or not referenced <= captured | missing:
+        return False
+    return result["record_count"] == sum(set(r["evidence_ids"]) <= captured for r in links)
+
+
+def collect_one(source_id, adapter, store, now, *, force=False, fetcher_factory=CaptureFetcher, deadline=None):
     policy = POLICIES[source_id]
     key = f"state/sources/{source_id}.json"
     previous = read_json(store, key, {})
@@ -160,9 +209,16 @@ def collect_one(source_id, adapter, store, now, *, force=False, fetcher_factory=
     if not due:
         return health(previous, now, policy)
     timestamp = stamp(now)
-    fetcher = fetcher_factory(store, now, **policy.get("fetcher", {}))
+    fetcher = None
     state = {**previous, "last_attempt_at": timestamp, "error": None}
     try:
+        options = dict(policy.get("fetcher", {}))
+        if deadline is not None:
+            remaining = deadline - time.monotonic()
+            if remaining <= 0:
+                raise TimeoutError("Job collection deadline exhausted; retaining last-good source")
+            options["source_budget_seconds"] = min(options.get("source_budget_seconds", 150), remaining)
+        fetcher = fetcher_factory(store, now, **options)
         result = adapter(fetcher, now=now).as_dict()
         if result["source_id"] != source_id:
             raise ValueError("Adapter source identity changed")
@@ -173,7 +229,12 @@ def collect_one(source_id, adapter, store, now, *, force=False, fetcher_factory=
         if policy.get("maximum") is not None and count > policy["maximum"]:
             raise ValueError(f"Source count {count} exceeds reviewed coverage gate {policy['maximum']}")
         prior_count = previous.get("record_count") or 0
-        if prior_count and count < prior_count * .9:
+        partial_identity = policy.get("allow_partial_evidence") and explained_identity_drop(result, previous)
+        validation = (result.get("data") or {}).get("validation", {}) if isinstance(result.get("data"), dict) else {}
+        rolling_series = (source_id == "ercot" and policy.get("allow_rolling_window_count") is True and
+                          validation.get("rolling_window_count_change_safe") is True and
+                          validation.get("record_count_semantics") == "rolling_operating_days")
+        if prior_count and count < prior_count * .9 and not (partial_identity or rolling_series):
             raise ValueError(f"Unexplained inventory drop: {prior_count} -> {count}; requires review")
         canonical = json_bytes(result)
         if len(canonical) > policy.get("max_normalized_bytes", 100_000_000):
@@ -197,7 +258,7 @@ def collect_one(source_id, adapter, store, now, *, force=False, fetcher_factory=
         state.setdefault("label", LABELS.get(source_id, source_id))
         state.setdefault("url", None)
         state.setdefault("record_count", 0)
-        state["failed_attempt_receipts"] = list(fetcher.receipts.values())
+        state["failed_attempt_receipts"] = list(fetcher.receipts.values()) if fetcher else []
     state = health(state, now, policy)
     store.put(key, json_bytes(state))
     store.put(f"runs/{timestamp.replace(':', '')}/sources/{source_id}.json", json_bytes(state), create_only=True)
@@ -252,8 +313,9 @@ def run(archive, public, *, now=None, force=False, selected=None, adapter_map=No
     states = {}
     try:
         # Bound network/CPU concurrency and isolate each source's failure.
+        deadline = time.monotonic() + MAX_COLLECTION_SECONDS
         with ThreadPoolExecutor(max_workers=3) as pool:
-            pending = {pool.submit(collect_one, sid, adapter, archive, now, force=force): sid
+            pending = {pool.submit(collect_one, sid, adapter, archive, now, force=force, deadline=deadline): sid
                        for sid, adapter in available.items() if sid in selected}
             for future in as_completed(pending):
                 states[pending[future]] = future.result()
@@ -272,7 +334,7 @@ def run(archive, public, *, now=None, force=False, selected=None, adapter_map=No
         if (len(rate_years) == 1 and None not in rate_years and geo_data and
                 geo_data.get("data_year") not in rate_years and "egrid_geometry" in available and
                 geo_state.get("last_attempt_at") != timestamp):
-            states["egrid_geometry"] = collect_one("egrid_geometry", available["egrid_geometry"], archive, now, force=True)
+            states["egrid_geometry"] = collect_one("egrid_geometry", available["egrid_geometry"], archive, now, force=True, deadline=deadline)
         missing = [sid for sid, policy in POLICIES.items() if policy["required"] and not states[sid].get("result")]
         if missing:
             raise ValueError("Required sources unavailable: " + ", ".join(missing))
@@ -290,7 +352,7 @@ def run(archive, public, *, now=None, force=False, selected=None, adapter_map=No
         manifest = {"schema_version": SCHEMA_VERSION, "release_id": release_id, "built_at": timestamp,
                     "revision": revision, "base_path": f"/data/releases/{release_id}",
                     "coverage": coverage, "previous_release_id": old_manifest.get("release_id") if old_manifest else None}
-        for name, filename in (("cards_path", "cards.json"), ("drawers_path", "drawers.json"), ("operators_path", "operators.json"), ("explain_path", "explain.json")):
+        for name, filename in (("cards_path", "cards.json"), ("drawers_path", "drawers.json"), ("operators_path", "operators.json")):
             manifest[name] = manifest["base_path"] + "/" + filename
         if promote:
             manifest = publish(public, files, manifest, previous=previous)

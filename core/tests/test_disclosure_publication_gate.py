@@ -146,3 +146,22 @@ def test_empty_reporting_collection_is_valid_without_fake_actuals():
     payload["coverage"] = {key: 0 for key in coverage}
     coverage = dict(payload["coverage"])
     validate_disclosure_publication(payload, cards, coverage)
+
+
+def test_primary_address_proven_osm_coverage_requires_its_exact_identity_and_no_invented_frs():
+    payload, cards, coverage = sample()
+    card = cards.pop('echo_123')
+    fid = 'osm:way:578412815'
+    link = payload['locations'][0]['record_links'][0]
+    link['record_id'] = fid
+    link['expected_record'].update(id=fid, registry_id=None, program_id=None)
+    card['facility'].update(id=fid, registry_id=None, record_summary=[])
+    cards['osm_way_578412815'] = card
+    validate_disclosure_publication(payload, cards, coverage)
+    card['facility']['registry_id'] = '578412815'
+    with pytest.raises(RecordEvidenceError):
+        validate_disclosure_publication(payload, cards, coverage)
+    card['facility']['registry_id'] = None
+    card['facility']['address'] = '999 Wrong Road'
+    with pytest.raises(RecordEvidenceError):
+        validate_disclosure_publication(payload, cards, coverage)

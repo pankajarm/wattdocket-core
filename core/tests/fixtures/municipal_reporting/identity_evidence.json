@@ -1,0 +1,86 @@
+{
+  "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110009589267/JSON": {
+    "raw_text": "[\n{\n  \"state_name\": \"MASSACHUSETTS\",\n  \"location_address\": \"250 LOCKE DR\",\n  \"update_date\": null,\n  \"std_full_address\": \"250 LOCKE DR, MARLBOROUGH, MA  01752 US\",\n  \"user_id\": \"KBLUMBER\",\n  \"std_city_name\": \"MARLBOROUGH\",\n  \"country_name\": \"UNITED STATES\",\n  \"tribal_land_name\": null,\n  \"federal_agency_code\": null,\n  \"std_stype_before\": null,\n  \"std_base_name\": \"LOCKE\",\n  \"std_stype_after\": \"DR\",\n  \"refresh_date\": null,\n  \"parent_registry_id\": null,\n  \"std_name\": \"SUNGARD AVLBLTY SVC\",\n  \"create_date\": null,\n  \"city_name\": \"MARLBOROUGH\",\n  \"federal_facility_code\": \"N\",\n  \"tribal_land_code\": \"N\",\n  \"site_type_name\": \"STATIONARY\",\n  \"registry_id\": \"110009589267\",\n  \"primary_name\": \"SUNGARD AVAILABILITY SERVICES LP\",\n  \"std_state_code\": \"MA\",\n  \"county_name\": \"MIDDLESEX\",\n  \"small_bus_ind\": null,\n  \"std_street_name\": \"LOCKE DR\",\n  \"interest_status_code\": null,\n  \"review_reason\": \"NAME MISMATCH -EIS - 14520211\",\n  \"postal_code\": \"01752\",\n  \"sensitive_ind\": \"N\",\n  \"operating_status\": null,\n  \"std_county_fips\": \"25017\",\n  \"fips_code\": \"25017\",\n  \"stand_alone_flag\": \"Y\",\n  \"std_house_number\": \"250\",\n  \"location_description\": null,\n  \"std_county_name\": \"MIDDLESEX COUNTY\",\n  \"std_prefix\": null,\n  \"std_country\": \"US\",\n  \"icis_identifier\": null,\n  \"public_ind\": \"Y\",\n  \"review_flag\": \"Y\",\n  \"supplemental_location\": null,\n  \"epa_region_code\": \"01\",\n  \"state_code\": \"MA\",\n  \"data_quality_code\": \"V\",\n  \"addr_type\": \"REGULAR URBAN\",\n  \"std_postal_code\": \"01752\",\n  \"last_reported_date\": null,\n  \"legislative_dist_num\": \"C \",\n  \"std_loc_address\": \"250 LOCKE DR\",\n  \"std_suffix\": null\n}\n]",
+    "receipt": {
+      "bytes": 1592,
+      "content_type": "application/json",
+      "etag": null,
+      "final_url": "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110009589267/JSON",
+      "last_modified": null,
+      "raw_key": "raw/032c18c9f132cc14e2dbaacceec6cc4638ef0296a1defef17bc38eadbb979181.gz",
+      "retrieved_at": "2026-11-04T21:57:45Z",
+      "sha256": "032c18c9f132cc14e2dbaacceec6cc4638ef0296a1defef17bc38eadbb979181",
+      "url": "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110009589267/JSON"
+    }
+  },
+  "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110024314222/JSON": {
+    "raw_text": "[\n{\n  \"state_name\": \"MASSACHUSETTS\",\n  \"location_address\": \"70 INNERBELT RD\",\n  \"update_date\": null,\n  \"std_full_address\": \"70 INNERBELT RD, SOMERVILLE, MA  02143 US\",\n  \"user_id\": \"BATCH\",\n  \"std_city_name\": \"SOMERVILLE\",\n  \"country_name\": \"UNITED STATES\",\n  \"tribal_land_name\": null,\n  \"federal_agency_code\": null,\n  \"std_stype_before\": null,\n  \"std_base_name\": \"INNERBELT\",\n  \"std_stype_after\": \"RD\",\n  \"refresh_date\": null,\n  \"parent_registry_id\": null,\n  \"std_name\": \"INTERNAP NTWRK SVC\",\n  \"create_date\": null,\n  \"city_name\": \"SOMERVILLE\",\n  \"federal_facility_code\": \"N\",\n  \"tribal_land_code\": \"N\",\n  \"site_type_name\": \"STATIONARY\",\n  \"registry_id\": \"110024314222\",\n  \"primary_name\": \"INTERNAP NETWORK SERVICES\",\n  \"std_state_code\": \"MA\",\n  \"county_name\": \"MIDDLESEX\",\n  \"small_bus_ind\": \"N\",\n  \"std_street_name\": \"INNERBELT RD\",\n  \"interest_status_code\": null,\n  \"review_reason\": null,\n  \"postal_code\": \"021430000\",\n  \"sensitive_ind\": null,\n  \"operating_status\": null,\n  \"std_county_fips\": \"25017\",\n  \"fips_code\": \"25017\",\n  \"stand_alone_flag\": \"Y\",\n  \"std_house_number\": \"70\",\n  \"location_description\": null,\n  \"std_county_name\": \"MIDDLESEX COUNTY\",\n  \"std_prefix\": null,\n  \"std_country\": \"US\",\n  \"icis_identifier\": null,\n  \"public_ind\": \"Y\",\n  \"review_flag\": null,\n  \"supplemental_location\": null,\n  \"epa_region_code\": \"01\",\n  \"state_code\": \"MA\",\n  \"data_quality_code\": \"V\",\n  \"addr_type\": \"REGULAR URBAN\",\n  \"std_postal_code\": \"02143\",\n  \"last_reported_date\": null,\n  \"legislative_dist_num\": null,\n  \"std_loc_address\": \"70 INNERBELT RD\",\n  \"std_suffix\": null\n}\n]",
+    "receipt": {
+      "bytes": 1572,
+      "content_type": "application/json",
+      "etag": null,
+      "final_url": "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110024314222/JSON",
+      "last_modified": null,
+      "raw_key": "raw/f6b19b2cf49a568a47c4311c8de7a558039d908edccccb15fb9558e5628570e2.gz",
+      "retrieved_at": "2026-11-04T21:57:45Z",
+      "sha256": "f6b19b2cf49a568a47c4311c8de7a558039d908edccccb15fb9558e5628570e2",
+      "url": "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110024314222/JSON"
+    }
+  },
+  "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110070550595/JSON": {
+    "raw_text": "[\n{\n  \"state_name\": \"MASSACHUSETTS\",\n  \"location_address\": \"600 FRIBERG PKWY\",\n  \"update_date\": null,\n  \"std_full_address\": \"600 FRIBERG PKWY, WESTBOROUGH, MA  01581 US\",\n  \"user_id\": \"REFRESH\",\n  \"std_city_name\": \"WESTBOROUGH\",\n  \"country_name\": \"USA\",\n  \"tribal_land_name\": null,\n  \"federal_agency_code\": null,\n  \"std_stype_before\": null,\n  \"std_base_name\": \"FRIBERG\",\n  \"std_stype_after\": \"PKWY\",\n  \"refresh_date\": null,\n  \"parent_registry_id\": null,\n  \"std_name\": \"SSB RLTY WESTBOROUGH DATA CTR\",\n  \"create_date\": null,\n  \"city_name\": \"WESTBOROUGH\",\n  \"federal_facility_code\": \"N\",\n  \"tribal_land_code\": \"N\",\n  \"site_type_name\": null,\n  \"registry_id\": \"110070550595\",\n  \"primary_name\": \"SSB REALTY WESTBOROUGH DATA CENTER\",\n  \"std_state_code\": \"MA\",\n  \"county_name\": \"WORCESTER\",\n  \"small_bus_ind\": null,\n  \"std_street_name\": \"FRIBERG PKWY\",\n  \"interest_status_code\": null,\n  \"review_reason\": null,\n  \"postal_code\": \"015810000\",\n  \"sensitive_ind\": \"N\",\n  \"operating_status\": null,\n  \"std_county_fips\": \"25027\",\n  \"fips_code\": \"25027\",\n  \"stand_alone_flag\": \"Y\",\n  \"std_house_number\": \"600\",\n  \"location_description\": null,\n  \"std_county_name\": \"WORCESTER COUNTY\",\n  \"std_prefix\": null,\n  \"std_country\": \"US\",\n  \"icis_identifier\": null,\n  \"public_ind\": \"Y\",\n  \"review_flag\": null,\n  \"supplemental_location\": null,\n  \"epa_region_code\": \"01\",\n  \"state_code\": \"MA\",\n  \"data_quality_code\": \"V\",\n  \"addr_type\": null,\n  \"std_postal_code\": \"01581\",\n  \"last_reported_date\": null,\n  \"legislative_dist_num\": null,\n  \"std_loc_address\": \"600 FRIBERG PKWY\",\n  \"std_suffix\": null\n}\n]",
+    "receipt": {
+      "bytes": 1572,
+      "content_type": "application/json",
+      "etag": null,
+      "final_url": "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110070550595/JSON",
+      "last_modified": null,
+      "raw_key": "raw/c751f277148c53907e17164a8d2be076f0c0e652b4c0dbcf6f300792a6f04b39.gz",
+      "retrieved_at": "2026-11-04T21:57:45Z",
+      "sha256": "c751f277148c53907e17164a8d2be076f0c0e652b4c0dbcf6f300792a6f04b39",
+      "url": "https://data.epa.gov/efservice/FRS_FACILITY_SITE/REGISTRY_ID/110070550595/JSON"
+    }
+  },
+  "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC7CJ9%2B9W9-12-20-14-20%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json": {
+    "raw_text": "{\"objectIdFieldName\":\"FID\",\"uniqueIdField\":{\"name\":\"FID\",\"isSystemMaintained\":true},\"globalIdFieldName\":\"\",\"geometryType\":\"esriGeometryPoint\",\"spatialReference\":{\"wkid\":102100,\"latestWkid\":3857},\"fields\":[{\"name\":\"UBID\",\"type\":\"esriFieldTypeString\",\"alias\":\"UBID\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"Street_Address\",\"type\":\"esriFieldTypeString\",\"alias\":\"Street Address\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"City\",\"type\":\"esriFieldTypeString\",\"alias\":\"City\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"Gross_Floor_Area\",\"type\":\"esriFieldTypeSingle\",\"alias\":\"Gross Floor Area\",\"sqlType\":\"sqlTypeReal\",\"domain\":null,\"defaultValue\":null}],\"features\":[{\"attributes\":{\"UBID\":\"87JC7CJ9+9W9-12-20-14-20\",\"Street_Address\":\"600 Friberg Parkway\",\"City\":\"Westborough\",\"Gross_Floor_Area\":99160}}]}",
+    "receipt": {
+      "bytes": 925,
+      "content_type": "application/json",
+      "etag": "sd259651_1751208312",
+      "final_url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC7CJ9%2B9W9-12-20-14-20%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json",
+      "last_modified": "Fri, 30 Oct 2026 20:57:15 GMT",
+      "raw_key": "raw/d67dec3e7c26fb09b10773e84f8da9fbe30c408dd4b7ef08f3cffa19fee0bb44.gz",
+      "retrieved_at": "2026-11-04T21:57:45Z",
+      "sha256": "d67dec3e7c26fb09b10773e84f8da9fbe30c408dd4b7ef08f3cffa19fee0bb44",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC7CJ9%2B9W9-12-20-14-20%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json"
+    }
+  },
+  "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC9C27%2BXHM-13-17-12-17%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json": {
+    "raw_text": "{\"objectIdFieldName\":\"FID\",\"uniqueIdField\":{\"name\":\"FID\",\"isSystemMaintained\":true},\"globalIdFieldName\":\"\",\"geometryType\":\"esriGeometryPoint\",\"spatialReference\":{\"wkid\":102100,\"latestWkid\":3857},\"fields\":[{\"name\":\"UBID\",\"type\":\"esriFieldTypeString\",\"alias\":\"UBID\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"Street_Address\",\"type\":\"esriFieldTypeString\",\"alias\":\"Street Address\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"City\",\"type\":\"esriFieldTypeString\",\"alias\":\"City\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"Gross_Floor_Area\",\"type\":\"esriFieldTypeSingle\",\"alias\":\"Gross Floor Area\",\"sqlType\":\"sqlTypeReal\",\"domain\":null,\"defaultValue\":null}],\"features\":[{\"attributes\":{\"UBID\":\"87JC9C27+XHM-13-17-12-17\",\"Street_Address\":\"250 Locke Dr\",\"City\":\"Marlborough\",\"Gross_Floor_Area\":44204}}]}",
+    "receipt": {
+      "bytes": 918,
+      "content_type": "application/json",
+      "etag": "sd259651_1751208312",
+      "final_url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC9C27%2BXHM-13-17-12-17%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json",
+      "last_modified": "Fri, 30 Oct 2026 20:57:15 GMT",
+      "raw_key": "raw/010055cd0ae885a3028f0cefb384ec5872a6cdfbbc7abefcb8beb9449f2426e0.gz",
+      "retrieved_at": "2026-11-04T21:57:45Z",
+      "sha256": "010055cd0ae885a3028f0cefb384ec5872a6cdfbbc7abefcb8beb9449f2426e0",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC9C27%2BXHM-13-17-12-17%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json"
+    }
+  },
+  "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC9WGC%2BM3Q-24-19-25-20%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json": {
+    "raw_text": "{\"objectIdFieldName\":\"FID\",\"uniqueIdField\":{\"name\":\"FID\",\"isSystemMaintained\":true},\"globalIdFieldName\":\"\",\"geometryType\":\"esriGeometryPoint\",\"spatialReference\":{\"wkid\":102100,\"latestWkid\":3857},\"fields\":[{\"name\":\"UBID\",\"type\":\"esriFieldTypeString\",\"alias\":\"UBID\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"Street_Address\",\"type\":\"esriFieldTypeString\",\"alias\":\"Street Address\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"City\",\"type\":\"esriFieldTypeString\",\"alias\":\"City\",\"sqlType\":\"sqlTypeNVarchar\",\"length\":4000,\"domain\":null,\"defaultValue\":null},{\"name\":\"Gross_Floor_Area\",\"type\":\"esriFieldTypeSingle\",\"alias\":\"Gross Floor Area\",\"sqlType\":\"sqlTypeReal\",\"domain\":null,\"defaultValue\":null}],\"features\":[{\"attributes\":{\"UBID\":\"87JC9WGC+M3Q-24-19-25-20\",\"Street_Address\":\"70 Inner Belt Rd\",\"City\":\"Somerville\",\"Gross_Floor_Area\":273180}}]}",
+    "receipt": {
+      "bytes": 922,
+      "content_type": "application/json",
+      "etag": "sd259651_1751208312",
+      "final_url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC9WGC%2BM3Q-24-19-25-20%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json",
+      "last_modified": "Fri, 30 Oct 2026 20:57:15 GMT",
+      "raw_key": "raw/0163d0e62284627db60ee8292e3df723d08dda0c715f5f2c322319a62767d176.gz",
+      "retrieved_at": "2026-11-04T21:57:45Z",
+      "sha256": "0163d0e62284627db60ee8292e3df723d08dda0c715f5f2c322319a62767d176",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/2026_10_28_LBER_Annual_Report_Data/FeatureServer/0/query?where=UBID%3D%2787JC9WGC%2BM3Q-24-19-25-20%27&outFields=UBID%2CStreet_Address%2CCity%2CGross_Floor_Area&returnGeometry=false&f=json"
+    }
+  }
+}

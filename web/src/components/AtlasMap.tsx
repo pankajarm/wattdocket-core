@@ -172,9 +172,9 @@ export function AtlasMap({ facilities, selectedId, onSelect, focusToken = 0 }: P
 
   return (
     <div className="atlas-map-shell">
-      <div ref={containerRef} className="atlas-map" aria-label="Map of listed facilities. Use the results list to select a record without the map." />
-      {tileUnavailable && <div className="atlas-map-notice" role="status">Map background unavailable. Site markers and the results list remain available.</div>}
-      <div className="atlas-map-legend"><span className="atlas-map-legend__dot" aria-hidden="true" /><span>Listed facility</span><span className="atlas-map-legend__divider" aria-hidden="true">·</span><span className="atlas-map-legend__explanation">Clusters group nearby sites</span></div>
+      <div ref={containerRef} className="atlas-map" aria-label="Map of public source records. Use the results list to select a record without the map." />
+      {tileUnavailable && <div className="atlas-map-notice" role="status">Map background unavailable. Record markers and the results list remain available.</div>}
+      <div className="atlas-map-legend"><span className="atlas-map-legend__dot" aria-hidden="true" /><span>Source record</span><span className="atlas-map-legend__divider" aria-hidden="true">·</span><span className="atlas-map-legend__explanation">Clusters group nearby record locations</span></div>
     </div>
   );
 }

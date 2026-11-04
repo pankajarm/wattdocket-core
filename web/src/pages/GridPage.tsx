@@ -6,7 +6,7 @@ import { useElementWidth } from '../router';
 import './data-pages.css';
 
 const finite = (value: unknown): value is number => typeof value === 'number' && Number.isFinite(value);
-const number = (value: number | null | undefined) => finite(value) ? value.toLocaleString('en-US', { maximumFractionDigits: 1 }) : 'Not reported';
+const number = (value: number | null | undefined) => finite(value) ? value.toLocaleString('en-US', { maximumFractionDigits: 1 }) : 'Unavailable';
 
 export function GridPage() {
   const [regions, setRegions] = useState<GridRegionSummary[] | null>(null);
@@ -20,13 +20,14 @@ export function GridPage() {
   const observed = ordered.filter((row) => finite(row.demand_mw) || finite(row.generation_mw) || Object.values(row.fuel_mix ?? {}).some(finite));
   const latest = observed[observed.length - 1];
   const fuels = latest?.fuel_mix ? Object.entries(latest.fuel_mix).filter(([, value]) => finite(value)).sort((a, b) => b[1] - a[1]) : [];
-  return <main className="page data-page">
-    <header className="data-page__header"><h1>The electricity grid, in context.</h1><p>Reported regional demand and generation. These observations describe the grid as a whole; they do not measure a particular facility.</p></header>
+  return <main className="page data-page evidence-grid">
+    <header className="data-page__header"><h1>What is happening on the regional grid?</h1><p>Follow reported electricity demand and generation across a region. These observations cover the wider system, including homes and businesses. They do not isolate data center demand or explain a household bill.</p></header>
+    <div className="grid-reading-guide"><p><strong>Demand</strong> is the rate of electricity use, shown in megawatts (MW). <strong>Generation</strong> is electricity being produced. Annual energy use is a different measure.</p><a href="#/learn/electricity">Understand power and energy</a><a href="#/reported?family=electricity">Browse annual electricity disclosures</a></div>
     {indexError ? <div className="data-message" role="alert"><h2>The grid feed is unavailable</h2><p>{indexError}</p><button className="ghostbtn" onClick={() => window.location.reload()}>Reload data</button></div>
       : !regions ? <p className="data-message" role="status">Loading grid regions…</p>
       : regions.length === 0 ? <p className="data-message">No grid regions were published in this release. <a href="#/data">Check source status</a>.</p>
       : <>
-        <div className="grid-controls"><label htmlFor="grid-region">Region<select id="grid-region" value={code} onChange={(event) => setCode(event.target.value)}>{regions.map((region) => <option key={region.code} value={region.code}>{region.name} ({region.code})</option>)}</select></label><a href="#/data">Source coverage &amp; freshness</a></div>
+        <div className="grid-controls"><label htmlFor="grid-region">Region<select id="grid-region" value={code} onChange={(event) => setCode(event.target.value)}>{regions.map((region) => <option key={region.code} value={region.code}>{region.name} ({region.code})</option>)}</select></label><a href="#/data">Sources and observation dates</a></div>
         {seriesError ? <p className="data-message" role="alert">{seriesError} Select another region or reload to retry.</p>
           : !series ? <p className="data-message" role="status">Loading reported observations…</p>
           : <section className="grid-observations" aria-live="polite">
@@ -37,7 +38,7 @@ export function GridPage() {
               <DemandChart readings={ordered.slice(-72)} />
               {fuels.length > 0 && <div className="grid-fuels"><h3>Generation by fuel in the latest interval</h3><dl>{fuels.map(([fuel, value]) => <div key={fuel}><dt>{fuel.replace(/_/g, ' ')}</dt><dd>{number(value)} MW</dd></div>)}</dl></div>}
               <details className="grid-table-details"><summary>Read the latest {Math.min(48, ordered.length)} intervals</summary><div className="data-table-scroll"><table className="data-table"><thead><tr><th scope="col">Interval start (UTC)</th><th scope="col">Minutes</th><th scope="col">Demand (MW)</th><th scope="col">Generation (MW)</th></tr></thead><tbody>{ordered.slice(-48).reverse().map((row) => <tr key={row.interval_start_utc}><th scope="row">{dateLabel(row.interval_start_utc, true)}</th><td>{row.interval_minutes}</td><td>{number(row.demand_mw)}</td><td>{number(row.generation_mw)}</td></tr>)}</tbody></table></div></details>
-            </> : <p className="data-message">This region has no published observations in the current release.</p>}
+            </> : <p className="data-message">No observations for this region are available in this release. This does not mean demand or generation was zero.</p>}
             {series.five_minute && <FiveMinuteFuel series={series.five_minute} />}
           </section>}
       </>}

@@ -39,7 +39,11 @@ test('new bounds preserve scenario meaning while cached percentile-shaped releas
 test('suspect record coordinates are excluded from nearest and address matching',()=>{
   const e={id:'echo:1',name:'Contact address',lat:38,lon:-77,address_line:'100 MAIN ST',zip:'20001',location_quality:{status:'suspect',address_type:'mailing',map_eligible:false,reasons:['mailing address']}};
   assert.deepEqual(nearestFacilities([e],38,-77),[]);assert.equal(facilityAtAddress([e],{matched_address:'100 MAIN ST, WASHINGTON, DC, 20001',lat:38,lon:-77}),null);
-  assert.match(renderToStaticMarkup(React.createElement(RecordQuality,{facility:e})),/Map pin and geographic calculations withheld/);
+  const html=renderToStaticMarkup(React.createElement(RecordQuality,{facility:e}));
+  assert.match(html,/Location needs review/);
+  assert.match(html,/Address type: mailing/);
+  assert.match(html,/Location not shown on the map; geographic calculations are unavailable/);
+  assert.doesNotMatch(html,/Physical location supported/);
 });
 test('historical factor year and evidence link stay beside the rate',()=>{
   const html=renderToStaticMarkup(React.createElement(GridStrip,{grid:{egrid_subregion:'NWPP',data_vintage:'2023',rate_lb_per_mwh:635,source_url:'https://example.gov/workbook.xlsx',evidence_url:'/data/releases/a/evidence/egrid/NWPP.json'},hourly:null}));
@@ -58,7 +62,13 @@ test('mobile navigation opens explicitly and closes on route selection',()=>{
   let root;act(()=>{root=TestRenderer.create(React.createElement(TopBar,{active:'map',facilityId:'echo:1',signedIn:false,onSignOut(){}}));});
   const toggle=root.root.findByProps({className:'nav-toggle'});assert.equal(toggle.props['aria-expanded'],false);
   act(()=>toggle.props.onClick());assert.equal(toggle.props['aria-expanded'],true);
-  act(()=>root.root.findByProps({id:'main-navigation'}).props.onClick());assert.equal(toggle.props['aria-expanded'],false);act(()=>root.unmount());
+  const nav=root.root.findByProps({id:'main-navigation'});
+  act(()=>nav.props.onClick({target:{closest:()=>null}}));
+  assert.equal(toggle.props['aria-expanded'],true,'opening Tools does not collapse mobile navigation');
+  const destination=nav.findByProps({href:'#/reported'});
+  act(()=>nav.props.onClick({target:{closest(selector){assert.equal(selector,'a');return destination;}}}));
+  assert.equal(toggle.props['aria-expanded'],false,'following a navigation link closes mobile navigation');
+  act(()=>root.unmount());
 });
 
 test('an unmatched record with no match method renders without inventing a verified identity',()=>{
