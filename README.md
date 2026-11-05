@@ -9,6 +9,14 @@ Built for the **Meta Global AI Developer Hackathon, Indie track**.
 
 WattDocket does **not** claim to know a facility's actual electricity demand, water use or annual emissions when the public record is silent. A reference load is a chosen assumption, clearly labeled as a scenario — never presented as the facility's real consumption.
 
+## Watch the demo
+
+[![Watch the WattDocket demo — 2 minutes 52 seconds](https://wattdocket.com/media/wattdocket-demo-31ba55c1-poster-v2.jpg)](https://wattdocket.com/media/wattdocket-demo-31ba55c1.mp4)
+
+**[Watch the 2:52 demo](https://wattdocket.com/media/wattdocket-demo-31ba55c1.mp4)** · [Watch with captions and chapter shortcuts](https://wattdocket.com/)
+
+See reported data, quoted permit conditions, a live Meta Muse Spark explanation, and the historical grid calculator.
+
 ## What it does
 
 - **Facility atlas and public cards.** Search by address, facility name or EPA ECHO id. Each card shows attributed source records, EPA AIR program status and identifiers, strict county/registration links, and available document evidence. Name-only matches stay candidates.
