@@ -65,6 +65,7 @@ the card says "not available" instead of filling the blank.
   fail-closed daily limit caps paid calls. Each release publishes those facts
   for every ECHO card; OpenStreetMap records without reviewed facts show a
   labelled template instead.
+- **Meta Muse Code CLI (`muse`).** Used for repository work, code review, test runs and release synchronization of the public snapshot. It is development tooling, separate from the runtime model path; the product calls only Muse Spark through the Meta Model API.
 - **Publication:** a scheduled collector archives every source response,
   validates identities and evidence, and publishes immutable releases. The
   browser pins one release per session.
@@ -109,7 +110,7 @@ number came from, and refusing to fill a blank with something plausible.
 
 ## Built with
 
-`meta-muse-spark` · `meta-model-api` · `python` · `react` · `typescript` ·
+`meta-muse-spark` · `meta-muse-code` · `meta-model-api` · `python` · `react` · `typescript` ·
 `vite` · `leaflet` · `openstreetmap` · `pymupdf` · `epa-echo` · `egrid` ·
 `eia-930` · `ercot`
 

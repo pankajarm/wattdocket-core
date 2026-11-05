@@ -40,6 +40,10 @@ The model never sees client-supplied text, and a reply containing an unbound num
 
 The application uses Meta Muse Spark only. No other AI model or coding tool is part of the runtime.
 
+## Development tooling
+
+WattDocket was developed and released with **Meta Muse Code CLI (`muse`)** for repository work, code review, test runs and release synchronization. Muse Code is development tooling, not part of the runtime; the deployed product uses only Meta Muse Spark through the Meta Model API.
+
 ## Repository layout
 
 | Path | Responsibility |
