@@ -47,7 +47,7 @@ jobs:
 
   browser:
     name: Browser / local snapshot
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     defaults:
       run:
@@ -62,9 +62,14 @@ jobs:
           cache: npm
           cache-dependency-path: web/package-lock.json
       - run: npm ci
-      - run: npx playwright install --with-deps chromium
+      # The official Ubuntu runner includes Chrome, including H.264 playback.
+      # Use it directly instead of adding an apt/browser download to every run.
+      - name: Check the runner's installed browser
+        run: google-chrome --version
       - run: npm run build
       - name: Exercise the clone with external requests blocked
+        env:
+          PLAYWRIGHT_CHANNEL: chrome
         run: npm run test:browser
 
   python:
