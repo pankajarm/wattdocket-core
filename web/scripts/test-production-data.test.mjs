@@ -8,7 +8,7 @@ const bundle = await build({
   stdin: { contents: `export * from './src/api'; export * from './src/normalise'; export * from './src/dataPresentation';`, resolveDir: fileURLToPath(new URL('../', import.meta.url)), loader: 'ts' },
   bundle: true, write: false, platform: 'node', format: 'cjs', define: { 'import.meta.env': 'globalThis.__testEnv' },
 });
-function api(fetcher, env = {}) {
+function api(fetcher, env = { VITE_EXPLAIN_URL: 'http://127.0.0.1:8787/explain' }) {
   globalThis.window = { setTimeout, clearTimeout };
   globalThis.__testEnv = env;
   globalThis.fetch = fetcher;
@@ -98,36 +98,73 @@ test('mismatched releases and external bundle paths are rejected', async () => {
   await assert.rejects(client.getFacilityIndex(), /invalid bundle path/);
 });
 
-test('production explanation calls the guarded model endpoint with only the facility id', async () => {
+test('production explanation sends only the displayed release and canonical subject identity', async () => {
   const calls = [];
+  const reply = {text:'A guarded model sentence.',source:'model',degraded:false,release_id:'release-a',subject:{kind:'facility',id:'osm:123'},citations:[],qualifiers:[],fact_ids:['source-record'],cited_facts:[{id:'source-record',text:'A source record exists.',scope:'source_record'}],validation:{level:'numerals_citations_and_qualifiers',label:'Numbers, citations and scope qualifiers checked'}};
   const client = api(async (url, init) => {
     calls.push({ url, body: init?.body });
-    return response({ text: 'A guarded model sentence.', source: 'model', degraded: false });
-  }, { VITE_EXPLAIN_URL: 'https://explain.example/' });
+    return response(reply);
+  });
   const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
   assert.equal(calls.length, 1);
-  assert.equal(calls[0].url, 'https://explain.example/');
-  assert.deepEqual(JSON.parse(calls[0].body), { payload: { facility_id: 'osm_123' } });
-  assert.deepEqual(result, { text: 'A guarded model sentence.', source: 'model', degraded: false });
+  assert.equal(calls[0].url, 'http://127.0.0.1:8787/explain');
+  assert.deepEqual(JSON.parse(calls[0].body), {release_id:'release-a',subject:{kind:'facility',id:'osm:123'}});
+  assert.deepEqual(result, reply);
 });
 
-test('production explanation keeps the evidence summary when no function is configured', async () => {
-  const client = api(async () => { throw new Error('No network request should be sent'); });
+test('a public clone makes no model request until an endpoint is explicitly configured', async () => {
+  let requests = 0;
+  const client = api(async () => { requests++; throw new Error('Unexpected network call'); }, {});
+  assert.equal(client.explainAvailable(), false);
   const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
-  assert.deepEqual(result, { text: 'Evidence summary', source: 'template', degraded: true, reason: 'unreachable' });
+  assert.equal(requests, 0);
+  assert.equal(result.source, 'template');
+  assert.equal(result.text, 'Evidence summary');
 });
 
 test('a failed explanation call falls back to the deterministic template', async () => {
-  const client = api(async () => { throw new Error('network down'); }, { VITE_EXPLAIN_URL: 'https://explain.example/' });
+  const client = api(async () => { throw new Error('network down'); });
   const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
-  assert.deepEqual(result, { text: 'Evidence summary', source: 'template', degraded: true, reason: 'unreachable' });
+  assert.equal(result.text,'Evidence summary');assert.equal(result.source,'template');assert.equal(result.reason,'unreachable');
+  assert.equal(result.release_id,'release-a');assert.deepEqual(result.subject,{kind:'facility',id:'osm:123'});
 });
 
-test('an unavailable release falls back to the evidence summary', async () => {
-  const client = api(async () => response({ source: 'template', degraded: true, reason: 'RELEASE_UNAVAILABLE' }, 503),
-    { VITE_EXPLAIN_URL: 'https://explain.example/' });
-  const result = await client.getExplain(client.normaliseFacilityPayload(card), 'Evidence summary');
-  assert.deepEqual(result, { text: 'Evidence summary', source: 'template', degraded: true, reason: 'RELEASE_UNAVAILABLE' });
+test('annual, power and permit requests preserve canonical subjects and never transmit client facts or filters',async()=>{
+  for(const subject of [{kind:'disclosure_location',id:'meta:henrico-va'},{kind:'power_site',id:'nlr:esif-hpc-golden-co'},{kind:'permit_document',id:'73643-5'}]){
+    const calls=[];const client=api(async(url,init)=>{calls.push(JSON.parse(init.body));return response({text:'Source summary.',source:'template',degraded:true,release_id:'release-a',subject,citations:[],qualifiers:[],fact_ids:[]});});
+    const result=await client.getExplain({release_id:'release-a',subject,facts:{power:99999},chartWeek:'2025-08-29'},'Local template with client numbers 99999');
+    assert.deepEqual(calls,[{release_id:'release-a',subject}]);assert.equal(result.text,'Source summary.');
+  }
+});
+
+test('wrong-release or wrong-subject explanation responses are withheld',async()=>{
+  for(const mismatch of [{release_id:'release-b'},{subject:{kind:'power_site',id:'other'}}]){
+    const client=api(async()=>response({text:'Wrong site model prose.',source:'model',degraded:false,release_id:'release-a',subject:{kind:'facility',id:'osm:123'},...mismatch}));
+    const result=await client.getExplain(client.normaliseFacilityPayload(card),'Safe displayed-record summary');
+    assert.equal(result.source,'template');assert.equal(result.reason,'EVIDENCE_MISMATCH');assert.doesNotMatch(result.text,/Wrong site/);
+  }
+});
+
+test('missing displayed release makes no paid request and there is no automatic retry',async()=>{
+  let count=0;const client=api(async()=>{count++;throw Error('offline');});
+  const result=await client.getExplain({facility:{id:'echo:123'}},'Local source summary');
+  assert.equal(count,0);assert.equal(result.reason,'RELEASE_UNAVAILABLE');
+  await client.getExplain(client.normaliseFacilityPayload(card),'Local source summary');assert.equal(count,1);
+});
+
+test('model answers need auditable fact IDs and safe original-source links',async()=>{
+  const base={text:'Untrusted model answer',source:'model',degraded:false,release_id:'release-a',subject:{kind:'facility',id:'osm:123'},citations:[],qualifiers:[],fact_ids:['f1'],cited_facts:[{id:'f1',text:'Source evidence',scope:'permit'}],validation:{level:'numerals_citations_and_qualifiers'}};
+  for(const mutation of [{cited_facts:[]},{fact_ids:[]},{validation:{level:'all_claims_verified'}},{citations:[{fact_id:'f1',label:'Source',url:'javascript:alert(1)',locator:'page 1',sha256:'a'.repeat(64)}]},{citations:[{fact_id:'other',label:'Source',url:'https://example.gov/source.pdf',locator:'page 1',sha256:'a'.repeat(64)}]}]){
+    const client=api(async()=>response({...base,...mutation}));const result=await client.getExplain(client.normaliseFacilityPayload(card),'Safe source summary');
+    assert.equal(result.reason,'INVALID_RESPONSE');assert.equal(result.text,'Safe source summary');
+  }
+});
+
+test('client timeout allows the bounded server call to finish before offering a retry',async()=>{
+  let delay;const client=api(async()=>response({reason:'REGISTRY_UNAVAILABLE'},503));
+  window.setTimeout=(callback,ms)=>{delay=ms;return setTimeout(callback,ms);};
+  const result=await client.getExplain(client.normaliseFacilityPayload(card),'Source summary');
+  assert.equal(delay,40000);assert.equal(result.reason,'REGISTRY_UNAVAILABLE');
 });
 
 test('freshness ages without reclassifying an old reporting year as current observations', () => {

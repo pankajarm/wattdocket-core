@@ -1,13 +1,10 @@
 # WattDocket
 
-**Public records on US data centers, cited to the line.** WattDocket is an evidence atlas for data-center facilities: permits, grid context and operator disclosures, with every number traceable to a source and every gap labeled.
+**Public records on US data centers, cited to the source.** Explore permits, reported electricity and water data, and regional grid context. Follow each claim to its evidence and see where the public record is incomplete.
 
-Built for the **Meta Global AI Developer Hackathon, Indie track**.
+[Live website](https://wattdocket.com/) · [Local quickstart](#run-locally) · [Architecture](ARCHITECTURE.md) · [Data provenance](DATA-PROVENANCE.md) · [Contributing](CONTRIBUTING.md)
 
-- **Live site:** [wattdocket.com](https://wattdocket.com)
-- **This repository:** the open-source hackathon submission, `pankajarm/wattdocket-core`
-
-WattDocket does **not** claim to know a facility's actual electricity demand, water use or annual emissions when the public record is silent. A reference load is a chosen assumption, clearly labeled as a scenario — never presented as the facility's real consumption.
+Originally built for the **Meta Global AI Developer Hackathon, Indie track**. This public repository includes the application and data-processing code, a pinned public data release, and tools to run and verify a local copy. AWS account configuration and production deployment automation are excluded.
 
 ## Watch the demo
 
@@ -17,115 +14,119 @@ WattDocket does **not** claim to know a facility's actual electricity demand, wa
 
 See reported data, quoted permit conditions, a live Meta Muse Spark explanation, and the historical grid calculator.
 
-## What it does
+## Run locally
 
-- **Facility atlas and public cards.** Search by address, facility name or EPA ECHO id. Each card shows attributed source records, EPA AIR program status and identifiers, strict county/registration links, and available document evidence. Name-only matches stay candidates.
-- **Source drawers.** The cited quotation or source artifact, document scope, calculation steps, hashes, reporting periods and retrieval information. Drafts, cached evidence and failed refreshes remain labeled.
-- **Grid context.** Official EPA eGRID annual factors, a separate independent regional comparison, EIA-930 reported hourly demand and generation, and ERCOT five-minute fuel generation. Regional data never pretends to be a facility meter.
-- **Reference scenarios.** An editable historical-grid calculator with a 10 MW starting preset and low/base/high utilization. The inputs and results are hypothetical.
-- **Operator view.** The same public evidence with CSV and JSON exports. An account adds no private data; all application data is public.
-- **Learning and reported data.** Guided explainers (Understand) cover electricity, water, emissions, generator permits, the regional grid, electricity bills, community evidence and a Virginia research guide, each tied to cited examples. The Reported data explorer searches operator and municipal disclosures by measure, year, publisher and reporting scope, and facility cards link to the matching disclosure locations with scope and gaps labeled. Reported totals describe the named campus, building or reporting location for their year; they are not allocated to individual inventory records.
+Use **Node.js 22 or a newer supported LTS release**, npm, and Git. Python, an AWS account, a sign-in, and a model API key are not required to browse the bundled data.
 
-## How WattDocket uses Meta Muse Spark
+```sh
+git clone https://github.com/pankajarm/wattdocket-core.git
+cd wattdocket-core/web
+npm ci
+npm run dev
+```
 
-WattDocket is built on **Meta Muse Spark through the Meta Model API**. One rule runs through every model path: **the model reads and cites; it never computes.** Every number on screen comes from deterministic Python reading a public record, and the model's output is checked before anything is shown.
+Open **http://localhost:5173**. The committed data snapshot is served locally; normal browsing does not fetch the live website's data. Map basemaps, externally hosted fonts or media, and original publisher links may still need internet access. Missing network access to an external service does not turn missing data into a measured zero.
 
-### Live card explanations
+To check a production build locally:
 
-- `api/wattdocket_api/explain.py` — the local composer. It gives Muse Spark only server-owned facts for one facility and asks for two plain sentences.
-- `api/lambda_explain/handler.py` — the optional deployed explain handler. It accepts only facility ids in its bundled registry and rejects any numeral that is not present in the server-owned facts. A rejection, timeout or `MODEL_OFF=1` returns the deterministic template instead.
-- `core/wattdocket/production/explain.py` — builds the per-card fact set and deterministic summary that the model is allowed to use.
-- `web/src/components/ExplainPanel.tsx` and `web/src/api.ts` — the card UI and its fail-closed client call. Without `VITE_EXPLAIN_URL`, the card shows the deterministic summary alone.
+```sh
+# From web/
+npm run build
+npm run preview
+```
 
-The model never sees client-supplied text, and a reply containing an unbound number is replaced by the summary.
+Open the URL printed by Vite. No `.env` file is needed for the default experience. See [support](SUPPORT.md) if installation or a page fails.
 
-### Permit reader
+## What you can explore
 
-- `scripts/read_permit_with_muse.py` sends a permit's operative pages to `muse-spark-1.3` and asks what the permit obliges.
-- The model must return each obligation with a page, line and **verbatim quote**.
-- `core/wattdocket/permits.py` checks every quote against the document text and rejects anything it cannot find. A citation survives; an assertion does not.
-- `artifacts/permit_read.json` records a run on a Texas TCEQ permit: 6 obligations proposed, 6 verified.
+- **Reported data.** Search operator and municipal disclosures by measure, reporting period, publisher, and scope. A campus or operator total stays within its stated reporting boundary.
+- **Facility records.** Search by name, address, or EPA ECHO identifier. Inspect source records, program status, location confidence, and reviewed identity links. A record is not proof of a complete physical-site footprint.
+- **Permits and citations.** Inspect quoted conditions, source documents, amendments, and the evidence available about current effect. Name-only matches remain candidates.
+- **Regional grid context.** Explore official annual eGRID factors, a separately labeled independent comparison, EIA-930 reported hourly data, and ERCOT fuel generation. Regional data is not a facility meter.
+- **Historical scenarios.** Edit a reference load and utilization assumptions to explore a calculation. The result is a hypothetical scenario, not measured facility consumption or emissions.
+- **Plain-English explanations.** Read a release-pinned deterministic summary by default. An optional server-side Meta Muse Spark service can explain the verified evidence with checked citations and qualifications.
+- **Evidence exports and learning guides.** Review source drawers, methods, timestamps, and reporting boundaries; use the guided explainers to understand the measures.
 
-The application uses Meta Muse Spark only. No other AI model or coding tool is part of the runtime.
+WattDocket does not infer a facility's actual electricity demand, water use, or annual emissions when the public record is silent. Missing, withheld, stale, and unavailable values retain their labels. A stale source can still document a historical reporting period; it is not evidence of present-day operation.
 
-## Development tooling
+## Data snapshot and live-site parity
 
-WattDocket was developed and released with **Meta Muse Code CLI (`muse`)** for repository work, code review, test runs and release synchronization. Muse Code is development tooling, not part of the runtime; the deployed product uses only Meta Muse Spark through the Meta Model API.
+`site/data/current.json` pins the bundled release and describes its objects, content hashes, build time, and coverage. The release's source status and retrieval dates remain visible in the app. This is a reproducible snapshot, not a promise that your clone will update whenever the live site's collectors run.
+
+See the [source synchronization record](docs/SOURCE-SYNC.md) for the audited production revision, scope, and intentional local adaptations.
+
+With **Python 3.11+**, verify the bundled data without a network request:
+
+```sh
+# From the repository root
+python3 scripts/sync_public_data.py --verify-only
+```
+
+To deliberately download the current public release:
+
+```sh
+python3 scripts/sync_public_data.py
+```
+
+The downloader verifies every object's hash before publishing the local snapshot. Read [Data snapshots](docs/DATA-SNAPSHOT.md) for the workflow and [Data provenance](DATA-PROVENANCE.md) for sources, attribution, and limitations. Refreshing a data snapshot does not synchronize application code; update the repository separately.
+
+## Meta Muse Spark
+
+The optional explanation path uses **Meta Muse Spark through the Meta Model API**. Source records and deterministic calculations establish the numbers. The model explains trusted facts; its response is checked before presentation.
+
+The current explanation contract binds each request to an immutable release and a supported subject: a facility, disclosure location, power site, or permit document. The server loads the matching verified fact registry and checks cited facts, numerals, units, and required qualifications. These checks do not prove every semantic claim. Failed validation or a model failure produces an explicitly labeled trusted fallback; it must not be presented as a model answer.
+
+- `core/wattdocket/production/explain_registry.py` builds the trusted subject facts.
+- `api/lambda_explain/` contains the guarded explanation handler and validators.
+- `web/src/components/ExplainPanel.tsx` presents the response and validation state.
+- `scripts/read_permit_with_muse.py` is a separate permit-reading tool; quoted obligations must match the document text.
+
+Local browsing works without this service. To make new model requests, use your own Meta Model API credentials on the server and follow the optional local-service instructions in [the explain documentation](api/lambda_explain/README.md). Never put a secret in a `VITE_*` variable or commit it to Git. `MODEL_OFF=1` disables model calls in the server-side tools that support the model path.
+
+## Development and checks
+
+Frontend checks:
+
+```sh
+cd web
+npm ci
+node --test scripts/*.test.mjs
+npm run typecheck
+npm run build
+```
+
+For the Python engine, parsers, and backend tests, use **Python 3.11+**:
+
+```sh
+# From the repository root
+python3 -m venv .venv
+.venv/bin/python -m pip install -e 'core[dev,api]'
+MODEL_OFF=1 PYTHONPATH=core .venv/bin/python -m pytest core/tests tests
+```
+
+On Windows, create the environment with `py -m venv .venv` and use `.venv\Scripts\python.exe` in place of `.venv/bin/python`. In PowerShell, set `$env:MODEL_OFF="1"` and `$env:PYTHONPATH="core"` before the test command.
 
 ## Repository layout
 
-| Path | Responsibility |
+| Path | Purpose |
 | --- | --- |
-| `core/wattdocket/` | Deterministic calculation engine: units, timing, grid, water, estimates, permits, evidence |
-| `core/wattdocket/production/` | Source adapters, validation, release building and card/explain payloads |
-| `core/tests/` | Unit, invariant, evidence and failure-injection tests |
-| `tests/` | API, explain, sharing and scheduling tests |
-| `api/wattdocket_api/` | Local FastAPI service for development |
-| `api/lambda_explain/` | Optional serverless explain handler |
-| `web/src/` | React + TypeScript UI, atlas, cards, source drawers and operator view |
-| `web/scripts/` | Frontend regression tests |
-| `data/` | Source datasets, permit PDFs and frozen inputs used by the build |
-| `site/api/`, `site/data/` | Checked-in static API/data snapshot used by local development |
-| `scripts/` | Data build, calibration and permit-reading utilities |
-| `docs/` | Submission text, permit notes and source research |
+| `web/` | React and TypeScript app, local server configuration, and frontend tests |
+| `core/wattdocket/` | Deterministic calculations, evidence models, source adapters, and release builders |
+| `core/tests/`, `tests/` | Engine, parser, backend, and evidence validation tests |
+| `api/` | Explanation service code and development API tooling |
+| `site/data/` | Pinned, hash-verified public data snapshot |
+| `data/` | Reviewed inputs, source extracts, and public document fixtures |
+| `scripts/` | Data synchronization, validation, and research utilities |
+| `docs/` | Source methodology, local data workflow, and hosting guidance |
 
-`deploy/`, the built `site/app/` bundle and the live-site infrastructure are intentionally **not** part of this repository.
+## Contributing and support
 
-## Setup and run
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a change. Use [issues](https://github.com/pankajarm/wattdocket-core/issues/new/choose) for bugs, source corrections, and feature proposals, and the [private security reporting process](SECURITY.md) for vulnerabilities. Project participation follows the [code of conduct](CODE_OF_CONDUCT.md).
 
-Requirements: Python 3.11+ and Node.js 20+.
+For your own hosted instance, see [Deployment guidance](docs/DEPLOYMENT.md). The public repository does not provision AWS, manage the live site's collectors, or supply an identity provider. Optional authentication requires your own configuration and does not verify facility ownership or unlock private facility measurements.
 
-```sh
-python3 -m venv .venv
-.venv/bin/pip install -e "core[dev]"
+## Project history and license
 
-cd web
-npm ci
-npm run dev          # http://localhost:5173
-```
+Development began on **October 27, 2026**. The initial public submission was a curated, squashed snapshot; subsequent commits record public updates. The project continues beyond the original hackathon submission.
 
-For local development the Vite server reads the checked-in `site/api` snapshot, so the atlas and cards work without a backend or API key. The map uses OpenStreetMap tiles and needs a network connection for its basemap; the list and cards still work if tiles are unavailable.
-
-To use the model paths, copy `.env.example` to `.env` and add your own Meta Model API key:
-
-```sh
-cp .env.example .env
-# edit .env: META_API_KEY=...
-set -a; . ./.env; set +a
-
-# Permit reader
-PYTHONPATH=core .venv/bin/python scripts/read_permit_with_muse.py \
-  data/permits/tceq_amazon_ale60_pbr164110.pdf
-```
-
-`MODEL_OFF=1` disables every model call and uses the deterministic templates.
-
-## Tests
-
-```sh
-# Python engine and API tests
-PYTHONPATH=core .venv/bin/python -m pytest core/tests tests
-
-# Frontend tests and type check
-cd web
-node --test scripts/*.test.mjs
-npm run typecheck
-```
-
-## Data is public; no accounts are seeded
-
-All application data is public. This repository ships **no user accounts, seed accounts, default passwords, admin bypasses or auth secrets**. The optional operator sign-in is an OIDC client integration; it is disabled unless you configure your own provider with `VITE_COGNITO_*`. The production provider configuration is not included. Signing in does not unlock private facility data.
-
-## Live site and this repository
-
-The live site **wattdocket.com** is deployed on AWS from a **separate private repository, `pankajarm/wattdocket`**. That repository contains the deployment configuration, collector schedules and account-specific infrastructure. **`wattdocket-core` is the open-source hackathon submission**, not the source of the live deployment, and it intentionally omits deployment-only files, account identifiers, ARNs, bucket names, operator emails and internal URLs.
-
-The live site and this repository share the same application code base, but the public snapshot is curated: the history was squashed, deployment files were removed, and the remaining docs were scrubbed for publication.
-
-## Development timeline
-
-Development started **October 27, 2026**, after the hackathon kickoff. The public release history was **squashed into a single initial commit** for the open-source submission; later sync commits record subsequent public updates. Earlier development history is not part of this repository.
-
-## License
-
-Code is licensed under [Apache-2.0](LICENSE). See [NOTICE](NOTICE). Source datasets retain their publishers' terms and attribution requirements; see [DATA-PROVENANCE.md](DATA-PROVENANCE.md).
+Code is licensed under [Apache-2.0](LICENSE); see [NOTICE](NOTICE). Source datasets and documents retain their publishers' terms and attribution requirements, described in [DATA-PROVENANCE.md](DATA-PROVENANCE.md).

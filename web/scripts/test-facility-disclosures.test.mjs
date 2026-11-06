@@ -15,6 +15,7 @@ const bundle = await build({
 export {operatorRows,operatorCsv,operatorJson} from './src/operatorExport';`,
     resolveDir: fileURLToPath(new URL('../', import.meta.url)), loader:'tsx' },
   bundle:true, write:false, platform:'node', format:'cjs', external:['react','react/jsx-runtime'],
+  define:{'import.meta.env':'{}'},loader:{'.css':'empty'},
 });
 const module = {exports:{}};
 new Function('module','exports','require',bundle.outputFiles[0].text)(module,module.exports,createRequire(import.meta.url));

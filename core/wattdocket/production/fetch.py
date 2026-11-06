@@ -82,17 +82,47 @@ class CaptureFetcher:
                 raise ValueError("Publisher response exceeds the bounded capture size")
 
     def get_bytes(self, url: str) -> bytes:
+        return self._request_bytes(url)
+
+    def get_publisher_pdf(self, url: str) -> bytes:
+        """Anonymous browser-compatible retrieval for DEQ's public PDFs.
+
+        The publisher rejects our identified research UA, including a Mozilla
+        compatible variant, but serves these same public URLs to Mozilla/5.0.
+        This profile adds no cookies, credentials, proxy or paid service.
+        """
+        parts = urllib.parse.urlparse(url)
+        if (parts.scheme != "https" or parts.hostname not in {"www.deq.virginia.gov", "deq.virginia.gov"}
+                or not parts.path.lower().startswith("/home/showpublisheddocument/")):
+            raise ValueError("Public PDF request profile is restricted to Virginia DEQ document URLs")
+        return self._request_bytes(url, request_profile="deq_public_pdf")
+
+    def post_json(self, url: str, payload):
+        """Capture a public read-only search whose publisher requires POST.
+
+        Request bodies participate in the cache identity and receipt. Adapters
+        may use this only for documented public query endpoints, not mutations.
+        """
+        body = json_bytes(payload)
+        if len(body) > 64_000:
+            raise ValueError("Public query request exceeds size limit")
+        return json.loads(self._request_bytes(url, body=body))
+
+    def _request_bytes(self, url: str, *, body: bytes | None = None,
+                       request_profile: str | None = None) -> bytes:
         parts = urllib.parse.urlparse(url)
         if parts.scheme != "https" or parts.username or parts.password:
             raise ValueError("Only credential-free HTTPS publisher URLs are accepted")
-        key = "http/" + digest(url.encode()) + ".json"
+        request_hash = digest(body) if body is not None else None
+        key = "http/" + digest(url.encode() + (b"\nPOST\n" + body if body is not None else b"")) + ".json"
+        receipt_key = url if body is None else url + "#request=" + request_hash
         prior = read_json(self.store, key)
         # Registry/API metadata is checked at every source refresh; immutable
         # linked permits are cached without claiming a new retrieval timestamp.
         is_document = any(token in parts.path.lower() for token in
                           (".pdf", ".xlsx", "/showpublisheddocument/"))
         is_document = is_document or "TCEQ_EXTERNAL_SEARCH_GET_FILE" in parts.query
-        if prior and is_document and (self.now - parsed(prior["retrieved_at"])).total_seconds() < self.document_max_age:
+        if body is None and prior and is_document and (self.now - parsed(prior["retrieved_at"])).total_seconds() < self.document_max_age:
             obj = self.store.get(prior["raw_key"])
             if obj:
                 data = gzip.decompress(obj[0])
@@ -102,7 +132,11 @@ class CaptureFetcher:
                 return data
         headers = {"User-Agent": "WattDocket/2.0 (+https://wattdocket.com; public-record research)",
                    "Accept": "*/*", "Accept-Encoding": "identity"}
-        if prior:
+        if request_profile == "deq_public_pdf":
+            headers.update({"User-Agent": "Mozilla/5.0", "Accept": "application/pdf"})
+        if body is not None:
+            headers["Content-Type"] = "application/json"
+        if prior and body is None:
             if prior.get("etag"):
                 headers["If-None-Match"] = prior["etag"]
             elif prior.get("last_modified"):
@@ -124,7 +158,7 @@ class CaptureFetcher:
                         if delay:
                             self._sleep(delay)
                         self._reader_next = time.monotonic() + 4.1
-                req = urllib.request.Request(url, headers=headers)
+                req = urllib.request.Request(url, headers=headers, data=body)
                 timeout = max(self.timeout, 150) if parts.hostname == "services.arcgis.com" else self.timeout
                 if overpass:
                     timeout = max(timeout, 110)
@@ -155,10 +189,18 @@ class CaptureFetcher:
                                "content_type": response.headers.get_content_type(),
                                "etag": response.headers.get("ETag"),
                                "last_modified": response.headers.get("Last-Modified")}
+                    if request_profile:
+                        receipt.update(request_profile=request_profile,
+                                       request_headers={k: headers[k] for k in ("User-Agent", "Accept", "Accept-Encoding")})
+                    if body is not None:
+                        receipt.update(request_method="POST", request_body_sha256=request_hash,
+                                       request_body=json.loads(body))
                 self.store.put(key, json_bytes(receipt))
-                self.receipts[url] = receipt
+                self.receipts[receipt_key] = receipt
                 return raw
             except urllib.error.HTTPError as exc:
+                if exc.code == 304 and body is not None:
+                    raise ValueError("Public POST query returned an unsolicited 304 response") from exc
                 if exc.code == 304 and prior:
                     obj = self.store.get(prior["raw_key"])
                     if obj:

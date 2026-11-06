@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { defineConfig, loadEnv, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
+import { localSnapshot } from './scripts/local-snapshot';
 
 // The address fallback needs the eGRID subregion polygons. They live once, in
 // data/, where core/wattdocket/geo.py reads them for the cards; copying them
@@ -82,7 +83,7 @@ function staticApi(): Plugin {
 }
 
 export default defineConfig(({ mode }) => ({
-  plugins: [react(), egridPolygons(), ...(!loadEnv(mode, process.cwd(), 'VITE_').VITE_API_BASE ? [staticApi()] : [])],
+  plugins: [react(), localSnapshot(), egridPolygons(), ...(!loadEnv(mode, process.cwd(), 'VITE_').VITE_API_BASE ? [staticApi()] : [])],
   // Relative base keeps hash routes working from any path prefix (S3 origin,
   // CloudFront behaviour, a preview URL under /web/).
   base: './',

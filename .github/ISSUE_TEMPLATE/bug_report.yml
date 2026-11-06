@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a reproducible application or local setup problem.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "For security issues, use the private reporting link in SECURITY.md. Remove secrets and personal data from logs and screenshots."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the actual behavior and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include the page or command and a minimal example.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Repository commit, operating system, browser, Node.js version, and Python version if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Include relevant output after removing sensitive information.

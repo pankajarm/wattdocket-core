@@ -1,0 +1,59 @@
+.awareness-home:has(.home-demo) { max-width:1440px; }
+.awareness-home .awareness-intro--demo { grid-template-columns:minmax(0,.78fr) minmax(0,1.4fr); gap:clamp(32px,4vw,64px); align-items:center; padding-block:64px 56px; }
+.awareness-home .awareness-intro--demo h1 { font-size:clamp(38px,3.7vw,54px); max-width:15ch; }
+.awareness-home .awareness-intro--demo .awareness-intro__copy > p { max-width:38ch; font-size:18px; line-height:1.7; }
+.awareness-home .awareness-intro--demo .awareness-actions { align-items:flex-start; flex-direction:column; gap:12px; }
+.home-demo { min-width:0; }
+.home-demo__heading { display:flex; align-items:baseline; justify-content:space-between; gap:16px; margin-bottom:16px; }
+.home-demo .home-demo__heading h2 { margin:0; font-size:24px; line-height:1.3; letter-spacing:-.02em; }
+.home-demo__heading > span { flex:none; font-size:14px; color:var(--muted); font-variant-numeric:tabular-nums; }
+.home-demo__screen { position:relative; overflow:hidden; border-radius:12px; background:var(--bg-2); aspect-ratio:16/9; }
+.home-demo__screen video { display:block; width:100%; height:100%; object-fit:contain; }
+.home-demo__screen video:focus-visible { outline-offset:-4px; }
+.home-demo__play { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); display:flex; align-items:center; gap:12px; min-height:64px; padding:12px 24px 12px 18px; border:0; border-radius:12px; background:var(--action); color:var(--on-action); font:600 17px/1.3 var(--sans); cursor:pointer; white-space:nowrap; }
+.home-demo__play:hover { background:var(--action-hover); }
+.home-demo__chapters { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); border-bottom:1px solid var(--line); }
+.home-demo__chapters button { display:flex; align-items:flex-start; flex-direction:column; gap:7px; padding:18px 10px 18px 0; border:0; background:none; text-align:left; font:500 14px/1.4 var(--sans); color:var(--text); cursor:pointer; }
+.home-demo__chapters button span { color:var(--blue); font-size:14px; font-variant-numeric:tabular-nums; }
+.home-demo__chapters button:hover { color:var(--blue); background:var(--hover); }
+.home-demo__caption { display:flex; justify-content:space-between; align-items:center; gap:16px; padding-top:12px; font-size:14px; color:var(--muted); }
+.home-demo__caption a { display:inline-flex; align-items:center; gap:8px; min-height:44px; }
+.home-demo__caption svg { width:17px; height:17px; }
+.awareness-home .home-demo__error { margin:16px 0 0; font-size:16px; }
+.awareness-home .home-question-index { padding-top:36px; }
+.home-question-index__heading { display:flex; align-items:center; justify-content:space-between; gap:24px; }
+.home-question-index__heading h2 { margin:0; }
+.home-question-index__heading .awareness-all { margin:0; }
+.home-question-index__links { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:32px; }
+.home-question-index__links .awareness-question { align-items:flex-start; gap:14px; padding-block:22px 26px; }
+.home-question-index__links .awareness-question strong { font-size:21px; }
+.home-question-index__links .awareness-question svg { margin-top:4px; }
+@media(max-width:1100px) {
+  .awareness-home .awareness-intro--demo { grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr); gap:32px; padding-block:44px; }
+  .awareness-home .awareness-intro--demo h1 { font-size:42px; }
+  .home-demo__heading { align-items:flex-start; }
+  .home-demo .home-demo__heading h2 { font-size:21px; }
+  .home-demo__heading > span { max-width:7ch; text-align:right; }
+  .home-demo__caption { flex-wrap:wrap; gap:0 12px; }
+}
+@media(max-width:800px) {
+  .awareness-home .awareness-intro--demo { grid-template-columns:1fr; gap:32px; align-items:start; padding-block:36px; }
+  .awareness-home .awareness-intro--demo h1 { max-width:20ch; font-size:clamp(36px,6.2vw,48px); margin-bottom:20px; }
+  .awareness-home .awareness-intro--demo .awareness-intro__copy > p { max-width:58ch; margin-bottom:0; }
+  .awareness-home .awareness-intro--demo .awareness-actions { flex-direction:row; align-items:center; gap:12px 24px; margin-top:20px; }
+  .home-demo__heading > span { max-width:none; }
+  .home-question-index__links { grid-template-columns:1fr; gap:0; }
+  .home-question-index__links .awareness-question { padding-block:20px; }
+}
+@media(max-width:480px) {
+  .awareness-home .awareness-intro--demo .awareness-actions { flex-direction:column; align-items:flex-start; gap:4px; }
+  .home-demo__heading { gap:12px; }
+  .home-demo .home-demo__heading h2 { font-size:20px; }
+  .home-demo__heading > span { font-size:13px; padding-top:3px; }
+  .home-demo__play { min-height:52px; padding:10px 16px 10px 12px; font-size:15px; gap:8px; }
+  .home-demo__play svg { width:24px; height:24px; }
+  .home-demo__chapters { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .home-demo__chapters button { padding:14px 8px 14px 0; gap:4px; }
+  .home-demo__caption { align-items:flex-start; font-size:13px; }
+  .home-question-index__heading { align-items:flex-start; flex-direction:column; gap:6px; }
+}

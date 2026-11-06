@@ -1,83 +1,57 @@
-# DATA PROVENANCE
+# Data provenance
 
-Every number in WattDocket resolves to a row here, and every row here resolves to a URL with a sha256. If a dataset is down, the product degrades in a named, visible way — it does not guess.
+WattDocket combines public source records while preserving their reporting boundaries, dates, units, citations, and uncertainty. The current bundled release is identified by [`site/data/current.json`](site/data/current.json). Its hash-checked `data-status.json` is the source of truth for coverage, retrieval dates, and source health in that release. Counts in a downloaded snapshot are not a claim of complete US coverage.
 
-**Legend for access:** `KEYLESS` = no credentials; `FREE-KEY` = free registration required; `PAID` = not used.
+## Reproduce the public evidence
 
----
+Follow [Data snapshots](docs/DATA-SNAPSHOT.md) to verify or refresh the bundled release. The manifest names every published object and its decoded SHA-256. Source drawers and individual observations retain their publisher links, citations, reporting periods, and available retrieval or content-hash metadata.
 
-## 1. Facility identity and compliance
+The repository includes the public application data and evidence objects used by the selected release. It does not include every original upstream file, an unfiltered collector archive, credentials, or private operational logs. Public record links may lead to a publisher-hosted PDF, spreadsheet, portal, or API; availability and access terms can change.
 
-| # | Dataset | Publisher | Access | Cadence | Coverage | Feeds | Failure mode | Fallback |
-|---|---|---|---|---|---|---|---|---|
-| 1 | **ECHO Air — `air_rest_services.get_facility_info`, NAICS 518210** | US EPA | KEYLESS | continuous | **479 US facilities, all geocoded** (401 operating · 20 planned · 3 under construction · 35 closed), 2026-10-27 snapshot | `Facility`, compliance status, diesel permits. **Penalty money is a results-level aggregate** ($570,793.58 across 23 facilities, 5-year window) — the row-level `FacPenaltyAmount` field is empty for **0/479** rows, so per-facility penalty amounts must be fetched individually, never inferred from the CSV. | API shape change; paging quirks (returns counts and rows in different endpoints) | Frozen CSV in `data/`, refreshed weekly; ship the snapshot in the repo |
-| 2 | ECHO detailed facility report (per facility) | US EPA | KEYLESS | continuous | per-facility | permit numbers, inspection dates, enforcement | HTML change | use row-level fields from (1) |
-| 3 | ICIS-Air / state synthetic-minor permits | EPA + states | KEYLESS (varies) | varies | uneven, state-dependent | generator caps (hours/yr, MW) | broken links, PDF-only | `NOT_PUBLISHED` state, with the agency link |
-| 4 | Air permits (state DEQ) — PDFs | State agencies | KEYLESS | on filing | Virginia, Texas deep | `Citation` rows: engine counts, hour caps, cooling towers | scanned PDFs, no text layer | OCR pass; if quote cannot verify → discard the fact |
-| 5 | GHGRP (Envirofacts) | US EPA | KEYLESS | annual | **only ~2% of data centers** (diesel under 25kt threshold) | reported Scope-1 combustion | empty result misread as zero | **INV-8**: empty renders "not reported" |
-| 6 | PeeringDB facilities API | PeeringDB | KEYLESS | continuous | **1,378 US facilities with lat/lon** | facility discovery, coordinates | community data quality | ECHO (1) is authoritative where they disagree; show both |
+Files under `data/`, test fixtures, and older static API artifacts can be historical build inputs or regression fixtures. They are not a substitute for the selected production manifest, and their dates and scope must not be presented as current coverage.
 
-| 6b | **US Census Geocoder** | US Census Bureau | KEYLESS | continuous | US addresses | address → lat/lon via authoritative address ranges (**primary geocoder**, verified 2026-10-28) | occasional maintenance windows | OpenStreetMap Nominatim (secondary, rate-limited, needs a UA) |
+## Sources in the bundled release
 
-## 2. Grid and carbon
+The following catalogue describes the source families present in the November 2026 public release. Read the selected release's source-status records for its exact editions and current, stale, partial, or unavailable state.
 
-| # | Dataset | Publisher | Access | Cadence | Coverage | Feeds | Failure mode | Fallback |
-|---|---|---|---|---|---|---|---|---|
-| 7 | **eGRID 2023 workbook (`egrid2023_data_rev2.xlsx`)** | US EPA | KEYLESS | annual | 27 subregions; per-plant, per-generator | subregion CO₂e lb/MWh (frozen extract `data/egrid_subregion_rates.json`, cited by its sha256), plant-level cross-check. *Not* the source of `FactorSet` `us-avg-2023.1`, which is a hand-compiled national table (see `artifacts/factor_set.json`) | file moved (EPALinks break yearly) | pinned copy in the repository + sha256 in `method` |
-| 8 | **eGRID 2023 subregion polygons (ArcGIS FeatureServer)** | US EPA | KEYLESS | annual | all 50 states | address → subregion via point-in-polygon | service throttling | ship the GeoJSON with the app |
-| 9 | **ERCOT fuel-mix dashboard JSON** | ERCOT | KEYLESS | 5-minute | ERCOT only | `IntervalReading`, hourly intensity | schema change; occasional gaps | retain last good snapshot; mark the day `stale` |
-| 10 | EIA-930 hourly electric grid monitor | US EIA | KEYLESS (bulk; six-month CSV verified reachable, 65 columns) | hourly | all US balancing authorities | hourly load/gen/interchange nationwide | **timestamps are hour-ENDING**; 4 storage classes; two known header typos in the CSV | parse with an explicit hour-ending flag (INV-3); bulk monthly file + daily incremental |
-| 11 | CAISO OASIS | CAISO | KEYLESS | 5-minute | CAISO | intensity for California | XML zip quirks | EIA-930 (10) |
-| 12 | PJM Data Miner 2 | PJM | FREE-KEY (**confirmed**: `api.pjm.com` returns 401 unkeyed, 2026-10-28) | 5-minute | PJM | intensity for Virginia | keyed only; no anonymous access | **EIA-930 (10)** for the demo; do not block on PJM |
-| 13 | Open Grid Emissions (OGE) | Singularity Energy | KEYLESS | annual/hourly | US | **SETTLED** intensity, replacing PROVISIONAL | release lag | keep `PROVISIONAL` label — never silently upgrade |
-| 14 | EPA CAMPD / CEMS | US EPA | KEYLESS | hourly, ~1 quarter lag | large emitters | settle intensity where available | lag makes it unusable for "today" | OGE (13) |
+| Source family | Original publisher and entry point | Use and important limits |
+| --- | --- | --- |
+| Facility and air-program records | [US EPA ECHO](https://echodata.epa.gov/echo/echo_rest_services.get_facilities?p_ncs=518210) | Industry-code listings and regulatory identifiers. An industry code does not independently verify facility type, physical location, electricity demand, or water use. |
+| Community facility mapping | [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), queried through Overpass | Discovery and mapped locations. Community records are not regulator verification and are not merged into EPA records without reviewed identity evidence. |
+| Virginia permits | [Virginia DEQ issued air permits for data centers](https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers) | Document identity, quoted conditions, and reviewed document history. A fresh download alone does not establish that every condition remains effective. |
+| Virginia site identity | [Virginia DEQ public site layer](https://gisdata.deq.virginia.gov/arcgis/rest/services/public/EDMA/MapServer/294) | Physical addresses, ICIS identifiers, and reported program status. No operating power, water, or emissions are inferred. |
+| Texas air permits | [Texas Commission on Environmental Quality](https://www.tceq.texas.gov/permitting/air/air_status_permits.html) | Permit documents and attributed conditions. Drafts and technical reviews retain their document type and are not described as issued operating limits. |
+| Annual regional emissions factors | [US EPA eGRID](https://www.epa.gov/egrid), including the pinned 2023 workbook and subregion geometry | Annual location-based accounting factors and geographic context. They are not hourly or marginal emissions rates; a geographic match is not proof of the serving utility. |
+| Independent annual comparison | [Cornerstone eGRID 2024 reconstruction on Zenodo](https://zenodo.org/records/18968658) | A separately labeled reconstruction from public EPA code, not an EPA-published eGRID release. Published greenhouse-gas accounting variants and the explicit recalculation remain distinct. It does not silently replace the official baseline. |
+| Hourly regional grid data | [US EIA-930 Grid Monitor](https://www.eia.gov/electricity/gridmonitor/) | Reported demand and generation with explicit time handling and gaps. Imputed or adjusted streams do not replace reported values. Unsupported hourly carbon values are withheld. |
+| ERCOT fuel generation | [ERCOT fuel-mix feed](https://www.ercot.com/api/1/services/read/dashboards/fuel-mix.json) | Regional generation in MW; storage remains separate and missing intervals remain gaps. No facility load or unsupported hourly carbon factor is inferred. |
+| Reported direct combustion emissions | [US EPA Greenhouse Gas Reporting Program](https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets) | Selected Subpart C regulatory reporting entities. These reports are not electricity Scope 2, lifecycle footprints, continuous measurements, or a complete operator inventory. |
+| Meta annual disclosures | [Meta 2025 Environmental Data Index](https://sustainability.atmeta.com/asset/2025-environmental-data-index/) | Reported campus or location electricity, water withdrawal, and emissions. The source may use estimates where activity data is incomplete; individual totals are not allocated to EPA records. |
+| Google annual water disclosures | [Google 2026 Environmental Report](https://sustainability.google/reports/google-2026-environmental-report/) | Reported 2025 location water quantities, with methodology and exclusions retained. Named locations can contain multiple buildings; a row's metered-versus-estimated share is not established. |
+| Massachusetts building reports | [Massachusetts Large Building Energy Reporting](https://www.mass.gov/info-details/large-building-energy-reporting-results) | Selected annual building reporting entities. Purchased-grid energy reported in kBtu is not MW demand. State-calculated GHG emissions are not direct emissions measurements. |
+| New York City building reports | [NYC Building Energy and Water Data](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am) | Whole reporting properties, potentially with mixed uses. Optional peak-demand entries do not establish a coincident campus maximum or a complete interval series. |
+| Seattle building reports | [Seattle Building Energy Benchmarking](https://data.seattle.gov/Built-Environment/Building-Energy-Benchmarking-Data-2015-Present/teqw-tu6e) | Whole reporting properties classified by the publisher. Values are not isolated IT or data-center-only quantities. |
+| Nebraska demand reports | [Nebraska Data Center Task Force](https://dwee.nebraska.gov/data-center-task-force) | Selected reported maxima with their campus or property scope, including an explicitly labeled cryptocurrency-mining property. No statewide census or interval meter feed is implied. |
+| Historical C3 power | [Idaho National Laboratory C3 dataset](https://nrds.inl.gov/dataset/c3_datacenter_hourly_power_usage) | Publisher-reported hourly power, retaining unit and timestamp interpretation limits. Missing cells remain null; no live telemetry or whole-facility allocation is inferred. |
+| Historical ESIF samples | [National Laboratory of the Rockies data catalogue](https://data.nlr.gov/submissions/300) | Historical measured samples. Aggregates are withheld when coverage is inadequate. This is not a live feed, annual energy observation, or whole-facility meter. |
 
-**Emission factor sets (must be versioned and one click away):** the fuel-mix → intensity conversion depends on a factor table. Three plausible tables move the *level* ~20% while the *ratio* stays ~1.75×. We publish our table as a `FactorSet` with a sha256, and label every derived number `PROVISIONAL` until (13) or (14) settles it.
+Reviewed links between disclosures and inventory records are a separate evidence layer. Their supporting documents are retained in the release's identity evidence. A coverage relationship does not mean the two reporting boundaries are equal, and it does not justify dividing a campus total among inventory records.
 
-## 3. Water, land, weather
+## Interpretation rules
 
-| # | Dataset | Publisher | Access | Cadence | Coverage | Feeds | Failure mode | Fallback |
-|---|---|---|---|---|---|---|---|---|
-| 15 | Operator water disclosures (e.g. per-site tables) | Hyperscalers | KEYLESS | annual/irregular | a handful | `WaterState.DISCLOSED` | disappears without notice | archive a snapshot with sha256 at capture time |
-| 16 | WRI Aqueduct water stress | WRI | KEYLESS | periodic | global, sub-basin | context for the water band | version drift | pin a version |
-| 17 | USGS NWIS stream gauges | USGS | KEYLESS | 15-minute | US | cooling-source context | station turnover | nearest-station search |
-| 18 | Building footprints (Overture / Microsoft) | Overture Maps | KEYLESS | quarterly | global | land area, rooftop area cross-check | licence terms change | compute from imagery |
-| 19 | Hydrography (NHD) | USGS | KEYLESS | periodic | US | discharge proximity | — | omit |
-| 20 | Open-Meteo (wet-bulb) | Open-Meteo | KEYLESS | hourly | global | cooling-water sensitivity | rate limits | cache 30 days |
+- **Missing is not zero.** Missing, withheld, stale, failed, and not-published values remain distinct. A reported or computed zero remains a real zero.
+- **Capacity is not consumption.** Generator nameplate capacity and permit allowances do not establish actual electricity demand or annual activity.
+- **A scenario is an assumption.** Historical-grid calculations use explicit load and utilization inputs; they do not establish a facility's measured use or emissions.
+- **Periods and boundaries stay attached.** A campus, property, meter series, operator, permit, regulatory entity, and regional grid are different subjects.
+- **Retrieval is not current effect.** A recent download does not make an older disclosure a current measurement or a permit the latest effective authorization.
+- **Evidence outranks prose.** A model explanation is a reading aid. Source records, cited qualifications, deterministic calculations, and validation results remain inspectable.
 
-**Water rule (INV-9):** no US state effectively requires facility-level *operational* water reporting. Water renders as `DISCLOSED` (with source), `MODELLED_BAND` (cooling type × MW × climate), or `NOT_PUBLISHED`. There is no scalar.
+## Attribution and reuse
 
-## 4. National priors
+The project's [Apache-2.0 license](LICENSE) applies to its code. It does not relicense third-party datasets, reports, PDF documents, map tiles, or publisher trademarks. [NOTICE](NOTICE) preserves this distinction.
 
-| # | Dataset | Publisher | Access | Feeds |
-|---|---|---|---|---|
-| 21 | LBNL/DOE 2024 US Data Center Energy Usage Report | LBNL / DOE | KEYLESS | utilization prior 0.45–0.80, PUE 1.12–1.45, growth scenarios (176 TWh in 2023 → 325–580 TWh by 2028) |
-| 22 | EPA AVERT / marginal emission methodology | US EPA | KEYLESS | marginal factors for load-shift levers |
+OpenStreetMap-derived data is **© OpenStreetMap contributors**, available under the [Open Data Commons Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/). Keep the attribution and comply with the applicable database and derived-data requirements when using or redistributing it. See the publisher's [copyright and license guidance](https://www.openstreetmap.org/copyright); map-tile services also have separate usage policies.
 
-## 5. Context only — never used as evidence
+Operator reports remain the copyright of their publishers. For example, the Google source metadata labels its use as an attributed factual extraction and retains the original report URL, page references, and PDF hash. Government, municipal, laboratory, and independently reconstructed datasets retain their own notices and source-specific terms. Public access alone is not a blanket redistribution license. Preserve the terms supplied with each source and check the original publisher before distributing a new dataset or archive.
 
-| Dataset | Why it is a trap |
-|---|---|
-| Company ESG scores / league tables | Aggregate rankings with opaque methods; not facility evidence |
-| Crowdsourced report maps | Useful signal, zero verification; we link to them, we never cite them as fact |
-| AirNow monitor readings | A monitor near a facility invites a causation claim we cannot support |
-| Ask the Grid derived datasets | Their packaging, not the primary chain. We link to the publisher, not the reseller |
-
-## 6. What we refuse to ship
-
-- Any number without a receipt (INV-7).
-- Any water scalar (INV-9).
-- Any intensity labelled settled when it is provisional (INV-6).
-- Any generated image in an evidence surface.
-- Any "violates permit" phrasing; only "permit allows X, record reports Y".
-- Any scraped copy of a competitor's dataset.
-
-## 7. Refresh model
-
-| tier | cadence | mechanism |
-|---|---|---|
-| Immutable (eGRID annual, factor sets, archived PDFs) | yearly / on capture | content-addressed snapshots; a new file is a new key |
-| Daily (ECHO, EIA-930, PeeringDB) | daily | scheduled collector → one partition per source per date |
-| Live (ERCOT/CAISO 5-minute) | 5 min | cached snapshots with `as_of`; a stale feed is labelled, never interpolated |
-
-Every dataset row carries `retrieved_at`, `sha256`, and `publisher_url`. A failure in any single source degrades exactly one field, and that field says so on screen.
+For a suspected data or attribution error, open a [data correction issue](https://github.com/pankajarm/wattdocket-core/issues/new?template=data_correction.yml) with the affected record and original source. Use the [security reporting process](SECURITY.md) if the issue exposes private information or creates a security risk.

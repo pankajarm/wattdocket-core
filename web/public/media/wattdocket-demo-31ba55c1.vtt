@@ -1,0 +1,157 @@
+WEBVTT
+
+00:00.500 --> 00:03.426
+A data center number is only useful if you
+can trace it.
+
+00:03.890 --> 00:04.923
+Where did it come from?
+
+00:05.109 --> 00:06.026
+What does it measure?
+
+00:06.491 --> 00:07.886
+And what is still unknown?
+
+00:14.500 --> 00:18.796
+WattDocket brings public records, annual
+disclosures and grid context
+
+00:18.831 --> 00:19.446
+together.
+
+00:19.910 --> 00:23.892
+The explorer now holds four hundred
+seventeen annual values.
+
+00:24.624 --> 00:27.062
+Here is New York's Western Union Building.
+
+00:27.688 --> 00:32.402
+Every figure keeps its year, unit, source
+and reporting boundary.
+
+00:33.134 --> 00:36.115
+Building and campus totals keep their own
+scope.
+
+00:38.300 --> 00:43.588
+Here is Vantage VA sixteen in Sterling,
+Virginia, linked to its EPA
+
+00:43.680 --> 00:44.390
+identity.
+
+00:45.007 --> 00:48.934
+Its actual electricity demand and water
+use remain unavailable in the
+
+00:48.991 --> 00:50.067
+collected evidence.
+
+00:50.787 --> 00:53.066
+WattDocket leaves those gaps visible.
+
+00:53.786 --> 00:57.707
+A listing establishes identity, not
+measured electricity use.
+
+00:58.300 --> 01:02.690
+The permit section quotes three limits:
+twenty-nine hours a year for
+
+01:02.747 --> 01:08.072
+maintenance testing, five hundred hours
+for all purposes, and six hundred
+
+01:08.153 --> 01:12.693
+eighty-five thousand, three hundred
+twenty-five gallons of diesel a year.
+
+01:13.420 --> 01:17.232
+Open a condition to see the quote, page
+and original document.
+
+01:17.856 --> 01:20.697
+These conditions cover the cited equipment
+or activity.
+
+01:21.230 --> 01:25.696
+They do not establish actual fuel use or
+whole-site limits.
+
+01:26.600 --> 01:30.710
+For the Texas record, I'll ask Meta Muse
+Spark to explain the published
+
+01:30.768 --> 01:33.113
+estimate through the Meta Model API.
+
+01:38.102 --> 01:41.295
+It identifies nineteen thousand
+twenty-five tonnes of modeled annual
+
+01:41.341 --> 01:45.428
+emissions and distinguishes that estimate
+from a facility measurement.
+
+01:46.159 --> 01:49.305
+WattDocket checks the answer's numbers
+against published facts.
+
+01:49.770 --> 01:52.534
+The source and the assumptions still need
+review.
+
+02:00.400 --> 02:04.127
+The historical grid calculator shows the
+assumptions behind that estimate:
+
+02:04.754 --> 02:08.260
+ten megawatts at sixty-five percent
+utilization.
+
+02:08.887 --> 02:13.810
+That's fifty-six thousand, nine hundred
+forty megawatt-hours a year.
+
+02:14.658 --> 02:16.980
+The calculation and source are here to
+inspect.
+
+02:17.374 --> 02:21.415
+These are hypothetical results using a
+historical regional factor, not the
+
+02:21.461 --> 02:23.057
+facility's measured footprint.
+
+02:24.300 --> 02:26.331
+The coverage page makes the gaps visible.
+
+02:26.794 --> 02:29.858
+Two thousand, two hundred thirty-four
+locations need review.
+
+02:30.589 --> 02:33.547
+Reviewed disclosure links have also
+expanded to twenty-eight.
+
+02:34.279 --> 02:38.258
+Missing values remain unavailable, and
+each source keeps its reporting
+
+02:38.328 --> 02:39.693
+period and collection date.
+
+02:40.300 --> 02:44.875
+Visit wattdocket dot com, and inspect the
+public code at github dot com
+
+02:44.966 --> 02:48.183
+slash pankajarm slash wattdocket dash
+core.
+
+02:48.704 --> 02:51.702
+Built with Meta Muse Spark through the
+Meta Model API.

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/pankajarm/wattdocket-core/security/advisories/new
+    about: Use private vulnerability reporting instead of a public issue.
+  - name: Local setup and help
+    url: https://github.com/pankajarm/wattdocket-core/blob/main/SUPPORT.md
+    about: Read the setup and troubleshooting guidance before reporting a problem.

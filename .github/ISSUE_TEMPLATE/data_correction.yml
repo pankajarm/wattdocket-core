@@ -1,0 +1,30 @@
+name: Data or source correction
+description: Report an incorrect value, identity match, citation, or reporting boundary.
+title: "[Data] "
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record or page URL
+      description: Link to the affected WattDocket record or source view.
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs correction?
+      description: Identify the value, citation, identity match, date, or wording in question.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting public evidence
+      description: Provide an original publisher URL, relevant page or row, reporting period, units, and reporting boundary where available. Explain uncertainty if no source resolves the issue.
+    validations:
+      required: true
+  - type: input
+    id: release
+    attributes:
+      label: Data release or observation date
+      description: Include the release ID or when you saw the record, if known.

@@ -1,0 +1,9 @@
+# Keep audited source and dataset hashes identical across operating systems.
+# Editors should use LF as specified in .editorconfig; Git preserves bytes.
+* -text
+*.gz binary
+*.mp4 binary
+*.jpg binary
+*.png binary
+*.pdf binary
+*.xlsx binary

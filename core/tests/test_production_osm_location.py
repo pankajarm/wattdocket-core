@@ -126,3 +126,10 @@ def test_independent_gates_reject_tampered_area_scope_even_if_quality_claims_saf
     next(e for e in entries if e["id"] == "osm:way:2")["location_quality"] = copy.deepcopy(quality)
     with pytest.raises(RecordEvidenceError, match="OSM"):
         validate_record_evidence(cards, entries)
+    path = Path(__file__).resolve().parents[2] / "scripts/verify_production_release.py"
+    spec = importlib.util.spec_from_file_location("independent_verifier", path)
+    verifier = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(verifier)
+    checks = verifier.Checks()
+    verifier.check_osm_coordinate_scope("osm:way:2", quality, card["grid"], card["claims"], checks)
+    assert checks.failures > 0

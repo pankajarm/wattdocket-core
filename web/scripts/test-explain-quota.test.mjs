@@ -9,10 +9,11 @@ const bundle = await build({
   stdin: { contents: "export { ExplainPanel } from './src/components/ExplainPanel';", resolveDir: process.cwd(), loader: 'tsx' },
   bundle: true, write: false, platform: 'node', format: 'cjs',
   external: ['react', 'react/jsx-runtime'],
+  loader: {'.css': 'empty'},
   plugins: [{ name: 'explain-stub', setup(builder) {
     builder.onResolve({ filter: /^\.\.\/api$/ }, () => ({ path: 'api', namespace: 'stub' }));
     builder.onLoad({ filter: /.*/, namespace: 'stub' }, () => ({
-      contents: 'export async function getExplain() { return globalThis.__explainFixture; }', loader: 'js',
+      contents: 'export async function getExplain(request) { return {...globalThis.__explainFixture, release_id:request.release_id, subject:request.subject}; }', loader: 'js',
     }));
   } }],
 });
@@ -23,13 +24,17 @@ const { ExplainPanel } = module.exports;
 for (const [reason, message] of [
   ['DAILY_QUOTA_EXHAUSTED', /Today’s explanation limit has been reached/],
   ['QUOTA_UNAVAILABLE', /explanation service is temporarily unavailable/],
+  ['CLIENT_UPDATE_REQUIRED', /Reload the page to continue/],
+  ['EXPLAIN_NOT_IN_RELEASE', /does not include explanation evidence/],
+  ['REGISTRY_UNAVAILABLE', /published explanation evidence is temporarily unavailable/],
+  ['REQUEST_DEADLINE', /could not start an explanation in time/],
 ]) {
   test(`${reason} displays the trusted template and a readable reason`, async () => {
     globalThis.__explainFixture = { source: 'template', degraded: true, reason, text: 'Trusted fallback.' };
     let renderer;
     await act(async () => {
       renderer = TestRenderer.create(React.createElement(ExplainPanel, {
-        payload: { facility: { id: 'test-site' } }, template: 'Initial template.', enabled: true,
+        payload: { facility: { id: 'test-site' }, release_id:'release-a' }, template: 'Initial template.', enabled: true,
       }));
     });
     await act(async () => { await renderer.root.findByType('button').props.onClick(); });

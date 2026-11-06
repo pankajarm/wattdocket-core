@@ -1,6 +1,6 @@
 """Produce an audit bundle: every number the product shows, with its derivation.
 
-Reviewers are being asked to check the numbers one by one, so they must be handed
+The board is being asked to check the numbers one by one, so they must be handed
 the numbers as the product emits them — read from the committed artifacts, not
 reconstructed from anyone's memory. Where a figure is derived, the derivation
 travels with it; where a figure is withheld, the absence is recorded as a row,

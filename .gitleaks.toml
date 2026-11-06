@@ -1,0 +1,7 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Public archive paths contain SHA-256 content hashes; large minified JSON may end a scanner chunk partway through the hash"
+regexTarget = "match"
+regexes = ['''^raw_key"\s*:\s*"raw/[a-f0-9]{16,64}(?:\.gz)?$''']

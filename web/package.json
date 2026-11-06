@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "node --test scripts/*.test.mjs",
+    "test:browser": "node scripts/check-local-site.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
@@ -21,9 +23,14 @@
     "@types/leaflet.markercluster": "^1.5.6",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
-    "@vitejs/plugin-react": "^4.3.3",
+    "@vitejs/plugin-react": "4.7.0",
+    "esbuild": "0.25.12",
+    "playwright": "1.65.0",
     "react-test-renderer": "^18.3.1",
     "typescript": "^5.6.3",
-    "vite": "^5.4.10"
+    "vite": "7.3.7"
+  },
+  "engines": {
+    "node": "^22.12.0 || >=24.0.0"
   }
 }

@@ -1,0 +1,94 @@
+{
+  "https://ecmp.nebraska.gov/PublicAccess/api/CustomQuery/KeywordSearch#request=f096ccc3467004fc761697dcf63f8f75d00e627959eb1dd581ffbbb5299f2273": {
+    "bytes": 12390,
+    "content_type": "application/json",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/CustomQuery/KeywordSearch",
+    "last_modified": null,
+    "raw_key": "raw/2ad48b237c5926e2eae996cc20600de63f0e585b6784c5415cbb260878ed7937.gz",
+    "request_body": {
+      "FromDate": null,
+      "Keywords": [
+        {
+          "ID": 115,
+          "KeywordOperator": "=",
+          "Value": "DCR"
+        }
+      ],
+      "QueryID": 340,
+      "QueryLimit": 100,
+      "ToDate": null
+    },
+    "request_body_sha256": "f096ccc3467004fc761697dcf63f8f75d00e627959eb1dd581ffbbb5299f2273",
+    "request_method": "POST",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "2ad48b237c5926e2eae996cc20600de63f0e585b6784c5415cbb260878ed7937",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/CustomQuery/KeywordSearch"
+  },
+  "https://ecmp.nebraska.gov/PublicAccess/api/Document/ASvT35CSsnDVhjZd%C3%81XcI9ivFeaCn7veA8A%C3%894VlQl91BPvyvVeU39YV7vSBfe1tWJgLZO1S1fHnxBuiuqFrqTffk%3D/": {
+    "bytes": 209321,
+    "content_type": "application/pdf",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/ASvT35CSsnDVhjZd%C3%81XcI9ivFeaCn7veA8A%C3%894VlQl91BPvyvVeU39YV7vSBfe1tWJgLZO1S1fHnxBuiuqFrqTffk%3D/",
+    "last_modified": null,
+    "raw_key": "raw/8e3ddea4d77198935ef2a045492c020b6e008955357df170b607663c77f12d7b.gz",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "8e3ddea4d77198935ef2a045492c020b6e008955357df170b607663c77f12d7b",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/ASvT35CSsnDVhjZd%C3%81XcI9ivFeaCn7veA8A%C3%894VlQl91BPvyvVeU39YV7vSBfe1tWJgLZO1S1fHnxBuiuqFrqTffk%3D/"
+  },
+  "https://ecmp.nebraska.gov/PublicAccess/api/Document/AY4qVfe2QEODTqWPdr08wN9adxplkBPdDAvd6K77BtDU%C3%89gMVhTwA7JI6gy6J%C3%81tGalMMMWiFggf47J%C3%89II7hweGBA%3D/": {
+    "bytes": 112150,
+    "content_type": "application/pdf",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/AY4qVfe2QEODTqWPdr08wN9adxplkBPdDAvd6K77BtDU%C3%89gMVhTwA7JI6gy6J%C3%81tGalMMMWiFggf47J%C3%89II7hweGBA%3D/",
+    "last_modified": null,
+    "raw_key": "raw/8f3eb9610037c15a3970f57d90ff933f5cff06c244a8b3e11eff3bf8baaa1f09.gz",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "8f3eb9610037c15a3970f57d90ff933f5cff06c244a8b3e11eff3bf8baaa1f09",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/AY4qVfe2QEODTqWPdr08wN9adxplkBPdDAvd6K77BtDU%C3%89gMVhTwA7JI6gy6J%C3%81tGalMMMWiFggf47J%C3%89II7hweGBA%3D/"
+  },
+  "https://ecmp.nebraska.gov/PublicAccess/api/Document/AYGkBhqXTw0R4mX53p2q%C3%81U3JbF5huIcD9DjoTvJ%C3%81eXp6iYe%C3%89jY%C3%81492rvz3kWkT7D8UR8kRgiQ5vgxIbtg0pkFC4%3D/": {
+    "bytes": 369157,
+    "content_type": "application/pdf",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/AYGkBhqXTw0R4mX53p2q%C3%81U3JbF5huIcD9DjoTvJ%C3%81eXp6iYe%C3%89jY%C3%81492rvz3kWkT7D8UR8kRgiQ5vgxIbtg0pkFC4%3D/",
+    "last_modified": null,
+    "raw_key": "raw/4d3e6aa7be574138f7c035bc50c525608215b70031cbe1b8cb22d9083000ad69.gz",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "4d3e6aa7be574138f7c035bc50c525608215b70031cbe1b8cb22d9083000ad69",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/AYGkBhqXTw0R4mX53p2q%C3%81U3JbF5huIcD9DjoTvJ%C3%81eXp6iYe%C3%89jY%C3%81492rvz3kWkT7D8UR8kRgiQ5vgxIbtg0pkFC4%3D/"
+  },
+  "https://ecmp.nebraska.gov/PublicAccess/api/Document/AYTNDYwTqhrxKT1XMptILnqVCG7oLuo5X9CjRBgKmMFRQNOueyKnqWdnOfpjci9DkQXGl8u8UquxAVi%C3%89CZlTTjg%3D/": {
+    "bytes": 208819,
+    "content_type": "application/pdf",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/AYTNDYwTqhrxKT1XMptILnqVCG7oLuo5X9CjRBgKmMFRQNOueyKnqWdnOfpjci9DkQXGl8u8UquxAVi%C3%89CZlTTjg%3D/",
+    "last_modified": null,
+    "raw_key": "raw/97fb3e1284c1c82ea64c6b92d868c670621af2eb238bbe9e2b77670de6d92088.gz",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "97fb3e1284c1c82ea64c6b92d868c670621af2eb238bbe9e2b77670de6d92088",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/AYTNDYwTqhrxKT1XMptILnqVCG7oLuo5X9CjRBgKmMFRQNOueyKnqWdnOfpjci9DkQXGl8u8UquxAVi%C3%89CZlTTjg%3D/"
+  },
+  "https://ecmp.nebraska.gov/PublicAccess/api/Document/Ab9jurN4Upe3Kf%C3%81fxmGQYAdnsXSSuknxRb19Xu1%C3%81Usia%C3%899aYRafxSYZtMDS6JlI6h9k316rXpsCSPsw81hoO4vU%3D/": {
+    "bytes": 77198,
+    "content_type": "application/pdf",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/Ab9jurN4Upe3Kf%C3%81fxmGQYAdnsXSSuknxRb19Xu1%C3%81Usia%C3%899aYRafxSYZtMDS6JlI6h9k316rXpsCSPsw81hoO4vU%3D/",
+    "last_modified": null,
+    "raw_key": "raw/469c7383d0ec0d429fbba61e3a75f709a1b78e43619702de79c54c4540314d24.gz",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "469c7383d0ec0d429fbba61e3a75f709a1b78e43619702de79c54c4540314d24",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/Ab9jurN4Upe3Kf%C3%81fxmGQYAdnsXSSuknxRb19Xu1%C3%81Usia%C3%899aYRafxSYZtMDS6JlI6h9k316rXpsCSPsw81hoO4vU%3D/"
+  },
+  "https://ecmp.nebraska.gov/PublicAccess/api/Document/Ac%C3%81Oo%C3%89h3HpzC3Uk31m9wX%C3%89xzzqzju%C3%81CTXhjrtthG4DLjt1Eio9MA6zQQh20hpkQvX46LLkenNrSbRoQ7AzVbyQ4%3D/": {
+    "bytes": 155801,
+    "content_type": "application/pdf",
+    "etag": null,
+    "final_url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/Ac%C3%81Oo%C3%89h3HpzC3Uk31m9wX%C3%89xzzqzju%C3%81CTXhjrtthG4DLjt1Eio9MA6zQQh20hpkQvX46LLkenNrSbRoQ7AzVbyQ4%3D/",
+    "last_modified": null,
+    "raw_key": "raw/18f17a401c4c969d06b425ff0719107043e216333bf0233dd2e9335482e3407f.gz",
+    "retrieved_at": "2026-11-04T22:40:14Z",
+    "sha256": "18f17a401c4c969d06b425ff0719107043e216333bf0233dd2e9335482e3407f",
+    "url": "https://ecmp.nebraska.gov/PublicAccess/api/Document/Ac%C3%81Oo%C3%89h3HpzC3Uk31m9wX%C3%89xzzqzju%C3%81CTXhjrtthG4DLjt1Eio9MA6zQQh20hpkQvX46LLkenNrSbRoQ7AzVbyQ4%3D/"
+  }
+}

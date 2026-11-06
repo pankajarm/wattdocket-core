@@ -372,14 +372,10 @@ def extract_virginia_document(raw: bytes, publisher_url: str, *, retrieved_via: 
     digest = hashlib.sha256(raw).hexdigest()
     direct_pdf = raw.startswith(b"%PDF-")
     if direct_pdf:
-        try:
-            import pymupdf
-        except ImportError as exc:
-            raise SourceError("PyMuPDF is needed to extract publisher PDF bytes") from exc
-        with pymupdf.open(stream=raw, filetype="pdf") as pdf:
-            pages = {i + 1: _text(page.get_text()) for i, page in enumerate(pdf)
-                     if _text(page.get_text())}
-            claimed = len(pdf)
+        from .permit_recovery import native_pdf_pages
+        all_pages = native_pdf_pages(raw)
+        pages = {i: text for i, text in all_pages.items() if text}
+        claimed = len(all_pages)
         representation = "publisher_pdf"
     else:
         text = raw.decode("utf-8", errors="strict")
@@ -468,6 +464,7 @@ def collect_virginia(fetcher: Fetcher, *, now: datetime,
         previous_docs = {(p.get("registration"), p.get("permit_url")): p.get("document") or {}
                          for p in previous.get("result", {}).get("data", {}).get("permits", [])}
     def read_document(permit):
+        from .permit_recovery import apply_recovery_review, recovery_review_is_current
         url = permit["permit_url"]
         if not fetch_documents:
             permit["document"] = {"status": "not_fetched", "obligations": [], "equipment": []}
@@ -475,7 +472,7 @@ def collect_virginia(fetcher: Fetcher, *, now: datetime,
         old = previous_docs.get((permit["registration"], url), {})
         basis = "retrieved_at" if old.get("retrieved_at") else "archived_by_at"
         cache_date = old.get(basis)
-        if old.get("status") == "parsed" and old.get("extraction_version") == "va-deterministic-3" and cache_date:
+        if old.get("status") == "parsed" and recovery_review_is_current(old, permit) and cache_date:
             from .fetch import parsed, stamp as utc_stamp
             try:
                 age = (now - parsed(cache_date)).total_seconds()
@@ -490,12 +487,22 @@ def collect_virginia(fetcher: Fetcher, *, now: datetime,
         attempts = []
         for via, target in ((url, url), (READER, READER + url)):
             try:
-                content = fetcher.get_bytes(target)
+                content = (getattr(fetcher, "get_publisher_pdf", fetcher.get_bytes)(target)
+                           if via != READER else fetcher.get_bytes(target))
                 if via != READER and not content.startswith(b"%PDF-"):
                     raise SourceError("Publisher document did not return PDF bytes")
                 permit["document"] = extract_virginia_document(
                     content, url, retrieved_via=via, registration=permit["registration"])
+                permit["document"] = apply_recovery_review(
+                    permit["document"], content, permit,
+                    registry_receipt=getattr(fetcher, "receipt", lambda _: None)(
+                        VA_REGISTRY if registry_via == VA_REGISTRY else READER + VA_REGISTRY))
                 permit["document"]["retrieval_warnings"] = attempts
+                if old.get("status") == "failed" or old.get("latest_fetch_error"):
+                    permit["document"]["prior_recovery_failure"] = {
+                        "status": old.get("status"), "error": old.get("error") or old.get("latest_fetch_error"),
+                        "latest_fetch_at": old.get("latest_fetch_at") or old.get("latest_fetch_attempt_at"),
+                        "content_sha256": old.get("content_sha256")}
                 receipt = getattr(fetcher, "receipt", lambda _: None)(target)
                 if receipt:
                     permit["document"]["receipt"] = receipt

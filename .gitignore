@@ -19,3 +19,12 @@ site/share-viewer-request.js
 .env.*
 !.env.example
 .pytest_cache/
+
+# Local tooling and verification; never published.
+.public-sync/
+*.egg-info/
+.env.*
+!.env.example
+!web/.env.example
+playwright-report/
+test-results/

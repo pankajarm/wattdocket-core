@@ -13,7 +13,8 @@ from pathlib import Path
 from .identity import condition_metadata, match_virginia_permits, permit_metadata, review_facilities
 from .quality import validate_record_evidence, validate_disclosure_publication
 from .disclosures import build_disclosures
-from .explain import explain_bundle
+from .facility_power import build_facility_power
+from .explain_registry import build_explain_registry
 from .storage import digest, json_bytes
 
 LB_PER_TONNE = 2204.622621848776
@@ -145,10 +146,62 @@ def _permit_citation(c, permit, retrieved_at):
             "field": c.get("representation", "document") + "; " + c.get("page_derivation", ""),
             "representation": c.get("representation"), "verified": True,
             "verification_scope": "quoted_text_and_locator; legal_effectiveness_not_verified",
-            "verifier_version": "va-deterministic-3", "url": permit["permit_url"],
+            "verifier_version": (permit.get("document") or {}).get("extraction_version", "va-deterministic-3"), "url": permit["permit_url"],
             "page_derivation": c.get("page_derivation"),
             **_document_freshness(permit.get("document") or {}),
+            **{k: c[k] for k in ("representation", "native_page_text_sha256", "reviewed_page_text_sha256",
+                                "transcription_review") if k in c},
             "retrieved_at": retrieved_at}
+
+
+def _permit_review(permit):
+    """Expose a reviewed original only for its exact registry document identity."""
+    doc = permit.get("document") or {}
+    review = doc.get("recovery_review")
+    if not review or review.get("status") != "verified":
+        return None
+    if (review.get("review_version") != "va-reviewed-pdf-1"
+            or review.get("registration") != permit.get("registration")
+            or review.get("publisher_url") != permit.get("permit_url")
+            or review.get("document_sha256") != doc.get("content_sha256")
+            or doc.get("status") != "parsed"
+            or doc.get("extraction_version") != "va-reviewed-pdf-1"
+            or review.get("supersession_review", {}).get("current_legal_effectiveness") != "unknown"):
+        raise ValueError("Recovered permit review does not identify the published document")
+    claims = []
+    for table in doc.get("equipment", []):
+        cits = [_permit_citation(c, permit, doc.get("retrieved_at")) for c in table.get("citations", [])]
+        if cits:
+            claim = _claim("diesel-mw", "diesel_mw", "Generators in cited table", "MW nameplate",
+                value=table["mw_total"], citations=cits, as_of=permit.get("issued_iso"),
+                note="Only the cited equipment table; not a verified whole-site total or actual operating use.")
+            claim.update(**_document_freshness(doc), evidence_scope="equipment_table_page", is_complete_fleet=False,
+                         reviewed_table_scope=table.get("reviewed_table_scope"),
+                         permit_metadata={**permit_metadata(permit), "recovery_review": review})
+            claims.append(claim)
+    if len(claims) > 1:
+        raise ValueError("Separate reviewed equipment tables need distinct explanation identifiers")
+    return {**permit_metadata(permit), "site": permit.get("site"), "url": permit["permit_url"],
+            "content_sha256": doc["content_sha256"], **_document_freshness(doc),
+            **{k: permit[k] for k in ("permit_history_review", "site_identity_review") if k in permit},
+            "recovery_review": review, "conditions": [_public_permit_condition(permit, item) for item in doc.get("obligations", [])],
+            "equipment_claims": claims}
+
+
+def _public_permit_condition(permit, item):
+    doc = permit.get("document") or {}
+    citation = item.get("citation") or {}
+    _permit_citation(citation, permit, doc.get("retrieved_at"))
+    return {"metric": item["metric"], "value": item["value"], "unit": item["unit"],
+        "registration": permit["registration"], "page": citation["page"], "quote": citation["quote"], "url": permit["permit_url"],
+        "retrieved_via": doc.get("retrieved_via"), "content_sha256": doc["content_sha256"], "issued_at": permit.get("issued_iso"),
+        **permit_metadata(permit), **condition_metadata(item), "page_derivation": citation.get("page_derivation"),
+        **_document_freshness(doc),
+        **({"permit_review_ref": {"registration": permit["registration"], "document_sha256": doc["content_sha256"]},
+            "legal_effectiveness": permit["permit_history_review"]["legal_effectiveness"]} if permit.get("permit_history_review") else {}),
+        **({"recovery_review": doc["recovery_review"]} if doc.get("recovery_review", {}).get("status") == "verified" else {}),
+        **{k: item[k] for k in ("reviewed_condition_scope", "reviewed_operating_purpose", "reviewed_period") if k in item},
+        **{k: citation[k] for k in ("representation", "native_page_text_sha256", "reviewed_page_text_sha256", "transcription_review") if k in citation}}
 
 
 def _document_freshness(document):
@@ -254,7 +307,11 @@ def build_release(states: dict, release_id: str, built_at: str):
     geometry = Geometry(geometry_data)
     permits = results.get("virginia_permits", {}).get("data", {}).get("permits", [])
     records = list(results["echo"]["data"]["facilities"])
+    existing_ids = {r["id"] for r in records}
+    records += [r for r in results.get("virginia_site_registry", {}).get("data", {}).get("targeted_epa_facilities", []) if r["id"] not in existing_ids]
     records += results.get("osm", {}).get("data", {}).get("facilities", [])
+    from .permit_history import apply_permit_history
+    permits = apply_permit_history(permits, records, states, built_at=built_at)
     disclosure_data, record_disclosures, disclosure_coverage, disclosure_sources = build_disclosures(
         states, records, release_id, built_at)
     # Capture metadata remains immutable in source state; this release's product
@@ -297,26 +354,36 @@ def build_release(states: dict, release_id: str, built_at: str):
         if key in cards:
             raise ValueError("Duplicate published facility identity: " + key)
         origin = "osm" if fid.startswith("osm:") else "echo"
-        state = states[origin]
+        state = states[raw_facility.get("source_lane") or origin]
         source_url = raw_facility.get("url") or "https://echo.epa.gov/detailed-facility-report?fid=" + str(raw_facility.get("registry_id") or raw_facility.get("source_record_id") or fid.split(":", 1)[1])
         source_label = "OpenStreetMap" if origin == "osm" else "EPA ECHO"
         match_review = match_virginia_permits(raw_facility, permits)
         matches = match_review["matches"]
         review = reviews[fid]
+        for link in match_review["identity_match"].get("reviewed_links", []):
+            conflict = link.get("combined_address_conflict")
+            if conflict:
+                match_review["conflicts"].append({"reason_codes": ["regulatory_program_address_conflict"],
+                    "note": "The consolidated FRS address conflicts with the reviewed DEQ/AIR physical-site address; point and grid assignment are withheld.",
+                    "details": conflict, "record_id": fid})
+                location = review["location_quality"]
+                location.update(status="suspect", map_eligible=False)
+                location["reasons"].append("The consolidated FRS address conflicts with the reviewed DEQ/AIR physical-site address.")
+                location["reason_codes"].append("regulatory_program_address_conflict")
         facility = {**{k: raw_facility.get(k) for k in ("name", "operator", "city", "state", "zip", "lat", "lon", "naics", "status", "registry_id", "source_record_id")},
                     "id": fid, "site_id": None, "address": raw_facility.get("address_line") or "",
-                    "source": origin, "source_label": source_label, "source_url": source_url,
+                    "source": origin, "source_lane": raw_facility.get("source_lane") or origin, "source_label": source_label, "source_url": source_url,
                     "source_license": raw_facility.get("license"), "source_attribution": raw_facility.get("attribution"),
                     "status_basis": raw_facility.get("status_basis") or ("EPA AIR program record status" if origin == "echo" else "Community-reported status"),
                     "is_operating_datacenter_verified": False,
                     "class_verified": bool(matches),
                     "class_label": "Virginia regulator lists this as a data center" if matches else "Community-mapped data center" if origin == "osm" else "EPA computing-industry listing; facility type unverified",
-                    "class_evidence": "Virginia DEQ county and registration match" if matches else "Source classification only",
+                    "class_evidence": "Virginia DEQ reviewed regulator identity match" if matches else "Source classification only",
                     "class_match_method": match_review["match_basis"], "identity_match": match_review["identity_match"],
                     "identity_conflicts": match_review["conflicts"], "identity_candidates": match_review["candidate_matches"],
                     **review,
                     "site_permit_count": len(raw_facility.get("air_records", [])), "sibling_ids": [],
-                    "permit_limits": [], "record_summary": [
+                    "permit_limits": [], "permit_reviews": [], "record_summary": [
                         {"label": "Listing source", "value": source_label, "source_url": source_url},
                         {"label": "EPA AIR program status" if origin == "echo" else "Community-reported status", "value": raw_facility.get("status") or "unknown", "source_url": source_url}]}
         if origin == "echo":
@@ -364,15 +431,12 @@ def build_release(states: dict, release_id: str, built_at: str):
         for permit in matches:
             doc = permit.get("document") or {}
             permit_info = permit_metadata(permit)
+            reviewed = _permit_review(permit)
+            if reviewed:
+                facility["permit_reviews"].append(reviewed)
+                permit_info["recovery_review"] = reviewed["recovery_review"]
             for item in doc.get("obligations", []):
-                c = item.get("citation") or {}
-                _permit_citation(c, permit, doc.get("retrieved_at"))
-                facility["permit_limits"].append({"metric": item["metric"], "value": item["value"], "unit": item["unit"],
-                    "registration": permit["registration"], "page": c["page"], "quote": c["quote"], "url": permit["permit_url"],
-                    "retrieved_via": doc.get("retrieved_via"), "content_sha256": doc["content_sha256"], "issued_at": permit.get("issued_iso"),
-                    "scope": item.get("scope", "quoted_condition"), "applies_to_entire_site": item.get("applies_to_entire_site", False),
-                    **permit_info, **condition_metadata(item),
-                    "page_derivation": c.get("page_derivation"), **_document_freshness(doc)})
+                facility["permit_limits"].append(_public_permit_condition(permit, item))
         # Equipment totals are valid only for their cited table. Never sum
         # revisions/pages into an invented campus total or emissions envelope.
         latest = max(matches, key=lambda p: (p.get("issued_iso") or "", tuple(int(n) for n in p["registration"].split("-")))) if matches else None
@@ -388,7 +452,9 @@ def build_release(states: dict, release_id: str, built_at: str):
                     claims[3]["chain"] = ["Sum the quoted equipment row counts × their kW rating; divide by 1000 to obtain MW."]
                     claims[3].update(**_document_freshness(latest["document"]),
                                      evidence_scope="equipment_table_page", is_complete_fleet=False,
-                                     permit_metadata=permit_metadata(latest))
+                                     permit_metadata={**permit_metadata(latest),
+                                         **({"recovery_review": latest["document"]["recovery_review"]}
+                                            if _permit_review(latest) else {})})
         if rate is not None:
             year = grid_row["data_year"]
             observed = f"{year}-12-31"
@@ -408,7 +474,9 @@ def build_release(states: dict, release_id: str, built_at: str):
                 claim["observation_end"] = results["egrid"].get("observation_end")
                 claim["observation_scope"] = "factor_period; scenario_is_not_an_observation"
             claims.extend((power, carbon))
-        supporting_sources = {origin}
+        supporting_sources = {raw_facility.get("source_lane") or origin}
+        if any(p.get("site_identity_review") for p in matches):
+            supporting_sources.add("virginia_site_registry")
         disclosed = record_disclosures.get(fid, [])
         if disclosed:
             supporting_sources.update(group["location"]["source_id"] for group in disclosed)
@@ -432,7 +500,7 @@ def build_release(states: dict, release_id: str, built_at: str):
         if disclosed:
             card["verdict"]["sentence"] = "Reported annual disclosures are linked below with their reviewed building or campus scope. Annual electricity is not peak demand; related campus totals are not allocated to this record. The grid calculator remains hypothetical."
         entries.append({"id": fid, "site_id": None, "name": facility["name"], "address_line": facility["address"],
-                        **{k: facility.get(k) for k in ("city", "state", "zip", "lat", "lon", "registry_id", "source", "source_label", "source_url", "class_verified", "class_label", "class_match_method", "identity_match", "location_quality", "duplicate_candidates", "site_identity", "status")},
+                        **{k: facility.get(k) for k in ("city", "state", "zip", "lat", "lon", "registry_id", "source", "source_lane", "source_label", "source_url", "class_verified", "class_label", "class_match_method", "identity_match", "location_quality", "duplicate_candidates", "site_identity", "status")},
                         "source_record_id": raw_facility.get("source_record_id"), "hero": False})
         cards[key] = card
         drawers[key] = {slug(c["id"]): make_drawer(card, c) for c in claims}
@@ -461,7 +529,16 @@ def build_release(states: dict, release_id: str, built_at: str):
             "retrieved_at": states["google_water2025"].get("retrieved_at")})
     if disclosure_data["locations"]:
         files["facility-observations.json"] = json_bytes(disclosure_data)
+    power_files, power_coverage = build_facility_power(states, release_id, built_at)
+    files.update(power_files)
     va_parsed = sum(p.get("document", {}).get("status") == "parsed" for p in permits)
+    recovered = [row for permit in permits if (row := _permit_review(permit))]
+    for row in recovered:
+        row["inventory_record_ids"] = [c["facility"]["id"] for c in cards.values()
+            if any(p["registration"] == row["registration"] and p["content_sha256"] == row["content_sha256"]
+                   for p in c["facility"].get("permit_reviews", []))]
+    data_status["permit_recovery"] = {"documents": recovered,
+        "scope": "Reviewed original PDFs; exact regulator identity links only. Document recovery does not establish current legal effectiveness."}
     tx_documents = results.get("texas_permits", {}).get("data", {}).get("documents", [])
     tx_parsed = results.get("texas_permits", {}).get("data", {}).get("documents_ok", 0)
     candidate_groups = {g["group_id"] for r in reviews.values() for g in r["duplicate_candidates"]
@@ -477,11 +554,13 @@ def build_release(states: dict, release_id: str, built_at: str):
                 "with_grid_binding": sum(c["grid"]["subregion"] is not None for c in cards.values()),
                 "permit_documents": len(permits) + len(tx_documents), "permit_documents_parsed": va_parsed + tx_parsed,
                 "virginia_permit_documents": len(permits), "virginia_permit_documents_parsed": va_parsed,
+                "reviewed_permit_documents": len(recovered),
+                "records_with_reviewed_permits": sum(bool(c["facility"].get("permit_reviews")) for c in cards.values()),
                 "texas_permit_documents": len(tx_documents), "texas_permit_documents_parsed": tx_parsed,
                 "records_with_permit_conditions": sum(bool(c["facility"]["permit_limits"]) for c in cards.values()),
                 "records_with_generator_evidence": sum(any(claim["id"] == "diesel-mw" and isinstance(claim["value"], (int, float)) for claim in c["claims"]) for c in cards.values()),
                 "operator_location_water_records": len((water_disclosures or {}).get("observations", [])),
-                "grid_authorities": len(regions), **disclosure_coverage}
+                "grid_authorities": len(regions), **disclosure_coverage, **power_coverage}
     data_status["coverage"] = coverage
     validate_record_evidence(cards, entries)
     validate_disclosure_publication(disclosure_data, cards, coverage)
@@ -490,7 +569,6 @@ def build_release(states: dict, release_id: str, built_at: str):
     files["cards.json"] = json_bytes(cards)
     files["drawers.json"] = json_bytes(drawers)
     files["operators.json"] = json_bytes(operators)
-    files["explain.json"] = json_bytes(explain_bundle(cards, release_id, built_at))
     files["data-status.json"] = json_bytes(data_status)
     files["grid/index.json"] = json_bytes({"release_id": release_id, "as_of": built_at, "regions": grid_index})
     if geometry_data:
@@ -518,4 +596,8 @@ def build_release(states: dict, release_id: str, built_at: str):
             "chain": ["10 MW grid-side reference × 8760 hours × chosen utilization", "Multiply MWh by the published annual grid rate; convert pounds to metric tonnes."],
             "citation": citations[code]}
     files["resolve-fallback.json"] = json_bytes(fallback)
+    registry, explain_coverage = build_explain_registry(files, release_id=release_id, built_at=built_at)
+    files["explain-registry.json"] = json_bytes(registry)
+    coverage.update(explain_coverage)
+    files["data-status.json"] = json_bytes(data_status)
     return files, coverage

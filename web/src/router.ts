@@ -6,7 +6,7 @@ export type Route =
   | { name: 'home' }
   | { name: 'search'; query: string }
   | { name: 'learn'; topic?: string }
-  | { name: 'reported'; query: string; family: string; locationId?: string }
+  | { name: 'reported'; query: string; family: string; locationId?: string; view?: 'power' }
   | { name: 'address'; query: string }
   | { name: 'public'; facilityId: string }
   | { name: 'operator'; facilityId: string }
@@ -26,7 +26,7 @@ function parse(hash: string): Route {
   const [head, id] = segments;
   if (head === 'map' && segments.length === 1) return { name: 'search', query: params.get('q') ?? '' };
   if (head === 'learn' && segments.length <= 2) return { name: 'learn', topic: id };
-  if (head === 'reported' && segments.length === 1) return { name: 'reported', query: params.get('q') ?? '', family: params.get('family') ?? params.get('measure') ?? 'all', locationId: params.get('location') ?? undefined };
+  if (head === 'reported' && segments.length === 1) return { name: 'reported', query: params.get('q') ?? '', family: params.get('family') ?? params.get('measure') ?? 'all', locationId: params.get('location') ?? undefined, ...(params.get('view') === 'power' ? {view: 'power' as const} : {}) };
   if (head === 'data' && segments.length === 1) return { name: 'data' };
   if (head === 'grid' && segments.length === 1) return { name: 'grid' };
   if (head === 'address') return { name: 'address', query: params.get('q') ?? '' };

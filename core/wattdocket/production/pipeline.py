@@ -22,6 +22,9 @@ POLICIES = {
     "eia930": {"interval": 6 * 3600, "stale": 48 * 3600, "required": True, "minimum": 40},
     "ercot": {"interval": 15 * 60, "stale": 2 * 3600, "required": True, "minimum": 10,
               "allow_rolling_window_count": True},
+    "virginia_site_registry": {"interval": 86400, "stale": 3 * 86400, "required": False, "minimum": 13, "maximum": 13,
+        "retry_interval": 86400, "max_normalized_bytes": 1_000_000,
+        "fetcher": {"source_budget_seconds": 30, "max_bytes": 1_000_000}},
     "virginia_permits": {"interval": 86400, "stale": 3 * 86400, "required": True, "minimum": 150},
     "texas_permits": {"interval": 7 * 86400, "stale": 14 * 86400, "required": False, "minimum": 1},
     "osm": {"interval": 7 * 86400, "stale": 14 * 86400, "required": False, "minimum": 1},
@@ -53,6 +56,22 @@ POLICIES = {
                              "minimum": 1, "maximum": 2000, "retry_interval": 86400,
                              "max_normalized_bytes": 8_000_000,
                              "fetcher": {"source_budget_seconds": 60, "max_bytes": 4_000_000}},
+    "inl_c3_power": {"interval": 7 * 86400, "stale": 30 * 86400, "required": False,
+                     "minimum": 47_265, "maximum": 100_000, "retry_interval": 86400,
+                     "max_normalized_bytes": 16_000_000,
+                     "fetcher": {"source_budget_seconds": 90, "max_bytes": 8_000_000}},
+    "nrel_esif_power": {"interval": 30 * 86400, "stale": 45 * 86400, "required": False,
+                        "minimum": 1, "maximum": 9000, "retry_interval": 86400,
+                        "max_normalized_bytes": 16_000_000,
+                        "fetcher": {"source_budget_seconds": 180, "max_bytes": 120_000_000}},
+    "nebraska_facility_demand": {"interval": 7 * 86400, "stale": 30 * 86400, "required": False,
+                               "minimum": 3, "maximum": 3, "retry_interval": 86400,
+                               "max_normalized_bytes": 2_000_000,
+                               "fetcher": {"source_budget_seconds": 90, "max_bytes": 16_000_000}},
+    "nyc_facility_demand": {"interval": 7 * 86400, "stale": 30 * 86400, "required": False,
+                          "minimum": 1, "maximum": 1000, "retry_interval": 86400,
+                          "max_normalized_bytes": 4_000_000,
+                          "fetcher": {"source_budget_seconds": 60, "max_bytes": 4_000_000}},
 }
 # Identity partitions isolate publisher outages. They can publish fewer complete
 # links only when the same reviewed rules identify the exact missing evidence.
@@ -61,7 +80,7 @@ for _identity_source in ("google_disclosure_identity", "meta_disclosure_identity
         "minimum": 1, "maximum": 512, "retry_interval": 86400, "allow_partial_evidence": True,
         "max_normalized_bytes": 2_000_000,
         "fetcher": {"source_budget_seconds": 90, "max_bytes": 16_000_000}}
-LABELS = {"echo": "EPA ECHO", "egrid": "EPA eGRID", "egrid_geometry": "EPA eGRID boundaries",
+LABELS = {"virginia_site_registry": "Virginia DEQ reviewed air-site identities", "echo": "EPA ECHO", "egrid": "EPA eGRID", "egrid_geometry": "EPA eGRID boundaries",
           "eia930": "EIA-930", "ercot": "ERCOT fuel mix", "virginia_permits": "Virginia DEQ permits",
           "texas_permits": "Selected Texas permits", "osm": "OpenStreetMap",
           "cornerstone_egrid2024": "Cornerstone independent 2024 regional comparison",
@@ -74,7 +93,11 @@ LABELS = {"echo": "EPA ECHO", "egrid": "EPA eGRID", "egrid_geometry": "EPA eGRID
           "seattle_benchmarking": "Seattle reported building electricity and emissions",
           "google_disclosure_identity": "Expanded Google campus identity evidence",
           "meta_disclosure_identity": "Expanded Meta campus identity evidence",
-          "municipal_disclosure_identity": "Expanded municipal reporting identity evidence"}
+          "municipal_disclosure_identity": "Expanded municipal reporting identity evidence",
+          "inl_c3_power": "Idaho National Laboratory historical C3 HPC meter power",
+          "nrel_esif_power": "NREL ESIF historical metered IT power",
+          "nebraska_facility_demand": "Nebraska reported 2025 campus peak demand",
+          "nyc_facility_demand": "New York City reported individual-meter maximum demand"}
 
 # Includes the immutable manifest object; the current.json pointer is separate.
 MAX_RELEASE_OBJECTS = 256
@@ -93,7 +116,11 @@ def adapters():
     from .identity_google_expansion import collect_google_identity
     from .identity_meta_expansion import collect_meta_identity
     from .identity_municipal_expansion import collect_municipal_identity
-    out = {"echo": f.collect_echo, "virginia_permits": f.collect_virginia,
+    from .sources_inl_power import collect_inl_c3_power
+    from .sources_esif_power import collect_esif_power
+    from .sources_facility_demand import collect_nebraska_facility_demand, collect_nyc_facility_demand
+    from .sources_virginia_sites import collect_virginia_sites
+    out = {"virginia_site_registry": collect_virginia_sites, "echo": f.collect_echo, "virginia_permits": f.collect_virginia,
            "osm": f.collect_osm, "egrid": g.collect_egrid, "eia930": g.collect_eia930,
            "ercot": g.collect_ercot, "cornerstone_egrid2024": collect_cornerstone_egrid2024,
            "google_water2025": collect_google_water_disclosures,
@@ -105,7 +132,11 @@ def adapters():
            "seattle_benchmarking": collect_seattle_benchmarking,
            "google_disclosure_identity": collect_google_identity,
            "meta_disclosure_identity": collect_meta_identity,
-           "municipal_disclosure_identity": collect_municipal_identity}
+           "municipal_disclosure_identity": collect_municipal_identity,
+           "inl_c3_power": collect_inl_c3_power,
+           "nrel_esif_power": collect_esif_power,
+           "nebraska_facility_demand": collect_nebraska_facility_demand,
+           "nyc_facility_demand": collect_nyc_facility_demand}
     if hasattr(g, "collect_egrid_geometry"):
         out["egrid_geometry"] = g.collect_egrid_geometry
     if hasattr(f, "collect_texas"):
@@ -163,7 +194,8 @@ def retain_virginia_document_evidence(result: dict, previous: dict, timestamp: s
                 current += 1
             continue
         old = old_docs.get((permit.get("registration"), permit.get("permit_url")), {})
-        if document.get("status") == "failed" and old.get("status") == "parsed" and old.get("extraction_version") == "va-deterministic-3":
+        from .permit_recovery import recovery_review_is_current
+        if document.get("status") == "failed" and old.get("status") == "parsed" and recovery_review_is_current(old, permit):
             stale_note = " Latest retrieval failed; quoted facts come from the exact document's last-known captured text."
             permit["document"] = {**old, "freshness": "stale", "latest_fetch_status": "failed",
                                   "latest_fetch_error": document.get("error"),

@@ -139,7 +139,7 @@ export function PublicCardPage({ facilityId }: { facilityId: string }) {
           {/* Production introduces the evidence boundaries before quantities.
               Development retains the opt-in explanation panel. */}
           {production && !explainAvailable() ? <p className="evidence-summary">This page follows one public source record. Annual disclosures keep their own reporting boundaries; permit documents and regional grid conditions provide separate evidence.</p> : <ExplainPanel payload={payload} template={verdict.template} enabled />}
-          <LinkedFacilityDisclosures groups={payload.disclosures} />
+          <LinkedFacilityDisclosures groups={payload.disclosures} releaseId={payload.release_id} />
           {!payload.disclosures?.length && <p className="record-disclosure-gap">No reviewed annual disclosure is linked to this record in our collection. <a href="#/reported">Browse the reported data we do have</a>.</p>}
 
           <section className="evidence-section" aria-labelledby="facility-evidence-title">

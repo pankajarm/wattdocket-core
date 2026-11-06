@@ -1,0 +1,117 @@
+{
+  "schema_version": "1",
+  "release_id": "20261104T230000Z-test",
+  "built_at": "2026-11-04T23:00:00Z",
+  "subjects": {
+    "facility:echo:110072155814": {
+      "kind": "facility",
+      "id": "echo:110072155814",
+      "title": "Example facility record",
+      "facts": [
+        {
+          "id": "generator_table",
+          "text": "The cited generator table lists 401.4 MW of nameplate capacity, not actual use; current effectiveness is unknown.",
+          "scope": "generator_nameplate",
+          "period": null,
+          "numbers": [
+            {
+              "value": 401.4,
+              "unit": "MW",
+              "label": "generator nameplate",
+              "display": "401.4"
+            }
+          ],
+          "evidence": [
+            {
+              "url": "https://permit.example.gov/document.pdf",
+              "locator": "Equipment table page 8",
+              "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "publisher": "State regulator"
+            }
+          ],
+          "required_qualifiers": [
+            "nameplate capacity",
+            "not actual use",
+            "current effectiveness is unknown"
+          ]
+        },
+        {
+          "id": "permit_hours",
+          "text": "The quoted permit condition states 100 hours for testing; it is not a whole-site operating limit and current effectiveness is unknown.",
+          "scope": "permit_condition",
+          "period": null,
+          "numbers": [
+            {
+              "value": 100,
+              "unit": "hours",
+              "label": "testing condition",
+              "display": "100"
+            }
+          ],
+          "evidence": [
+            {
+              "url": "https://permit.example.gov/document.pdf",
+              "locator": "Condition 4, page 9",
+              "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "publisher": "State regulator"
+            }
+          ],
+          "required_qualifiers": [
+            "for testing",
+            "not a whole-site operating limit",
+            "current effectiveness is unknown"
+          ]
+        },
+        {
+          "id": "campus_water",
+          "text": "The linked operator reported 42 million gallons of water withdrawal in 2025 for a campus total; the figures may include estimates and are not allocated to this record.",
+          "scope": "campus_annual_disclosure",
+          "period": {
+            "start": "2025-01-01T00:00:00Z",
+            "end": "2026-01-01T00:00:00Z",
+            "year": 2025
+          },
+          "numbers": [
+            {
+              "value": 42,
+              "unit": "million gallons",
+              "label": "water withdrawal",
+              "display": "42"
+            },
+            {
+              "value": 2025,
+              "unit": "year",
+              "label": "reporting year",
+              "display": "2025"
+            }
+          ],
+          "evidence": [
+            {
+              "url": "https://operator.example/report.pdf",
+              "locator": "Water table page 97",
+              "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+              "publisher": "Operator"
+            }
+          ],
+          "required_qualifiers": [
+            "2025",
+            "campus total",
+            "may include estimates",
+            "not allocated to this record"
+          ]
+        }
+      ],
+      "fallback": {
+        "text": "The cited generator table lists 401.4 MW of nameplate capacity, not actual use; current effectiveness is unknown. The quoted permit condition states 100 hours for testing; it is not a whole-site operating limit and current effectiveness is unknown. The linked operator reported 42 million gallons of water withdrawal in 2025 for a campus total; the figures may include estimates and are not allocated to this record.",
+        "fact_ids": [
+          "generator_table",
+          "permit_hours",
+          "campus_water"
+        ]
+      }
+    }
+  },
+  "aliases": {
+    "echo_110072155814": "facility:echo:110072155814"
+  }
+}

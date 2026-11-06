@@ -1,8 +1,53 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { getFacilityObservations, getDataStatus } from '../api';
 import { dateLabel } from '../dataPresentation';
 import { selectReportedExample } from '../learning';
 import type { FacilityObservations, DataStatus } from '../types';
+import './homepage-demo.css';
+
+const demoUrl = '/media/wattdocket-demo-31ba55c1.mp4';
+const demoChapters = [
+  { time: 12, label: 'Reported data', display: '0:12' },
+  { time: 58, label: 'Permit evidence', display: '0:58' },
+  { time: 86, label: 'Muse Spark', display: '1:26' },
+  { time: 120, label: 'Grid calculator', display: '2:00' },
+];
+
+function DemoVideo() {
+  const player = useRef<HTMLVideoElement>(null);
+  const [started, setStarted] = useState(false);
+  const [failed, setFailed] = useState(false);
+  const play = (time: number) => {
+    const video = player.current;
+    if (!video) return;
+    setFailed(false);
+    video.currentTime = time;
+    video.focus({ preventScroll: true });
+    void video.play().catch(() => setFailed(true));
+  };
+  return <div className="home-demo" aria-label="WattDocket product demonstration">
+    <div className="home-demo__heading"><h2>See the evidence in action.</h2><span>2 min 52 sec</span></div>
+    <div className="home-demo__screen">
+      <video ref={player} controls playsInline preload="none" width="1920" height="1080"
+        poster="/media/wattdocket-demo-31ba55c1-poster-v2.jpg"
+        aria-label="WattDocket demo: public records, permit evidence and Meta Muse Spark"
+        onPlay={() => { setStarted(true); setFailed(false); }} onError={() => setFailed(true)}>
+        <source src={demoUrl} type="video/mp4" />
+        <track kind="captions" src="/media/wattdocket-demo-31ba55c1.vtt" srcLang="en" label="English" />
+        <p><a href={demoUrl}>Watch the WattDocket demo</a>.</p>
+      </video>
+      {!started && !failed && <button className="home-demo__play" onClick={() => play(0)} aria-label="Play the 2 minute 52 second WattDocket demo">
+        <svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M8 4.7v14.6L20 12 8 4.7Z"/></svg>
+        <span>Watch demo</span>
+      </button>}
+    </div>
+    {failed && <p className="home-demo__error" role="status">The video could not play here. <a href={demoUrl}>Open the video directly</a>.</p>}
+    <nav className="home-demo__chapters" aria-label="Jump to a demo chapter">
+      {demoChapters.map(chapter => <button key={chapter.time} onClick={() => play(chapter.time)} aria-label={`Play ${chapter.label} at ${chapter.display}`}><span>{chapter.display}</span>{chapter.label}</button>)}
+    </nav>
+    <div className="home-demo__caption"><span>Featuring Meta Muse Spark</span><a href={demoUrl}>Open full video <Arrow/></a></div>
+  </div>;
+}
 
 function Arrow() {
   return <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M4 12h15M13 5l7 7-7 7"/></svg>;
@@ -32,17 +77,20 @@ export function AwarenessHomePage() {
   const electricity = example?.rows[0];
   const years = [...new Set(locations.flatMap(l => l.observations.map(o => o.data_year)))].sort();
   return <main id="main-content" className="awareness-home">
-    <section className="awareness-intro" aria-labelledby="awareness-title">
+    <section className="awareness-intro awareness-intro--demo" aria-labelledby="awareness-title">
       <div className="awareness-intro__copy">
         <h1 id="awareness-title">Understand data centers through <em>public evidence.</em></h1>
-        <p>Explore reported electricity and water use, permit documents, and regional grid conditions. See who reported each figure, what place and year it covers, and what remains unknown.</p>
-        <div className="awareness-actions"><a className="awareness-button" href="#/reported">Explore reported data <Arrow/></a><a className="awareness-link" href="#/map">Find public records <Arrow/></a></div>
+        <p>Follow electricity and water figures to their sources. Read the permits, explore the grid context, and see what the evidence can tell us.</p>
+        <div className="awareness-actions"><a className="awareness-button" href="#/reported">Explore reported data <Arrow/></a><a className="awareness-link" href="#/public/echo%3A110072155814">Open the demo record <Arrow/></a></div>
       </div>
-      <div className="awareness-questions">
-        <h2>Start with a question.</h2>
-        {questions.map(q => <a className="awareness-question" href={`#/learn/${q.topic}`} key={q.topic}><span><strong>{q.title}</strong><small>{q.note}</small></span><Arrow/></a>)}
+      <DemoVideo/>
+    </section>
+    <section className="awareness-questions home-question-index" aria-labelledby="home-questions-title">
+      <div className="home-question-index__heading">
+        <h2 id="home-questions-title">Start with a question.</h2>
         <a className="awareness-all" href="#/learn">Explore all questions <Arrow/></a>
       </div>
+      <div className="home-question-index__links">{questions.map(q => <a className="awareness-question" href={`#/learn/${q.topic}`} key={q.topic}><span><strong>{q.title}</strong><small>{q.note}</small></span><Arrow/></a>)}</div>
     </section>
 
     <section className="awareness-reports" aria-labelledby="reports-title">
