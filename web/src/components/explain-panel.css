@@ -1,0 +1,14 @@
+.explain .explain__head { gap:12px; flex-wrap:wrap; }
+.explain .explain__title { margin:0; color:var(--text); font:500 18px/1.4 var(--sans); }
+.explain .explain__scope { margin:0 0 16px; color:var(--muted); font-size:14px; line-height:1.6; max-width:75ch; }
+.explain .explain__text { max-width:75ch; white-space:pre-line; overflow-wrap:anywhere; }
+.explain .explain__badge { letter-spacing:.025em; font-size:12px; }
+.explain .explain__sources { margin:16px 0; color:var(--text-2); font-size:14px; }
+.explain__sources summary { cursor:pointer; min-height:44px; padding-block:10px; color:var(--blue); }
+.explain__sources ul { margin:0; padding-left:24px; }
+.explain__sources li { padding-bottom:8px; line-height:1.6; overflow-wrap:anywhere; }
+.explain__sources code { font-size:13px; overflow-wrap:anywhere; }
+.explain .explain__foot { align-items:flex-start; gap:12px 20px; }
+.explain .explain__note { max-width:65ch; line-height:1.6; }
+.explain button:disabled { cursor:default; opacity:.65; }
+.explain a:focus-visible,.explain button:focus-visible,.explain summary:focus-visible { outline:2px solid var(--blue); outline-offset:4px; }

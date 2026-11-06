@@ -1,0 +1,123 @@
+{
+  "status": "passed_local",
+  "date": "2026-11-06",
+  "scope": "Public source sync, pinned public data, default keyless local browsing, optional local adapter and public repository hygiene",
+  "source_revision": "1f69c7855412f505771a0073d9407582426a2a52",
+  "audited_source_files": 341,
+  "snapshot": {
+    "release_id": "20261106T124418Z-a50ee40cfe2c",
+    "objects": 130,
+    "decoded_bytes": 126409758,
+    "hash_and_size_checks": "passed"
+  },
+  "python": {
+    "passed": 1176,
+    "skipped": 1,
+    "skip_reason": "Historical generated hero-card artifact is not included; executable invariants otherwise pass"
+  },
+  "frontend": {
+    "tests_passed": 132,
+    "typecheck": "passed via build",
+    "production_build": "passed"
+  },
+  "browser": {
+    "status": "passed",
+    "results": [
+      {
+        "mode": "dev",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "external_requests_blocked": true,
+        "video": true,
+        "captions": true,
+        "public_records": true,
+        "calculator": true,
+        "disclosures": true,
+        "power": true,
+        "grid": true,
+        "sources": true
+      },
+      {
+        "mode": "dev",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "external_requests_blocked": true,
+        "video": true,
+        "captions": true,
+        "public_records": true,
+        "calculator": true,
+        "disclosures": true,
+        "power": true,
+        "grid": true,
+        "sources": true
+      },
+      {
+        "mode": "preview",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "external_requests_blocked": true,
+        "video": true,
+        "captions": true,
+        "public_records": true,
+        "calculator": true,
+        "disclosures": true,
+        "power": true,
+        "grid": true,
+        "sources": true
+      },
+      {
+        "mode": "preview",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "external_requests_blocked": true,
+        "video": true,
+        "captions": true,
+        "public_records": true,
+        "calculator": true,
+        "disclosures": true,
+        "power": true,
+        "grid": true,
+        "sources": true
+      }
+    ]
+  },
+  "security": {
+    "gitleaks_working_tree": "Passed with explicit .gitleaks.toml; only public raw/<SHA-256>.gz archive paths (including scanner chunk truncation) allowlisted",
+    "npm_audit": "zero vulnerabilities",
+    "private_vulnerability_reporting": true,
+    "automated_security_fixes": true,
+    "production_model_default": "disabled; no endpoint or implicit credential reads",
+    "gitleaks_history": "No findings in pre-sync public history"
+  },
+  "not_exercised": [
+    "New paid Muse response (mocked contract tests and actual local fallback validated)",
+    "Production deployment and AWS provisioning",
+    "Continuous automatic parity after this pinned snapshot"
+  ],
+  "clean_clone": {
+    "source": "git clone --no-local of the candidate commit",
+    "node": "24.18.0",
+    "python": "3.12.8",
+    "npm_ci": "passed",
+    "typecheck": "passed",
+    "frontend_tests": 132,
+    "build": "passed",
+    "browser_dev_and_preview": "passed at desktop and mobile widths with all external requests blocked",
+    "python_tests": 1176,
+    "python_skipped": 1,
+    "snapshot_verification": "passed",
+    "source_manifest_verification": "passed"
+  }
+}

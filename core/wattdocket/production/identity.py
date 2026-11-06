@@ -47,12 +47,20 @@ def match_virginia_permits(facility: dict, permits: list[dict]) -> dict:
                                  "note": "No verified regulator identity link; a source listing is not a distinct physical-site identity."}}
     if str(facility.get("state") or "").upper() != "VA":
         return result
+    from .permit_history import reviewed_link, METHOD
+    reviewed_links = []
     identifiers = [(r.get("SourceID"), source_id_parts(r.get("SourceID", "")))
                    for r in facility.get("air_records", [])]
     identifiers = [(source, parts) for source, parts in identifiers if parts]
     for permit in permits:
         registration = str(permit.get("registration") or "").split("-")[0]
         county = VA_COUNTY_FIPS.get(permit.get("county"))
+        link = reviewed_link(facility, permit)
+        if link:
+            result["matches"].append(permit)
+            result["matched_source_ids"].append(link["expected_record"]["air_record"]["SourceID"])
+            reviewed_links.append(link)
+            continue
         matching = [source for source, parts in identifiers
                     if county and parts == (county, registration)]
         if matching:
@@ -81,6 +89,10 @@ def match_virginia_permits(facility: dict, permits: list[dict]) -> dict:
         result["identity_match"] = {"status": "matched", "method": "county_and_registration",
                                     "matched_source_ids": result["matched_source_ids"],
                                     "note": "Virginia county and registration match an EPA air-source identifier. This verifies the registry link, not current operation or a unique physical site."}
+        if reviewed_links:
+            result["match_basis"] = METHOD
+            result["identity_match"].update(method=METHOD, reviewed_links=reviewed_links,
+                note="Exact DEQ ICIS identifier, EPA AIR cross-reference, registration, county and reviewed physical address establish the same regulatory air site; no current permit effectiveness or whole-campus boundary is implied.")
     elif result["candidate_matches"]:
         rejected = any(x["status"] == "conflict" for x in result["candidate_matches"])
         result["identity_match"] = {"status": "conflict" if rejected else "candidate",

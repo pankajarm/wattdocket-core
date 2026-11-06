@@ -34,6 +34,11 @@ import type {
   SensitivityRow,
   TransformRow,
   EvidenceRetrieval,
+  PermitRecoveryReview,
+  PermitPageEvidence,
+  PermitHistoryReview,
+  PermitSiteIdentityReview,
+  PermitReviewEvidence,
 } from './types';
 
 type Json = Record<string, unknown>;
@@ -79,6 +84,85 @@ function missingWaterNote(metric: Metric, note: string): string {
 
 function num(v: unknown): number | null {
   return typeof v === 'number' && Number.isFinite(v) ? v : null;
+}
+
+function permitPageEvidence(value: unknown): PermitPageEvidence | undefined {
+  const row = obj(value);
+  if (!row) return undefined;
+  const page = num(row['pdf_page']);
+  return {value: str(row['value']), quote: str(row['quote']), pdf_page: page !== null && Number.isInteger(page) && page > 0 ? page : null};
+}
+
+function permitRecoveryReview(value: unknown): PermitRecoveryReview | undefined {
+  const review = obj(value);
+  if (!review || typeof review['review_version'] !== 'string') return undefined;
+  const identity = obj(review['identity_review']);
+  const history = obj(review['supersession_review']);
+  const extent = review['document_extent'];
+  return {
+    review_version: review['review_version'], reviewed_at: str(review['reviewed_at']),
+    status: str(review['status']),
+    registration: str(review['registration']), publisher_url: str(review['publisher_url']), document_sha256: str(review['document_sha256']),
+    document_extent: extent === 'full_permit' || extent === 'partial_amendment' || extent === 'correspondence' || extent === 'permit_letter' ? extent : 'unknown',
+    identity_review: identity ? {registration: permitPageEvidence(identity['registration']), county: permitPageEvidence(identity['county']), physical_address: permitPageEvidence(identity['physical_address'])} : undefined,
+    supersession_review: history ? {
+      status: str(history['status']), current_legal_effectiveness: 'unknown',
+      statements: arr(history['statements']).map(obj).filter((row): row is Json => row !== null && typeof row['quote'] === 'string')
+        .map((row) => ({...permitPageEvidence(row), quote: str(row['quote']), replaced_dates: arr(row['replaced_dates']).filter((date): date is string => typeof date === 'string'), scope: str(row['scope'])})),
+    } : undefined,
+  };
+}
+
+function permitReviewEvidence(value: unknown): PermitReviewEvidence[] {
+  return arr(value).map(obj).filter((row): row is Json => row !== null && typeof row['url'] === 'string')
+    .map((row) => ({url: str(row['url']), sha256: str(row['sha256']), locator: str(row['locator']),
+      quote: str(row['quote']), pdf_page: num(row['pdf_page']),
+      receipt: {retrieved_at: str(obj(row['receipt'])?.['retrieved_at'])}}));
+}
+
+function permitHistoryReview(value: unknown): PermitHistoryReview | undefined {
+  const row = obj(value);
+  if (!row || row['review_version'] !== 'va-history-1') return undefined;
+  const listing = obj(row['registry_listing']);
+  const legal = obj(row['legal_effectiveness']);
+  const status = row['status'] === 'verified' || row['status'] === 'review_required' ? row['status'] : 'unavailable';
+  return {review_version: 'va-history-1', status, reviewed_at: str(row['reviewed_at']), checked_at: str(row['checked_at']), note: str(row['note']),
+    registry_listing: listing ? {
+      status: listing['status'] === 'latest_listed_for_registration' || listing['status'] === 'listed_with_later_document' || listing['status'] === 'not_listed' ? listing['status'] : 'unknown',
+      registry_as_of: str(listing['registry_as_of']), checked_at: str(listing['checked_at']),
+      current_rows: arr(listing['current_rows']).map(obj).filter((item): item is Json => item !== null && typeof item['registration'] === 'string')
+        .map((item) => ({registration: str(item['registration']), url: str(item['url']), issued_at: str(item['issued_at']), program: str(item['program'])})),
+    } : undefined,
+    legal_effectiveness: legal ? {
+      status: status === 'verified' && (legal['status'] === 'source_confirmed_current' || legal['status'] === 'superseded') ? legal['status'] : 'unknown',
+      scope: legal['scope'] === 'entire_document' || legal['scope'] === 'specified_conditions' ? legal['scope'] : 'not_established',
+      condition_refs: arr(legal['condition_refs']).filter((item): item is string => typeof item === 'string'),
+      note: str(legal['note']), evidence: permitReviewEvidence(legal['evidence']),
+    } : undefined,
+    events: arr(row['events']).map(obj).filter((item): item is Json => item !== null && typeof item['scope'] === 'string')
+      .map((item) => ({type: str(item['type']), scope: str(item['scope']), evidence: permitReviewEvidence(item['evidence'])})),
+  };
+}
+
+function permitSiteIdentityReview(value: unknown): PermitSiteIdentityReview | undefined {
+  const row = obj(value);
+  if (!row || row['review_version'] !== 'va-site-1') return undefined;
+  const address = obj(row['physical_address']);
+  const status = obj(row['site_status']);
+  return {review_version: 'va-site-1',
+    status: row['status'] === 'regulator_site_verified' || row['status'] === 'candidate' || row['status'] === 'review_required' ? row['status'] : 'unresolved',
+    regulator_site_id: str(row['regulator_site_id']), registration_root: str(row['registration_root']), note: str(row['note']),
+    source_freshness: str(row['source_freshness']), retrieved_at: str(row['retrieved_at']), checked_at: str(row['checked_at']),
+    physical_address: address ? {street: str(address['street']), city: str(address['city']), state: str(address['state']), postal_code: str(address['postal_code'])} : undefined,
+    site_status: status ? {status_group: str(status['status_group']), air_operating_status: str(status['air_operating_status']), note: str(status['note'])} : undefined,
+    evidence: permitReviewEvidence(row['evidence']),
+    inventory_links: arr(row['inventory_links']).map(obj).filter((item): item is Json => item !== null && typeof item['record_id'] === 'string')
+      .map((item) => {
+        const conflict = obj(item['combined_address_conflict']);
+        return {record_id: str(item['record_id']), relationship: item['relationship'] === 'same_regulator_record' || item['relationship'] === 'within_permit_site' ? item['relationship'] : 'candidate', verification_status: str(item['verification_status']),
+          combined_address_conflict: conflict ? {consolidated_frs_address: str(conflict['consolidated_frs_address']), air_program_address: str(conflict['air_program_address']), deq_physical_address: str(conflict['deq_physical_address']), resolution: str(conflict['resolution'])} : undefined};
+      }),
+  };
 }
 
 function badge(v: unknown): Badge {
@@ -461,11 +545,20 @@ export function normaliseFacilityPayload(raw: unknown): FacilityPayload | null {
           ? facilityRaw['site_permit_count']
           : 1,
       sibling_ids: arr(facilityRaw['sibling_ids']).map(String),
+      permit_reviews: arr(facilityRaw['permit_reviews']).map(obj).filter((row): row is Json => row !== null)
+        .flatMap((row) => {
+          const review = permitRecoveryReview(row['recovery_review']);
+          if (!review || typeof row['registration'] !== 'string' || typeof row['url'] !== 'string') return [];
+          return [{...evidenceRetrieval(row), registration: row['registration'], url: row['url'], county_fips: str(row['county_fips']), issued_at: str(row['issued_at']), content_sha256: str(row['content_sha256']), parse_status: str(row['parse_status']), recovery_review: review,
+            permit_history_review: permitHistoryReview(row['permit_history_review']), site_identity_review: permitSiteIdentityReview(row['site_identity_review'])}];
+        }),
       permit_limits: arr(facilityRaw['permit_limits'])
         .map((l) => obj(l))
         .filter((l): l is Json => l != null && typeof l['value'] === 'number' && Number.isFinite(l['value']))
         .map((l) => ({
           ...evidenceRetrieval(l),
+          recovery_review: permitRecoveryReview(l['recovery_review']),
+          reviewed_condition_scope: str(l['reviewed_condition_scope']), reviewed_operating_purpose: str(l['reviewed_operating_purpose']), reviewed_period: str(l['reviewed_period']),
           issued_at: str(l['issued_at']), document_status: str(l['document_status']), program: str(l['program']), effective_status: str(l['effective_status']), supersedes: arr(l['supersedes']).map(String),
           metric: str(l['metric']),
           value: typeof l['value'] === 'number' ? l['value'] : 0,

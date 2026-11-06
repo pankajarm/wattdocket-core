@@ -62,7 +62,7 @@ INVARIANTS = [
 
 
 def slug(value: str) -> str:
-    """Must match the static API key rule exactly."""
+    """Must match deploy/cf-viewer-request.js slug() exactly."""
     out = re.sub(r"[^a-z0-9]+", "_", value.lower()).strip("_")
     return out
 

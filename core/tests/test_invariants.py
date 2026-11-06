@@ -1,8 +1,7 @@
-"""The ten invariants from SPEC.md, one test each.
+"""Regression tests for units, time, evidence, scope and calculation invariants.
 
-These tests exist because every one of them caught a real defect in the
-chair's own working code during the board rounds. They are not coverage
-theatre: each one fails if the corresponding bug is reintroduced.
+Private planning-document synchronization is outside the public test suite;
+all executable engine and evidence checks remain here.
 """
 
 from datetime import datetime, timezone
@@ -453,6 +452,8 @@ def test_rows_are_not_buildings():
     # reconciled by a reader.
     missing = [k for k, v in index["cards"].items() if not v.get("site_id")]
     assert not missing, missing[:5]
+
+
 
 
 def test_hero_storage_figure_is_energy_not_capacity():

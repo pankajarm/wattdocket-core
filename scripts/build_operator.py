@@ -1,6 +1,6 @@
 """Build the operator payload — from real inputs only, or not at all.
 
-The review verdict on the operator bench was blunt: a 24/7 matched heatmap and
+The board's verdict on the operator bench was blunt: a 24/7 matched heatmap and
 market-based accounting resting on invented meter data is the first thing a
 hostile reader attacks, because it is the one screen claiming to be a compliance
 record while being fiction underneath.

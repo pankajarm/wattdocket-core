@@ -1,0 +1,40 @@
+.reported-views { display:flex; gap:16px 32px; flex-wrap:wrap; border-bottom:1px solid var(--line); margin:0 0 32px; }
+.reported-views a { min-height:48px; padding:12px 0; color:var(--muted); font-weight:500; text-decoration:none; border-bottom:2px solid transparent; }
+.reported-views a[aria-current=page] { border-color:var(--teal); color:var(--text); }
+.reported-views a:hover { color:var(--blue); }
+.facility-power section + section { margin-top:64px; }
+.facility-power h2 { font:500 30px/1.25 var(--display); letter-spacing:-.025em; margin:0 0 16px; }
+.facility-power p { max-width:75ch; font-size:16px; line-height:1.7; color:var(--text-2); }
+.power-entry { border-top:1px solid var(--line); padding:28px 0 32px; margin-top:28px; }
+.power-entry h3 { font:500 22px/1.4 var(--display); margin:0 0 8px; color:var(--text); }
+.power-entry-heading { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:24px; align-items:start; }
+.power-entry-heading p { margin:0 0 12px; }
+.power-entry-heading .power-value { color:var(--text); font-size:26px; font-weight:500; font-variant-numeric:tabular-nums; }
+.power-value span { display:block; color:var(--muted); font-size:14px; font-weight:400; }
+.facility-power .power-period { font-variant-numeric:tabular-nums; color:var(--text); }
+.facility-power .power-provenance { font-size:14px; color:var(--muted); margin-top:24px; }
+.power-provenance p { font-size:14px; color:var(--muted); }
+.power-proof summary,.power-readings summary { cursor:pointer; padding-block:12px; min-height:44px; color:var(--blue); }
+.power-proof p { font-size:14px; overflow-wrap:anywhere; }
+.power-license { white-space:pre-wrap; }
+.power-chart { margin-block:24px; }
+.power-chart button,.facility-power button { background:var(--action); color:var(--on-action); border:0; border-radius:8px; padding:12px 20px; min-height:48px; cursor:pointer; font:500 16px/1.4 var(--sans); }
+.power-chart button:hover,.facility-power button:hover { background:var(--action-hover); }
+.power-date { display:flex; flex-direction:column; gap:8px; width:fit-content; max-width:100%; color:var(--text-2); }
+.power-date input { padding:12px; min-height:48px; max-width:100%; border:1px solid var(--control-border); border-radius:8px; color:var(--text); background:var(--panel); font:16px/1.4 var(--sans); }
+.power-chart figure { margin:24px 0; position:relative; padding-left:72px; }
+.power-chart svg { display:block; width:100%; height:auto; min-height:140px; overflow:visible; }
+.power-axis { display:flex; flex-direction:column; justify-content:space-between; position:absolute; top:0; bottom:24px; left:0; color:var(--muted); font-size:13px; font-variant-numeric:tabular-nums; }
+.power-line { fill:none; stroke:var(--teal); stroke-width:2; vector-effect:non-scaling-stroke; }
+.power-baseline { stroke:var(--line); stroke-width:1; }
+.power-chart figcaption { display:flex; justify-content:space-between; gap:16px; color:var(--muted); font-size:13px; }
+.power-readings table { border-collapse:collapse; width:100%; max-width:600px; font-size:14px; font-variant-numeric:tabular-nums; }
+.power-readings caption { text-align:left; padding:12px 0; color:var(--muted); }
+.power-readings td,.power-readings th { text-align:left; padding:10px 0; border-bottom:1px solid var(--line); font-weight:400; }
+.power-chart > a { display:inline-block; padding-block:12px; min-height:44px; }
+@media(max-width:650px) {
+  .power-entry-heading { grid-template-columns:1fr; gap:8px; }
+  .facility-power h2 { font-size:27px; }
+  .power-entry h3 { font-size:21px; }
+  .reported-views { gap:8px 24px; }
+}

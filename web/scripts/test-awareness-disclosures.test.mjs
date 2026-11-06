@@ -10,6 +10,7 @@ import TestRenderer, { act } from 'react-test-renderer';
 const bundle = await build({
   stdin: {contents: `export * from './src/disclosureData'; export {DisclosureExplorer} from './src/components/FacilityDisclosures';`, resolveDir: fileURLToPath(new URL('../', import.meta.url)), loader:'tsx'},
   bundle:true, write:false, platform:'node', format:'cjs', external:['react','react/jsx-runtime'],
+  define:{'import.meta.env':'{}'},loader:{'.css':'empty'},
 });
 const module = {exports:{}};
 new Function('module','exports','require',bundle.outputFiles[0].text)(module,module.exports,createRequire(import.meta.url));

@@ -1,12 +1,15 @@
-"""The public API — FastAPI, deterministic first.
+"""Legacy deterministic development API; not the website's data server.
 
-Every route except `/v1/explain` is pure computation over the ledger. The
-model is reachable from exactly one place, it has a timeout and a circuit
-breaker, and when it fails this service returns a static tooltip rather than
-an error. That is what makes `MODEL_OFF=1` a real guarantee and not a hope.
+The website reads a verified local static snapshot through Vite. This optional
+service retains the older ledger/fixture and estimator routes for development.
+Its former client-payload explanation route is retired and returns HTTP 410.
+Use scripts/serve_local_explain.py for release-pinned Muse explanations.
 
-Run locally:
-    uvicorn wattdocket.api.main:app --reload --port 8080
+Run from the repository root:
+    python3 -m pip install -e 'core[api]'
+    PYTHONPATH=core:api python3 -m uvicorn wattdocket_api.main:app --host 127.0.0.1 --port 8080
+
+On Windows, set PYTHONPATH to core;api before running the same uvicorn command.
 """
 
 from __future__ import annotations
@@ -24,7 +27,7 @@ from wattdocket.grid import IntensityState
 
 LEDGER_PATH = Path(os.environ.get("WATTDOCKET_LEDGER", "ledger.sqlite"))
 ARTIFACT_DIR = Path(os.environ.get("WATTDOCKET_ARTIFACTS", "artifacts"))
-MODEL_ENABLED = os.environ.get("MODEL_OFF", "0") not in ("1", "true", "yes")
+MODEL_ENABLED = False  # This legacy service cannot make model calls.
 
 
 # --------------------------------------------------------------------------
@@ -38,7 +41,7 @@ class Ledger:
         self._fixtures = None
         if LEDGER_PATH.exists():
             import sqlite3
-            self._conn = sqlite3.connect(f"file:{LEDGER_PATH}?mode=ro", uri=True)
+            self._conn = sqlite3.connect(f"file:{LEDGER_PATH}?mode=ro", uri=True, check_same_thread=False)
             self._conn.row_factory = sqlite3.Row
         else:
             fx = ARTIFACT_DIR / "fixtures.json"
@@ -189,21 +192,12 @@ def estimator(cap_mw: float = Query(..., gt=0),
 
 
 @app.post("/v1/explain")
-def explain(body: dict) -> dict:
-    """The only model route. Degrades to a template, never errors."""
-    text = (body.get("template") or "").strip()
-    payload = body.get("payload") or {}
-    if not MODEL_ENABLED:
-        return {"text": text, "source": "template", "model": None,
-                "degraded": True, "reason": "MODEL_OFF"}
-    try:
-        from wattdocket.explain import compose
-        prose = compose(payload)
-        return {"text": prose, "source": "model", "model": "muse-spark-1.3",
-                "degraded": False}
-    except Exception as e:                      # noqa: BLE001
-        return {"text": text, "source": "template", "model": None,
-                "degraded": True, "reason": type(e).__name__}
+def explain() -> None:
+    """Retired: client-supplied facts cannot form trusted model evidence."""
+    raise HTTPException(status_code=410, detail={
+        "reason": "LEGACY_EXPLAIN_RETIRED",
+        "message": "Use scripts/serve_local_explain.py with the pinned local data release.",
+    })
 
 
 @app.get("/v1/method")

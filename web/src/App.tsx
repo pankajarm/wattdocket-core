@@ -58,7 +58,7 @@ export default function App() {
   let content;
   if (route.name === 'home') content = <AwarenessHomePage />;
   else if (route.name === 'learn') content = <LearnPage key={route.topic ?? 'index'} topic={route.topic} />;
-  else if (route.name === 'reported') content = <ReportedDataPage key={`${route.query}:${route.family}:${route.locationId}`} query={route.query} family={route.family} locationId={route.locationId} />;
+  else if (route.name === 'reported') content = <ReportedDataPage key={`${route.query}:${route.family}:${route.locationId}:${route.view}`} query={route.query} family={route.family} locationId={route.locationId} view={route.view} />;
   else if (route.name === 'public') content = <PublicCardPage key={route.facilityId} facilityId={route.facilityId} />;
   else if (route.name === 'operator') content = user && !user.expired
     ? <OperatorBenchPage key={route.facilityId} facilityId={route.facilityId} />

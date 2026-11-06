@@ -1,0 +1,2723 @@
+{
+  "review_version": "va-history-1",
+  "documents": [
+    {
+      "registration": "11541-3",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25638/639251514356230000",
+      "document_sha256": "2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "11541-3",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25638/639251514356230000",
+          "issued_at": "2008-05-16",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "replaces",
+          "scope": "entire referenced permit",
+          "subject_document_id": "11541-3",
+          "replaced_dates": [
+            "2008-02-13"
+          ],
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25638/639251514356230000",
+              "sha256": "2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25638/639251514356230000",
+                "sha256": "2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68",
+                "retrieved_at": "2026-11-05T02:25:15.681394+00:00",
+                "bytes": 291330,
+                "raw_key": "raw/2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68.gz"
+              },
+              "locator": "PDF page 3",
+              "representation": "original_publisher_bytes",
+              "pdf_page": 3,
+              "quote": "This permit supersedes your permit dated February 13, 2008."
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "11541-3": "2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 1178,
+        "PLA_ID": 40538,
+        "PLA_REG_NUM": 11541,
+        "PLA_NAME": "Northrop Grumman Systems Corporation",
+        "FAC_L_ADDR_1": "201 Technology Park Drive",
+        "FAC_L_CITY": "Lebanon",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "24266",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "PLA_ICIS_ID": "VA0000005116700092",
+        "PLA_DESC": "generator for data center",
+        "PLA_PRINCIPAL_PRODUCT": "data center",
+        "PCL_STATE_DESC": "Synthetic Minor",
+        "PCL_FED_DESC": "Synthetic Minor",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Temporarily Shutdown",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIR3yrComplQtrsHistory": "____________",
+        "AIRCaseIDs": null,
+        "AIRCity": "LEBANON",
+        "AIRClassification": "Synthetic Minor Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRCounty": "Russell",
+        "AIRDaysLastEval": "2060",
+        "AIRDaysLastFce": "2060",
+        "AIRDaysLastPartialEval": "4288",
+        "AIREPARegion": "03",
+        "AIREvalCnt": null,
+        "AIRFIPSCode": "51167",
+        "AIRFacilityTypeCode": "NON",
+        "AIRFacilityTypeDesc": "Non-Government",
+        "AIRFceCnt": null,
+        "AIRFeaCnt": null,
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRIDs": "VA0000005116700092",
+        "AIRIeaCnt": "0",
+        "AIRIndianCntryFlg": "N",
+        "AIRInvCnt": null,
+        "AIRLastEvalDate": "03/11/2021",
+        "AIRLastEvalDateEPA": null,
+        "AIRLastEvalDateState": "03/11/2021",
+        "AIRLastFceDate": "03/11/2021",
+        "AIRLastFceDateEPA": null,
+        "AIRLastFceDateState": "03/11/2021",
+        "AIRLastFeaDate": null,
+        "AIRLastFeaDateEPA": null,
+        "AIRLastFeaDateState": null,
+        "AIRLastIeaDate": null,
+        "AIRLastIeaDateEPA": null,
+        "AIRLastIeaDateState": null,
+        "AIRLastPenaltyDate": null,
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": null,
+        "AIRLastStckTestDate": null,
+        "AIRLastStckTestResults": null,
+        "AIRLastViolDate": null,
+        "AIRMacts": "ZZZZ",
+        "AIRMajorFlag": "N",
+        "AIRMnthsWithHpv": "0",
+        "AIRNAICS": "518210",
+        "AIRNAICSDescs": "518210: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+        "AIRName": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+        "AIRNsps": "NSPS Part 60 - Subpart IIII - STATIONARY COMPRESSION IGNITION INTERNAL COMBUSTION ENGINES",
+        "AIRNspsm": null,
+        "AIRPartialEvalCnt": null,
+        "AIRPenalties": null,
+        "AIRPollRecentViol": null,
+        "AIRPrograms": "MACT, NSPS, SIP",
+        "AIRQtrsWithHpv": "0",
+        "AIRQtrsWithViol": "0",
+        "AIRRecentViolCnt": "0",
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "AIRState": "VA",
+        "AIRStatus": "Temporarily Closed",
+        "AIRStreet": "201 TECHNOLOGY PARK DRIVE",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRUniverse": "Synthetic Minor Emissions",
+        "AIRZip": "24266",
+        "AcsPopulationDensity": "151.05",
+        "ActiveLower48": "Y",
+        "AmsReportLink": "https://echo.epa.gov/air-monitoring-station-report?p_site_code=471633004&p_nd=ROS&p_nd_pct=80&p_year=LAST10&p_annual_comp=Y",
+        "AnnualAvgCurrentExceed": null,
+        "AnnualAvgTotalExceedances": null,
+        "BflmFacilityName": null,
+        "CWAIDs": null,
+        "CalculatedAccuracyMeters": "30",
+        "CamdIDs": null,
+        "ChesapeakeBayFlag": null,
+        "CollectionMethod": "ADDRESS MATCHING-HOUSE NUMBER",
+        "CurrSvFlag": "0",
+        "CurrVioFlag": "0",
+        "CurrentCedriID": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "EPASystem": "AIR",
+        "Ea5yrFlag": "0",
+        "EisIDs": null,
+        "FacCamdReporter": "N",
+        "FacCountyName": "RUSSELL",
+        "FacDerivedHuc": "06010205",
+        "FacDerivedReservationTribes": null,
+        "FacDerivedTribes": null,
+        "FacDerivedWBD": "060102050304",
+        "FacDerivedWBDName": "Big Cedar Creek",
+        "FacEisAIRReleases": null,
+        "FacEisReporter": "N",
+        "FacFIPSCode": "51167",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacGHGCO2Releases": null,
+        "FacGHGReporter": "N",
+        "FacIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacLat": "36.90427",
+        "FacLong": "-82.07361",
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MN-G.png",
+        "FacNaaFlag": null,
+        "FacPercentMinority": "4.732",
+        "FacPopulationDensity": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "FacStdCountyName": "RUSSELL COUNTY",
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacTRIReporter": null,
+        "FacTRIReporterDescription": null,
+        "FacUsCanadaBorderFlg": null,
+        "FacUsMexBorderFlg": null,
+        "FacilityMonitorDistanceKm": "45.7",
+        "GHGIDs": null,
+        "HasPollRpt": "N",
+        "Infea5yrFlag": "0",
+        "Insp5yrFlag": "0",
+        "LastDatePce": null,
+        "LastDatePceEPA": null,
+        "LastDatePceSta": null,
+        "LocalControlRegionCode": null,
+        "LocalControlRegionName": null,
+        "Lower48": "Y",
+        "MaintPollutantsNaa": null,
+        "MaintStandardsNaa": null,
+        "MaintStatusNaa": null,
+        "Map": "Y",
+        "MaxAnnualAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxBenzeneStartDate": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "MaxPeriodAvg": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "NaPollutantsNaa": null,
+        "NaStandardsNaa": null,
+        "NaStatusNaa": null,
+        "NaaCategories": null,
+        "NaaPollutants": null,
+        "NearestAmaSiteCode": "471633004",
+        "NeciGeoArea": null,
+        "NeciGeoAreaFlag": "N",
+        "OtherPermitIDs": "11541",
+        "PercentBelowLowincome3mile": "35.83",
+        "PercentPeopleOfColor": "3.08",
+        "PeriodAvgCurrentExceed": null,
+        "PeriodAvgTotalExceedances": null,
+        "RCRAIDs": null,
+        "ReferencePoint": "ENTRANCE POINT OF A FACILITY OR STATION",
+        "RegistryID": "110031257315",
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "Score": "1",
+        "SourceID": "VA0000005116700092",
+        "Statute": "CAA",
+        "TRIIDs": null,
+        "TRIbalFlag": "0",
+        "ViolFlag": "0",
+        "WebDocs": null
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=303&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "d93613ea849a6096efb47833a68feaf4142f39eb8eb83cd3908979f29229faa2",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=303&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "d93613ea849a6096efb47833a68feaf4142f39eb8eb83cd3908979f29229faa2",
+          "retrieved_at": "2026-11-05T03:34:06.050639+00:00",
+          "bytes": 4693,
+          "raw_key": "raw/d93613ea849a6096efb47833a68feaf4142f39eb8eb83cd3908979f29229faa2.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "GIS lists Temporarily Shutdown and retained ECHO AIR lists Temporarily Closed. STATUS_GROUP Active is an administrative grouping and must not be rendered as current operation. The reviewed 2008 permit supersedes the referenced February 2008 permit; no full later amendment chain or current enforceability determination was recovered.",
+      "unresolved_history": [
+        "2008-02-13"
+      ],
+      "collected_document_guards": {
+        "11541-3": {
+          "representation": "publisher_pdf",
+          "sha256": "2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68"
+        }
+      }
+    },
+    {
+      "registration": "11790-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25640/638627840699300000",
+      "document_sha256": "669aeb79d408fd2441aa752745d36a9ed7a0438ee4ec00f87d2a573f51270513",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "11790-1",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25640/638627840699300000",
+          "issued_at": "2016-08-23",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [],
+      "reviewed_document_hashes": {
+        "11790-1": "669aeb79d408fd2441aa752745d36a9ed7a0438ee4ec00f87d2a573f51270513"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 2595,
+        "PLA_ID": 43375,
+        "PLA_REG_NUM": 11790,
+        "PLA_NAME": "DP Facilities Inc South LLC",
+        "FAC_L_ADDR_1": "5978 Windswept Blvd",
+        "FAC_L_CITY": "Wise",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "24293",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "PLA_ICIS_ID": "VA0000005119511790",
+        "PLA_DESC": "7 diesel fired engine driven emergency generators",
+        "PLA_PRINCIPAL_PRODUCT": "data center",
+        "PCL_STATE_DESC": "True Minor",
+        "PCL_FED_DESC": "True Minor",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIR3yrComplQtrsHistory": "____________",
+        "AIRCaseIDs": null,
+        "AIRCity": "WISE",
+        "AIRClassification": "Minor Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRCounty": "Wise",
+        "AIRDaysLastEval": "3223",
+        "AIRDaysLastFce": "3223",
+        "AIRDaysLastPartialEval": "3692",
+        "AIREPARegion": "03",
+        "AIREvalCnt": null,
+        "AIRFIPSCode": "51195",
+        "AIRFacilityTypeCode": "NON",
+        "AIRFacilityTypeDesc": "Non-Government",
+        "AIRFceCnt": null,
+        "AIRFeaCnt": null,
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRIDs": "VA0000005119511790",
+        "AIRIeaCnt": "0",
+        "AIRIndianCntryFlg": "N",
+        "AIRInvCnt": null,
+        "AIRLastEvalDate": "01/03/2018",
+        "AIRLastEvalDateEPA": null,
+        "AIRLastEvalDateState": "01/03/2018",
+        "AIRLastFceDate": "01/03/2018",
+        "AIRLastFceDateEPA": null,
+        "AIRLastFceDateState": "01/03/2018",
+        "AIRLastFeaDate": null,
+        "AIRLastFeaDateEPA": null,
+        "AIRLastFeaDateState": null,
+        "AIRLastIeaDate": null,
+        "AIRLastIeaDateEPA": null,
+        "AIRLastIeaDateState": null,
+        "AIRLastPenaltyDate": null,
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": null,
+        "AIRLastStckTestDate": null,
+        "AIRLastStckTestResults": null,
+        "AIRLastViolDate": null,
+        "AIRMacts": null,
+        "AIRMajorFlag": "N",
+        "AIRMnthsWithHpv": "0",
+        "AIRNAICS": "518210",
+        "AIRNAICSDescs": "518210: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+        "AIRName": "DP FACILITIES INC SOUTH LLC",
+        "AIRNsps": null,
+        "AIRNspsm": null,
+        "AIRPartialEvalCnt": null,
+        "AIRPenalties": null,
+        "AIRPollRecentViol": null,
+        "AIRPrograms": "SIP",
+        "AIRQtrsWithHpv": "0",
+        "AIRQtrsWithViol": "0",
+        "AIRRecentViolCnt": "0",
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "AIRState": "VA",
+        "AIRStatus": "Operating",
+        "AIRStreet": "5978 WINDSWEPT BLVD",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRUniverse": "Minor Emissions",
+        "AIRZip": "24293",
+        "AcsPopulationDensity": "164.4",
+        "ActiveLower48": "Y",
+        "AmsReportLink": null,
+        "AnnualAvgCurrentExceed": null,
+        "AnnualAvgTotalExceedances": null,
+        "BflmFacilityName": null,
+        "CWAIDs": null,
+        "CalculatedAccuracyMeters": "50",
+        "CamdIDs": null,
+        "ChesapeakeBayFlag": null,
+        "CollectionMethod": "ADDRESS MATCHING-HOUSE NUMBER",
+        "CurrSvFlag": "0",
+        "CurrVioFlag": "0",
+        "CurrentCedriID": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "EPASystem": "AIR",
+        "Ea5yrFlag": "0",
+        "EisIDs": null,
+        "FacCamdReporter": "N",
+        "FacCountyName": "WISE COUNTY",
+        "FacDerivedHuc": "05070202",
+        "FacDerivedReservationTribes": null,
+        "FacDerivedTribes": null,
+        "FacDerivedWBD": "050702020504",
+        "FacDerivedWBDName": "Trace Fork-Cranesnest River",
+        "FacEisAIRReleases": null,
+        "FacEisReporter": "N",
+        "FacFIPSCode": "51195",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacGHGCO2Releases": null,
+        "FacGHGReporter": "N",
+        "FacIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacLat": "36.974728",
+        "FacLong": "-82.523848",
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MN-G.png",
+        "FacNaaFlag": null,
+        "FacPercentMinority": "5.67",
+        "FacPopulationDensity": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "FacStdCountyName": "WISE COUNTY",
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacTRIReporter": null,
+        "FacTRIReporterDescription": null,
+        "FacUsCanadaBorderFlg": null,
+        "FacUsMexBorderFlg": null,
+        "FacilityMonitorDistanceKm": null,
+        "GHGIDs": null,
+        "HasPollRpt": "N",
+        "Infea5yrFlag": "0",
+        "Insp5yrFlag": "0",
+        "LastDatePce": null,
+        "LastDatePceEPA": null,
+        "LastDatePceSta": null,
+        "LocalControlRegionCode": null,
+        "LocalControlRegionName": null,
+        "Lower48": "Y",
+        "MaintPollutantsNaa": null,
+        "MaintStandardsNaa": null,
+        "MaintStatusNaa": null,
+        "Map": "Y",
+        "MaxAnnualAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxBenzeneStartDate": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "MaxPeriodAvg": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "NaPollutantsNaa": null,
+        "NaStandardsNaa": null,
+        "NaStatusNaa": null,
+        "NaaCategories": null,
+        "NaaPollutants": null,
+        "NearestAmaSiteCode": null,
+        "NeciGeoArea": null,
+        "NeciGeoAreaFlag": "N",
+        "OtherPermitIDs": "11790",
+        "PercentBelowLowincome3mile": "38.23",
+        "PercentPeopleOfColor": "6.09",
+        "PeriodAvgCurrentExceed": null,
+        "PeriodAvgTotalExceedances": null,
+        "RCRAIDs": null,
+        "ReferencePoint": "ENTRANCE POINT OF A FACILITY OR STATION",
+        "RegistryID": "110069468757",
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "Score": "1",
+        "SourceID": "VA0000005119511790",
+        "Statute": "CAA",
+        "TRIIDs": null,
+        "TRIbalFlag": "0",
+        "ViolFlag": "0",
+        "WebDocs": null
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=307&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "3bc83b9da7db1e9c48b79e19f3a0cf470461575008b04409867ef2bace1689c5",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=307&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "3bc83b9da7db1e9c48b79e19f3a0cf470461575008b04409867ef2bace1689c5",
+          "retrieved_at": "2026-11-05T03:34:07.104242+00:00",
+          "bytes": 4425,
+          "raw_key": "raw/3bc83b9da7db1e9c48b79e19f3a0cf470461575008b04409867ef2bace1689c5.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "The 2016 permit remains the only document for this registration in the captured issued-data-center index. This supports latest indexed issued document, not completeness or present legal effectiveness. Source status Operating is a regulator-recorded site attribute, not actual measured generator use.",
+      "unresolved_history": [],
+      "collected_document_guards": {
+        "11790-1": {
+          "representation": "publisher_pdf",
+          "sha256": "669aeb79d408fd2441aa752745d36a9ed7a0438ee4ec00f87d2a573f51270513"
+        }
+      }
+    },
+    {
+      "registration": "72374-4",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/26111/638639801563130000",
+      "document_sha256": "e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "72374-4",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/26111/638639801563130000",
+          "issued_at": "2014-03-27",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "replaces",
+          "scope": "entire referenced permit",
+          "subject_document_id": "72374-4",
+          "replaced_dates": [
+            "2012-10-18"
+          ],
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/26111/638639801563130000",
+              "sha256": "e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/26111/638639801563130000",
+                "sha256": "e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90",
+                "retrieved_at": "2026-11-05T02:25:16.345029+00:00",
+                "bytes": 440032,
+                "raw_key": "raw/e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90.gz"
+              },
+              "locator": "PDF page 3",
+              "representation": "original_publisher_bytes",
+              "pdf_page": 3,
+              "quote": "This permit supersedes your permit dated October 18, 2012."
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "72374-4": "e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 3658,
+        "PLA_ID": 36072,
+        "PLA_REG_NUM": 72374,
+        "PLA_NAME": "Comcast Cablevision of Virginia Incorporated",
+        "FAC_L_ADDR_1": "11101 University Blvd",
+        "FAC_L_CITY": "Manassas",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20109",
+        "PLA_NAC_CODE_PRIMARY": "541513",
+        "PLA_ICIS_ID": "VA0000005115300144",
+        "PLA_DESC": "Diesel Engine Driven Emergency Generators",
+        "PLA_PRINCIPAL_PRODUCT": "Data Center",
+        "PCL_STATE_DESC": "True Minor",
+        "PCL_FED_DESC": "True Minor",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIRName": "COMCAST CABLEVISION OF VIRGINIA INCORPORATED",
+        "SourceID": "VA0000005115300144",
+        "AIRStreet": "11101 UNIVERSITY BLVD",
+        "AIRCity": "MANASSAS",
+        "AIRState": "VA",
+        "LocalControlRegionCode": null,
+        "AIRZip": "20109",
+        "RegistryID": "110002033308",
+        "AIRCounty": "Prince William",
+        "AIREPARegion": "03",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacDerivedHuc": "02070010",
+        "FacFIPSCode": "51153",
+        "FacIndianCntryFlg": "N",
+        "AIRIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacDerivedTribes": null,
+        "FacDerivedReservationTribes": null,
+        "FacUsMexBorderFlg": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "AIRNAICS": "541513",
+        "AIRNAICSDescs": "541513: Computer Facilities Management Services",
+        "FacLat": "38.75523",
+        "FacLong": "-77.52578",
+        "AIRPrograms": "FESOP, SIP, TVP",
+        "AIRMacts": null,
+        "AIRStatus": "Operating",
+        "AIRUniverse": "Minor Emissions",
+        "AIRClassification": "Minor Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "FacDerivedWBD": "020700100504",
+        "FacDerivedWBDName": "Rocky Branch-Broad Run",
+        "ChesapeakeBayFlag": "Y",
+        "AIRIDs": "VA0000005115300144",
+        "CWAIDs": null,
+        "RCRAIDs": null,
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "TRIIDs": null,
+        "GHGIDs": null,
+        "EisIDs": null,
+        "CamdIDs": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRMnthsWithHpv": "0",
+        "AIRQtrsWithHpv": "0",
+        "AIRQtrsWithViol": "0",
+        "AIRPollRecentViol": null,
+        "AIRRecentViolCnt": "0",
+        "AIRLastViolDate": null,
+        "AIREvalCnt": null,
+        "AIRDaysLastEval": "5729",
+        "AIRLastEvalDate": "02/23/2011",
+        "AIRLastEvalDateEPA": null,
+        "AIRLastEvalDateState": "02/23/2011",
+        "AIRFceCnt": null,
+        "AIRDaysLastFce": "5729",
+        "AIRLastFceDate": "02/23/2011",
+        "AIRLastFceDateEPA": null,
+        "AIRLastFceDateState": "02/23/2011",
+        "LastDatePce": null,
+        "LastDatePceEPA": null,
+        "LastDatePceSta": null,
+        "AIRLastStckTestDate": null,
+        "AIRLastStckTestResults": null,
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "FacNaaFlag": "Y",
+        "FacTRIReporter": null,
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacEisAIRReleases": null,
+        "FacGHGCO2Releases": null,
+        "AIRIeaCnt": "0",
+        "AIRFeaCnt": null,
+        "AIRLastIeaDate": "03/10/2011",
+        "AIRLastIeaDateState": "03/10/2011",
+        "AIRLastIeaDateEPA": null,
+        "AIRLastFeaDate": "06/25/2012",
+        "AIRLastFeaDateState": "06/25/2012",
+        "AIRLastFeaDateEPA": null,
+        "AIRPenalties": null,
+        "AIRLastPenaltyDate": "06/25/2012",
+        "FacPopulationDensity": null,
+        "FacPercentMinority": "54.286",
+        "EPASystem": "AIR",
+        "Statute": "CAA",
+        "LocalControlRegionName": null,
+        "AIRFIPSCode": "51153",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRCaseIDs": "VA000A0000511530014400018",
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": null,
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MN-G.png",
+        "FacGHGReporter": "N",
+        "FacEisReporter": "N",
+        "FacCamdReporter": "N",
+        "AIRFacilityTypeCode": "NON",
+        "AIRMajorFlag": "N",
+        "AIR3yrComplQtrsHistory": "____________",
+        "HasPollRpt": "N",
+        "TRIbalFlag": "0",
+        "CurrSvFlag": "0",
+        "ViolFlag": "0",
+        "CurrVioFlag": "0",
+        "Insp5yrFlag": "0",
+        "Ea5yrFlag": "0",
+        "Infea5yrFlag": "0",
+        "Lower48": "Y",
+        "ActiveLower48": "Y",
+        "CollectionMethod": "ADDRESS MATCHING-HOUSE NUMBER",
+        "ReferencePoint": "CENTER OF A FACILITY OR STATION",
+        "CalculatedAccuracyMeters": "30",
+        "Map": "Y",
+        "WebDocs": null,
+        "NaaCategories": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaaPollutants": "Ozone",
+        "NaStandardsNaa": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "MaintStandardsNaa": "8-Hour Ozone (2008); PM-2.5 (1997)",
+        "NaPollutantsNaa": "Ozone",
+        "MaintPollutantsNaa": "Ozone; PM-2.5",
+        "NaStatusNaa": "Y",
+        "MaintStatusNaa": "Y",
+        "FacCountyName": "PRINCE WILLIAM",
+        "FacStdCountyName": "PRINCE WILLIAM COUNTY",
+        "AIRNsps": null,
+        "AIRNspsm": null,
+        "AIRFacilityTypeDesc": "Non-Government",
+        "OtherPermitIDs": "72374",
+        "PercentBelowLowincome3mile": "23.46",
+        "PercentPeopleOfColor": "66.18",
+        "AcsPopulationDensity": "3166.93",
+        "FacUsCanadaBorderFlg": null,
+        "AIRDaysLastPartialEval": "4257",
+        "AIRPartialEvalCnt": null,
+        "AIRInvCnt": null,
+        "NearestAmaSiteCode": "510590030",
+        "FacilityMonitorDistanceKm": "37",
+        "AmsReportLink": "https://echo.epa.gov/air-monitoring-station-report?p_site_code=510590030&p_nd=ROS&p_nd_pct=80&p_year=LAST10&p_annual_comp=Y",
+        "BflmFacilityName": null,
+        "CurrentCedriID": null,
+        "AnnualAvgCurrentExceed": null,
+        "PeriodAvgCurrentExceed": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "AnnualAvgTotalExceedances": null,
+        "PeriodAvgTotalExceedances": null,
+        "MaxAnnualAvg": null,
+        "MaxPeriodAvg": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxBenzeneStartDate": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "NeciGeoAreaFlag": "N",
+        "NeciGeoArea": null,
+        "FacTRIReporterDescription": null,
+        "Score": "1"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=434&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "6cd8ac8a51513f8418951c7b642b790af6ac9671aed2b6ca91791fea8fc99f8a",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=434&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "6cd8ac8a51513f8418951c7b642b790af6ac9671aed2b6ca91791fea8fc99f8a",
+          "retrieved_at": "2026-11-05T03:28:34.719930+00:00",
+          "bytes": 4780,
+          "raw_key": "raw/6cd8ac8a51513f8418951c7b642b790af6ac9671aed2b6ca91791fea8fc99f8a.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "Exact legacy AIR ID and OtherPermitIDs resolve Comcast despite its 541513 NAICS exclusion from the old 518210-only inventory. The 2014 amended permit explicitly supersedes the 2012 document. Original permit ZIP 20110 differs from current GIS/EPA ZIP 20109; street, county and stable regulator identifiers agree.",
+      "unresolved_history": [
+        "2012-10-18"
+      ],
+      "collected_document_guards": {
+        "72374-4": {
+          "representation": "publisher_pdf",
+          "sha256": "e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90"
+        }
+      }
+    },
+    {
+      "registration": "73170-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25698/638628519198400000",
+      "document_sha256": "ac23eab61937c0cd9ff821a7a0ff67336b602052a6eaa2326cd1f514caa3af51",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "73170-1",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25698/638628519198400000",
+          "issued_at": "2000-11-22",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [],
+      "reviewed_document_hashes": {
+        "73170-1": "ac23eab61937c0cd9ff821a7a0ff67336b602052a6eaa2326cd1f514caa3af51"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 1962,
+        "PLA_ID": 37868,
+        "PLA_REG_NUM": 73170,
+        "PLA_NAME": "H5 Data Centers",
+        "FAC_L_ADDR_1": "470 Spring Park Pl Ste 1000",
+        "FAC_L_CITY": "Herndon",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20170",
+        "PLA_NAC_CODE_PRIMARY": "517111",
+        "PLA_ICIS_ID": "VA0000005105900819",
+        "PLA_DESC": "Data Center Support",
+        "PLA_PRINCIPAL_PRODUCT": "Internet Web Hosting",
+        "PCL_STATE_DESC": "Synthetic Minor",
+        "PCL_FED_DESC": "Synthetic Minor",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIRName": "H5 DATA CENTERS",
+        "SourceID": "VA0000005105900819",
+        "AIRStreet": "470 SPRING PARK PL STE 1000",
+        "AIRCity": "HERNDON",
+        "AIRState": "VA",
+        "LocalControlRegionCode": null,
+        "AIRZip": "20170",
+        "RegistryID": "110020682563",
+        "AIRCounty": "Fairfax",
+        "AIREPARegion": "03",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacDerivedHuc": "02070008",
+        "FacFIPSCode": "51059",
+        "FacIndianCntryFlg": "N",
+        "AIRIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacDerivedTribes": null,
+        "FacDerivedReservationTribes": null,
+        "FacUsMexBorderFlg": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "AIRNAICS": "517110 517111",
+        "AIRNAICSDescs": "517110: Wired Telecommunications Carriers, 517111: Wired Telecommunications Carriers",
+        "FacLat": "38.96274",
+        "FacLong": "-77.37778",
+        "AIRPrograms": "SIP",
+        "AIRMacts": null,
+        "AIRStatus": "Operating",
+        "AIRUniverse": "Synthetic Minor Emissions",
+        "AIRClassification": "Synthetic Minor Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "FacDerivedWBD": "020700080905",
+        "FacDerivedWBDName": "Sugarland Run",
+        "ChesapeakeBayFlag": "Y",
+        "AIRIDs": "VA0000005105900819",
+        "CWAIDs": null,
+        "RCRAIDs": null,
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "TRIIDs": null,
+        "GHGIDs": null,
+        "EisIDs": null,
+        "CamdIDs": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRMnthsWithHpv": "0",
+        "AIRQtrsWithHpv": "0",
+        "AIRQtrsWithViol": "0",
+        "AIRPollRecentViol": null,
+        "AIRRecentViolCnt": "0",
+        "AIRLastViolDate": null,
+        "AIREvalCnt": null,
+        "AIRDaysLastEval": "2249",
+        "AIRLastEvalDate": "09/03/2020",
+        "AIRLastEvalDateEPA": null,
+        "AIRLastEvalDateState": "09/03/2020",
+        "AIRFceCnt": null,
+        "AIRDaysLastFce": "2249",
+        "AIRLastFceDate": "09/03/2020",
+        "AIRLastFceDateEPA": null,
+        "AIRLastFceDateState": "09/03/2020",
+        "LastDatePce": null,
+        "LastDatePceEPA": null,
+        "LastDatePceSta": null,
+        "AIRLastStckTestDate": null,
+        "AIRLastStckTestResults": null,
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "FacNaaFlag": "Y",
+        "FacTRIReporter": null,
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacEisAIRReleases": null,
+        "FacGHGCO2Releases": null,
+        "AIRIeaCnt": "0",
+        "AIRFeaCnt": null,
+        "AIRLastIeaDate": null,
+        "AIRLastIeaDateState": null,
+        "AIRLastIeaDateEPA": null,
+        "AIRLastFeaDate": null,
+        "AIRLastFeaDateState": null,
+        "AIRLastFeaDateEPA": null,
+        "AIRPenalties": null,
+        "AIRLastPenaltyDate": null,
+        "FacPopulationDensity": null,
+        "FacPercentMinority": "49.584",
+        "EPASystem": "AIR",
+        "Statute": "CAA",
+        "LocalControlRegionName": null,
+        "AIRFIPSCode": "51059",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRCaseIDs": null,
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": null,
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MN-G.png",
+        "FacGHGReporter": "N",
+        "FacEisReporter": "N",
+        "FacCamdReporter": "N",
+        "AIRFacilityTypeCode": "NON",
+        "AIRMajorFlag": "N",
+        "AIR3yrComplQtrsHistory": "____________",
+        "HasPollRpt": "N",
+        "TRIbalFlag": "0",
+        "CurrSvFlag": "0",
+        "ViolFlag": "0",
+        "CurrVioFlag": "0",
+        "Insp5yrFlag": "0",
+        "Ea5yrFlag": "0",
+        "Infea5yrFlag": "0",
+        "Lower48": "Y",
+        "ActiveLower48": "Y",
+        "CollectionMethod": "ADDRESS MATCHING-HOUSE NUMBER",
+        "ReferencePoint": "CENTER OF A FACILITY OR STATION",
+        "CalculatedAccuracyMeters": "30",
+        "Map": "Y",
+        "WebDocs": null,
+        "NaaCategories": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaaPollutants": "Ozone",
+        "NaStandardsNaa": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "MaintStandardsNaa": "8-Hour Ozone (2008); PM-2.5 (1997)",
+        "NaPollutantsNaa": "Ozone",
+        "MaintPollutantsNaa": "Ozone; PM-2.5",
+        "NaStatusNaa": "Y",
+        "MaintStatusNaa": "Y",
+        "FacCountyName": "FAIRFAX",
+        "FacStdCountyName": "FAIRFAX COUNTY",
+        "AIRNsps": null,
+        "AIRNspsm": null,
+        "AIRFacilityTypeDesc": "Non-Government",
+        "OtherPermitIDs": "73170",
+        "PercentBelowLowincome3mile": "14.65",
+        "PercentPeopleOfColor": "54.93",
+        "AcsPopulationDensity": "5166.04",
+        "FacUsCanadaBorderFlg": null,
+        "AIRDaysLastPartialEval": "4651",
+        "AIRPartialEvalCnt": null,
+        "AIRInvCnt": null,
+        "NearestAmaSiteCode": "110010043",
+        "FacilityMonitorDistanceKm": "32.2",
+        "AmsReportLink": "https://echo.epa.gov/air-monitoring-station-report?p_site_code=110010043&p_nd=ROS&p_nd_pct=80&p_year=LAST10&p_annual_comp=Y",
+        "BflmFacilityName": null,
+        "CurrentCedriID": null,
+        "AnnualAvgCurrentExceed": null,
+        "PeriodAvgCurrentExceed": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "AnnualAvgTotalExceedances": null,
+        "PeriodAvgTotalExceedances": null,
+        "MaxAnnualAvg": null,
+        "MaxPeriodAvg": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxBenzeneStartDate": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "NeciGeoAreaFlag": "N",
+        "NeciGeoArea": null,
+        "FacTRIReporterDescription": null,
+        "Score": "1"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=437&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "1ca9f48d657ce718f9e87ed5ddab88feb766f835d5bae99c08078b9b5292e83d",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=437&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "1ca9f48d657ce718f9e87ed5ddab88feb766f835d5bae99c08078b9b5292e83d",
+          "retrieved_at": "2026-11-05T03:28:34.929803+00:00",
+          "bytes": 4717,
+          "raw_key": "raw/1ca9f48d657ce718f9e87ed5ddab88feb766f835d5bae99c08078b9b5292e83d.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "The 2000 letter states DC1 Herndon and Fairfax County; its 45901 Nokes Boulevard, Sterling address is correspondence, not the physical site. The exact same DEQ registration and legacy AIR ID now identify H5 Data Centers at 470 Spring Park Pl Ste 1000, Herndon. This establishes regulator-record continuity, not an inferred corporate succession or proof the old two engines remain installed.",
+      "unresolved_history": [],
+      "collected_document_guards": {
+        "73170-1": {
+          "representation": "publisher_pdf",
+          "sha256": "ac23eab61937c0cd9ff821a7a0ff67336b602052a6eaa2326cd1f514caa3af51"
+        }
+      }
+    },
+    {
+      "registration": "73200-3",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25704/638628522430330000",
+      "document_sha256": "d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "73200-2",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25702/638628522004500000",
+          "issued_at": "2006-10-19",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73200-3",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25704/638628522430330000",
+          "issued_at": "2007-10-18",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "replaces",
+          "scope": "printed page 6 only; Condition 12 opacity amendment",
+          "subject_document_id": "73200-3",
+          "replaced_dates": [
+            "2006-10-19"
+          ],
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25704/638628522430330000",
+              "sha256": "d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25704/638628522430330000",
+                "sha256": "d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934",
+                "retrieved_at": "2026-11-05T02:25:16.923303+00:00",
+                "bytes": 117410,
+                "raw_key": "raw/d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934.gz"
+              },
+              "locator": "PDF page 1",
+              "representation": "original_publisher_bytes",
+              "pdf_page": 1,
+              "quote": "The amended Page 6 supersedes the corresponding page on your permit dated October 19, 2006."
+            }
+          ]
+        },
+        {
+          "type": "pending_application",
+          "scope": "Pending application; not an issued replacement and not final issuance.",
+          "subject_document_id": "73200-4",
+          "evidence": [
+            {
+              "url": "https://r.jina.ai/https://permits.virginia.gov/Permit/Details/157184",
+              "sha256": "69469f8caa7a62a25fa48acfbcf8aa8aa46f3a90588c57d91c9f025b3d476b76",
+              "receipt": {
+                "url": "https://r.jina.ai/https://permits.virginia.gov/Permit/Details/157184",
+                "sha256": "69469f8caa7a62a25fa48acfbcf8aa8aa46f3a90588c57d91c9f025b3d476b76",
+                "retrieved_at": "2026-11-05T03:29:27.454440+00:00",
+                "bytes": 4253,
+                "raw_key": "raw/69469f8caa7a62a25fa48acfbcf8aa8aa46f3a90588c57d91c9f025b3d476b76.gz"
+              },
+              "locator": "Application Process Details; Permit Decision row",
+              "quote": "| Permit Decision | VDEQ Determines Final Permit Decision | VDEQ determines if the permit will be issued or denied | 11/15/2026 | 11/20/2026 |  |  | VDEQ | 5 Days | Not Started | Not Started |",
+              "representation": "reader_representation_of_publisher_page"
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "73200-2": "bc8a237fa5f8cd7719919dbf1a669f577d98ea12d77d1784db560160af048ac7",
+        "73200-3": "d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 3578,
+        "PLA_ID": 38150,
+        "PLA_REG_NUM": 73200,
+        "PLA_NAME": "Equinix, LLC - DC 14",
+        "FAC_L_ADDR_1": "7400 Infantry Ridge Rd",
+        "FAC_L_CITY": "Manassas",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20109",
+        "PLA_NAC_CODE_PRIMARY": "541513",
+        "PLA_ICIS_ID": "VA0000005115300147",
+        "PLA_DESC": "internet data center",
+        "PLA_PRINCIPAL_PRODUCT": "emergency generators",
+        "PCL_STATE_DESC": "Synthetic Minor",
+        "PCL_FED_DESC": "Synthetic Minor",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIRName": "EQUINIX, LLC - DC 14",
+        "SourceID": "VA0000005115300147",
+        "AIRStreet": "7400 INFANTRY RIDGE RD",
+        "AIRCity": "MANASSAS",
+        "AIRState": "VA",
+        "LocalControlRegionCode": null,
+        "AIRZip": "20109",
+        "RegistryID": "110031219090",
+        "AIRCounty": "Prince William",
+        "AIREPARegion": "03",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacDerivedHuc": "02070010",
+        "FacFIPSCode": "51153",
+        "FacIndianCntryFlg": "N",
+        "AIRIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacDerivedTribes": null,
+        "FacDerivedReservationTribes": null,
+        "FacUsMexBorderFlg": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "AIRNAICS": "541513",
+        "AIRNAICSDescs": "541513: Computer Facilities Management Services",
+        "FacLat": "38.8038",
+        "FacLong": "-77.51122",
+        "AIRPrograms": "NSPS, NSR, SIP",
+        "AIRMacts": null,
+        "AIRStatus": "Operating",
+        "AIRUniverse": "Synthetic Minor Emissions",
+        "AIRClassification": "Synthetic Minor Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "FacDerivedWBD": "020700100703",
+        "FacDerivedWBDName": "Middle Bull Run",
+        "ChesapeakeBayFlag": "Y",
+        "AIRIDs": "VA0000005115300147",
+        "CWAIDs": null,
+        "RCRAIDs": null,
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "TRIIDs": null,
+        "GHGIDs": null,
+        "EisIDs": null,
+        "CamdIDs": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRMnthsWithHpv": "0",
+        "AIRQtrsWithHpv": "0",
+        "AIRQtrsWithViol": "0",
+        "AIRPollRecentViol": null,
+        "AIRRecentViolCnt": "0",
+        "AIRLastViolDate": null,
+        "AIREvalCnt": "1",
+        "AIRDaysLastEval": "1731",
+        "AIRLastEvalDate": "02/03/2022",
+        "AIRLastEvalDateEPA": null,
+        "AIRLastEvalDateState": "02/03/2022",
+        "AIRFceCnt": "1",
+        "AIRDaysLastFce": "1731",
+        "AIRLastFceDate": "02/03/2022",
+        "AIRLastFceDateEPA": null,
+        "AIRLastFceDateState": "02/03/2022",
+        "LastDatePce": null,
+        "LastDatePceEPA": null,
+        "LastDatePceSta": null,
+        "AIRLastStckTestDate": "10/02/2009",
+        "AIRLastStckTestResults": "Pass",
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "FacNaaFlag": "Y",
+        "FacTRIReporter": null,
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacEisAIRReleases": null,
+        "FacGHGCO2Releases": null,
+        "AIRIeaCnt": "0",
+        "AIRFeaCnt": null,
+        "AIRLastIeaDate": null,
+        "AIRLastIeaDateState": null,
+        "AIRLastIeaDateEPA": null,
+        "AIRLastFeaDate": null,
+        "AIRLastFeaDateState": null,
+        "AIRLastFeaDateEPA": null,
+        "AIRPenalties": null,
+        "AIRLastPenaltyDate": null,
+        "FacPopulationDensity": null,
+        "FacPercentMinority": "60.255",
+        "EPASystem": "AIR",
+        "Statute": "CAA",
+        "LocalControlRegionName": null,
+        "AIRFIPSCode": "51153",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRCaseIDs": null,
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": "10/02/2009",
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MN-5.png",
+        "FacGHGReporter": "N",
+        "FacEisReporter": "N",
+        "FacCamdReporter": "N",
+        "AIRFacilityTypeCode": "NON",
+        "AIRMajorFlag": "N",
+        "AIR3yrComplQtrsHistory": "____________",
+        "HasPollRpt": "N",
+        "TRIbalFlag": "0",
+        "CurrSvFlag": "0",
+        "ViolFlag": "0",
+        "CurrVioFlag": "0",
+        "Insp5yrFlag": "1",
+        "Ea5yrFlag": "0",
+        "Infea5yrFlag": "0",
+        "Lower48": "Y",
+        "ActiveLower48": "Y",
+        "CollectionMethod": "ADDRESS MATCHING-HOUSE NUMBER",
+        "ReferencePoint": "CENTER OF A FACILITY OR STATION",
+        "CalculatedAccuracyMeters": "30",
+        "Map": "Y",
+        "WebDocs": null,
+        "NaaCategories": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaaPollutants": "Ozone",
+        "NaStandardsNaa": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "MaintStandardsNaa": "8-Hour Ozone (2008); PM-2.5 (1997)",
+        "NaPollutantsNaa": "Ozone",
+        "MaintPollutantsNaa": "Ozone; PM-2.5",
+        "NaStatusNaa": "Y",
+        "MaintStatusNaa": "Y",
+        "FacCountyName": "PRINCE WILLIAM",
+        "FacStdCountyName": "PRINCE WILLIAM COUNTY",
+        "AIRNsps": "NSPS Part 60 - Subpart IIII - STATIONARY COMPRESSION IGNITION INTERNAL COMBUSTION ENGINES",
+        "AIRNspsm": null,
+        "AIRFacilityTypeDesc": "Non-Government",
+        "OtherPermitIDs": "73200",
+        "PercentBelowLowincome3mile": "31.04",
+        "PercentPeopleOfColor": "75.96",
+        "AcsPopulationDensity": "2248.17",
+        "FacUsCanadaBorderFlg": null,
+        "AIRDaysLastPartialEval": "4261",
+        "AIRPartialEvalCnt": null,
+        "AIRInvCnt": null,
+        "NearestAmaSiteCode": "510590030",
+        "FacilityMonitorDistanceKm": "35.9",
+        "AmsReportLink": "https://echo.epa.gov/air-monitoring-station-report?p_site_code=510590030&p_nd=ROS&p_nd_pct=80&p_year=LAST10&p_annual_comp=Y",
+        "BflmFacilityName": null,
+        "CurrentCedriID": null,
+        "AnnualAvgCurrentExceed": null,
+        "PeriodAvgCurrentExceed": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "AnnualAvgTotalExceedances": null,
+        "PeriodAvgTotalExceedances": null,
+        "MaxAnnualAvg": null,
+        "MaxPeriodAvg": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxBenzeneStartDate": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "NeciGeoAreaFlag": "N",
+        "NeciGeoArea": null,
+        "FacTRIReporterDescription": null,
+        "Score": "1"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=438&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "208aed9b45b037152535da266b6ff2818f390e430073c9282e129792e76c54b9",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=438&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "208aed9b45b037152535da266b6ff2818f390e430073c9282e129792e76c54b9",
+          "retrieved_at": "2026-11-05T03:28:35.154221+00:00",
+          "bytes": 4810,
+          "raw_key": "raw/208aed9b45b037152535da266b6ff2818f390e430073c9282e129792e76c54b9.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "The 2007 document amends only Condition 12 on printed page 6 of the 2006 parent permit. DEQ\u2019s November 2, 2026 workbook still lists application 73200-4, received June 18, 2026. The transparency page shows its final permit decision as Not Started. Pending applications do not prove an issued replacement or confirm current enforceability of older conditions. No parent hours or fuel conditions are attributed to the partial amendment. Pending application; not an issued replacement and not final issuance.",
+      "unresolved_history": [],
+      "collected_document_guards": {
+        "73200-2": {
+          "representation": "reader_text",
+          "sha256": "735949375268bd33433e929ad05f3dc930088f77cdede3e9f8ed881c3e9368a5"
+        },
+        "73200-3": {
+          "representation": "publisher_pdf",
+          "sha256": "d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934"
+        }
+      }
+    },
+    {
+      "registration": "73363-2",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25720/638628535905830000",
+      "document_sha256": "2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "73363-2",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25720/638628535905830000",
+          "issued_at": "2014-07-16",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "replaces",
+          "scope": "entire referenced permit document",
+          "subject_document_id": "73363-2",
+          "replaced_dates": [
+            "2006-08-15"
+          ],
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25720/638628535905830000",
+              "sha256": "2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25720/638628535905830000",
+                "sha256": "2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba",
+                "retrieved_at": "2026-11-05T02:25:17.119218+00:00",
+                "bytes": 519534,
+                "raw_key": "raw/2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba.gz"
+              },
+              "locator": "PDF page 3",
+              "representation": "original_publisher_bytes",
+              "pdf_page": 3,
+              "quote": "This permit document supersedes your permit document dated August 15, 2006."
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "73363-2": "2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 1608,
+        "PLA_ID": 40172,
+        "PLA_REG_NUM": 73363,
+        "PLA_NAME": "Inova Health Care Systems - IT Operations",
+        "FAC_L_ADDR_1": "45745 Nokes Blvd",
+        "FAC_L_CITY": "Dulles",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20166",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "PLA_ICIS_ID": "VA0000005110701041",
+        "PLA_DESC": "IT Facility",
+        "PLA_PRINCIPAL_PRODUCT": "IT Services",
+        "PCL_STATE_DESC": "True Minor",
+        "PCL_FED_DESC": "True Minor",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIR3yrComplQtrsHistory": "____________",
+        "AIRCaseIDs": "VA000A0000511070104100010",
+        "AIRCity": "DULLES",
+        "AIRClassification": "Minor Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRCounty": "Loudoun",
+        "AIRDaysLastEval": "5352",
+        "AIRDaysLastFce": "5484",
+        "AIRDaysLastPartialEval": "4299",
+        "AIREPARegion": "03",
+        "AIREvalCnt": null,
+        "AIRFIPSCode": "51107",
+        "AIRFacilityTypeCode": "NON",
+        "AIRFacilityTypeDesc": "Non-Government",
+        "AIRFceCnt": null,
+        "AIRFeaCnt": null,
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRIDs": "VA0000005110701041",
+        "AIRIeaCnt": "0",
+        "AIRIndianCntryFlg": "N",
+        "AIRInvCnt": null,
+        "AIRLastEvalDate": "03/06/2012",
+        "AIRLastEvalDateEPA": null,
+        "AIRLastEvalDateState": "03/06/2012",
+        "AIRLastFceDate": "10/26/2011",
+        "AIRLastFceDateEPA": null,
+        "AIRLastFceDateState": "10/26/2011",
+        "AIRLastFeaDate": "04/04/2012",
+        "AIRLastFeaDateEPA": null,
+        "AIRLastFeaDateState": "04/04/2012",
+        "AIRLastIeaDate": "11/28/2011",
+        "AIRLastIeaDateEPA": null,
+        "AIRLastIeaDateState": "11/28/2011",
+        "AIRLastPenaltyDate": "04/04/2012",
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": "03/06/2012",
+        "AIRLastStckTestDate": "03/06/2012",
+        "AIRLastStckTestResults": "Pass",
+        "AIRLastViolDate": null,
+        "AIRMacts": null,
+        "AIRMajorFlag": "N",
+        "AIRMnthsWithHpv": "0",
+        "AIRNAICS": "518210",
+        "AIRNAICSDescs": "518210: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+        "AIRName": "INOVA HEALTH CARE SYSTEMS - IT OPERATIONS",
+        "AIRNsps": null,
+        "AIRNspsm": null,
+        "AIRPartialEvalCnt": null,
+        "AIRPenalties": null,
+        "AIRPollRecentViol": null,
+        "AIRPrograms": "NSR, SIP",
+        "AIRQtrsWithHpv": "0",
+        "AIRQtrsWithViol": "0",
+        "AIRRecentViolCnt": "0",
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "AIRState": "VA",
+        "AIRStatus": "Operating",
+        "AIRStreet": "45745 NOKES BLVD",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRUniverse": "Minor Emissions",
+        "AIRZip": "20166",
+        "AcsPopulationDensity": "3494.91",
+        "ActiveLower48": "Y",
+        "AmsReportLink": "https://echo.epa.gov/air-monitoring-station-report?p_site_code=110010043&p_nd=ROS&p_nd_pct=80&p_year=LAST10&p_annual_comp=Y",
+        "AnnualAvgCurrentExceed": null,
+        "AnnualAvgTotalExceedances": null,
+        "BflmFacilityName": null,
+        "CWAIDs": null,
+        "CalculatedAccuracyMeters": "30",
+        "CamdIDs": null,
+        "ChesapeakeBayFlag": "Y",
+        "CollectionMethod": "ADDRESS MATCHING-HOUSE NUMBER",
+        "CurrSvFlag": "0",
+        "CurrVioFlag": "0",
+        "CurrentCedriID": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "EPASystem": "AIR",
+        "Ea5yrFlag": "0",
+        "EisIDs": null,
+        "FacCamdReporter": "N",
+        "FacCountyName": "LOUDOUN",
+        "FacDerivedHuc": "02070008",
+        "FacDerivedReservationTribes": null,
+        "FacDerivedTribes": null,
+        "FacDerivedWBD": "020700080903",
+        "FacDerivedWBDName": "Beaverdam Run-Broad Run",
+        "FacEisAIRReleases": null,
+        "FacEisReporter": "N",
+        "FacFIPSCode": "51107",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacGHGCO2Releases": null,
+        "FacGHGReporter": "N",
+        "FacIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacLat": "39.02543",
+        "FacLong": "-77.41752",
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MN-G.png",
+        "FacNaaFlag": "Y",
+        "FacPercentMinority": "47.489",
+        "FacPopulationDensity": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "FacStdCountyName": "LOUDOUN COUNTY",
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacTRIReporter": null,
+        "FacTRIReporterDescription": null,
+        "FacUsCanadaBorderFlg": null,
+        "FacUsMexBorderFlg": null,
+        "FacilityMonitorDistanceKm": "37.1",
+        "GHGIDs": null,
+        "HasPollRpt": "N",
+        "Infea5yrFlag": "0",
+        "Insp5yrFlag": "0",
+        "LastDatePce": null,
+        "LastDatePceEPA": null,
+        "LastDatePceSta": null,
+        "LocalControlRegionCode": null,
+        "LocalControlRegionName": null,
+        "Lower48": "Y",
+        "MaintPollutantsNaa": "Ozone; PM-2.5",
+        "MaintStandardsNaa": "8-Hour Ozone (2008); PM-2.5 (1997)",
+        "MaintStatusNaa": "Y",
+        "Map": "Y",
+        "MaxAnnualAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxBenzeneStartDate": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "MaxPeriodAvg": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "NaPollutantsNaa": "Ozone",
+        "NaStandardsNaa": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaStatusNaa": "Y",
+        "NaaCategories": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaaPollutants": "Ozone",
+        "NearestAmaSiteCode": "110010043",
+        "NeciGeoArea": null,
+        "NeciGeoAreaFlag": "N",
+        "OtherPermitIDs": "73363",
+        "PercentBelowLowincome3mile": "13.47",
+        "PercentPeopleOfColor": "56.29",
+        "PeriodAvgCurrentExceed": null,
+        "PeriodAvgTotalExceedances": null,
+        "RCRAIDs": null,
+        "ReferencePoint": "CENTER OF A FACILITY OR STATION",
+        "RegistryID": "110044950318",
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "Score": "1",
+        "SourceID": "VA0000005110701041",
+        "Statute": "CAA",
+        "TRIIDs": null,
+        "TRIbalFlag": "0",
+        "ViolFlag": "0",
+        "WebDocs": null
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=304&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "299d82cbf45d0f8e4760c2149ebd27fcff5ec32da2592841c64fa5333c8754d8",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=304&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "299d82cbf45d0f8e4760c2149ebd27fcff5ec32da2592841c64fa5333c8754d8",
+          "retrieved_at": "2026-11-05T03:34:06.586159+00:00",
+          "bytes": 4810,
+          "raw_key": "raw/299d82cbf45d0f8e4760c2149ebd27fcff5ec32da2592841c64fa5333c8754d8.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "The July 2014 amended permit explicitly supersedes the August 2006 permit. Exact DEQ ICIS and EPA OtherPermitIDs identify Inova at 45745 Nokes Blvd. No full subsequent amendment history or present legal-effectiveness proof was recovered.",
+      "unresolved_history": [
+        "2006-08-15"
+      ],
+      "collected_document_guards": {
+        "73363-2": {
+          "representation": "publisher_pdf",
+          "sha256": "2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba"
+        }
+      }
+    },
+    {
+      "registration": "73370-12",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25724/638628554884570000",
+      "document_sha256": "446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924",
+      "reviewed_at": "2026-11-05T03:36:36.627961+00:00",
+      "registry_rows": [
+        {
+          "registration": "73370-12",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25724/638628554884570000",
+          "issued_at": "2013-08-27",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73370-15",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25726/638628555336170000",
+          "issued_at": "2016-12-07",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73370-16",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25728/638628555765770000",
+          "issued_at": "2017-08-23",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "replaces",
+          "scope": "entire referenced 2010 permit",
+          "subject_document_id": "73370-12",
+          "replaced_dates": [
+            "2010-11-18"
+          ],
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25724/638628554884570000",
+              "sha256": "446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25724/638628554884570000",
+                "sha256": "446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924",
+                "retrieved_at": "2026-11-05T02:25:17.380457+00:00",
+                "bytes": 3484786,
+                "raw_key": "raw/446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924.gz"
+              },
+              "locator": "PDF page 3",
+              "representation": "original_publisher_bytes",
+              "pdf_page": 3,
+              "quote": "This permit supersedes your permit dated November 18, 2010."
+            }
+          ]
+        },
+        {
+          "type": "issued_reviewed_separate_building",
+          "scope": "ACC9 / Elk Ventures LLC /21745SirTimothyDrive; separate building extent",
+          "subject_document_id": "73370-15",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25726/638628555336170000",
+              "sha256": "c6c0c116db3192d19be5cb541a35d532b1daa7e95a7c4edd0980fc0d8dfa713e",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25726/638628555336170000",
+                "sha256": "c6c0c116db3192d19be5cb541a35d532b1daa7e95a7c4edd0980fc0d8dfa713e",
+                "retrieved_at": "2026-11-05T02:27:27.833005+00:00",
+                "bytes": 1071018,
+                "raw_key": "raw/c6c0c116db3192d19be5cb541a35d532b1daa7e95a7c4edd0980fc0d8dfa713e.gz"
+              },
+              "locator": "Reviewed issued_reviewed_separate_building 73370-15",
+              "representation": "original_publisher_bytes"
+            }
+          ]
+        },
+        {
+          "type": "issued_reviewed_separate_building",
+          "scope": "ACC10 / Gazelle Ventures LLC /21744SirTimothyDrive; separate building extent",
+          "subject_document_id": "73370-16",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25728/638628555765770000",
+              "sha256": "3b5b0e1b44362b3e207bd3c54f93ee832d107ae4f0d435d02011172fa0e488db",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25728/638628555765770000",
+                "sha256": "3b5b0e1b44362b3e207bd3c54f93ee832d107ae4f0d435d02011172fa0e488db",
+                "retrieved_at": "2026-11-05T02:27:28.350218+00:00",
+                "bytes": 1112750,
+                "raw_key": "raw/3b5b0e1b44362b3e207bd3c54f93ee832d107ae4f0d435d02011172fa0e488db.gz"
+              },
+              "locator": "Reviewed issued_reviewed_separate_building 73370-16",
+              "representation": "original_publisher_bytes"
+            }
+          ]
+        },
+        {
+          "type": "proposed_title_v_action",
+          "scope": "Proposed Title V action; not final issuance. Federal table FRS differs from linked AIR FRS; no record merge is inferred.",
+          "subject_document_id": "NRO-73370",
+          "evidence": [
+            {
+              "url": "https://www.epa.gov/caa-permitting/title-v-operating-permit-public-petition-deadlines",
+              "sha256": "4f7f5b4a3792c4f7eb8f1534e2b29ee60e73d3598baa0fc5747114ee11aca232",
+              "receipt": {
+                "url": "https://www.epa.gov/caa-permitting/title-v-operating-permit-public-petition-deadlines",
+                "sha256": "4f7f5b4a3792c4f7eb8f1534e2b29ee60e73d3598baa0fc5747114ee11aca232",
+                "retrieved_at": "2026-11-05T03:29:47.842727+00:00",
+                "bytes": 74256,
+                "raw_key": "raw/4f7f5b4a3792c4f7eb8f1534e2b29ee60e73d3598baa0fc5747114ee11aca232.gz"
+              },
+              "locator": "Title V Operating Permit Public Petition Deadlines in Region 3; Permit No. NRO-73370",
+              "quote": "VA | Digital Realty Trust Inc. | 110038106849 | NRO-73370 | 08/28/2026 | 10/13/2026 | 10/14/2026 | 12/14/2026 | INITIAL PERMIT ISSUANCE OR RENEWAL",
+              "representation": "original_publisher_bytes"
+            }
+          ]
+        },
+        {
+          "type": "pending_application",
+          "scope": "Pending application; not an issued replacement and not final issuance.",
+          "subject_document_id": "73370-13",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/5205/639286034260670000",
+              "sha256": "ad77e9197dfae83f5666c3a0d5f4af2d0c5f7aba2a2809bb044d6e6771aebde0",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/5205/639286034260670000",
+                "sha256": "ad77e9197dfae83f5666c3a0d5f4af2d0c5f7aba2a2809bb044d6e6771aebde0",
+                "retrieved_at": "2026-11-05T03:26:51.379377+00:00",
+                "bytes": 59628,
+                "http_status": 200,
+                "raw_key": "raw/ad77e9197dfae83f5666c3a0d5f4af2d0c5f7aba2a2809bb044d6e6771aebde0.gz"
+              },
+              "locator": "Active Air Permit Applications!A52:L52",
+              "representation": "original_publisher_bytes"
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "73370-12": "446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924",
+        "73370-15": "c6c0c116db3192d19be5cb541a35d532b1daa7e95a7c4edd0980fc0d8dfa713e",
+        "73370-16": "3b5b0e1b44362b3e207bd3c54f93ee832d107ae4f0d435d02011172fa0e488db"
+      },
+      "expected_gis_fields": {
+        "OBJECTID": 3061,
+        "PLA_ID": 40232,
+        "PLA_REG_NUM": 73370,
+        "PLA_NAME": "Digital Realty - Ashburn Campus",
+        "FAC_L_ADDR_1": "44480 44520 44521 Hastings Dr and 44490 Chilum Pl",
+        "FAC_L_CITY": "Ashburn",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20147",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "PLA_ICIS_ID": "VA0000005110700849",
+        "PLA_DESC": "diesel engines",
+        "PLA_PRINCIPAL_PRODUCT": "emergency power",
+        "PCL_STATE_DESC": "Major (T5)",
+        "PCL_FED_DESC": "Major/Potential Major",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y",
+        "Data_Disclaimer": "In collaboration with various agencies and organizations, DEQ strives to deliver accurate, useful, and up-to-date information. While every effort is made to ensure the accuracy of the data, it is possible that errors may arise from the physical sources used in developing these resources. Users should be aware of potential limitations and take responsibility for how they use the information, considering factors such as potential errors, original map scale, collection methodology, and data currency. For accurate application, users should consult relevant federal, state, or local resource management officials. Please report any errors or omissions to DEQ via email or phone. By accessing DEQ data, you agree to the terms and conditions outlined above."
+      },
+      "expected_air_fields": {
+        "AIR3yrComplQtrsHistory": "SSSSS_______",
+        "AIRCaseIDs": "VA000A0000511070084900019",
+        "AIRCity": "ASHBURN",
+        "AIRClassification": "Major Emissions",
+        "AIRCmsCategoryCode": null,
+        "AIRCmsCategoryDesc": null,
+        "AIRComplStatus": "No Violation Identified",
+        "AIRCounty": "Loudoun",
+        "AIRDaysLastEval": "284",
+        "AIRDaysLastFce": "284",
+        "AIRDaysLastPartialEval": "913",
+        "AIREPARegion": "03",
+        "AIREvalCnt": "13",
+        "AIRFIPSCode": "51107",
+        "AIRFacilityTypeCode": "NON",
+        "AIRFacilityTypeDesc": "Non-Government",
+        "AIRFceCnt": "4",
+        "AIRFeaCnt": null,
+        "AIRHpvStatus": "No High Priority Violation",
+        "AIRIDs": "VA0000005110700849",
+        "AIRIeaCnt": "2",
+        "AIRIndianCntryFlg": "N",
+        "AIRInvCnt": null,
+        "AIRLastEvalDate": "01/20/2026",
+        "AIRLastEvalDateEPA": "07/09/2025",
+        "AIRLastEvalDateState": "01/20/2026",
+        "AIRLastFceDate": "01/20/2026",
+        "AIRLastFceDateEPA": "07/09/2025",
+        "AIRLastFceDateState": "01/20/2026",
+        "AIRLastFeaDate": "08/06/2008",
+        "AIRLastFeaDateEPA": null,
+        "AIRLastFeaDateState": "08/06/2008",
+        "AIRLastIeaDate": "05/01/2024",
+        "AIRLastIeaDateEPA": null,
+        "AIRLastIeaDateState": "05/01/2024",
+        "AIRLastPenaltyDate": "08/06/2008",
+        "AIRLastStckDateEPA": null,
+        "AIRLastStckDateState": "10/12/2018",
+        "AIRLastStckTestDate": "10/12/2018",
+        "AIRLastStckTestResults": "Pass",
+        "AIRLastViolDate": "02/10/2023",
+        "AIRMacts": null,
+        "AIRMajorFlag": "Y",
+        "AIRMnthsWithHpv": "15",
+        "AIRNAICS": "518210",
+        "AIRNAICSDescs": "518210: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+        "AIRName": "DIGITAL REALTY - ASHBURN CAMPUS",
+        "AIRNsps": "NSPS Part 60 - Subpart IIII - STATIONARY COMPRESSION IGNITION INTERNAL COMBUSTION ENGINES",
+        "AIRNspsm": null,
+        "AIRPartialEvalCnt": "9",
+        "AIRPenalties": null,
+        "AIRPollRecentViol": null,
+        "AIRPrograms": "NSPS, NSR, SIP, TVP",
+        "AIRQtrsWithHpv": "5",
+        "AIRQtrsWithViol": "5",
+        "AIRRecentViolCnt": "0",
+        "AIRStackTest5YrAll": null,
+        "AIRStackTest5YrFail": null,
+        "AIRState": "VA",
+        "AIRStatus": "Operating",
+        "AIRStreet": "44480 44520 44521 HASTINGS DR AND 44490 CHILUM PL",
+        "AIRTRIbalEPAids": null,
+        "AIRTRIbalNames": null,
+        "AIRUniverse": "Major Emissions",
+        "AIRZip": "20147",
+        "AcsPopulationDensity": "3020.56",
+        "ActiveLower48": "Y",
+        "AmsReportLink": "https://echo.epa.gov/air-monitoring-station-report?p_site_code=110010043&p_nd=ROS&p_nd_pct=80&p_year=LAST10&p_annual_comp=Y",
+        "AnnualAvgCurrentExceed": null,
+        "AnnualAvgTotalExceedances": null,
+        "BflmFacilityName": null,
+        "CWAIDs": null,
+        "CalculatedAccuracyMeters": "17465",
+        "CamdIDs": null,
+        "ChesapeakeBayFlag": "Y",
+        "CollectionMethod": null,
+        "CurrSvFlag": "0",
+        "CurrVioFlag": "0",
+        "CurrentCedriID": null,
+        "CurrentPeriodEnd": null,
+        "CurrentPeriodStart": null,
+        "EPASystem": "AIR",
+        "Ea5yrFlag": "0",
+        "EisIDs": "15410111",
+        "FacCamdReporter": "N",
+        "FacCountyName": "LOUDOUN",
+        "FacDerivedHuc": "02070008",
+        "FacDerivedReservationTribes": null,
+        "FacDerivedTribes": null,
+        "FacDerivedWBD": "020700080903",
+        "FacDerivedWBDName": "Beaverdam Run-Broad Run",
+        "FacEisAIRReleases": "26.2",
+        "FacEisReporter": "Y",
+        "FacFIPSCode": "51107",
+        "FacFederalAgencyCode": null,
+        "FacFederalAgencyName": null,
+        "FacGHGCO2Releases": null,
+        "FacGHGReporter": "N",
+        "FacIndianCntryFlg": "N",
+        "FacIndianSpatialFlg": null,
+        "FacLat": "39.02082",
+        "FacLong": "-77.459986",
+        "FacMapFlg": "Y",
+        "FacMapIcon": "CAA-IC-MJ-1.png",
+        "FacNaaFlag": "Y",
+        "FacPercentMinority": "44.271",
+        "FacPopulationDensity": null,
+        "FacSICCodes": null,
+        "FacSICDescs": null,
+        "FacStdCountyName": "LOUDOUN COUNTY",
+        "FacTRIAIRReleases": null,
+        "FacTRICarcAIRReleases": null,
+        "FacTRIHapsReleases": null,
+        "FacTRIReporter": null,
+        "FacTRIReporterDescription": null,
+        "FacUsCanadaBorderFlg": null,
+        "FacUsMexBorderFlg": null,
+        "FacilityMonitorDistanceKm": "40.5",
+        "GHGIDs": null,
+        "HasPollRpt": "Y",
+        "Infea5yrFlag": "1",
+        "Insp5yrFlag": "1",
+        "LastDatePce": "05/01/2024",
+        "LastDatePceEPA": null,
+        "LastDatePceSta": "05/01/2024",
+        "LocalControlRegionCode": null,
+        "LocalControlRegionName": null,
+        "Lower48": "Y",
+        "MaintPollutantsNaa": "Ozone; PM-2.5",
+        "MaintStandardsNaa": "8-Hour Ozone (2008); PM-2.5 (1997)",
+        "MaintStatusNaa": "Y",
+        "Map": "Y",
+        "MaxAnnualAvg": null,
+        "MaxAnnualAvgStartDate": null,
+        "MaxBenzenePeriodAvg": null,
+        "MaxBenzeneStartDate": null,
+        "MaxPeriodAnnualAvgV2": null,
+        "MaxPeriodAvg": null,
+        "MaxPeriodAvgStartDate": null,
+        "MaxPeriodPeriodAvgV2": null,
+        "NaPollutantsNaa": "Ozone",
+        "NaStandardsNaa": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaStatusNaa": "Y",
+        "NaaCategories": "1-Hour Ozone (1979); 8-Hour Ozone (1997); 8-Hour Ozone (2015)",
+        "NaaPollutants": "Ozone",
+        "NearestAmaSiteCode": "110010043",
+        "NeciGeoArea": null,
+        "NeciGeoAreaFlag": "N",
+        "OtherPermitIDs": "73370",
+        "PercentBelowLowincome3mile": "11.05",
+        "PercentPeopleOfColor": "52.42",
+        "PeriodAvgCurrentExceed": null,
+        "PeriodAvgTotalExceedances": null,
+        "RCRAIDs": null,
+        "ReferencePoint": null,
+        "RegistryID": "110054206783",
+        "RmpIDs": null,
+        "SDWAIDs": null,
+        "Score": "1",
+        "SourceID": "VA0000005110700849",
+        "Statute": "CAA",
+        "TRIIDs": null,
+        "TRIbalFlag": "0",
+        "ViolFlag": "1",
+        "WebDocs": null
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=308&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "ea3439e03677749abd41d4b2a5f9506869e3eebc3c96ac38a510d089dfaef6dd",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=308&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "ea3439e03677749abd41d4b2a5f9506869e3eebc3c96ac38a510d089dfaef6dd",
+          "retrieved_at": "2026-11-05T03:34:07.553460+00:00",
+          "bytes": 4924,
+          "raw_key": "raw/ea3439e03677749abd41d4b2a5f9506869e3eebc3c96ac38a510d089dfaef6dd.gz"
+        },
+        "locator": "Results.Facilities[0]",
+        "representation": "original_publisher_bytes"
+      },
+      "note": "The 2013 permit covers ACC2\u20137; later ACC9 and ACC10 permits concern different buildings. The ACC7-only condition is not allocated to those buildings. The November 2026 DEQ snapshot lists a pending Title V application, and EPA lists a proposed action: not final issuance and not an issued replacement. The federal table uses a conflicting FRS identifier; no record merge or replacement of the ACC7 condition is established.",
+      "unresolved_history": [
+        "2010-11-18"
+      ],
+      "collected_document_guards": {
+        "73370-12": {
+          "representation": "publisher_pdf",
+          "sha256": "446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924"
+        },
+        "73370-15": {
+          "representation": "reader_text",
+          "sha256": "3813a8592c5555e124950df25d535017acff35b6426da12b1f0219684462207b"
+        },
+        "73370-16": {
+          "representation": "reader_text",
+          "sha256": "a80341e525f10273f6ee570c6d971592723f14dfc5fd625e66d8e16ed4ab84ee"
+        }
+      }
+    },
+    {
+      "registration": "73567-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25731/638628562585630000",
+      "document_sha256": "db8c03315cf646c214db3fc75d7b78c5597477be7043be211c49289260507020",
+      "reviewed_at": "2026-11-05T03:30:42.514248+00:00",
+      "registry_rows": [
+        {
+          "registration": "73567-1",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25731/638628562585630000",
+          "issued_at": "2007-11-07",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [],
+      "reviewed_document_hashes": {
+        "73567-1": "db8c03315cf646c214db3fc75d7b78c5597477be7043be211c49289260507020"
+      },
+      "expected_gis_fields": {
+        "PLA_ID": 40582,
+        "PLA_REG_NUM": 73567,
+        "PLA_NAME": "StratCap",
+        "PLA_ICIS_ID": "VA0000005105900936",
+        "FAC_L_ADDR_1": "1807 Michael Faraday Ct",
+        "FAC_L_CITY": "Reston",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20190",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y"
+      },
+      "expected_air_fields": {
+        "RegistryID": "110031222451",
+        "SourceID": "VA0000005105900936",
+        "OtherPermitIDs": "73567",
+        "AIRName": "STRATCAP",
+        "AIRStreet": "1807 MICHAEL FARADAY CT",
+        "AIRCity": "RESTON",
+        "AIRState": "VA",
+        "AIRZip": "20190",
+        "AIRCounty": "Fairfax",
+        "AIRFIPSCode": "51059",
+        "AIRStatus": "Operating",
+        "AIRNAICS": "518210"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=205&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "0cffa622d9a88cd1d67e1e4622a439e696a434f0a6e6d7fa13b1dd405b426522",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=205&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "0cffa622d9a88cd1d67e1e4622a439e696a434f0a6e6d7fa13b1dd405b426522",
+          "retrieved_at": "2026-11-05T03:25:58.374615+00:00",
+          "bytes": 4725,
+          "http_status": 200,
+          "raw_key": "raw/0cffa622d9a88cd1d67e1e4622a439e696a434f0a6e6d7fa13b1dd405b426522.gz"
+        },
+        "locator": "Results.Facilities[0]"
+      },
+      "note": "The 2007 issued permit remains listed for this registration. The daily DEQ record reports this physical site Active/Operating. No later indexed permit or active application was found in the checked snapshots; current legal effectiveness and ownership transfer history remain unverified.",
+      "unresolved_history": [
+        "The current index and GIS name StratCap differs from original Digital Reston, LLC. Exact regulatory identifiers/address verify site continuity, not the entire legal ownership chain.",
+        "No later same-registration document appears in the checked issued-data-center index; its completeness as a legal record is not established."
+      ],
+      "combined_address_conflict": null,
+      "collected_document_guards": {
+        "73567-1": {
+          "representation": "publisher_pdf",
+          "sha256": "db8c03315cf646c214db3fc75d7b78c5597477be7043be211c49289260507020"
+        }
+      }
+    },
+    {
+      "registration": "73643-5",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+      "document_sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+      "reviewed_at": "2026-11-05T03:30:42.514248+00:00",
+      "registry_rows": [
+        {
+          "registration": "73643-1",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25736/638628566270800000",
+          "issued_at": "2007-12-19",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73643-3",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25738/638628566681670000",
+          "issued_at": "2009-08-28",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73643-4",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25740/638628567068870000",
+          "issued_at": "2010-04-29",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73643-5",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+          "issued_at": "2011-10-13",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "explicitly_supersedes",
+          "scope": "permit identified by date; predecessor original not located in the issued-data-center index",
+          "subject_document_id": "73643-3",
+          "target_issued_at": "2009-02-25",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25738/638628566681670000",
+              "sha256": "70ad6f6231aeacbd464ebf1b0f1e72da00079efb6851f9e361db78c4d6fd960c",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25738/638628566681670000",
+                "sha256": "70ad6f6231aeacbd464ebf1b0f1e72da00079efb6851f9e361db78c4d6fd960c",
+                "retrieved_at": "2026-11-05T03:25:30.155518+00:00",
+                "raw_key": "raw/70ad6f6231aeacbd464ebf1b0f1e72da00079efb6851f9e361db78c4d6fd960c.gz"
+              },
+              "locator": "PDF page 1",
+              "quote": "This permit supersedes your permit dated February 25, 2009",
+              "pdf_page": 1
+            }
+          ]
+        },
+        {
+          "type": "replaces_selected_pages",
+          "scope": "Condition1 Tables1.A and1.B on printed pages3 and4, and Condition15 on printed page13",
+          "subject_document_id": "73643-4",
+          "target_issued_at_as_printed": "2008-08-28",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25740/638628567068870000",
+              "sha256": "55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25740/638628567068870000",
+                "sha256": "55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3",
+                "retrieved_at": "2026-11-05T03:25:30.155609+00:00",
+                "raw_key": "raw/55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3.gz"
+              },
+              "locator": "PDF page 1",
+              "quote": "Attached is a minor amendment to your new source review permit dated August 28, 2008 to construct and operate a data center facility in accordance with the provisions of the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution (Regulations). Permit changes are reflected in Condition 1, Tables 1 .A and 1 .B on pages 3 and 4 and Condition 15 on page 13. The amended pages supersede the corresponding pages of your permit dated August 28, 2008.",
+              "pdf_page": 1
+            }
+          ]
+        },
+        {
+          "type": "replacement_page_identifies_base_permit",
+          "scope": "printed page3 of20; actual header conflicts with cover-letter2008 date",
+          "subject_document_id": "73643-4",
+          "target_issued_at": "2009-08-28",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25740/638628567068870000",
+              "sha256": "55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25740/638628567068870000",
+                "sha256": "55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3",
+                "retrieved_at": "2026-11-05T03:25:30.155609+00:00",
+                "raw_key": "raw/55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3.gz"
+              },
+              "locator": "PDF page 3",
+              "quote": "VISA, Inc. Registration Number 73643 August 28, 2009 as amended April 29, 2010 Page 3 of 20",
+              "pdf_page": 3
+            }
+          ]
+        },
+        {
+          "type": "requested_emission_factor_amendment_not_proceeded",
+          "scope": "emission-factor amendment deferred pending fuel-flow-meter recalibration and new testing; no new numeric limit admitted",
+          "subject_document_id": "73643-5",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+              "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+                "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+                "retrieved_at": "2026-11-05T03:27:43.616317+00:00",
+                "raw_key": "raw/1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741.gz"
+              },
+              "locator": "PDF page 1",
+              "quote": "In light of this information, DEQ's Air Permitting division cannot proceed with the permit amendment to update the pound per gallon emission factors used to calculate annual emissions, as stated in your June 30, 2011 letter request.",
+              "pdf_page": 1
+            }
+          ]
+        },
+        {
+          "type": "references_base_permit_as_amended",
+          "scope": "conditions12 and13 for possible retesting, not a new complete permit",
+          "subject_document_id": "73643-5",
+          "target_issued_at": "2009-08-28",
+          "amended_at": "2010-04-29",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+              "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+                "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+                "retrieved_at": "2026-11-05T03:27:43.616317+00:00",
+                "raw_key": "raw/1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741.gz"
+              },
+              "locator": "PDF page 1",
+              "quote": "Once recalibration has been completed, VISA may then restack-test the engines in accordance with Conditions 12 and 13 of the facility's August 28, 2009 (as amended April 29, 2010) NSR permit to obtain an acceptable pound per gallon emission factor for use in calculating annual emissions. Once completed, you may resubmit your amendment request for consideration.",
+              "pdf_page": 1
+            }
+          ]
+        },
+        {
+          "type": "administrative_model_number_change_approved",
+          "scope": "Condition1 engine-generator model numbers; letter says incorporation at next permit opening",
+          "subject_document_id": "73643-5",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+              "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+                "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+                "retrieved_at": "2026-11-05T03:27:43.616317+00:00",
+                "raw_key": "raw/1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741.gz"
+              },
+              "locator": "PDF page 2",
+              "quote": "The Department of Environmental Quality (DEQ) does however, approve your request to update the engine-generator set model numbers contained in Condition 1 of the permit based on the information provided in your letter request. The request constitutes an administrative amendment and the permit will be amended to incorporate the change the next time it is opened.",
+              "pdf_page": 2
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "73643-1": "9a383d60bf5cf6fee1a6679d9ac8c72915bdebd7779c4b440209854c1d4a25f1",
+        "73643-3": "70ad6f6231aeacbd464ebf1b0f1e72da00079efb6851f9e361db78c4d6fd960c",
+        "73643-4": "55fb6d59cc63e5d70364e4dc9b9026c4d180d0f9a0036a31a769115d1d4ee0c3",
+        "73643-5": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741"
+      },
+      "expected_gis_fields": {
+        "PLA_ID": 40905,
+        "PLA_REG_NUM": 73643,
+        "PLA_NAME": "Visa USA Incorporated",
+        "PLA_ICIS_ID": "VA0000005110700886",
+        "FAC_L_ADDR_1": "45005 Russel Branch Pkwy",
+        "FAC_L_CITY": "Ashburn",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20147",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y"
+      },
+      "expected_air_fields": {
+        "RegistryID": "110031217706",
+        "SourceID": "VA0000005110700886",
+        "OtherPermitIDs": "73643",
+        "AIRName": "VISA USA INCORPORATED",
+        "AIRStreet": "45005 RUSSEL BRANCH PKWY",
+        "AIRCity": "ASHBURN",
+        "AIRState": "VA",
+        "AIRZip": "20147",
+        "AIRCounty": "Loudoun",
+        "AIRFIPSCode": "51107",
+        "AIRStatus": "Operating",
+        "AIRNAICS": "518210"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=201&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "78d89cc18ee5da1d86ab00849505f1175f3738695836a3585ead9f5e0ae110f2",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=201&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "78d89cc18ee5da1d86ab00849505f1175f3738695836a3585ead9f5e0ae110f2",
+          "retrieved_at": "2026-11-05T03:25:57.440952+00:00",
+          "bytes": 4852,
+          "http_status": 200,
+          "raw_key": "raw/78d89cc18ee5da1d86ab00849505f1175f3738695836a3585ead9f5e0ae110f2.gz"
+        },
+        "locator": "Results.Facilities[0]"
+      },
+      "note": "The latest indexed item is the 2011 correspondence. It declines to proceed with an emission-factor change, approves a model-number administrative change for future incorporation, and references the 2009 permit as amended 2010. A missing predecessor and an original date inconsistency prevent asserting a complete current legal chain.",
+      "unresolved_history": [
+        "A referenced February25,2009 predecessor is absent from the current issued-data-center index and was not retrieved.",
+        "The April29,2010 cover twice prints August28,2008, while its replacement pages and the2011 letter identify August28,2009. Rendered pages confirm the inconsistency is in the original document; no silent correction or legal resolution is made.",
+        "The2011 letter is the latest dated indexed document, but is correspondence and does not replace the entire permit. Later incorporation of model changes is not evidenced."
+      ],
+      "combined_address_conflict": null,
+      "collected_document_guards": {
+        "73643-1": {
+          "representation": "reader_text",
+          "sha256": "67a4caa6fc17be59634acb55d4a15a84a7d59c3c0bf4fb9957e687128e84b1f0"
+        },
+        "73643-3": {
+          "representation": "reader_text",
+          "sha256": "7588187e857bb2c404393dff09ad07a51882067a2a702f9f41a7ff198cbf6de8"
+        },
+        "73643-4": {
+          "representation": "reader_text",
+          "sha256": "1e54344f89e50628ac529c173a0bf857669dd01d7794e110d96de4d24ac6c96b"
+        },
+        "73643-5": {
+          "representation": "publisher_pdf",
+          "sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741"
+        }
+      }
+    },
+    {
+      "registration": "73977-2",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+      "document_sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9",
+      "reviewed_at": "2026-11-05T03:30:42.514248+00:00",
+      "registry_rows": [
+        {
+          "registration": "73977-1",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25791/638628696383770000",
+          "issued_at": "2012-04-09",
+          "program": "Article 6 - mNSR"
+        },
+        {
+          "registration": "73977-2",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+          "issued_at": "2013-08-19",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "replaces_selected_pages",
+          "scope": "printed permit pages1,6 and10; conditions13 and23 plus missing supporting forms; other pages are not declared superseded",
+          "subject_document_id": "73977-2",
+          "target_issued_at": "2012-04-09",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+              "sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+                "sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9",
+                "retrieved_at": "2026-11-05T03:27:43.834732+00:00",
+                "raw_key": "raw/fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9.gz"
+              },
+              "locator": "PDF page 3",
+              "quote": "This permit page and pages 6 and 10 supersede the corresponding pages of your permit dated April 9. 2012.",
+              "pdf_page": 3
+            }
+          ]
+        },
+        {
+          "type": "reopening_for_cause_recorded",
+          "scope": "changes to conditions13 and23; May28,2013 notice referenced but not separately retrieved",
+          "subject_document_id": "73977-2",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+              "sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+                "sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9",
+                "retrieved_at": "2026-11-05T03:27:43.834732+00:00",
+                "raw_key": "raw/fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9.gz"
+              },
+              "locator": "PDF page 1",
+              "quote": "The aforementioned changes to your permit (Conditions 13 and 23) were made in accordance with 9 VAC 5-80-1260.C through the 'Reopening for Cause' provisions of 9 VAC 5- 80-1300.A.2, resulting from a review of your April 9, 2012, permit. The Department of Environmental Quality (DEQ) notified you of its intent to reopen the April 9, 2012, permit via letter dated May 28, 2013.",
+              "pdf_page": 1
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "73977-1": "75e0c386e6286595d3dff3142cbb54ba01f5b8d8ad447e93e4413ade9273e24e",
+        "73977-2": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9"
+      },
+      "expected_gis_fields": {
+        "PLA_ID": 42410,
+        "PLA_REG_NUM": 73977,
+        "PLA_NAME": "The Aerospace Corporation",
+        "PLA_ICIS_ID": "VA0000005105901099",
+        "FAC_L_ADDR_1": "14725 Lee Rd",
+        "FAC_L_CITY": "Chantilly",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20151",
+        "PLA_NAC_CODE_PRIMARY": "927110",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y"
+      },
+      "expected_air_fields": {
+        "RegistryID": "110044301591",
+        "SourceID": "VA0000005105901099",
+        "OtherPermitIDs": "73977",
+        "AIRName": "THE AEROSPACE CORPORATION",
+        "AIRStreet": "14725 LEE RD",
+        "AIRCity": "CHANTILLY",
+        "AIRState": "VA",
+        "AIRZip": "20151",
+        "AIRCounty": "Fairfax",
+        "AIRFIPSCode": "51059",
+        "AIRStatus": "Operating",
+        "AIRNAICS": "927110"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=206&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "3484c98b333e7f7a1ca491a906bd190bb1e428469c0c6914fb4148028f64254d",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=206&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "3484c98b333e7f7a1ca491a906bd190bb1e428469c0c6914fb4148028f64254d",
+          "retrieved_at": "2026-11-05T03:25:58.338976+00:00",
+          "bytes": 4691,
+          "http_status": 200,
+          "raw_key": "raw/3484c98b333e7f7a1ca491a906bd190bb1e428469c0c6914fb4148028f64254d.gz"
+        },
+        "locator": "Results.Facilities[0]"
+      },
+      "note": "The 2013 document expressly replaces only selected pages of the retrieved 2012 permit. Both documents are available and the daily site record is Active/Operating. The composite legal status remains unknown.",
+      "unresolved_history": [
+        "The April9,2012 full original and August19,2013 partial amendment were both retrieved. This review records the page-replacement relationship; it does not declare a consolidated legally effective permit.",
+        "The attachment list says August16,2013, while the cover, updated title and current issued index say August19,2013. This internal date inconsistency is preserved."
+      ],
+      "combined_address_conflict": null,
+      "collected_document_guards": {
+        "73977-1": {
+          "representation": "reader_text",
+          "sha256": "c6c0aecf87d1342c49bace712c280f12dd8e7b3ca1dd82bdf1eb2524706a71b1"
+        },
+        "73977-2": {
+          "representation": "publisher_pdf",
+          "sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9"
+        }
+      }
+    },
+    {
+      "registration": "74060-2",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25803/638628717903300000",
+      "document_sha256": "89c7a046b83bf08b8680bbf10cebdb13add64a904a484dbc4abbb541caa3bbe1",
+      "reviewed_at": "2026-11-05T03:30:42.514248+00:00",
+      "registry_rows": [
+        {
+          "registration": "74060-2",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25803/638628717903300000",
+          "issued_at": "2014-07-31",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [],
+      "reviewed_document_hashes": {
+        "74060-2": "89c7a046b83bf08b8680bbf10cebdb13add64a904a484dbc4abbb541caa3bbe1"
+      },
+      "expected_gis_fields": {
+        "PLA_ID": 42936,
+        "PLA_REG_NUM": 74060,
+        "PLA_NAME": "U.S. Customs and Border Protection",
+        "PLA_ICIS_ID": "VA0000005105901131",
+        "FAC_L_ADDR_1": "7681 Boston Blvd",
+        "FAC_L_CITY": "Springfield",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "22153",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y"
+      },
+      "expected_air_fields": {
+        "RegistryID": "110056440338",
+        "SourceID": "VA0000005105901131",
+        "OtherPermitIDs": "74060",
+        "AIRName": "U.S. CUSTOMS AND BORDER PROTECTION",
+        "AIRStreet": "7681 BOSTON BLVD",
+        "AIRCity": "SPRINGFIELD",
+        "AIRState": "VA",
+        "AIRZip": "22153",
+        "AIRCounty": "Fairfax",
+        "AIRFIPSCode": "51059",
+        "AIRStatus": "Operating",
+        "AIRNAICS": "518210"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=203&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "197256eb50a72488c5a0a43bd9573a2118851b97eebf59ed46f342572be8046b",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=203&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "197256eb50a72488c5a0a43bd9573a2118851b97eebf59ed46f342572be8046b",
+          "retrieved_at": "2026-11-05T03:25:57.938579+00:00",
+          "bytes": 4711,
+          "http_status": 200,
+          "raw_key": "raw/197256eb50a72488c5a0a43bd9573a2118851b97eebf59ed46f342572be8046b.gz"
+        },
+        "locator": "Results.Facilities[0]"
+      },
+      "note": "The 2014 issued permit remains the only indexed document for this registration and the daily site record is Active/Operating. No later indexed action or active application is proved; legal effectiveness remains unknown.",
+      "unresolved_history": [
+        "Only application/document74060-2 appears in the checked issued-data-center index; an earlier -1 document is not assumed or reconstructed.",
+        "The permitted-equipment table and separate exempt-equipment table do not establish today's complete installed generator fleet."
+      ],
+      "combined_address_conflict": null,
+      "collected_document_guards": {
+        "74060-2": {
+          "representation": "publisher_pdf",
+          "sha256": "89c7a046b83bf08b8680bbf10cebdb13add64a904a484dbc4abbb541caa3bbe1"
+        }
+      }
+    },
+    {
+      "registration": "74094-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25821/638628728843130000",
+      "document_sha256": "c4e484a3e45050261ce8a510d4766602129da01665f569b34be644aab5afdde3",
+      "reviewed_at": "2026-11-05T03:30:42.514248+00:00",
+      "registry_rows": [
+        {
+          "registration": "74094-1",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25821/638628728843130000",
+          "issued_at": "2016-01-13",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [],
+      "reviewed_document_hashes": {
+        "74094-1": "c4e484a3e45050261ce8a510d4766602129da01665f569b34be644aab5afdde3"
+      },
+      "expected_gis_fields": {
+        "PLA_ID": 43274,
+        "PLA_REG_NUM": 74094,
+        "PLA_NAME": "NTT Global Data Centers VA2, LLC",
+        "PLA_ICIS_ID": "VA0000005110774094",
+        "FAC_L_ADDR_1": "44610 Guilford Drive",
+        "FAC_L_CITY": "Ashburn",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "20147",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y"
+      },
+      "expected_air_fields": {
+        "RegistryID": "110069427338",
+        "SourceID": "VA0000005110774094",
+        "OtherPermitIDs": "74094",
+        "AIRName": "NTT GLOBAL DATA CENTERS VA2, LLC",
+        "AIRStreet": "44610 GUILFORD DRIVE",
+        "AIRCity": "ASHBURN",
+        "AIRState": "VA",
+        "AIRZip": "20147",
+        "AIRCounty": "Loudoun",
+        "AIRFIPSCode": "51107",
+        "AIRStatus": "Operating",
+        "AIRNAICS": "518210"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=204&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "1c14cf36739118f30d2ed499f0d0a757c1ed009d780d0108bf39730e6428aa67",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=204&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "1c14cf36739118f30d2ed499f0d0a757c1ed009d780d0108bf39730e6428aa67",
+          "retrieved_at": "2026-11-05T03:25:57.908490+00:00",
+          "bytes": 4989,
+          "http_status": 200,
+          "raw_key": "raw/1c14cf36739118f30d2ed499f0d0a757c1ed009d780d0108bf39730e6428aa67.gz"
+        },
+        "locator": "Results.Facilities[0]"
+      },
+      "note": "The 2016 issued permit remains the only indexed document for the exact 44610 Guilford Drive/VA2 site and the daily site record is Active/Operating. No legal ownership-transfer or later-effective-permit claim is made.",
+      "unresolved_history": [
+        "The current index and GIS name NTT Global Data Centers VA2, LLC differs from original RagingWire Data Centers, Inc. The specific VA2 physical site is proved; legal transfer history is not fully documented.",
+        "Mailing address44664 Guilford Drive belongs to the separate VA1 candidate and must not be used to join the VA2 permit."
+      ],
+      "combined_address_conflict": null,
+      "collected_document_guards": {
+        "74094-1": {
+          "representation": "publisher_pdf",
+          "sha256": "c4e484a3e45050261ce8a510d4766602129da01665f569b34be644aab5afdde3"
+        }
+      }
+    },
+    {
+      "registration": "81609-5",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/26022/639246270937400000",
+      "document_sha256": "cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356",
+      "reviewed_at": "2026-11-05T03:30:42.514248+00:00",
+      "registry_rows": [
+        {
+          "registration": "81609-5",
+          "url": "https://www.deq.virginia.gov/home/showpublisheddocument/26022/639246270937400000",
+          "issued_at": "2013-10-24",
+          "program": "Article 6 - mNSR"
+        }
+      ],
+      "registry_receipt": {
+        "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+        "sha256": "bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675",
+        "retrieved_at": "2026-11-05T02:28:31.045663+00:00",
+        "bytes": 270255,
+        "content_type": "text/html",
+        "raw_key": "raw/bf4b17a5846f6cfecb7661d8674a29043fda2addbd3e10b6cfc37859f9ae2675.gz"
+      },
+      "legal_effectiveness": {
+        "status": "unknown",
+        "scope": "not_established",
+        "condition_refs": [],
+        "evidence": [],
+        "note": "Current legal effectiveness remains unknown; neither an active site nor the latest listing establishes an active permit."
+      },
+      "events": [
+        {
+          "type": "explicitly_replaces",
+          "scope": "name and ownership amendment; cover explicitly states no other changes",
+          "subject_document_id": "81609-5",
+          "target_issued_at": "2008-09-04",
+          "evidence": [
+            {
+              "url": "https://www.deq.virginia.gov/home/showpublisheddocument/26022/639246270937400000",
+              "sha256": "cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356",
+              "receipt": {
+                "url": "https://www.deq.virginia.gov/home/showpublisheddocument/26022/639246270937400000",
+                "sha256": "cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356",
+                "retrieved_at": "2026-11-05T03:27:44.418191+00:00",
+                "raw_key": "raw/cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356.gz"
+              },
+              "locator": "PDF page 1",
+              "quote": "Attached is an administrative amendment to your new source review permit dated September 4, 2008 as amended June 18, 2010 and September 1, 2010 to construct and operate emergency generators for a data center facility in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. The permit has been changed to reflect the change in name and ownership. There are no other changes to the permit. This amended permit replaces your permit dated September 4, 2008 as amended June 18, 2010 and September 1, 2010. The permit contains legally enforceable conditions.",
+              "pdf_page": 1
+            }
+          ]
+        }
+      ],
+      "reviewed_document_hashes": {
+        "81609-5": "cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356"
+      },
+      "expected_gis_fields": {
+        "PLA_ID": 41141,
+        "PLA_REG_NUM": 81609,
+        "PLA_NAME": "Anthem CDC 3",
+        "PLA_ICIS_ID": "VA0000005166000169",
+        "FAC_L_ADDR_1": "1175 North Main Street",
+        "FAC_L_CITY": "Harrisonburg",
+        "FAC_L_STATE": "VA",
+        "FAC_L_ZIP5": "22802",
+        "PLA_NAC_CODE_PRIMARY": "518210",
+        "STATUS_GROUP": "Active",
+        "AIR_OP_STATUS": "Operating",
+        "PLA_DATA_CENTER_YN": "Y"
+      },
+      "expected_air_fields": {
+        "RegistryID": "110040513209",
+        "SourceID": "VA0000005166000169",
+        "OtherPermitIDs": "81609",
+        "AIRName": "ANTHEM CDC 3",
+        "AIRStreet": "1175 NORTH MAIN STREET",
+        "AIRCity": "HARRISONBURG",
+        "AIRState": "VA",
+        "AIRZip": "22802",
+        "AIRCounty": "Harrisonburg (city)",
+        "AIRFIPSCode": "51660",
+        "AIRStatus": "Operating",
+        "AIRNAICS": "518210"
+      },
+      "air_evidence": {
+        "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=200&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+        "sha256": "7f81c69520a24007b0f72818bd3b7d35a558147e4a7d7e72d9e8ea15e6007787",
+        "receipt": {
+          "url": "https://echodata.epa.gov/echo/air_rest_services.get_qid?output=JSON&qid=200&pageno=1&qcolumns=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%2C33%2C34%2C35%2C36%2C37%2C38%2C39%2C40%2C41%2C42%2C43%2C44%2C45%2C46%2C47%2C48%2C49%2C50%2C51%2C52%2C53%2C54%2C55%2C56%2C57%2C58%2C59%2C60%2C61%2C62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C90%2C91%2C92%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C137%2C138%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165",
+          "sha256": "7f81c69520a24007b0f72818bd3b7d35a558147e4a7d7e72d9e8ea15e6007787",
+          "retrieved_at": "2026-11-05T03:25:57.454276+00:00",
+          "bytes": 4684,
+          "http_status": 200,
+          "raw_key": "raw/7f81c69520a24007b0f72818bd3b7d35a558147e4a7d7e72d9e8ea15e6007787.gz"
+        },
+        "locator": "Results.Facilities[0]"
+      },
+      "note": "The 2013 document explicitly replaces the 2008 permit as amended twice in 2010 solely for name/ownership, with no other changes stated. The exact air-program/DEQ IDs identify 1175 North Main Street, despite a conflicting consolidated FRS address. Current legal effectiveness remains unknown.",
+      "unresolved_history": [
+        "The referenced2008/2010 predecessor originals are not separately listed in the current issued-data-center index; no unobserved ownership chain is reconstructed.",
+        "The current registry name Anthem CDC3 differs from original DBT-DATA Cyber Integrated Center. Exact regulatory identifiers and physical address prove the site relationship; intervening legal ownership transfers are not fully documented.",
+        "The signed amended title date is October24,2013; the transmittal cover is dated October25,2013."
+      ],
+      "combined_address_conflict": {
+        "consolidated_frs_address": "139 TYCO STREET",
+        "air_program_address": "1175 NORTH MAIN STREET",
+        "deq_physical_address": "1175 North Main Street",
+        "resolution": "The reviewed permit link is scoped to exact ICIS-AIR regulatory site/registration, supported independently by DEQ. Retain consolidated FRS source field unchanged and expose conflict; no silent coordinate/address replacement."
+      },
+      "collected_document_guards": {
+        "81609-5": {
+          "representation": "publisher_pdf",
+          "sha256": "cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356"
+        }
+      }
+    }
+  ]
+}

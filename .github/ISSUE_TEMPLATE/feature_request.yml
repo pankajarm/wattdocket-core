@@ -1,0 +1,23 @@
+name: Feature request
+description: Propose a focused improvement or new public source.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What are you trying to do?
+      description: Describe the user need and where the current experience falls short.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Explain the smallest useful improvement and any alternatives.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Evidence or source requirements
+      description: For new data, include the original publisher, access requirements, source terms, and reporting scope.

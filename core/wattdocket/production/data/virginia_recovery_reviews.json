@@ -1,0 +1,916 @@
+{
+  "review_version": "va-reviewed-pdf-1",
+  "documents": {
+    "11541-3": {
+      "registration": "11541-3",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25638/639251514356230000",
+      "document_sha256": "2312a0c56485c89fa02c6224ca89698f1a2a09a168575173fe5a98ab4b255b68",
+      "page_count": 8,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "May 16, 2008 replacement permit: three listed Caterpillar emergency generators at Southwest Enterprise Solutions Center.",
+      "identity_review": {
+        "registration": {
+          "value": "11541",
+          "pdf_page": 3,
+          "quote": "Registration No. 11541 Facility ID No. 51-167-00092"
+        },
+        "county": {
+          "value": "Russell County",
+          "pdf_page": 3,
+          "quote": "Technology Park in Lebanon, Russell County, Virginia"
+        },
+        "physical_address": {
+          "value": "Technology Park Drive, Regional Business Technology Park, Lebanon, Virginia",
+          "pdf_page": 3,
+          "quote": "Technology Park Drive, at the Regional Business Technology Park in Lebanon, Russell County, Virginia"
+        }
+      },
+      "eligible_condition_pages": [
+        5
+      ],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 3,
+            "quote": "This permit supersedes vour permit dated February 13. 2008.",
+            "replaced_dates": [
+              "2008-02-13"
+            ],
+            "scope": "entire referenced permit"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [
+        {
+          "pdf_page": 5,
+          "old_text": "Registration Number11641",
+          "new_text": "Registration Number 11541",
+          "reason": "Scan header is 11541; embedded OCR misreads digit.",
+          "visual_review_sha256": "e6beb4379f5f495a9f7176cc28092c34bd9748c6aac940f1eb6fea9f8afcdd13"
+        },
+        {
+          "pdf_page": 5,
+          "old_text": "May 16, 2006",
+          "new_text": "May 16, 2008",
+          "reason": "Scan header is 2008, matching signed title; embedded OCR misreads final digit.",
+          "visual_review_sha256": "e6beb4379f5f495a9f7176cc28092c34bd9748c6aac940f1eb6fea9f8afcdd13"
+        }
+      ],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 500,
+          "unit": "hours/year",
+          "pdf_page": 5,
+          "quote": "Operating ^ours^The Caterpillar diesel-powered emergency generators shall not operate more than 500 hoursperyear each,calculated monthly as tbe sum of each consecutive 12-month penod. 5-60-1160) 4.",
+          "subject_scope": "Each named Caterpillar emergency generator",
+          "purpose": "all operating hours",
+          "period": "consecutive 12-month period, calculated monthly"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "Electrical kW is in equipment description. Adjacent 2500 brake horsepower is a different rating; do not treat it as kW. Table contains one added and two previously permitted generators.",
+          "note": "Electrical kW is in equipment description. Adjacent 2500 brake horsepower is a different rating; do not treat it as kW. Table contains one added and two previously permitted generators.",
+          "rows": [
+            {
+              "count": 3,
+              "rated_ekw_each": 1500,
+              "pdf_page": 4,
+              "quote": "Corp^.ate Office Properties, LP Registration Number 11541 May 16, 2008 Page 2 INTRODUCTION This permit approval is based on the permit applications dated February 15, 2008 and December 20, 2007. Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. Words or terms used in this permit shall have meanings as provided in 9 VAC 5-10-10 of the State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution. The regulatory reference or authority for each condition is listed in parentheses () after each condition. Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the DEQ or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. The availability of information submitted to the DEQ or the Board will be governed by applicable provisions ofthe Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 ofthe Code of Virginia, § 10.1-1314 (addressing information provided to the Board) ofthe Code of Virginia, and 9 VAC 5-170-60 ofthe State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. i PROCESS REQUIREMENTS 1. Equipment List - Equipment at this facility consists of the following: Ref No. Equipment Description Rated'Capacity Federal Requirements Original Permit Date • Equi iment to be added as Dart of this facility modification: 3 One Caterpillar 1500 KW diesel-powered emergency generator 2500 brake horsepower NSPS Subpart Mil 5/16/2008 _ _Prev niiclx/n<armittpri pnilinmRnt: 2 One Caterpillar 1500 KW diesel-powered emergency generator 2500 brake horsepower NSPS Subpart llll 2/13/2008 1 One Caterpillar 1500 KW diesel-powered emergency generator 2500 brake horsepower NSPS Subpart Mil 2/26/2007 OPERATING/EMISSION LIMITATIONS 2. Fuel - The approved fuel for the Caterpillar diesel-powered emergency generators is distillate oil. A change in the fuel may require a permit to modify and operate. (9 VAC 5-80-1180)"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "11790-1": {
+      "registration": "11790-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25640/638627840699300000",
+      "document_sha256": "669aeb79d408fd2441aa752745d36a9ed7a0438ee4ec00f87d2a573f51270513",
+      "page_count": 9,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "August 23, 2016 permit for EG01-EG07 at DP Facilities Inc. South, LLC.",
+      "identity_review": {
+        "registration": {
+          "value": "11790",
+          "pdf_page": 3,
+          "quote": "Registration No. 11790"
+        },
+        "county": {
+          "value": "Wise County",
+          "pdf_page": 1,
+          "quote": "Location: Wise County, VA"
+        },
+        "physical_address": {
+          "value": "5978 Windswept Blvd, Wise, Virginia 24293",
+          "pdf_page": 3,
+          "quote": "5978 Windswept Blvd, Wise, Virginia"
+        }
+      },
+      "eligible_condition_pages": [
+        5,
+        6
+      ],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "not_established",
+        "statements": [],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [
+        {
+          "pdf_page": 6,
+          "old_text": "583,500",
+          "new_text": "583,600",
+          "reason": "Section 8 scan clearly states 583,600; embedded OCR changes 6 to 5.",
+          "visual_review_sha256": "eece4d7cdef8c9c020dfb1067de1d2b7ce0bfcc9d89227823f210bef86d65cb6"
+        },
+        {
+          "pdf_page": 5,
+          "old_text": "August23,2015",
+          "new_text": "August 23, 2016",
+          "reason": "Visual header agrees with signed title date 2016.",
+          "visual_review_sha256": "6f550293bb07a45bd133e87e55d83ec582fcb66521dc1f700633096b966ceaed"
+        },
+        {
+          "pdf_page": 6,
+          "old_text": "August23,2015",
+          "new_text": "August 23, 2016",
+          "reason": "Visual header agrees with signed title date 2016.",
+          "visual_review_sha256": "eece4d7cdef8c9c020dfb1067de1d2b7ce0bfcc9d89227823f210bef86d65cb6"
+        }
+      ],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 500,
+          "unit": "hours/year",
+          "pdf_page": 5,
+          "quote": "Operating ^ours-Each emergency diesel-fueled engine-generator set (Reference Nos. EO01- EO07) shall not operate more than 500 hours peryear,calculated monthly as the sum of each consecutive 12 month period.",
+          "subject_scope": "Each EG01-EG07 generator",
+          "purpose": "all operating hours",
+          "period": "consecutive 12-month period, calculated monthly"
+        },
+        {
+          "metric": "fuel_throughput_limit",
+          "value": 583600,
+          "unit": "gallons/year",
+          "pdf_page": 6,
+          "quote": "Fuel Coneumptlen-The emergency diesel-fueled engine-generatorsets (Reference Nos. EO01 -EO07) shall consume no more than 583,600 gallons of diesel fuel peryear,calculated monthly as the sum of each consecutive 12-month periods Compliance forthe consecutive 12-month period shall he demonstrated monthlvov adding the total forthe most recently completed calendar month to the individual monthly totals fcrtheprecedingllmonths. (9VAC5-80-1180) 9. Fuel Certlflcatlon-The permittee shall obtainacertification from the fuel supplierwith each shipment of diesel fuel. Each fuel supplier certification shall include the following: a. The name of the fuel supplier: h. The date on which the diesel fuel was received: c. The quantity of diesel fuel delivered In the shipment: d. A statementthatthedieselfuel complies with the American SocietyforTesting and materials specifications (ASTI^I0975)forS15diesel fuel oil: and e. The sulfur content of the diesel fuel. Fuel sampling and analysis, independent ofthat used for certification, as may he periodically required or conducted by OEOmav be ^sed to determine compliance with the fuel specifications stipulated in Condition7. Exceedance cf these specifications may he considered credible evidence of the exceedance of emission limits. (9VAC5-80-1180) EMISSION LIMITS 10 EmleelenLlmlte-Emissions from the operation of the emergency diesel-fueled engine-generator sets (Reference Nos. EO01^EO07)shall not exceed the limits specified below: Pollutant EG01 - EG06 (Ibs/hr per unit) EG07 (Ibs/hr) Facility-wide Total (tons/yr) Volatile Organic Compounds (VOC) 1.29 0.28 2.01 Nitrogen Oxides(asNO^) 53.70 12.79 83.75 Carbon Monoxide (CO) 3.85 1.08 6.05 FM10/Flv125 0.36 0.17 0.58 These emissions are derived from the estimated overall emission contribution from operating limits. Exceedance of the operating limits shall be considered credible evidence of the exceedance of emission limits. Compliance with these emission limits may be determined as stated in Conditions 1, 2, 7, and 8. (9 VAC 5-50-260 and 9 VAC 5-80-1180)",
+          "subject_scope": "EG01-EG07 collectively; not per engine",
+          "purpose": "combined diesel fuel throughput",
+          "period": "consecutive 12-month period, calculated monthly"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "Equipment table expressly informational, not enforceable terms. Electrical ratings differ from 4060hp and 967hp nameplate engine ratings.",
+          "note": "Equipment table expressly informational, not enforceable terms. Electrical ratings differ from 4060hp and 967hp nameplate engine ratings.",
+          "rows": [
+            {
+              "count": 6,
+              "rated_ekw_each": 2500,
+              "pdf_page": 4,
+              "quote": "OP Facilities Inc. South, LLC Registration ^lo.11790 August23,2016 Page2 ^TROOOCTIO^ This permit approval is based on the permit applications dated ^lune 30, 2016, as revised August 12, 2016. Any changes in the permit application specifications orany existing facilities which alterthe impact ofthe facility on airquality may requireapermit. Failure to obtain suchapermitpriorto construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. Words orterms used in this permit shall have meanings as provided in^VAC 5-10-20 ofthe State Air Pollution Control Board Regulations forthe Control and Abatement of Air Pollution. The regulatory reference or authorityfor each condition is listed in parentheses()after each condition. Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitateaprompt response by the permittee to requests by the OEOorthe Board for information to include, as appropriate: process and production data: changes in control equipment: and operating schedules. Such requests forinformation from the OEO will either be in writing or by personal contact. The availability of information submitted to the OEOorthe Board will be governed by applicable provisions ofthe Freedom of Information Act,^2.2-3700 through 2.2-3714ofthe Code ofVirginia, ^10.1-1314(addressing information provided to the Board) ofthe Code ofVirginia,and9VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. ^qu^meotL^-Equipment at this facility consists ofthe following: Ref. No. Equipment Description Rated Capacity Original Permit Date: Equipment to be constructed: EG01 - EG06 (6) Cummins QSK78-G12 diesel-fueled engine-generator sets 2500 kW 4060 hp (nameplate) each 8/23/2016 EG07 Cummins QSK19-G8 diesel-fueled engine- generator set 600 kW 967 hp (nameplate) 8/23/2016 Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. PROCESS REQUIREMENTS 1. Emission Controls - Emissions of nitrogen oxides (NOx) from each of the emergency diesel- fueled engine-generator sets (Reference Nos. EG01 - EG07) shall be controlled by turbocharged engines, charge air coolers, and the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. The permittee shall maintain documentation that the control devices have been installed on the diesel engines. (9 VAC 5-50-260 and 9 VAC 5-80-1180)"
+            },
+            {
+              "count": 1,
+              "rated_ekw_each": 600,
+              "pdf_page": 4,
+              "quote": "OP Facilities Inc. South, LLC Registration ^lo.11790 August23,2016 Page2 ^TROOOCTIO^ This permit approval is based on the permit applications dated ^lune 30, 2016, as revised August 12, 2016. Any changes in the permit application specifications orany existing facilities which alterthe impact ofthe facility on airquality may requireapermit. Failure to obtain suchapermitpriorto construction may result in enforcement action. In addition, this facility may be subject to additional applicable requirements not listed in this permit. Words orterms used in this permit shall have meanings as provided in^VAC 5-10-20 ofthe State Air Pollution Control Board Regulations forthe Control and Abatement of Air Pollution. The regulatory reference or authorityfor each condition is listed in parentheses()after each condition. Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitateaprompt response by the permittee to requests by the OEOorthe Board for information to include, as appropriate: process and production data: changes in control equipment: and operating schedules. Such requests forinformation from the OEO will either be in writing or by personal contact. The availability of information submitted to the OEOorthe Board will be governed by applicable provisions ofthe Freedom of Information Act,^2.2-3700 through 2.2-3714ofthe Code ofVirginia, ^10.1-1314(addressing information provided to the Board) ofthe Code ofVirginia,and9VAC 5-170-60 of the State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. ^qu^meotL^-Equipment at this facility consists ofthe following: Ref. No. Equipment Description Rated Capacity Original Permit Date: Equipment to be constructed: EG01 - EG06 (6) Cummins QSK78-G12 diesel-fueled engine-generator sets 2500 kW 4060 hp (nameplate) each 8/23/2016 EG07 Cummins QSK19-G8 diesel-fueled engine- generator set 600 kW 967 hp (nameplate) 8/23/2016 Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit. PROCESS REQUIREMENTS 1. Emission Controls - Emissions of nitrogen oxides (NOx) from each of the emergency diesel- fueled engine-generator sets (Reference Nos. EG01 - EG07) shall be controlled by turbocharged engines, charge air coolers, and the use of good operating practices and performing appropriate maintenance in accordance with the manufacturer recommendations. The permittee shall maintain documentation that the control devices have been installed on the diesel engines. (9 VAC 5-50-260 and 9 VAC 5-80-1180)"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "72374-4": {
+      "registration": "72374-4",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/26111/638639801563130000",
+      "document_sha256": "e661d63724c018fd2afa136e0fff833e410c45837eec7097bd75bbdcf3e87a90",
+      "page_count": 12,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "March 27, 2014 amended replacement permit; original approval October 18, 2012.",
+      "identity_review": {
+        "registration": {
+          "value": "72374",
+          "pdf_page": 3,
+          "quote": "Registration No.: 72374 AFS ID No.: 51-153-00144"
+        },
+        "county": {
+          "value": "Prince William County",
+          "pdf_page": 3,
+          "quote": "(Prince William County)"
+        },
+        "physical_address": {
+          "value": "11101 University Boulevard, Manassas, Virginia 20110",
+          "pdf_page": 3,
+          "quote": "11101 University Boulevard Manassas, Virginia 20110"
+        }
+      },
+      "eligible_condition_pages": [
+        6
+      ],
+      "eligible_equipment_pages": [],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 3,
+            "quote": "This permit supersedes your permit dated October 18, 2012.",
+            "replaced_dates": [
+              "2012-10-18"
+            ],
+            "scope": "entire referenced permit"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 500,
+          "unit": "hours/year",
+          "pdf_page": 6,
+          "quote": "Operating ^iours-Each diesel engine generator set (Pef.Nos.3and 4) shall not operate more than 500 hours per year,calculated monthly as the sum of each consecutive 12 month period Compliance forthe consecutive 12month period shall be demonstrated monthly by adding the total forthe most recently completed calendar month to the individual monthly totals fortheprecedingllmonths. (9 VAC 5-30-1130) 7. Fuei Specification (seating Units)-The approved fuel forthe roof-top heaters, and the miscellaneous space and hotwater heaters, is natural gas. Achange in tbe fuel may requireapermit to modify and operate (9VAC 5-30-350)",
+          "subject_scope": "Each diesel generator Ref. Nos. 3 and 4",
+          "purpose": "all operating hours",
+          "period": "consecutive 12-month period, calculated monthly"
+        }
+      ],
+      "equipment": [],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "73170-1": {
+      "registration": "73170-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25698/638628519198400000",
+      "document_sha256": "ac23eab61937c0cd9ff821a7a0ff67336b602052a6eaa2326cd1f514caa3af51",
+      "page_count": 2,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "permit_letter",
+      "scope_note": "Two-page November 22, 2000 letter approving two identified emergency generators. No separate table or campus-wide operating measurement.",
+      "identity_review": {
+        "registration": {
+          "value": "73170",
+          "pdf_page": 1,
+          "quote": "Registration No: 73170 County-Plant No: 059-0819"
+        },
+        "county": {
+          "value": "Fairfax County",
+          "pdf_page": 1,
+          "quote": "Herndon, Fairfax County, Virginia"
+        },
+        "physical_address": {
+          "value": null,
+          "pdf_page": 1,
+          "quote": "The emergency generators are located at the Exodus Communications, Incorporated facility (DC1) in Herndon, Fairfax County, Virginia."
+        }
+      },
+      "eligible_condition_pages": [
+        1
+      ],
+      "eligible_equipment_pages": [
+        1
+      ],
+      "supersession_review": {
+        "status": "not_established",
+        "statements": [],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 300,
+          "unit": "hours/year",
+          "pdf_page": 1,
+          "quote": "Each generator shall operate not more than 300 hours per year.",
+          "subject_scope": "Each of the two Caterpillar model 3508B emergency generators",
+          "purpose": "all operating hours",
+          "period": "per year; no rolling-period assertion in this sentence"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "Letter text, not equipment table; no automatic table-based nameplate aggregation.",
+          "note": "Letter text, not equipment table; no automatic table-based nameplate aggregation.",
+          "rows": [
+            {
+              "count": 2,
+              "rated_ekw_each": 1000,
+              "pdf_page": 1,
+              "quote": "NVRO-150-2000 DEPARTMENT OF ENVIRONMENTAL QUALITY Northern Virginia Regional Office James S. Gilmore, III 13901 Crown Court Dennis H. Treacy Governor Woodbridge, VA 22193-1453 Director (703)583-3800 fax (703) 583-3801 John Paul Woodley, Jr. http://www.deq.state.va.us Gregory L. Clayton Secretary of Natural Resources Regional Director November 22, 2000 Mr. Barry A. Van Campenhout Exodus Communications, Incorporated 45901 Nokes Boulevard Sterling, Virginia 20166 Location: Fairfax County Registration No: 73170 County-Plant No: 059-0819 Dear Mr. Van Campenhout: The staff of the Virginia Department of Environmental Quality (DEQ) has reviewed the permit application dated September 27, 2000 regarding the installation and operation of two Caterpillar model 3508B diesel-fired generators, each rated at 1000 kilowatts (kW). The emergency generators are located at the Exodus Communications, Incorporated facility (DC1) in Herndon, Fairfax County, Virginia. This permit for installation and operation of the proposed emergency generators is approved based upon the information submitted. The generators are to be used only for providing power at the location during interruption of service from the normal power supplier, periodic maintenance testing, and operational training. Each generator shall operate not more than 300 hours per year. Operational records shall be maintained on site which demonstrate that this hours-of-operation limit continues to be observed. (Section 9 VAC 5-170-160 of the Regulations for the Control and Abatement of Air Pollution). Visible emissions shall not exceed 20% opacity, except during one six-minute period in any one hour in which visible emissions shall not exceed 30% opacity. (Section 9 VAC 5-50-80 of the Regulations for the Control and Abatement of Air Pollution). Failure to comply with these terms may result in a Notice of Violation and civil penalty. This approval should not be construed to mean your entire operation is automatically in compliance with all aspects of the Regulations. Regional personnel will be constantly evaluating all sources for compliance with the Regulations. In the event of any change in control or ownership of the permitted source, the permittee shall notify the succeeding owner of the existence of this permit by letter and send a copy of that letter to the Director, Northern Virginia Regional Office. (Section 9 VAC 5-170-160 of the Regulations for the Control and Abatement of Air Pollution. An Agency of the Natural Resources Secretariat"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "73200-3": {
+      "registration": "73200-3",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25704/638628522430330000",
+      "document_sha256": "d05afe53fc41cd8701e6a16629eca4191ac6d2ec92c5d1d251e8280eb435d934",
+      "page_count": 3,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "partial_amendment",
+      "scope_note": "October 18, 2007 cover letter plus replacement printed page 6 for the October 19, 2006 permit; opacity Condition 12 changed.",
+      "identity_review": {
+        "registration": {
+          "value": "73200",
+          "pdf_page": 1,
+          "quote": "Registration No.: 73200"
+        },
+        "county": {
+          "value": "Prince William County",
+          "pdf_page": null,
+          "quote": null
+        },
+        "physical_address": {
+          "value": "7400 Infantry Ridge Road, Manassas, Virginia",
+          "pdf_page": 1,
+          "quote": "7400 Infantry Ridge Road in Manassas, Virginia"
+        }
+      },
+      "eligible_condition_pages": [],
+      "eligible_equipment_pages": [],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 1,
+            "quote": "The amended Page 6 supersedes the corresponding page on your permit dated October 19, 2006.",
+            "replaced_dates": [
+              "2006-10-19"
+            ],
+            "scope": "printed page 6 only; Condition 12 opacity amendment"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [],
+      "conditions": [],
+      "equipment": [],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "73363-2": {
+      "registration": "73363-2",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25720/638628535905830000",
+      "document_sha256": "2bbc2ce953e3852b0bc59b20e4568f2935e40d7cd50886998a56f1fe185725ba",
+      "page_count": 14,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "July 16, 2014 amended replacement permit for G1/G2; original approval August 15, 2006. Includes two cover pages and source-testing-format attachment.",
+      "identity_review": {
+        "registration": {
+          "value": "73363",
+          "pdf_page": 3,
+          "quote": "Registration No.: 73363 AFS ID No.: 51-107-01041"
+        },
+        "county": {
+          "value": "Loudoun County",
+          "pdf_page": 3,
+          "quote": "(Loudoun County)"
+        },
+        "physical_address": {
+          "value": "45745 Nokes Boulevard, Dulles, Virginia 20166",
+          "pdf_page": 3,
+          "quote": "45745 Nokes Boulevard Dulles, Virginia 20166"
+        }
+      },
+      "eligible_condition_pages": [],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 3,
+            "quote": "This permit document supersedes your permit document dated August 15. 2006.",
+            "replaced_dates": [
+              "2006-08-15"
+            ],
+            "scope": "entire referenced permit document"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [],
+      "conditions": [],
+      "equipment": [
+        {
+          "subject_scope": "Table is informational, not enforceable terms. G1 reads 1500ekW, G2 1500kW; 2155bhp is engine rating. Separate 5000-gallon tank is storage capacity, not annual throughput.",
+          "note": "Table is informational, not enforceable terms. G1 reads 1500ekW, G2 1500kW; 2155bhp is engine rating. Separate 5000-gallon tank is storage capacity, not annual throughput.",
+          "rows": [
+            {
+              "count": 2,
+              "rated_ekw_each": 1500,
+              "pdf_page": 4,
+              "quote": "Inova f^okesOata Centers Registration dumber: 7^6^ Augustt5, 2006 (amended July 16, 2014) Rage2 ^TRQO^CT^N This r^rmit approval is based on tbe permit applications dated May 6, 2006 ( ^ supplemental information datedduly 3, 2006) andApril 22, 2014 (including supplemental information existingfacilities which altertbe impact ofthe facility on airquality may requireapermit. Failure to obtain sucbapermitpriorto construction may result in enforcement action. In addition, this facility may be sub^ectto additional applicable requirements not listed in this permit. ^ordsorterms used in this permit shall have meanings as provided in0VAO6-60-1110and0 VAO5-10-10er^.oftbeOommonwealtbofVirginia State AirFollution Control Board's (Board's) Regulations (Regulations) fortbe Control andAbatement of AirRollution. The regulatory reference or autborityfor each condition is listed in parentheses () after each condition. Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitateaprompt response bytbe permittee to requests bytbe Department of Environmental Quality (DEC) ortheBoardfor information to include, as appropnate^pro^ and production data^ changes in control equipments and operating schedules. Such requests forinformationfrom tbe OEQ will eitberbe in writing orbypersonal contact. The availabilitvofinformationsubmittedto the OEQortbeBoardwillbegoverned by applicable provisions oftbe Freedom oflnformationAct,^2.2^00tbrough2.2^14oftbe Code of Virginia,^10.1-1314 (addressing information provided to tbe Board) oftbeCodeofVirginia, and OVAC 6-170-60 oftbe Board's Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality ofsucb information PRQC^SS REQUIREMENTS 1. Equipment List - Equipment at this facility consists of the following: EauiDment to be Constructed: Reference No. Equipment Description Rated Capacity Federal Requirements Original Permit Date G1 Caterpillar 3512DE3B Generator Set 2155 bhp 1500 ekW 9 VAC 5-60- 100 August 15, 2006 G2 Caterpillar 3512DE3B Generator Set 2155 bhp 1500 kW 9 VAC 5-60- 100 August 15, 2006 Eouioment Exempt from Air Permitting: Reference No. Equipment Description Rated Capacity Exemption Citation Exemption Date Main Fuel Tank AST for diesel fuel 5,000 gallons 9 VAC 5-80- 1105.B.8and NSPS Subpart Kb August 15, 2006 Specifications included in the permit under this Condition are for informational purposes only and do not form enforceable terms or conditions of the permit. (9 VAC 5-80-1180 D 3)"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "73370-12": {
+      "registration": "73370-12",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25724/638628554884570000",
+      "document_sha256": "446d2a4e4d4bf2279a90aafb1a45f9188dab5240f08440f75013f83e479cb924",
+      "page_count": 85,
+      "reviewed_at": "2026-11-05T02:34:26.759240+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "August 27, 2013 multi-building ACC2-ACC7 permit with separate section conditions and campus-wide general conditions; 85 physical PDF pages.",
+      "identity_review": {
+        "registration": {
+          "value": "73370",
+          "pdf_page": 3,
+          "quote": "Registration No.: 73370"
+        },
+        "county": {
+          "value": "Loudoun County",
+          "pdf_page": null,
+          "quote": null
+        },
+        "physical_address": {
+          "value": [
+            "44490 Chillum Place (ACC2)",
+            "44520 Hastings Drive (ACC3)",
+            "44480 Hastings Drive (ACC4)",
+            "44521 Hastings Drive (ACC5)",
+            "44461 Chillum Place (ACC6)",
+            "44393 Hastings Drive (ACC7)"
+          ],
+          "pdf_page": 3,
+          "quote": "44490 Chillum Place (ACC 2 - Rhino) 44520 Hastings Drive (ACC 3 - Quill) 44480 Hastings Drive (ACC 4 - Grizzly) 44521 Hastings Drive (ACC 5 - Fox) 44461 Chillum Place (ACC 6 - Fox) 44393 Hastings Drive (ACC 7 - Alshain Ventures, LLC)"
+        }
+      },
+      "eligible_condition_pages": [
+        71
+      ],
+      "eligible_equipment_pages": [],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 3,
+            "quote": "This permit supersedes vour permit dated November 18. 2010.",
+            "replaced_dates": [
+              "2010-11-18"
+            ],
+            "scope": "entire referenced 2010 permit"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current registry listing is not a consolidated current-law determination."
+      },
+      "corrections": [],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 340,
+          "unit": "hours/year",
+          "pdf_page": 71,
+          "quote": "In addition to the annual emissions limits contained in Condition 11, each engine-generator set (EG-1 A through EG-14A and EG-1 B through EG-14B) shall not operate more than 340 hours per year, calculated monthly as the sum of each consecutive 12 month period.",
+          "subject_scope": "ACC7 only: each EG-1A through EG-14A and EG-1B through EG-14B; not the other campus buildings",
+          "purpose": "all operating hours",
+          "period": "consecutive 12-month period, calculated monthly"
+        }
+      ],
+      "equipment": [],
+      "research_review_path": "docs/verification/permit-recovery-a-2026-11-04.json"
+    },
+    "73567-1": {
+      "registration": "73567-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25731/638628562585630000",
+      "document_sha256": "db8c03315cf646c214db3fc75d7b78c5597477be7043be211c49289260507020",
+      "page_count": 14,
+      "reviewed_at": "2026-11-05T02:30:08.514425+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "No supersession statement was identified in this recovered permit. The current index labels the same registration StratCap; this review does not independently verify the intervening legal-entity transfer.",
+      "identity_review": {
+        "registration": {
+          "value": "73567",
+          "pdf_page": 1,
+          "quote": "gov j , pp j , n Regional Director November 7, 2007 Registration No.: 73567 Mr. Jeffrey S. Porter Site Manager Digital Reston, LLC 1807 Michael Faraday Court Reston, VA 20190 Dear Mr. Porter: Attached is a permit to construct and opera"
+        },
+        "county": {
+          "value": "Fairfax County",
+          "pdf_page": 1,
+          "quote": "# NRO-391-07 COMMONWEALTH of VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY L. Preston Bryant, Jr. NORTHERN VIRGINIA REGIONAL OFFICE n _ U K P , Secretary of Natural Resources 1 3 9 0 1 Crown Court, Woodbridge, Virginia 22193 Directo/ (703)583-3800 Fax (703) 583-3801 www.deq.virginia.gov j , pp j , n Regional Director November 7, 2007 Registration No.: 73567 Mr. Jeffrey S. Porter Site Manager Digital Reston, LLC 1807 Michael Faraday Court Reston, VA 20190 Dear Mr. Porter: Attached is a permit to construct and operate two emergency diesel engine- generator sets located at Digital Reston, LLC in accordance with the provisions of the Commonwealth of Virginia State Air Pollution Control Board's (Board) Regulations for the Control and Abatement of Air Pollution (Regulations). This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and civil penalty. Please read all permit conditions carefully. In the course of evaluating the application and arriving at a final decision to approve the project, the Department of Environmental Quality (DEQ) deemed the application complete on September 28, 2007. This permit approval to modify and operate shall not relieve Digital Reston LLC of the responsibility to comply with all other local, state, and federal permit ' regulations. r J h l ? ? n o n S n R e 9 U l ? i 0 n s ^ c o n t a i n e d ^ Title 9 ofthe Virginia Administrative Code 5-170-200 provides that you may request a formal hearing from this case decision by filing a petition with the Board within thirty days after this case decision notice was mailed or delivered to you. 9 VAC 5-170-200 provides that you may request direct consideration of the decision by the Board if the Director of the DEQ"
+        },
+        "physical_address": {
+          "value": "1807 Michael Faraday Court, Reston, VA 20190",
+          "pdf_page": 3,
+          "quote": "NRO-391-07 L. Preston Bryant, Jr. Secretary of Natural Resources COMMONWEALTH of VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY . NORTHERN VIRGINIA REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703) 583-3800 Fax (703) 583-3801 www. deq.virginia.gov David K. Paylor Director jikSemensSsssb Regional Director STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, Digital Reston, LLC 1807 Michael Faraday Court Reston, VA 20190 is authorized to construct and operate two emergency diesel engine-generator sets located at 1807 Michael Faraday Court Reston, VA 20190 in accordance with the Conditions of this permit. Approved on November 7, 2007 Yl*^*rfc-.j~ Thomas A. Faha Regional Director Permit consists of 12 pages. Permit Conditions 1 to 27"
+        }
+      },
+      "eligible_condition_pages": [
+        5
+      ],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "not_established",
+        "statements": [],
+        "current_legal_effectiveness": "unknown",
+        "note": "No supersession statement was identified in this recovered permit. The current index labels the same registration StratCap; this review does not independently verify the intervening legal-entity transfer."
+      },
+      "corrections": [],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 500,
+          "unit": "hours/year",
+          "pdf_page": 5,
+          "quote": "(9VAC5-60-1160and9VAC 5-50-260) OPERATING LIMITATIONS 3 Operating ^loars^Theemergencydieselengine-generatorsets (Unit Reference No'st^2) shall not operate more than 500 hours peryeareach.The operating hours shaii be calculated monthly as the sum of each consecutive twelve month period compliance forthe consecutive twelve month period shall be demonstrated monthlybyaddingthetotalforthemost recently completed calendarmonth to the individual monthlytotalsforthe preceding eleven months (9VAC5-60-1160) 4. Operation of the Emergency dieaelenglne^eneratorSet-Thepermitteemust operate and maintain each emergency dieselengine-generatorset (Unit Reference No's1^2) according to the manufacturer's written instructions or according to proceduresdeveloped bythe permittee thatare approved bytheengine manufacturer In addition,the permittee may only change those settings thatare permitted bythemanufacturerand do not adversely impact air emissions (9VAC5-60-1160) 5. Approved Pnels^Theapprovedfuelfortheemergencydieselengine-generator ^ts(UnitReferenceNo's1^2)islowsulfurdieselfuel.Uponreceiptofthispermit bythepermittee,allshipmentsofdieselfuelforuseintheemergencydiesel engine generatorsets shallmeetthespecifications listed in Conditions Oseofafuel not meetingthefuelspecificationsinCondition6mayrequireapermittomodifyand operate. (9VAC5-60-1180)",
+          "subject_scope": "each emergency diesel engine-generator set, unit references 1 and 2",
+          "purpose": "all operating hours; emergency equipment",
+          "period": "consecutive twelve months, calculated monthly"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "two individually listed Caterpillar 3516B generators",
+          "note": "Table explicitly informational, not enforceable permit terms; no actual use or complete current fleet claim.",
+          "rows": [
+            {
+              "count": 2,
+              "rated_ekw_each": 2000,
+              "pdf_page": 4,
+              "quote": "Digital Reston, LLC Registration Number: 73567 November 7, 2007 Page 2 INTRODUCTION This permit approval is based on the permit application dated April 17, 2007, and additional information dated June 7, 2007 and September 28, 2007. Any changes in the permit application specifications or any existing facilities which alter the impact of the facility on air quality may require a permit. Failure to obtain such a permit prior to construction may result in enforcement action. Words or terms used in this permit shall have meanings as provided in 9 VAC 5-80- 1110 (definitions) and 9 VAC 5-10-20 ofthe State Air Pollution Control Board's (Board) Regulations for the Control and Abatement of Air Pollution (Regulations). The regulatory reference or authority for each condition is listed in parentheses () after each condition. Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitate a prompt response by the permittee to requests by the Department of Environmental Quality (DEQ) or the Board for information to include, as appropriate: process and production data; changes in control equipment; and operating schedules. Such requests for information from the DEQ will either be in writing or by personal contact. The availability of information submitted to the DEQ or the Board will be governed by applicable provisions ofthe Freedom of Information Act, §§ 2.2-3700 through 2.2-3714 ofthe Code of Virginia, § 10.1-1314 (addressing information provided to the Board) of the Code of Virginia, and 9 VAC 5-170-60 ofthe State Air Pollution Control Board Regulations. Information provided to federal officials is subject to appropriate federal law and regulations governing confidentiality of such information. PROCESS REQUIREMENTS 1. Equipment List - Equipment permitted at this facility consists of the following: Equipment to be Operated Reference No. Equipment Description Rated Capacity Federal Requirements 1 Caterpillar 3516B Diesel Engine Generator Set 2,190 BMP 2,000 kW None 2 Caterpillar 3516B Diesel Engine Generator Set 2,190 BMP 2,000 kW None Specifications included in the permit under this Condition are for informational purposes only and do not form enforceable terms or conditions of the permit. (9 VAC 80-1180 D 3)"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-b-2026-11-04.json"
+    },
+    "73643-5": {
+      "registration": "73643-5",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25742/638628567408370000",
+      "document_sha256": "1a0fdd61bbfc4e08688d869cc74f9ec20979a5ee637ea92cc99d4be9c74c0741",
+      "page_count": 2,
+      "reviewed_at": "2026-11-05T02:30:08.514425+00:00",
+      "document_extent": "correspondence",
+      "scope_note": "Two-page letter declines to proceed with requested emission-factor amendment pending fuel-flow-meter calibration and retesting. It approves engine-generator model-number updates as an administrative amendment to be incorporated when the permit is next opened. References the August 28, 2009 NSR permit as amended April 29, 2010. No replacement numeric permit condition is supplied here.",
+      "identity_review": {
+        "registration": {
+          "value": "73643",
+          "pdf_page": 1,
+          "quote": "ch Parkway, Ashburn, Virginia 20147 Dear Mr. Stark: Registration No.: 73643 This letter acknowledges receipt of the supplemental information that you submitted on August 22, 2011 concerning your permit application dated June 30, 2011 t"
+        },
+        "county": {
+          "value": "Loudoun County",
+          "pdf_page": 1,
+          "quote": "NRO-285-11 Douglas W. Domenech Secretary of Natural Resources COMMONWEALTH of VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193 (703)583-3800 Fax (703) 583-3821 www.deq.virginia.gov David K. Paylor Director October 13, 2011 Mr. Michael Stark Chief Facilities Engineer VISA, Inc. 45005 Russell Branch Parkway, Ashburn, Virginia 20147 Dear Mr. Stark: Registration No.: 73643 This letter acknowledges receipt of the supplemental information that you submitted on August 22, 2011 concerning your permit application dated June 30, 2011 to amend your permit to construct and operate a data center facility located at 45005 Russell Branch Parkway in Ashburn, Virginia. The Department of Environmental Quality (DEQ) Northern Regional Office staff has reviewed your application in light of the new information. Based on that review, it does not appear that the facility calibrated the Flo-Scan meters in accordance with approved procedures (and/or manufacturer's written requirements or recommendations) as stated in the Warning Letter dated September 19, 2011, issued by DEQ to VISA, Inc. In light of this information, DEQ's Air Permitting division cannot proceed with the permit amendment to update the pound per gallon emission factors used to calculate annual emissions, as stated in your June 30, 2011 letter request. Should VISA, Inc wish to move forward with updating the emission factors contained in the current permit, the facility will need to have the fuel flow monitoring device recalibrated in accordance with manufacturer's approved procedures. The re- calibration shall be completed and certified by the manufacturer of the fuel flow monitoring device or an approved third party. Once recalibration has been completed, VISA may then restack-test the engines in accordance with Conditions 12 and 13 of the facility's August 28, 2009 (as amended April 29, 2010) NSR permit to obtain an acceptable pound per gallon emission factor for use in calculating annual emissions. Once completed, you may resubmit your amendment request for consideration."
+        },
+        "physical_address": {
+          "value": "45005 Russell Branch Parkway, Ashburn, Virginia",
+          "pdf_page": 1,
+          "quote": "tober 13, 2011 Mr. Michael Stark Chief Facilities Engineer VISA, Inc. 45005 Russell Branch Parkway, Ashburn, Virginia 20147 Dear Mr. Stark: Registration No.: 73643 This letter acknowledges receipt of the supplemental information that you submitted on August 22, 2011 concerning"
+        }
+      },
+      "eligible_condition_pages": [],
+      "eligible_equipment_pages": [],
+      "supersession_review": {
+        "status": "not_established",
+        "statements": [],
+        "current_legal_effectiveness": "unknown",
+        "note": "Two-page letter declines to proceed with requested emission-factor amendment pending fuel-flow-meter calibration and retesting. It approves engine-generator model-number updates as an administrative amendment to be incorporated when the permit is next opened. References the August 28, 2009 NSR permit as amended April 29, 2010. No replacement numeric permit condition is supplied here."
+      },
+      "corrections": [],
+      "conditions": [],
+      "equipment": [],
+      "research_review_path": "docs/verification/permit-recovery-b-2026-11-04.json"
+    },
+    "73977-2": {
+      "registration": "73977-2",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25793/638628697085200000",
+      "document_sha256": "fd9d712616b3fa33b4c1410387896174d6c2f9c5efe243eceb5d8c5d51eaccb9",
+      "page_count": 7,
+      "reviewed_at": "2026-11-05T02:30:08.514425+00:00",
+      "document_extent": "partial_amendment",
+      "scope_note": "Administrative amendment changes conditions 13 and 23. It replaces only printed permit pages 1, 6 and 10 of the April 9, 2012 permit, and includes two omitted supporting forms. Seven PDF pages do not constitute the referenced 14-page permit. Remaining conditions require the earlier document; this review does not declare a consolidated current permit.",
+      "identity_review": {
+        "registration": {
+          "value": "73977",
+          "pdf_page": 1,
+          "quote": "ource Categories (MACT) Location: Fairfax County Registration Number: 73977 Facility ID No. 51-059-01099"
+        },
+        "county": {
+          "value": "Fairfax County",
+          "pdf_page": 1,
+          "quote": "s for Hazardous Air Pollutants for Source Categories (MACT) Location: Fairfax County Registration Number: 73977 Facility ID No. 51-059-01099"
+        },
+        "physical_address": {
+          "value": "14725 Lee Road, North Tower, South Tower, Visitor Center, Chantilly, VA 20151",
+          "pdf_page": 3,
+          "quote": "NRO-167-13 COMMONWEALTH of VIRGINIA Douglas W. Domenech Secretary of Natural Resources DEPARTMENT OF ENVIRONMENTAL QUALITY NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193-1453 (703)583-3800 Fax (703) 583-3821 www.deq.virginia.gov Thomas A. Faha Regional Director David K. Paylor Director STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE This permit page and pages 6 and 10 supersede the corresponding pages of your permit dated April 9. 2012. In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, The Aerospace Corporation 14725 Lee Road Chantilly, VA 20151 Registration No.: 73977 is authorized to construct and operate diesel engine generator sets at a data center & base building located at 14725 Lee Road North Tower, South Tower, Visitor Center Chantilly, VA 20151 in accordance with the Conditions of this permit. Approved on: April 9, 2012, amended August 19, 2013 Permit consists of 14 pages. Permit Conditions 1 to 34."
+        }
+      },
+      "eligible_condition_pages": [],
+      "eligible_equipment_pages": [],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 1,
+            "quote": "NRO-167-13 COMMONWEALTH of VIRGINIA Douglas W. Domenech Secretary of Natural Resources DEPARTMENT OF ENVIRONMENTAL QUALITY NORTHERN REGIONAL OFFICE 13901 Crown Court, Woodbridge, Virginia 22193-1453 (703)583-3800 Fax (703) 583-3821 www.deq.virginia.gov Thomas A. Faha Regional Director David K. Paylor Director August 19, 2013 Mr. Dan Barbee General Manager, Facilities The Aerospace Corporation 14725 Lee Road Chantilly.VA 20151 Dear Mr. Barbee: Attached is an administrative amendment to your new source review permit dated April 9, 2012, to construct and operate diesel engine-generator sets at a data center facility in accordance with the provisions of the Commonwealth of Virginia State Air Pollution Control Board Regulations for the Control and Abatement of Air Pollution (Regulations). Permit changes are reflected in Conditions 13 and 23, on pages 6 and 10, respectively. The amended pages supersede the corresponding pages of vour permit dated April 9. 2012. Also, page 1 of the permit has been updated to reflect that the permit has been amended. In addition, it appears that two documents, Test Report Format' and 'Appendix A -Table 1 Monitoring Data', (see attached) referenced in Conditions 16, 17 and 23, of your April 9, 2012, permit may have been inadvertently omitted when the permit was sent to you; these documents are also attached. The aforementioned changes to your permit (Conditions 13 and 23) were made in accordance with 9 VAC 5-80-1260.C through the 'Reopening for Cause' provisions of 9 VAC 5- 80-1300.A.2, resulting from a review of your April 9, 2012, permit. The Department of Environmental Quality (DEQ) notified you of its intent to reopen the April 9, 2012, permit via letter dated May 28, 2013. This permit contains legally enforceable conditions. Failure to comply may result in a Notice of Violation and/or civil charges. Please read all permit conditions carefully. This permit approval to construct and operate shall not relieve The Aerospace Corporation of the responsibility to comply with all other local, state, and federal permit regulations. Please note that the diesel engine generator sets (Ref Nos. G-1 through G-4) may be affected facilities under 40 CFR Part 60, New Source Performance Standards (NSPS) Subpart Mil (Stationary Compression Ignition Internal Combustion Engines) and 40 CFR Part 63, National Emission Standards for Hazardous Air Pollutants for Source Categories (MACT) Location: Fairfax County Registration Number: 73977 Facility ID No. 51-059-01099",
+            "replaced_dates": [
+              "2012-04-09"
+            ],
+            "scope": "only printed permit pages1,6,10 and attached forms"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Administrative amendment changes conditions 13 and 23. It replaces only printed permit pages 1, 6 and 10 of the April 9, 2012 permit, and includes two omitted supporting forms. Seven PDF pages do not constitute the referenced 14-page permit. Remaining conditions require the earlier document; this review does not declare a consolidated current permit."
+      },
+      "corrections": [],
+      "conditions": [],
+      "equipment": [],
+      "research_review_path": "docs/verification/permit-recovery-b-2026-11-04.json"
+    },
+    "74060-2": {
+      "registration": "74060-2",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25803/638628717903300000",
+      "document_sha256": "89c7a046b83bf08b8680bbf10cebdb13add64a904a484dbc4abbb541caa3bbe1",
+      "page_count": 12,
+      "reviewed_at": "2026-11-05T02:30:08.514425+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "Recovered permit contains conditions 1 to 24. No explicit replacement history was identified in the reviewed cover/identity pages. Physical location differs from permittee correspondence address.",
+      "identity_review": {
+        "registration": {
+          "value": "74060",
+          "pdf_page": 1,
+          "quote": "nal Road Lorton, VA 22079 Location: Springfield, VA Registration No.: 74060 Plant ID No.: 059-01131 Dear Mr. Delsignore: Attached is a permit to construct and operate three (3) 1,000 kW emergency diesel engine generators in accordance "
+        },
+        "county": {
+          "value": "Fairfax County",
+          "pdf_page": 3,
+          "quote": "BP's Data Center located at 7681 Boston Blvd., Springfield, VA 22153 (Fairfax County) in accordance with the Conditions of this permit. Approved on July 31, 2014 Thomas A. Faha Regional Director Permit consists of 10 pages. Permit Conditions 1 "
+        },
+        "physical_address": {
+          "value": "7681 Boston Blvd., Springfield, VA 22153",
+          "pdf_page": 3,
+          "quote": " operate diesel engine generator-sets at CBP's Data Center located at 7681 Boston Blvd., Springfield, VA 22153 (Fairfax County) in accordance with the Conditions of this permit. Approved on July 31, 2014 Thomas A. Faha Regional Director Permit consists of 10 pages. Perm"
+        }
+      },
+      "eligible_condition_pages": [
+        7
+      ],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "not_established",
+        "statements": [],
+        "current_legal_effectiveness": "unknown",
+        "note": "Recovered permit contains conditions 1 to 24. No explicit replacement history was identified in the reviewed cover/identity pages. Physical location differs from permittee correspondence address."
+      },
+      "corrections": [],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 500,
+          "unit": "hours/year",
+          "pdf_page": 7,
+          "quote": "Operating r^ours^Eachengine-generatorset(Ref. Nos. EO-2,EO-3, and EO-4)shall not operate more than 500 hours peryear,calculated monthly as the sum of each consecutive 12month period.",
+          "subject_scope": "each engine-generator set EG-2, EG-3 and EG-4",
+          "purpose": "all operating hours",
+          "period": "consecutive twelve months, calculated monthly"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "equipment subject to permitting, EG-2 through EG-4",
+          "note": "Separate exempt equipment table on same page lists EG-1 1000 ekW and another unit 900 ekW; subject-to-permitting subtotal is not a complete site fleet.",
+          "rows": [
+            {
+              "count": 3,
+              "rated_ekw_each": 1000,
+              "pdf_page": 4,
+              "quote": "U.^^ustoms and border Proteouon l^eoistration No: 740^0 July^1,^014 ^ Paoe^ INTRCOUCTICN This permit approval is based onthe permit application dated March 31, 2014 and supplemental information dated May12, 2014. Any changes in the permit application specifications or any existing facilities which alterthe impact ofthe facility on air quality may requireapermit. Failure to obtain suchapermitpriorto construction may result in enforcement action. In addition,this facility may be subjectto additional applicable requirements not listed in this permit. vVordsorterms used in this permit shall have meanings as provided in9VAC5-30-1110and9 VAC 5-10-20 ofthe State AirPollution Control Board Regulations forthe Control and Abatement of Air Pollution. The regulatory reference orauthorityforeach condition is listed in parentheses rafter each condition Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitateaprompt response by the permittee to requests bythe Commonwealth of Virginia Department of Environmental Quality (OEQ)orthe Board for information to incl^^ appropriate: process and production data^ changes in control equipments and operating schedules. Such requests forinformation from the OEQ will either be in writing orby personal contact. The availability ofinformation submitted to the OEQorthe Board will be governed by applicable provisions ofthe Freedom oflnformationAct,^2.2-3700through 2.2-3714 ofthe Code of Virginia,^10.1-1314 (addressing information provided to the Board) ofthe Code ofVirginia, and 9VAC 5-170-60 ofthe StateAir Pollution Control Board Regulations. Information provided to federal officials is subjectto appropriate federal law and regulations governing confidentiality of such information. PROCESS REQUIREMENTS 1. Equipment List - Equipment at this facility consists of the following: Equipment Subject to Permitting: Reference No. Equipment Description Rated Capacity (kW e and bhp) Federal Requirements Permit Date EG-2 through EG-4 Caterpillar Model C32 Manufactured February 9, 2007 1,000 eKW 1,502 hp each 9 VAC 5-50-410 and 9 VAC 5-60-100 July 31, 2014 Equipment Exempt from Permitting: Reference No. Equipment Description Rated Capacity Exempt Citation Exemption Date EG-1 Caterpillar Model C32 Manufactured January 28, 2013 1,000 ekW 1,474 bhp 9 VAC 5-80- 1105.B.2.b May 7, 2014 1 Caterpillar Model SR-4 diesel engine generator set, date of manufacture unknown (initial installation 1987) 900 ekW 1,332 bhp 9 VAC 5-80- 1105.C.1 December 18, 2013"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-b-2026-11-04.json"
+    },
+    "74094-1": {
+      "registration": "74094-1",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/25821/638628728843130000",
+      "document_sha256": "c4e484a3e45050261ce8a510d4766602129da01665f569b34be644aab5afdde3",
+      "page_count": 13,
+      "reviewed_at": "2026-11-05T02:30:08.514425+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "Current index name is NTT Global Data Centers VA2, LLC. The original permit names RagingWire VA2; this review identifies the cited physical address and registration, without independently proving the legal transfer.",
+      "identity_review": {
+        "registration": {
+          "value": "74094",
+          "pdf_page": 1,
+          "quote": " Title 40, Part 60 and 63. Location: Loudoun County Registration No.: 74094"
+        },
+        "county": {
+          "value": "Loudoun County",
+          "pdf_page": 1,
+          "quote": "t of these rules at www.ecfr.gov, Title 40, Part 60 and 63. Location: Loudoun County Registration No.: 74094"
+        },
+        "physical_address": {
+          "value": "44610 Guilford Drive, Ashburn, Virginia 20147",
+          "pdf_page": 3,
+          "quote": "COMMONWEALTH of VIRGINIA MoilyJosephWard D E f ^ r M E A T O F E A ^ O A ^ A ^ I Q ^ Z / T T DavidK.Pay,or Secretary of Natural Resources NORTHERN REGIONAL OFFICE Director 13901 Crown Court, Woodbridge, Virginia 22193-1453 (703)583-3800 Fax (703) 583-3821 R % Z o l % www.deq.virginia.gov STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, RagingWire Data Centers, Inc. 44664 Guilford Drive Ashbum, Virginia 20147 Registration No.: 74094 is authorized to construct and operate diesel engine emergency generator sets located at RagingWire VA2 Data Center 44610 Guilford Drive Ashbum, Virginia 20147 in accordance with the Conditions of this permit. Approved on January 13, 2016 Thomas A. Faha Regional Director Permit consists of 10 pages. Permit Conditions 1 to 25. Source Testing Report"
+        }
+      },
+      "eligible_condition_pages": [
+        6
+      ],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "not_established",
+        "statements": [],
+        "current_legal_effectiveness": "unknown",
+        "note": "Current index name is NTT Global Data Centers VA2, LLC. The original permit names RagingWire VA2; this review identifies the cited physical address and registration, without independently proving the legal transfer."
+      },
+      "corrections": [
+        {
+          "pdf_page": 6,
+          "old_text": "6 Operating r^ours^Eachengine-generatorset(Ref.Nos.21Mthru23M 24M,and 250 thru 290) shall not operate morethan 300 hours peryear,calculated monthly as the sum ofeach consecutive 12 month period. Compliancefortheconsecutive 12 month period shall bedemonstrated monthly by addingthetotalforthemostrecently completed calendarmonthto the individual monthlytotalsfortheprecedingllmonths. (9^AC5-60-1160)",
+          "new_text": "6. Operating Hours – Each engine-generator set (Ref. Nos. 21M thru 23M, 21U thru 24U, 24M, and 25U thru 29U) shall not operate more than 300 hours per year, calculated monthly as the sum of each consecutive 12 month period. Compliance for the consecutive 12 month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. (9 VAC 5-80-1180)",
+          "reason": "Manual transcription checked against rendered original PDF page, preserving all scope and exceptions; publisher embedded OCR is visibly corrupted.",
+          "visual_review_sha256": "c1c0e07224bdc359da66b7a4aa8eee03a2045f130c6edab0194f9e850671657f"
+        }
+      ],
+      "conditions": [
+        {
+          "metric": "generator_hours_limit",
+          "value": 300,
+          "unit": "hours/year",
+          "pdf_page": 6,
+          "quote": "6. Operating Hours – Each engine-generator set (Ref. Nos. 21M thru 23M, 21U thru 24U, 24M, and 25U thru 29U) shall not operate more than 300 hours per year, calculated monthly as the sum of each consecutive 12 month period. Compliance for the consecutive 12 month period shall be demonstrated monthly by adding the total for the most recently completed calendar month to the individual monthly totals for the preceding 11 months. (9 VAC 5-80-1180)",
+          "subject_scope": "each listed engine-generator set",
+          "purpose": "all operating hours",
+          "period": "consecutive twelve months, calculated monthly"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "Cummins QSK60-G14 NR2 diesel emergency sets, 21M–23M, 21U–24U, 24M and 25U–29U",
+          "note": "Specifications explicitly informational, not enforceable permit conditions; not measured demand.",
+          "rows": [
+            {
+              "count": 13,
+              "rated_ekw_each": 2250,
+              "pdf_page": 4,
+              "quote": "RagingWire ^A^Oata Center Registration Number:740^ January 13, 2016 Fage2 ^TROOOCTION This permit approval is based on the permit application dated SeptemberlO, 2016^ including amended informationdatedOecember2, 2015. Any changes in the permitapplication specifications or any e^istingfacilities which alterthe impact ofthe facility on airquality may requireapermit. Failure to obtain suchapermitpriorto construction may result in enforcement action, In addition, thisfacility may be sub^ectto additional applicable requirements not listed in this permit. Words orterms used in this permit shall have meanings as provided in9^BAC 5-10-20 ofthe State Air Pollution Control 8oard Regulations forthe Control andAbatement of AirPollution. The regulatory reference or authorityfor each condition is listed in parentheses() after each condition. Annual requirements to fulfill legal obligations to maintain current stationary source emissions data will necessitateaprompt response bythe permittee to requests bytheOEQorthe^oard for information to include, as appropriate: process and production data^ changes in control equipments and operating schedules. Such requests forinformation from the OEQ will eitherbe in writing or by personal contact The availability ofinformationsubmittedto the OEQorthe8oardwill be governed by applica provisions ofthe Freedom oflnformationAct,^2.2-3700through2.2-3714oftheCodeof ^rginia,^10.1-1314 (addressing information provided to the ^oard) ofthe Code of^irginia, a g^BAC 5-170-60 ofthe StateAir Pollution Control 8oard Regulations. Information provided to federal officials is sub^ectto appropriate federal law and regulations governing confidentiality of such information. Equipment List - Equipment at this facility consists of: Equipment to be Constructed: Reference No. Equipment Description Rated Capacity Federal Requirements 21M thru 23M, 21U thru 24U, 24M, and 25U thru 29U Thirteen (13) Cummins QSK60- G14NR2 model diesel engine emergency gen-sets 2,250 kW/ 3,280 bhp (each) None Specifications included in the above table are for informational purposes only and do not form enforceable terms or conditions of the permit."
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-b-2026-11-04.json"
+    },
+    "81609-5": {
+      "registration": "81609-5",
+      "publisher_url": "https://www.deq.virginia.gov/home/showpublisheddocument/26022/639246270937400000",
+      "document_sha256": "cd41ea2ea1609637206e44eda464b1b9a519b672e8f3b02079bfe8d8457e5356",
+      "page_count": 13,
+      "reviewed_at": "2026-11-05T02:30:08.514425+00:00",
+      "document_extent": "full_permit",
+      "scope_note": "Cover letter says name/ownership change only and no other changes. Reissued document replaces September 4, 2008 permit as amended June 18, 2010 and September 1, 2010. Signed amendment date is October 24, 2013, matching current index; cover letter is October 25. Current index names Anthem CDC 3, which is distinct from original document permittee wording.",
+      "identity_review": {
+        "registration": {
+          "value": "81609",
+          "pdf_page": 1,
+          "quote": " Virginia 22802-4630 Location: City of Harrisonburg Registration No.: 81609 Plant ID No.: 51-660-0169 Dear Mr. Chambers: Attached is an administrative amendment to your new source review permit dated September 4, 2008 as amended June 1"
+        },
+        "county": {
+          "value": "City of Harrisonburg",
+          "pdf_page": 1,
+          "quote": "er 1175 North Main Street Harrisonburg, Virginia 22802-4630 Location: City of Harrisonburg Registration No.: 81609 Plant ID No.: 51-660-0169 Dear Mr. Chambers: Attached is an administrative amendment to your new source review permit dated September 4"
+        },
+        "physical_address": {
+          "value": "1175 North Main Street, Harrisonburg, Virginia",
+          "pdf_page": 3,
+          "quote": "^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ DEPARTMENT OF ENVIRONMENTAL QUALITY STATIONARY SOURCE PERMIT TO CONSTRUCT AND OPERATE This permit replaces your permit dated September 4, 2008 as amended June 18. 2010 and September 1,2010 In compliance with the Federal Clean Air Act and the Commonwealth of Virginia Regulations for the Control and Abatement of Air Pollution, DBT-DATA Cyber Integrated Center Registration No.: 81609 Plant ID No.: 51-660-0169 is authorized to construct and operate emergency generators for a data center facility located at 1175 North Main Street Harrisonburg, Virginia in accordance with the Conditions of this permit. Approved on September 4, 2008 Amended on June 18, 2010 Amended on September 1,2010 Amended on wl2£l£> — • DeputyRegional Director, Valley Region Permit consists of 11 pages. Permit Conditions 1 to 27. Source Testing Report Format"
+        }
+      },
+      "eligible_condition_pages": [
+        5,
+        6
+      ],
+      "eligible_equipment_pages": [
+        4
+      ],
+      "supersession_review": {
+        "status": "historical_replacement_verified",
+        "statements": [
+          {
+            "pdf_page": 1,
+            "quote": "COMMOAWE^Zmcy^GTA^ DEPARTMENT OF ENVIRONMENTAL QUALITY VALLEY REGIONAL OFFICE Douglas w. Domenech 4411 Early Road, P.O. Box 3000, Harrisonburg, Virginia 22801 Secretary of Natural Resources (540) 574-7800 Fax (540) 574-7878 www.deq.virginia.gov October 25, 2013 Mr. James J. Chambers, Jr. General Manager DBT-DATA Cyber Integrated Center 1175 North Main Street Harrisonburg, Virginia 22802-4630 Location: City of Harrisonburg Registration No.: 81609 Plant ID No.: 51-660-0169 Dear Mr. Chambers: Attached is an administrative amendment to your new source review permit dated September 4, 2008 as amended June 18, 2010 and September 1, 2010 to construct and operate emergency generators for a data center facility in accordance with the provisions of the Virginia Regulations for the Control and Abatement of Air Pollution. The permit has been changed to reflect the change in name and ownership. There are no other changes to the permit. This amended permit replaces your permit dated September 4, 2008 as amended June 18, 2010 and September 1, 2010. The permit contains legally enforceable conditions. Failure to comply may results in a Notice of Violation, and civil penalty. Please read all permit conditions carefully. The Department of Environmental Quality (DEQ) deemed the application complete on September 27, 2013 and has determined that the application meets the requirements of 9 VAC 5- 80-1270 A for an administrative amendment to a new source review permit. This approval to construct and operate shall not relieve DBT-DATA Cyber Integrated Center ofthe responsibility to comply with all other local, state and federal permit regulations. The Board's Regulations as contained in Title 9 of the Virginia Administrative Code 5-170-200 provide that you may request a formal hearing from this case decision by filing a petition with the Board within 30 days after this case decision notice was mailed or delivered to you. 9 VAC 5-170-200 provides that you may request direct consideration of the decision by the Board if the Director ofthe DEQ made the decision. Please consult the relevant regulations for additional requirements for such requests. David K. Paylor Director Amy Thatcher Owens Regional Director",
+            "replaced_dates": [
+              "2008-09-04",
+              "2010-06-18",
+              "2010-09-01"
+            ],
+            "scope": "referenced permit as amended; name/ownership administrative change only"
+          }
+        ],
+        "current_legal_effectiveness": "unknown",
+        "note": "Cover letter says name/ownership change only and no other changes. Reissued document replaces September 4, 2008 permit as amended June 18, 2010 and September 1, 2010. Signed amendment date is October 24, 2013, matching current index; cover letter is October 25. Current index names Anthem CDC 3, which is distinct from original document permittee wording."
+      },
+      "corrections": [
+        {
+          "pdf_page": 5,
+          "old_text": "6. Operating TTo^rs--Eacb electric power generator(unitsltbrougb!2)sball be limited to 300 operational boursperyear. Tlnderno circumstance sball tbe combined operatingtotal for all 12 generators (unitsltbrougb!2)e^ceed2680boursperyear. (9VAC 5-80-1180and9VAC 5-50-260)",
+          "new_text": "6. Operating Hours – Each electric power generator (units 1 through 12) shall be limited to 300 operational hours per year. Under no circumstance shall the combined operating total for all 12 generators (units 1 through 12) exceed 2680 hours per year. (9 VAC 5-80-1180 and 9 VAC 5-50-260)",
+          "reason": "Manual transcription checked against rendered original PDF page, preserving all scope and exceptions; publisher embedded OCR is visibly corrupted.",
+          "visual_review_sha256": "a1480650780602fce059744bd6722b1f02359cadbfe8b956ee56ef98e39ae488"
+        },
+        {
+          "pdf_page": 5,
+          "old_text": "4. Emergency generator Operation^Tbe operation oftbe electric power generators(units Itbrougb 12) Is limited to emergency situations. Emergency situations Include emergency generator use to produce powerfor critical networks or equipment (including power supplied to portions ofafacility)wben electric power from tbe local utility(ortbe normal power source, if tbefacilityruns on its own powerproduction) is interrupted. Tbe electric power generators (unitsltbrougb!2)may be operatedfor tbe purpose ofmaintenance cbec^s and readiness testing, provided tbat tbe tests are recommended by Federal, State, or local government, tbe manufacturer, tbe vendor, ortbe insurance company associated witb tbe engine. Maintenance cbecl^s and readiness testing ofsucb units is limited to 100 bours per year. Tbe permittee mayuse tbe emergency generators(unitsltbrougbl2)for additional bours to be usedformaintenancecbeci^s and readiness testing, iftbe permittee maintains records indicatingtbatFederal, State or local standards require maintenance and testing oftbe emergency generators (unitsltbrougb!2)beyondl00boursperyear. (9VAC 5-80-1180)",
+          "new_text": "4. Emergency Generator Operation – The operation of the electric power generators (units 1 through 12) is limited to emergency situations. Emergency situations include emergency generator use to produce power for critical networks or equipment (including power supplied to portions of a facility) when electric power from the local utility (or the normal power source, if the facility runs on its own power production) is interrupted. The electric power generators (units 1 through 12) may be operated for the purpose of maintenance checks and readiness testing, provided that the tests are recommended by Federal, State, or local government, the manufacturer, the vendor, or the insurance company associated with the engine. Maintenance checks and readiness testing of such units is limited to 100 hours per year. The permittee may use the emergency generators (units 1 through 12) for additional hours to be used for maintenance checks and readiness testing, if the permittee maintains records indicating that Federal, State or local standards require maintenance and testing of the emergency generators (units 1 through 12) beyond 100 hours per year. (9 VAC 5-80-1180)",
+          "reason": "Manual transcription checked against rendered original PDF page, preserving all scope and exceptions; publisher embedded OCR is visibly corrupted.",
+          "visual_review_sha256": "a1480650780602fce059744bd6722b1f02359cadbfe8b956ee56ef98e39ae488"
+        }
+      ],
+      "conditions": [
+        {
+          "metric": "mcrt_hours_limit",
+          "value": 100,
+          "unit": "hours/year",
+          "pdf_page": 5,
+          "quote": "4. Emergency Generator Operation – The operation of the electric power generators (units 1 through 12) is limited to emergency situations. Emergency situations include emergency generator use to produce power for critical networks or equipment (including power supplied to portions of a facility) when electric power from the local utility (or the normal power source, if the facility runs on its own power production) is interrupted. The electric power generators (units 1 through 12) may be operated for the purpose of maintenance checks and readiness testing, provided that the tests are recommended by Federal, State, or local government, the manufacturer, the vendor, or the insurance company associated with the engine. Maintenance checks and readiness testing of such units is limited to 100 hours per year. The permittee may use the emergency generators (units 1 through 12) for additional hours to be used for maintenance checks and readiness testing, if the permittee maintains records indicating that Federal, State or local standards require maintenance and testing of the emergency generators (units 1 through 12) beyond 100 hours per year. (9 VAC 5-80-1180)",
+          "subject_scope": "maintenance checks and readiness testing of units 1 through 12",
+          "purpose": "Maintenance and readiness testing; documented additional hours may be allowed under the quoted exception",
+          "period": "Only the reporting period stated in the quotation"
+        },
+        {
+          "metric": "generator_hours_limit",
+          "value": 300,
+          "unit": "hours/year",
+          "pdf_page": 5,
+          "quote": "6. Operating Hours – Each electric power generator (units 1 through 12) shall be limited to 300 operational hours per year. Under no circumstance shall the combined operating total for all 12 generators (units 1 through 12) exceed 2680 hours per year. (9 VAC 5-80-1180 and 9 VAC 5-50-260)",
+          "subject_scope": "each generator units 1 through 12",
+          "purpose": "all operating hours",
+          "period": "Only the reporting period stated in the quotation"
+        },
+        {
+          "metric": "generator_group_hours_limit",
+          "value": 2680,
+          "unit": "hours/year",
+          "pdf_page": 5,
+          "quote": "6. Operating Hours – Each electric power generator (units 1 through 12) shall be limited to 300 operational hours per year. Under no circumstance shall the combined operating total for all 12 generators (units 1 through 12) exceed 2680 hours per year. (9 VAC 5-80-1180 and 9 VAC 5-50-260)",
+          "subject_scope": "combined operating hours of all twelve generators",
+          "purpose": "all operating hours",
+          "period": "Only the reporting period stated in the quotation"
+        },
+        {
+          "metric": "fuel_throughput_limit",
+          "value": 464444,
+          "unit": "gallons/year",
+          "pdf_page": 6,
+          "quote": "DBT-DATA Cyber Integrated Center Registration Number: 81609 Page: 4 Maximum sulfur content per shipment (prior to October 1, 2010): 0.05% Maximum sulfur content per shipment (beginning October 1, 2010): 0.0015% (9 VAC 5-80-1180 and 9 VAC 5-50-260) 9. Fuel Throughput - The electric power generators (units 1 through 12) shall consume no more than the following quantity: Approved Fuel Type Quantity Allowed Distillate Oil 464,444 gallons per year Throughput ofthe fuel shall be calculated monthly as the sum of each consecutive 12- month period. (9 VAC 5-80-1180 and 9 VAC 5-50-260) 10. Fuel Certification - The permittee shall obtain a certification from the fuel supplier with each shipment of distillate oil to be burned in the generators (units 1 through 12). Each fuel supplier certification shall include the following: a. The name of the fuel supplier; b. The date on which the distillate oil was received; c. The quantity of distillate oil delivered in the shipment; d. A statement that the distillate oil complies with the American Society for Testing and Materials specifications (ASTM D396), or a DEQ-approved equivalent method, for numbers 1 or 2 fuel oil; and e. The sulfur content ofthe distillate oil, indicating compliance with Condition 8. Fuel sampling and analysis, independent of that used for certification, as may be periodically required or conducted by DEQ may be used to determine compliance with the fuel specifications stipulated in Condition 8. Exceedance of these specifications may be considered credible evidence of the exceedance of emission limits. (9 VAC 5-80-1180)",
+          "subject_scope": "combined generators units 1 through 12",
+          "purpose": "combined diesel fuel throughput",
+          "period": "consecutive twelve months, calculated monthly"
+        }
+      ],
+      "equipment": [
+        {
+          "subject_scope": "units 1 through 12 Caterpillar DM8266 generators",
+          "note": "Equipment table only, not actual demand.",
+          "rows": [
+            {
+              "count": 12,
+              "rated_ekw_each": 2500,
+              "pdf_page": 4,
+              "quote": "DBT-DATA Cyber Integrated Center Registration Number: 81609 Page:2 INTRODUCTION This permit approval is based on the permit application dated September 27,2013,Augusts, 2010, April27,2010and April 1,2008, including additional information datedAprillO, 2008, amendment information dated May 13, 2008, and supplemental information dated July 23, 2008, July24,2008,andAugust6,2008. Any changes in the permit application specifications or any existing facilities which Failure to obtain suchapermitpriorto construction mayresult in enforcement action. In addition, thisfacilitymay he subject to additional applicable requirements not listed in this permit. ^ordsorterms used in this permit shallhave meanings as provided in9VAC5-10-20 ofthe State Air Pollution Control BoardRegulationsforthe Control andAbatementofAir Pollution. The regulatoryreference or authorityfor each condition is listed in parentheses^) after each condition. Annual requirements tofulfill legal obligations to maintain current stationary sour^^ data will necessitateapromptresponsebythe permittee to requests bythe DEQ ortheBoardfor information to include, as appropriate: process and production data^ changes in control equipments and operating schedules.Suchrequestsforinformation from the DEQwill either be in writing or bypersonal contact. The availability ofinformationsubmitted to the DEQorthe Board will be governed by ^pplicableprovisionsofthe Freedom ofmformationAct,^2.2-3700through2.2-3714ofthe Code ofVirginia,^10.1-1314(addressinginformation provided to the Board) ofthe Codeof Virginia, and9VAC 5-170-60 oftheState Air Pollution ControlBoardRegulations. mformation provided tofederal officials is sub^ectto appropriate federal law andregul^ governing confidentiality of suchinformation. PROCESS REQUIREMENTS 1. Eq^pmeo^ Equipment atthisfacility consists ofthefollowing: Equipment to be Constructed 1 Reference Nos. Equipment Description Rated Capacity 1 through 12 Caterpillar DM8266, Electric Power Generators 2500 kW each (9 VAC 5-80-1180 D 3) 2. Emissions Testing - The permitted electric power generators (units 1 through 12) shall be installed so as to allow for emissions testing upon reasonable notice at any time, using appropriate methods. Sampling ports shall be provided when requested and safe sampling platforms and access shall be provided. (9 VAC 5-50-30 F and 9 VAC 5-80-1180)"
+            }
+          ]
+        }
+      ],
+      "research_review_path": "docs/verification/permit-recovery-b-2026-11-04.json"
+    }
+  }
+}

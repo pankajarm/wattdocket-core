@@ -1,79 +1,73 @@
 # Architecture
 
-WattDocket has one design rule: **deterministic code owns every number; the model only reads and explains.** The public site can render entirely without a model call, and the model path fails closed to a template.
+WattDocket separates public evidence, deterministic calculations and model explanations. Missing evidence stays missing. A regional grid factor, hypothetical reference load or permit limit does not become a facility measurement.
 
-This document describes the open-source application. The live deployment's infrastructure configuration lives in the separate private repository `pankajarm/wattdocket` and is intentionally not part of this repo.
+This repository contains application source, collectors, validation code and a verified public data snapshot. AWS account configuration, deployment automation and live operational archives are outside its scope. See [hosting guidance](docs/DEPLOYMENT.md).
 
-## 1. Runtime shape
+## Runtime
 
-```
-Public sources ──► deterministic collectors ──► immutable data snapshot
-                                                    │
-                                                    ▼
-                                  site/api + site/data (checked in)
-                                                    │
-                          ┌─────────────────────────┴──────────────────────┐
-                          ▼                                                ▼
-                 React + Vite SPA                                  FastAPI (local dev)
-                 atlas · cards · drawers · grid · operator         api/wattdocket_api
-                          │
-                          │ optional explain call
-                          ▼
-                 explain handler (api/lambda_explain)
-                          │ server-side only, guarded
-                          ▼
-                 Meta Model API · Muse Spark
+```mermaid
+flowchart TD
+    Sources[Public source records] --> Collectors[Collectors and evidence validation]
+    Collectors --> Release[Immutable release with object hashes]
+    Release --> Snapshot[Bundled public snapshot]
+    Snapshot --> Local[Vite development server or static build]
+    Local --> Browser[React application]
+    Browser -->|Optional release ID and subject identity| Adapter[Loopback explanation adapter]
+    Snapshot -->|Verified explanation registry| Adapter
+    Adapter -->|Explicit opt-in and server-side key| Muse[Meta Model API: Muse Spark]
+    Muse --> Validation[Response validation]
+    Validation --> Browser
 ```
 
-The browser reads precomputed JSON. It does not compute carbon, water or permit facts at request time, and it never receives a model key.
+The default local app serves data from the clone. It does not proxy data to the live site or call the production explanation service. The browser reads the current pointer once and pins a release for the session. A failed read cannot silently mix in records from another release.
 
-## 2. Components
+## Components
 
-| Layer | Code | Responsibility |
+| Component | Location | Responsibility |
 | --- | --- | --- |
-| Calculation engine | `core/wattdocket/` | Units, time zones, grid intensity, water states, estimates, citations and permit verification |
-| Release builder | `core/wattdocket/production/` | Source adapters, identity checks, evidence validation, immutable card/explain payloads |
-| Local API | `api/wattdocket_api/` | Development and integration surface over the artifacts |
-| Explain boundary | `api/lambda_explain/`, `api/wattdocket_api/explain.py` | Sends only server-owned facts to Muse Spark and validates the reply |
-| Web app | `web/src/` | React + TypeScript atlas, public cards, source drawers, grid views and operator bench |
-| Static data | `site/api/`, `site/data/`, `data/` | Checked-in snapshot used for local development and tests |
-| Permit reader | `scripts/read_permit_with_muse.py`, `core/wattdocket/permits.py` | Model proposes page/line/quote; Python verifies the quote |
+| Deterministic engine | `core/wattdocket/` | Units, dates, estimates, citations and evidence rules |
+| Collectors and release builder | `core/wattdocket/production/` | Source adapters, facility identity, disclosure boundaries, permit reviews and immutable payloads |
+| Public snapshot | `site/data/current.json`, `site/data/releases/` | A pinned manifest and compressed public objects, including cards, evidence, grid data and explanation facts |
+| Snapshot synchronization | `scripts/sync_public_data.py` | Fetch one published release, verify every object and replace the local pointer only after all checks pass |
+| Local snapshot delivery | `web/scripts/local-snapshot.ts` | Verify bundled objects before serving them; emit portable JSON assets into the static build |
+| Web application | `web/src/` | Reported data, learning pages, public records, permits, grid context and the operator workspace |
+| Interactive calculator | `web/src/scenario.ts` | Deterministic calculations from explicitly hypothetical inputs and a cited historical grid factor |
+| Explanation registry | `core/wattdocket/production/explain_registry.py` | Build server-owned facts, citations, qualifiers and deterministic fallbacks for canonical subjects |
+| Explanation handler | `api/lambda_explain/` | Construct bounded prompts and validate model replies; production storage and quota interfaces are isolated here |
+| Local explanation adapter | `scripts/serve_local_explain.py` | Reuse the handler with a local registry and an in-memory attempt limit, without AWS |
+| Permit reader | `scripts/read_permit_with_muse.py`, `core/wattdocket/permits.py` | Ask for document references, then verify each quoted passage against the source text |
 
-## 3. The model boundary
+`data/`, test fixtures and `site/api/` also contain archived source inputs and legacy static payloads. They support tests and compatibility tools; the default UI reads the release named by `site/data/current.json`.
 
-1. **Explain.** The handler receives a facility id, looks up the server-owned fact set for that card, and asks Muse Spark for two plain sentences. `core/wattdocket/prose.py` (via `assert_bound`) rejects any numeral that is not in the fact set. A rejection, timeout, missing key or `MODEL_OFF=1` returns the deterministic template with `source: "template"`.
-2. **Permit reading.** The model reads a permit and returns obligations with page, line and a verbatim quote. `core/wattdocket/permits.py` checks each quote against the document text and drops anything it cannot find. Only verified pointers ship in `artifacts/permit_read.json`.
-3. **No client text.** The browser sends only the facility id and the pinned release id. Client-supplied facts, template strings and arbitrary prompts never reach the model.
-4. **No model arithmetic.** The model is never asked to add, multiply, convert units or infer a missing value.
+## Data identity and freshness
 
-## 4. Data flow
+A release manifest identifies the build time, revision, object paths, byte lengths and SHA-256 hashes. Its object set includes the facility index, card and drawer bundles, operator scenarios, annual disclosures, historical power observations, permit evidence, grid series and explanation registry. Inspect the manifest for the exact coverage of the checked-out snapshot; counts are not hardcoded in this document.
 
-The build reads public source records, validates identity and evidence, and writes an immutable release. Each release contains:
+Files under `site/data/releases/` are gzip-compressed copies of public JSON. Hashes cover their uncompressed bytes. Development and build startup verify those bytes against the manifest. `npm run build` writes the selected snapshot as ordinary JSON under `web/dist/data/`, alongside the app and bundled demo media, so a static server does not need custom gzip routing.
 
-- the facility index and public cards;
-- source drawers keyed by claim;
-- operator payloads and grid series;
-- per-card explain facts and deterministic summaries;
-- a manifest that pins every path and hash.
+The snapshot does not refresh itself when someone opens the website. A maintainer explicitly runs the synchronization script, reviews the changes and commits them. Refreshing retains older local releases and changes the pointer only after verification. Restart a development server to select the new snapshot. Live collector health is not fabricated for the local copy. Source retrieval dates and reporting periods remain those of the captured evidence.
 
-The browser reads `/data/current.json` once per session and pins that release. A failed record read never falls back to an older or fabricated payload. The checked-in `site/api` and `site/data` snapshots let the app and tests run without the live deployment.
+See [the snapshot guide](docs/DATA-SNAPSHOT.md) and [data provenance](DATA-PROVENANCE.md).
 
-## 5. Local development
+## Model boundary
+
+The browser sends only the displayed `release_id` and canonical subject `{kind, id}`. Subjects can be a facility, disclosure location, power site or permit document. Client-supplied prompts, numerical facts and chart filters are not inputs to the model.
+
+The server selects the subject from that release's verified registry. A reply must pass checks for bound numerals, fact identifiers, citations and required scope qualifiers. A refusal, timeout or rejected reply produces a labeled deterministic fallback. These checks constrain output; they do not make every sentence an independently verified conclusion.
+
+The loopback adapter loads the same handler and response validator as the application source. It substitutes filesystem registry loading and an atomic in-memory attempt limit for production storage and quota services. It binds to `127.0.0.1`, accepts explicitly allowed loopback origins, and disables model calls by default. Paid calls require `--enable-model`, the developer's own `META_API_KEY` and `MODEL_OFF=0`. The default limit is ten attempts per UTC day per process; restarting resets it. This is a development service, not a public hosting configuration.
+
+The separate permit-reader utility also requires an explicit model call. Its verified page, line and quote results remain subject to document identity and scope checks. No model is used to fill an unknown facility measurement.
+
+## Local development and verification
+
+The web app requires Node.js 22.12+ or 24+. Python is optional for the basic web experience.
 
 ```sh
-python3 -m venv .venv
-.venv/bin/pip install -e "core[dev]"
-cd web && npm ci && npm run dev
+cd web
+npm ci
+npm run dev
 ```
 
-`web/vite.config.ts` serves the checked-in `site/api` snapshot at `/api/v1/*` during development. Set `VITE_API_BASE` to point at the FastAPI service instead:
-
-```sh
-PYTHONPATH=core:api .venv/bin/python -m uvicorn wattdocket_api.main:app --port 8090
-# another terminal
-cd web && VITE_API_BASE=http://127.0.0.1:8090 npm run dev
-```
-
-## 6. Deployment boundary
-
-The open-source repo contains no deployment manifests, cloud account identifiers, bucket names, ARNs, operator emails or internal URLs. The live site is built and deployed from the separate private repository; see the README's "Live site and this repository" section.
+See [web development](web/README.md) for build, tests and optional local explanation setup. CI verifies the bundled snapshot, runs Python engine and API tests with model calls disabled, and checks the frontend on Node 22 and 24. No deployment credentials are needed.

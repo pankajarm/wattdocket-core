@@ -16,6 +16,7 @@ import type {
   FacilityObservations,
 } from './types';
 import { getRelease, readReleaseJson, releaseSlug } from './release';
+import type { FacilityPower, PowerReadings } from './facilityPowerData';
 import { facilityAtAddress, geocodeAddress, indexSubregions, nearestFacilities, subregionForPoint } from './geo';
 import {
   normaliseDrawer,
@@ -273,42 +274,69 @@ export async function resolveAddress(
 
 /* ------------------------------------------------------------------ explain */
 
-/** The model endpoint uses its own trusted facility snapshot for facts and
- * fallback text. A caller supplies only the ID; the local template is used
- * when the endpoint cannot be reached.
+/** The endpoint resolves facts from the same immutable release being displayed.
+ * Only the release and subject identity leave the client. Calculator inputs,
+ * filtered tables, chart windows and local fallback text are never model facts.
  */
-// Set VITE_EXPLAIN_URL to the deployed explain function (see .env.example).
-// Without it the panel shows the deterministic template.
-const EXPLAIN_URL = (import.meta.env.VITE_EXPLAIN_URL as string | undefined)?.trim() || undefined;
+const EXPLAIN_URL =
+  (import.meta.env.VITE_EXPLAIN_URL as string | undefined) ??
+  '';
+
+export interface ExplainSubject {
+  kind: 'facility' | 'disclosure_location' | 'power_site' | 'permit_document';
+  id: string;
+}
+
+export interface ExplainRequest { release_id: string; subject: ExplainSubject; }
+export interface ExplainCitation {
+  fact_id: string; label: string; url: string; locator: string; sha256: string;
+}
+export interface ExplainFact {
+  id: string; text: string; scope: string; required_qualifiers?: string[];
+}
+export interface ExplainResult {
+  text: string;
+  source: 'model' | 'template';
+  degraded: boolean;
+  reason?: string;
+  release_id?: string;
+  subject?: ExplainSubject;
+  citations?: ExplainCitation[];
+  qualifiers?: string[];
+  fact_ids?: string[];
+  cited_facts?: ExplainFact[];
+  paragraphs?: {text: string; fact_ids: string[]}[];
+  validation?: { level: 'numerals_citations_and_qualifiers' | 'trusted_fallback'; label: string };
+}
 
 /** Whether this build can ask Muse Spark for a plain-language explanation. */
 export function explainAvailable(): boolean {
   return Boolean(EXPLAIN_URL);
 }
 
-export interface ExplainResult {
-  text: string;
-  source: 'model' | 'template';
-  degraded: boolean;
-  reason?: string;
-}
-
 export async function getExplain(
-  payload: FacilityPayload,
+  input: FacilityPayload | ExplainRequest,
   template: string,
+  options: {signal?: AbortSignal} = {},
 ): Promise<ExplainResult> {
-  if (!EXPLAIN_URL) {
-    return { text: template, source: 'template', degraded: true, reason: 'unreachable' };
-  }
+  const request: ExplainRequest = 'subject' in input ? input : {
+    release_id: input.release_id ?? '', subject: {kind: 'facility', id: input.facility.id},
+  };
+  const fallback = (reason: string): ExplainResult => ({text: template, source: 'template', degraded: true,
+    reason, release_id: request.release_id, subject: request.subject, citations: [], qualifiers: [], fact_ids: []});
+  if (!/^[a-zA-Z0-9._-]+$/.test(request.release_id) || !request.subject.id ||
+      !['facility', 'disclosure_location', 'power_site', 'permit_document'].includes(request.subject.kind)) return fallback('RELEASE_UNAVAILABLE');
+  if (options.signal?.aborted) return fallback('CANCELLED');
+  if (!EXPLAIN_URL) return fallback('MODEL_UNCONFIGURED');
   const controller = new AbortController();
-  const timer = window.setTimeout(() => controller.abort(), 30000);
+  const timer = window.setTimeout(() => controller.abort(), 40000);
+  const cancel = () => controller.abort();
+  options.signal?.addEventListener('abort', cancel, {once: true});
   try {
     const res = await fetch(EXPLAIN_URL, {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
-      // The function owns the trusted facts. Send only the facility identity,
-      // normalized to the registry key form (`echo:...` -> `echo_...`).
-      body: JSON.stringify({ payload: { facility_id: payload.facility.id.replace(/:/g, '_') } }),
+      body: JSON.stringify({release_id: request.release_id, subject: {kind: request.subject.kind, id: request.subject.id}}),
       signal: controller.signal,
     });
     if (!res.ok) {
@@ -319,15 +347,35 @@ export async function getExplain(
       } catch {
         // Keep the status-based reason when the error body is not JSON.
       }
-      return { text: template, source: 'template', degraded: true, reason };
+      return fallback(reason);
     }
     const data = (await res.json()) as ExplainResult;
-    if (typeof data?.text !== 'string' || !data.text.trim()) throw new Error('empty');
+    if (data?.release_id !== request.release_id || data.subject?.kind !== request.subject.kind || data.subject?.id !== request.subject.id) {
+      return fallback('EVIDENCE_MISMATCH');
+    }
+    const safeCitation = (citation: ExplainCitation) => {
+      try {
+        const url = new URL(citation.url);
+        return url.protocol === 'https:' && !url.username && !url.password &&
+          typeof citation.fact_id === 'string' && typeof citation.label === 'string' &&
+          typeof citation.locator === 'string' && /^[a-f0-9]{64}$/.test(citation.sha256);
+      } catch { return false; }
+    };
+    if (typeof data.text !== 'string' || !data.text.trim() || !['model', 'template'].includes(data.source) ||
+        typeof data.degraded !== 'boolean' || !Array.isArray(data.citations) || !data.citations.every(safeCitation) ||
+        !Array.isArray(data.qualifiers) || !data.qualifiers.every(value => typeof value === 'string') ||
+        !Array.isArray(data.fact_ids) || !data.fact_ids.every(value => typeof value === 'string') ||
+        (data.source === 'model' && (data.validation?.level !== 'numerals_citations_and_qualifiers' || !data.fact_ids.length ||
+          !Array.isArray(data.cited_facts) || !data.cited_facts.length ||
+          !data.cited_facts.every(fact => fact && typeof fact.id === 'string' && typeof fact.text === 'string' && data.fact_ids!.includes(fact.id)) ||
+          !data.fact_ids.every(id => data.cited_facts!.some(fact => fact.id === id)) ||
+          !data.citations.every(citation => data.fact_ids!.includes(citation.fact_id))))) return fallback('INVALID_RESPONSE');
     return data;
   } catch {
-    return { text: template, source: 'template', degraded: true, reason: 'unreachable' };
+    return fallback(options.signal?.aborted ? 'CANCELLED' : 'unreachable');
   } finally {
     window.clearTimeout(timer);
+    options.signal?.removeEventListener('abort', cancel);
   }
 }
 
@@ -335,4 +383,15 @@ export async function getFacilityObservations(): Promise<FacilityObservations | 
   const release = await getRelease();
   if (!release?.objects?.['facility-observations.json']) return null;
   return readReleaseJson<FacilityObservations>(release, 'facility-observations.json');
+}
+
+export async function getFacilityPower(): Promise<FacilityPower | null> {
+  const release = await getRelease();
+  return release?.objects?.['facility-power.json'] ? readReleaseJson<FacilityPower>(release, 'facility-power.json') : null;
+}
+
+export async function getPowerReadings(path: string): Promise<PowerReadings> {
+  const release = await getRelease();
+  if (!release?.objects?.[path] || !/^power\/[a-z0-9_-]+\.json$/.test(path)) throw new Error('Meter series is unavailable in this release.');
+  return readReleaseJson<PowerReadings>(release, path);
 }

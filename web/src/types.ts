@@ -68,6 +68,7 @@ export interface DataStatus {
   coverage?: Record<string, unknown>;
   pipeline?: Record<string, unknown>;
   quality?: Record<string, unknown>;
+  permit_recovery?: {documents: RecoveredPermitDocument[]};
 }
 
 export interface LocationQuality {
@@ -182,6 +183,99 @@ export interface PermitLimit extends EvidenceRetrieval {
   program?: string;
   effective_status?: string;
   supersedes?: string[];
+  recovery_review?: PermitRecoveryReview;
+  reviewed_condition_scope?: string;
+  reviewed_operating_purpose?: string;
+  reviewed_period?: string;
+}
+
+export interface PermitPageEvidence {
+  value?: string;
+  pdf_page?: number | null;
+  quote?: string;
+}
+
+export interface PermitReviewEvidence {
+  url: string;
+  sha256?: string;
+  locator?: string;
+  quote?: string;
+  pdf_page?: number | null;
+  receipt?: {retrieved_at?: string | null};
+}
+
+export interface PermitHistoryReview {
+  review_version: string;
+  status: 'verified' | 'review_required' | 'unavailable';
+  reviewed_at?: string;
+  checked_at?: string;
+  registry_listing?: {
+    status: 'latest_listed_for_registration' | 'listed_with_later_document' | 'not_listed' | 'unknown';
+    registry_as_of?: string;
+    checked_at?: string;
+    current_rows?: {registration: string; url: string; issued_at?: string; program?: string}[];
+  };
+  legal_effectiveness?: {
+    status: 'source_confirmed_current' | 'superseded' | 'unknown';
+    scope?: 'entire_document' | 'specified_conditions' | 'not_established';
+    condition_refs?: string[];
+    note?: string;
+    evidence?: PermitReviewEvidence[];
+  };
+  events?: {type: string; scope: string; evidence?: PermitReviewEvidence[]}[];
+  note?: string;
+}
+
+export interface PermitSiteIdentityReview {
+  review_version: string;
+  status: 'regulator_site_verified' | 'candidate' | 'unresolved' | 'review_required';
+  regulator_site_id?: string;
+  registration_root?: string;
+  source_freshness?: string;
+  retrieved_at?: string;
+  checked_at?: string;
+  physical_address?: {street?: string; city?: string; state?: string; postal_code?: string};
+  site_status?: {status_group?: string; air_operating_status?: string; note?: string};
+  evidence?: PermitReviewEvidence[];
+  inventory_links?: {record_id: string; relationship: 'same_regulator_record' | 'within_permit_site' | 'candidate'; verification_status?: string;
+    combined_address_conflict?: {consolidated_frs_address?: string; air_program_address?: string; deq_physical_address?: string; resolution?: string} | null}[];
+  note?: string;
+}
+
+export interface PermitRecoveryReview {
+  review_version: string;
+  reviewed_at?: string;
+  registration?: string;
+  publisher_url?: string;
+  document_sha256?: string;
+  document_extent: 'full_permit' | 'partial_amendment' | 'correspondence' | 'permit_letter' | 'unknown';
+  status?: string;
+  identity_review?: {registration?: PermitPageEvidence; county?: PermitPageEvidence; physical_address?: PermitPageEvidence};
+  supersession_review?: {
+    status?: string;
+    current_legal_effectiveness: 'unknown';
+    statements: {pdf_page?: number | null; quote: string; replaced_dates: string[]; scope?: string}[];
+  };
+}
+
+export interface PermitDocumentReview extends EvidenceRetrieval {
+  registration: string;
+  county_fips?: string;
+  issued_at?: string | null;
+  url: string;
+  content_sha256?: string;
+  parse_status?: string;
+  recovery_review: PermitRecoveryReview;
+  permit_history_review?: PermitHistoryReview;
+  site_identity_review?: PermitSiteIdentityReview;
+}
+
+export interface RecoveredPermitDocument extends PermitDocumentReview {
+  site: string;
+  county?: string;
+  inventory_record_ids?: string[];
+  conditions?: PermitLimit[];
+  equipment_claims?: unknown[];
 }
 
 export interface Facility {
@@ -211,8 +305,9 @@ export interface Facility {
   permit_county?: string;
   permit_program?: string;
   permit_url?: string;
-  /** Virginia DEQ caps: permitted ceilings, never operating measurements. */
+  /** Conditions quoted from documents; current legal effectiveness may be unknown. */
   permit_limits?: PermitLimit[];
+  permit_reviews?: PermitDocumentReview[];
   /** How many permitted air sources EPA lists at this same site. */
   site_permit_count?: number;
   sibling_ids?: string[];

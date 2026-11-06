@@ -50,7 +50,26 @@ def validate_record_evidence(cards: dict, entries: list[dict]) -> None:
         parsed = [re.fullmatch(r"VA00000051(\d{3})(\d{5})", value) if isinstance(value, str) else None for value in matched_ids]
         pairs = {(match.group(1), match.group(2)) for match in parsed if match}
         if verified:
-            _require(identity.get("status") == "matched" and identity.get("method") == "county_and_registration",
+            if identity.get("method") == "reviewed_deq_icis_cross_reference":
+                for link in identity.get("reviewed_links", []):
+                    expected = link.get("expected_record") or {}
+                    air = expected.get("air_record") or {}
+                    proof = link.get("evidence") or []
+                    gis = next((e.get("record") for e in proof if e.get("record", {}).get("PLA_ICIS_ID")), {})
+                    _require(link.get("record_id") == expected.get("id") == fid
+                        and link.get("verification_status") == "verified" and link.get("relationship") == "same_regulator_record"
+                        and air.get("SourceID") in matched_ids and air.get("SourceID") == gis.get("PLA_ICIS_ID")
+                        and fid == "echo:" + str(air.get("RegistryID"))
+                        and str(gis.get("PLA_REG_NUM")) in re.findall(r"\d+", str(air.get("OtherPermitIDs", "")))
+                        and len(proof) >= 2, fid, "Reviewed regulator cross-reference is incomplete")
+                    for evidence in proof:
+                        receipt = evidence.get("receipt") or {}
+                        _require(receipt.get("url") == evidence.get("url") and receipt.get("sha256") == evidence.get("sha256")
+                            and re.fullmatch(r"[0-9a-f]{64}", str(evidence.get("sha256", "")))
+                            and receipt.get("raw_key") == "raw/" + str(evidence.get("sha256")) + ".gz"
+                            and bool(receipt.get("retrieved_at")), fid, "Reviewed identity lacks original receipt")
+                    pairs.add((str(air.get("AIRFIPSCode"))[2:], str(gis["PLA_REG_NUM"])))
+            _require(identity.get("status") == "matched" and identity.get("method") in {"county_and_registration", "reviewed_deq_icis_cross_reference"},
                      fid, "Verified classification lacks county-and-registration identity match")
             _require(bool(parsed) and all(parsed), fid, "Verified classification lacks valid matched AIR identifiers")
             _require(facility.get("state") in (None, "VA"), fid, "Virginia regulator identity attached outside Virginia")
