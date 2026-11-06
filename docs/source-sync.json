@@ -9,7 +9,7 @@
     "data/"
   ],
   "live_frontend_sha256": "772727e18c320459fd2e04ebabcc9fd45182620c4b76f2878e7b8a035e997254",
-  "bundled_data_release": "20261106T124418Z-a50ee40cfe2c",
+  "bundled_data_release": "20261106T224424Z-df2050e65678",
   "adapted_files": [
     "api/wattdocket_api/__init__.py",
     "api/wattdocket_api/explain.py",

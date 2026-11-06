@@ -1,0 +1,35 @@
+{
+  "status": "passed_local",
+  "date": "2026-11-06",
+  "scope": "Public data snapshot refresh to the current live release; no application-source change",
+  "source_revision": "1f69c7855412f505771a0073d9407582426a2a52",
+  "live_frontend_sha256": "772727e18c320459fd2e04ebabcc9fd45182620c4b76f2878e7b8a035e997254",
+  "snapshot": {
+    "release_id": "20261106T224424Z-df2050e65678",
+    "built_at": "2026-11-06T22:44:24Z",
+    "objects": 130,
+    "decoded_bytes": 126504426,
+    "hash_and_size_checks": "passed",
+    "previous_public_release": "20261106T124418Z-a50ee40cfe2c"
+  },
+  "checks": {
+    "snapshot_verify_only": "passed",
+    "source_parity": "passed (341 files; upstream revision 1f69c785)",
+    "python": {
+      "passed": 1177,
+      "skipped": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    "frontend": {
+      "tests_passed": 132,
+      "typecheck": "passed",
+      "production_build": "passed"
+    }
+  },
+  "not_exercised": [
+    "A new paid Meta Muse response",
+    "Production deployment and AWS provisioning",
+    "Continuous automatic parity after this pinned snapshot"
+  ]
+}

@@ -21,12 +21,15 @@ python3 scripts/verify_source_sync.py
 python3 scripts/verify_source_sync.py --source /path/to/production-checkout
 ```
 
-The data baseline is release `20261106T124418Z-a50ee40cfe2c`, built on November 6,
-2026 at 12:44:18 UTC. All 130 manifest objects are included, with their original
+The data baseline is release `20261106T224424Z-df2050e65678`, built on November 6,
+2026 at 22:44:24 UTC. All 130 manifest objects are included, with their original
 uncompressed hashes and sizes. Compressed storage occupies approximately 10 MB;
-decoded JSON totals 126,409,758 bytes. No public object in that release was
+decoded JSON totals 126,504,426 bytes. No public object in that release was
 omitted. Historical source fixtures under `data/` and `site/api/` remain separate
 from this selected snapshot. The default app reads the selected snapshot.
+
+The refresh checks for this snapshot are recorded in
+`docs/verification/public-data-refresh-2026-11-06T224424Z.json`.
 
 ## Intentional public adaptations
 
