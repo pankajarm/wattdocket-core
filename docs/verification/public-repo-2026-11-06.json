@@ -5,14 +5,14 @@
   "source_revision": "1f69c7855412f505771a0073d9407582426a2a52",
   "audited_source_files": 341,
   "snapshot": {
-    "release_id": "20261106T124418Z-a50ee40cfe2c",
+    "release_id": "20261106T224424Z-df2050e65678",
     "objects": 130,
-    "decoded_bytes": 126409758,
+    "decoded_bytes": 126504426,
     "hash_and_size_checks": "passed"
   },
   "python": {
-    "passed": 1176,
-    "skipped": 1,
+    "passed": 1177,
+    "skipped": 2,
     "skip_reason": "Historical generated hero-card artifact is not included; executable invariants otherwise pass"
   },
   "frontend": {
@@ -29,7 +29,7 @@
           "width": 1440,
           "height": 1000
         },
-        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "release_id": "20261106T224424Z-df2050e65678",
         "external_requests_blocked": true,
         "video": true,
         "captions": true,
@@ -46,7 +46,7 @@
           "width": 390,
           "height": 844
         },
-        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "release_id": "20261106T224424Z-df2050e65678",
         "external_requests_blocked": true,
         "video": true,
         "captions": true,
@@ -63,7 +63,7 @@
           "width": 1440,
           "height": 1000
         },
-        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "release_id": "20261106T224424Z-df2050e65678",
         "external_requests_blocked": true,
         "video": true,
         "captions": true,
@@ -80,7 +80,7 @@
           "width": 390,
           "height": 844
         },
-        "release_id": "20261106T124418Z-a50ee40cfe2c",
+        "release_id": "20261106T224424Z-df2050e65678",
         "external_requests_blocked": true,
         "video": true,
         "captions": true,
@@ -115,8 +115,8 @@
     "frontend_tests": 132,
     "build": "passed",
     "browser_dev_and_preview": "passed at desktop and mobile widths with all external requests blocked",
-    "python_tests": 1176,
-    "python_skipped": 1,
+    "python_tests": 1177,
+    "python_skipped": 2,
     "snapshot_verification": "passed",
     "source_manifest_verification": "passed"
   }
